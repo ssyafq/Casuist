@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-02-21T09:18:32.252422+00:00",
+    "case_id": "30146602",
+    "specialty": "cardiology",
+    "sections_viewed": [
+      "history",
+      "exam",
+      "labs"
+    ],
+    "student_ranking": [
+      "Idiopathic Ventricular Fibrillation",
+      "Brugada Syndrome",
+      "Hypertrophic Cardiomyopathy",
+      "Wolff-Parkinson-White Syndrome",
+      "Long QT Syndrome"
+    ],
+    "correct_ranking": [
+      "Idiopathic Ventricular Fibrillation",
+      "Brugada Syndrome",
+      "Wolff-Parkinson-White Syndrome",
+      "Long QT Syndrome",
+      "Hypertrophic Cardiomyopathy"
+    ],
+    "time_taken_seconds": 235
+  },
+  {
+    "timestamp": "2026-02-21T09:53:56.795597+00:00",
+    "case_id": "41543108",
+    "specialty": "chest pain",
+    "sections_viewed": [
+      "history",
+      "exam",
+      "labs"
+    ],
+    "student_ranking": [
+      "Pulmonary Embolism",
+      "Lung Malignancy",
+      "Pulmonary Tuberculosis",
+      "Tropheryma whipplei Pulmonary Infection (Whipple's Disease)",
+      "Community-Acquired Pneumonia"
+    ],
+    "correct_ranking": [
+      "Tropheryma whipplei Pulmonary Infection (Whipple's Disease)",
+      "Pulmonary Tuberculosis",
+      "Community-Acquired Pneumonia",
+      "Pulmonary Embolism",
+      "Lung Malignancy"
+    ],
+    "time_taken_seconds": 116,
+    "accuracy_score": 0,
+    "ranking_score": 3,
+    "efficiency_score": 10,
+    "speed_score": 10,
+    "total": 23,
+    "grade": "D"
+  }
+]

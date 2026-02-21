@@ -1,0 +1,16 @@
+{
+  "case_id": "41543108",
+  "specialty": "chest pain",
+  "chief_complaint": "Middle-aged patient presenting with persistent chest pain of unknown origin with abnormal chest imaging findings.",
+  "history": "The patient presented with a prolonged history of chest pain that had not resolved with standard analgesic or cardiac treatment. There was no clear cardiac cause identified on initial workup. The patient had no known immunodeficiency and was not on immunosuppressive medications. Symptoms had persisted for several weeks without improvement. No cough, haemoptysis, or significant weight loss reported initially.",
+  "exam": "On examination: patient appeared mildly unwell. Chest auscultation revealed reduced breath sounds in the affected area. No clubbing, no lymphadenopathy. Vital signs were stable. No cardiac murmurs heard.",
+  "labs": "Chest X-ray and CT thorax: abnormal infiltrates with consolidation. Standard microbiological cultures: negative for common bacterial pathogens. Sputum AFB: negative. Bronchoscopy performed. Bronchoalveolar lavage (BAL) fluid sent for next-generation sequencing (NGS). NGS result: Tropheryma whipplei detected. Standard serology and conventional culture: unable to isolate organism.",
+  "correct_diagnosis": "Tropheryma whipplei Pulmonary Infection (Whipple's Disease)",
+  "differentials": [
+    "Tropheryma whipplei Pulmonary Infection (Whipple's Disease)",
+    "Pulmonary Tuberculosis",
+    "Community-Acquired Pneumonia",
+    "Pulmonary Embolism",
+    "Lung Malignancy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "case_id": "39865043",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "58-year-old man admitted with central chest pain, diaphoresis, and known history of depression.",
+  "history": "A 58-year-old male with a background of type 2 diabetes, hypertension, dyslipidaemia, and a 2-year history of depression (on SSRI therapy) presented with central crushing chest pain radiating to the left arm, associated with diaphoresis and nausea. Symptoms began at rest approximately 2 hours before arrival. He had been adherent to his antidepressant (sertraline) for 18 months. No recent dose changes. No prior cardiac events. Smoker — 20 pack-year history.",
+  "exam": "On examination: diaphoretic, anxious. HR 96 bpm regular, BP 148/88 mmHg, SpO2 96% on room air. Heart sounds dual, no murmurs. Chest clear. JVP not raised. No peripheral oedema. GCS 15, no focal neurology.",
+  "labs": "ECG: ST-segment elevation in leads II, III, aVF consistent with inferior STEMI. Troponin I: 4.2 ng/mL (markedly elevated, rising on repeat). CK-MB elevated. FBC, U&E, LFTs: within normal limits. Echo: inferior wall hypokinesia, EF 48%. Coronary angiogram: right coronary artery occlusion. Patient underwent primary PCI with successful reperfusion. Post-procedure assessment included screening for depression using PHQ-9 (score 14 — moderate depression).",
+  "correct_diagnosis": "Inferior ST-Elevation Myocardial Infarction (STEMI) with comorbid Depression",
+  "differentials": [
+    "Inferior ST-Elevation Myocardial Infarction (STEMI) with comorbid Depression",
+    "Non-ST Elevation Myocardial Infarction (NSTEMI)",
+    "Unstable Angina",
+    "Aortic Dissection",
+    "Stress Cardiomyopathy (Takotsubo)"
+  ]
+}
