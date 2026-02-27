@@ -12,6 +12,7 @@ from src.config import (
     DATA_RAW_DIR,
     NCBI_API_KEY,
     NCBI_RATE_DELAY,
+    resolve_specialty,
 )
 from src.models import RawCase
 
@@ -111,6 +112,8 @@ def fetch_and_save_case(pmid: str, specialty: str, output_dir: Path) -> bool:
     else:
         print(f"  [SAVED] {pmid} — abstract only (no PMC ID)")
 
+    parent_specialty, subspecialty = resolve_specialty(specialty)
+
     raw_case = RawCase(
         pmid=pmid,
         pmc_id=pmc_id,
@@ -118,7 +121,8 @@ def fetch_and_save_case(pmid: str, specialty: str, output_dir: Path) -> bool:
         authors=meta["authors"],
         abstract=meta["abstract"],
         bioc_json=bioc_json,
-        specialty=specialty,
+        specialty=parent_specialty,
+        subspecialty=subspecialty,
         fetch_timestamp=datetime.now(timezone.utc).isoformat(),
     )
 

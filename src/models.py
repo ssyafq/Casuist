@@ -11,6 +11,7 @@ class RawCase:
     bioc_json: dict
     specialty: str
     fetch_timestamp: str
+    subspecialty: str = ""
 
 
 @dataclass
@@ -24,6 +25,7 @@ class CaseSection:
     text: str
     chunk_index: int
     char_count: int
+    subspecialty: str = ""
 
 
 @dataclass
@@ -35,3 +37,4 @@ class ProcessedCase:
     specialty: str
     sections: list[CaseSection] = field(default_factory=list)
     skipped_reason: str | None = None
+    subspecialty: str = ""

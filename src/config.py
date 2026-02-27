@@ -98,6 +98,48 @@ BIOC_SECTION_MAP: dict[str, str] = {
 # Only one recognisable section needed — PubMed abstracts often lack explicit headers
 REQUIRED_SECTIONS: set[str] = {"history"}
 
+# Specialty map: fetch term → (parent specialty, subspecialty)
+# Keys are the exact strings passed to --specialty or used as fetch terms.
+SPECIALTY_MAP: dict[str, tuple[str, str]] = {
+    # Cardiology
+    "cardiology": ("cardiology", "cardiology"),
+    "chest pain": ("cardiology", "chest pain"),
+    "myocardial infarction": ("cardiology", "myocardial infarction"),
+    "acute coronary syndrome": ("cardiology", "acute coronary syndrome"),
+    # Respiratory
+    "respiratory": ("respiratory", "respiratory"),
+    "pneumonia": ("respiratory", "pneumonia"),
+    "pulmonary embolism": ("respiratory", "pulmonary embolism"),
+    "copd": ("respiratory", "COPD"),
+    "chronic obstructive pulmonary disease": ("respiratory", "chronic obstructive pulmonary disease"),
+    # Neurology
+    "neurology": ("neurology", "neurology"),
+    "stroke": ("neurology", "stroke"),
+    "seizure": ("neurology", "seizure"),
+    "meningitis": ("neurology", "meningitis"),
+    # Endocrinology
+    "endocrinology": ("endocrinology", "endocrinology"),
+    "diabetic ketoacidosis": ("endocrinology", "diabetic ketoacidosis"),
+    "thyroid storm": ("endocrinology", "thyroid storm"),
+    # Gastroenterology
+    "gastroenterology": ("gastroenterology", "gastroenterology"),
+    "pancreatitis": ("gastroenterology", "pancreatitis"),
+    "gastrointestinal hemorrhage": ("gastroenterology", "gastrointestinal hemorrhage"),
+    "liver failure": ("gastroenterology", "liver failure"),
+}
+
+
+def resolve_specialty(fetch_term: str) -> tuple[str, str]:
+    """
+    Resolve a fetch term to (parent_specialty, subspecialty).
+    Lookup is case-insensitive. Falls back to ("general", fetch_term) if not found.
+    """
+    key = fetch_term.strip().lower()
+    if key in SPECIALTY_MAP:
+        return SPECIALTY_MAP[key]
+    return ("general", fetch_term)
+
+
 # Rate limiting (seconds between NCBI requests)
 NCBI_RATE_DELAY: float = 0.11 if (NCBI_API_KEY and NCBI_API_KEY != "placeholder_replace_me") else 0.34
 

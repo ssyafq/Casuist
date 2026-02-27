@@ -54,6 +54,7 @@ def extract_sections_from_bioc(
     title: str,
     authors: list[str],
     specialty: str,
+    subspecialty: str = "",
 ) -> list[CaseSection]:
     """Parse BioC JSON into CaseSection list with 50-token section overlap."""
     try:
@@ -100,6 +101,7 @@ def extract_sections_from_bioc(
             title=title,
             authors=authors,
             specialty=specialty,
+            subspecialty=subspecialty,
             section_type=section_type,
             text=full_text,
             chunk_index=i,
@@ -117,6 +119,7 @@ def extract_sections_from_abstract(
     title: str,
     authors: list[str],
     specialty: str,
+    subspecialty: str = "",
 ) -> list[CaseSection]:
     """
     Fallback parser for abstract-only cases.
@@ -168,6 +171,7 @@ def extract_sections_from_abstract(
                 title=title,
                 authors=authors,
                 specialty=specialty,
+                subspecialty=subspecialty,
                 section_type=section_type,
                 text=full_text,
                 chunk_index=chunk_index,
@@ -186,6 +190,7 @@ def extract_sections_from_abstract(
         title=title,
         authors=authors,
         specialty=specialty,
+        subspecialty=subspecialty,
         section_type="history",
         text=abstract,
         chunk_index=0,
@@ -221,6 +226,7 @@ def process_raw_case(raw_case: RawCase) -> ProcessedCase:
             raw_case.title,
             raw_case.authors,
             raw_case.specialty,
+            raw_case.subspecialty,
         )
     else:
         sections = extract_sections_from_abstract(
@@ -230,6 +236,7 @@ def process_raw_case(raw_case: RawCase) -> ProcessedCase:
             raw_case.title,
             raw_case.authors,
             raw_case.specialty,
+            raw_case.subspecialty,
         )
 
     viable, reason = is_case_viable(sections)
@@ -240,6 +247,7 @@ def process_raw_case(raw_case: RawCase) -> ProcessedCase:
         title=raw_case.title,
         authors=raw_case.authors,
         specialty=raw_case.specialty,
+        subspecialty=raw_case.subspecialty,
         sections=sections if viable else [],
         skipped_reason=None if viable else reason,
     )

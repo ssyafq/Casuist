@@ -8,6 +8,7 @@ from pathlib import Path
 from llama_index.core import Settings
 
 from src.chunker import get_chroma_collection
+from src.config import SPECIALTY_MAP
 from src.rag import build_embed_model, build_index, build_llm, build_query_engine, query
 from src.scoring import calculate_score, generate_scorecard, save_result
 
@@ -67,6 +68,51 @@ def load_cases() -> list[CaseFile]:
 
 def pick_random_case(cases: list[CaseFile]) -> CaseFile:
     return random.choice(cases)
+
+
+def get_available_specialties() -> list[str]:
+    """Return sorted list of all parent specialties defined in SPECIALTY_MAP."""
+    return sorted({v[0] for v in SPECIALTY_MAP.values()})
+
+
+def pick_specialty_menu(cases: list[CaseFile]) -> list[CaseFile]:
+    """
+    Show a specialty selection menu. Returns the filtered list of cases.
+    Loops until the user picks a specialty that has at least one case.
+    """
+    available = get_available_specialties()
+
+    while True:
+        print("Choose a specialty:")
+        for i, specialty in enumerate(available, 1):
+            print(f"  [{i}] {specialty.title()}")
+        print("  [R] Random")
+        print()
+
+        choice = input("Your choice: ").strip().upper()
+
+        if choice == "R":
+            selected = random.choice(available)
+            filtered = [c for c in cases if c.specialty.lower() == selected]
+            if filtered:
+                print(f"\nLoading {selected.title()} case...\n")
+                return filtered
+            # All specialties have no cases yet — fall through to return all cases
+            return cases
+
+        if choice.isdigit():
+            idx = int(choice) - 1
+            if 0 <= idx < len(available):
+                selected = available[idx]
+                filtered = [c for c in cases if c.specialty.lower() == selected]
+                if filtered:
+                    print(f"\nLoading {selected.title()} case...\n")
+                    return filtered
+                else:
+                    print(f"\nNo cases available for {selected.title()} yet — coming soon!\n")
+                    continue
+
+        print("\nInvalid choice. Please enter a number from the list or R.\n")
 
 
 def print_header() -> None:
@@ -287,7 +333,8 @@ def run_case_engine() -> None:
         print("Add case JSON files to that directory and try again.")
         return
 
-    case = pick_random_case(cases)
+    filtered = pick_specialty_menu(cases)
+    case = pick_random_case(filtered)
     state = SessionState(case=case)
 
     # Step 1 — Introduction
