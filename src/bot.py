@@ -262,31 +262,77 @@ async def dx_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         ordinals = {2: "2nd", 3: "3rd", 4: "4th", 5: "5th"}
         keyboard = _build_ranking_keyboard(session["remaining_options"])
         await query.message.reply_text(
-            f"Got it. Now pick your *#{next_num}* ({ordinals[next_num]} most likely):",
+            f"✅ *#{rank_num}:* {selected}\nNow pick your *#{next_num}* ({ordinals[next_num]} most likely):",
             reply_markup=keyboard,
             parse_mode="Markdown",
         )
     else:
-        # All 5 ranked — compute score
-        correct_ranking = session["case"].get("correct_ranking", [])
-        score = calculate_score(
-            correct_ranking=correct_ranking,
-            student_ranking=session["user_ranking"],
-            sections_viewed=session["sections_viewed"],
-            time_taken_seconds=time.time() - session["start_time"],
+        # All 5 ranked — show confirmation before scoring
+        ranking_lines = "\n".join(
+            f"*#{i+1}:* {dx}" for i, dx in enumerate(session["user_ranking"])
         )
-        scorecard = _build_scorecard(score, session["user_ranking"], correct_ranking)
-        post_score_keyboard = InlineKeyboardMarkup([
-            [InlineKeyboardButton("🧠 Get Clinical Feedback", callback_data="get_feedback")],
-            [InlineKeyboardButton("🔄 New Case", callback_data="new_case")],
+        confirm_keyboard = InlineKeyboardMarkup([
+            [InlineKeyboardButton("✅ Confirm & Score", callback_data="confirm_score")],
+            [InlineKeyboardButton("🔄 Start Over", callback_data="start_over")],
         ])
         await query.message.reply_text(
-            scorecard + DISCLAIMER,
-            reply_markup=post_score_keyboard,
+            f"📋 *Your ranking:*\n{ranking_lines}",
+            reply_markup=confirm_keyboard,
             parse_mode="Markdown",
         )
-        # Store ranking data for opt-in feedback; session kept alive until user acts
-        session["correct_ranking"] = correct_ranking
+
+
+async def confirm_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    query = update.callback_query
+    await query.answer()
+
+    user_id = query.from_user.id
+    if user_id not in user_sessions:
+        await query.message.reply_text("No active case. Use /case to start.")
+        return
+
+    session = user_sessions[user_id]
+    correct_ranking = session["case"].get("correct_ranking", [])
+    score = calculate_score(
+        correct_ranking=correct_ranking,
+        student_ranking=session["user_ranking"],
+        sections_viewed=session["sections_viewed"],
+        time_taken_seconds=time.time() - session["start_time"],
+    )
+    scorecard = _build_scorecard(score, session["user_ranking"], correct_ranking)
+    post_score_keyboard = InlineKeyboardMarkup([
+        [InlineKeyboardButton("🧠 Get Clinical Feedback", callback_data="get_feedback")],
+        [InlineKeyboardButton("🔄 New Case", callback_data="new_case")],
+    ])
+    await query.message.reply_text(
+        scorecard + DISCLAIMER,
+        reply_markup=post_score_keyboard,
+        parse_mode="Markdown",
+    )
+    session["correct_ranking"] = correct_ranking
+
+
+async def start_over_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    query = update.callback_query
+    await query.answer()
+
+    user_id = query.from_user.id
+    if user_id not in user_sessions:
+        await query.message.reply_text("No active case. Use /case to start.")
+        return
+
+    session = user_sessions[user_id]
+    reshuffled = list(session["case"]["differentials"])
+    random.shuffle(reshuffled)
+    session["user_ranking"] = []
+    session["remaining_options"] = reshuffled
+
+    keyboard = _build_ranking_keyboard(session["remaining_options"])
+    await query.message.reply_text(
+        "🔍 *Rank the diagnoses from most to least likely.*\n\nPick your *#1* diagnosis:",
+        reply_markup=keyboard,
+        parse_mode="Markdown",
+    )
 
 
 async def feedback_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -344,6 +390,8 @@ def main() -> None:
     app.add_handler(CallbackQueryHandler(section_callback, pattern="^section_"))
     app.add_handler(CallbackQueryHandler(diagnose_callback, pattern="^ready_to_diagnose$"))
     app.add_handler(CallbackQueryHandler(dx_callback, pattern="^dx_"))
+    app.add_handler(CallbackQueryHandler(confirm_callback, pattern="^confirm_score$"))
+    app.add_handler(CallbackQueryHandler(start_over_callback, pattern="^start_over$"))
     app.add_handler(CallbackQueryHandler(feedback_callback, pattern="^get_feedback$"))
     app.add_handler(CallbackQueryHandler(new_case_callback, pattern="^new_case$"))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, fallback))
