@@ -276,25 +276,51 @@ async def dx_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
             time_taken_seconds=time.time() - session["start_time"],
         )
         scorecard = _build_scorecard(score, session["user_ranking"], correct_ranking)
-        new_case_keyboard = InlineKeyboardMarkup(
-            [[InlineKeyboardButton("New Case", callback_data="new_case")]]
-        )
+        post_score_keyboard = InlineKeyboardMarkup([
+            [InlineKeyboardButton("🧠 Get Clinical Feedback", callback_data="get_feedback")],
+            [InlineKeyboardButton("🔄 New Case", callback_data="new_case")],
+        ])
         await query.message.reply_text(
             scorecard + DISCLAIMER,
-            reply_markup=new_case_keyboard,
+            reply_markup=post_score_keyboard,
             parse_mode="Markdown",
         )
-        feedback = generate_feedback(session["case"], session["user_ranking"], correct_ranking)
-        await query.message.reply_text(
-            f"🧠 *Clinical Reasoning Feedback*\n\n{feedback}",
-            parse_mode="Markdown",
-        )
-        user_sessions.pop(user_id, None)
+        # Store ranking data for opt-in feedback; session kept alive until user acts
+        session["correct_ranking"] = correct_ranking
+
+
+async def feedback_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    query = update.callback_query
+    await query.answer()
+
+    user_id = query.from_user.id
+    if user_id not in user_sessions:
+        await query.message.reply_text("Session expired. Use /case to start a new case.")
+        return
+
+    session = user_sessions[user_id]
+    await query.message.reply_text("⏳ Generating feedback...")
+
+    feedback = generate_feedback(
+        session["case"],
+        session["user_ranking"],
+        session["correct_ranking"],
+    )
+    new_case_keyboard = InlineKeyboardMarkup(
+        [[InlineKeyboardButton("🔄 New Case", callback_data="new_case")]]
+    )
+    await query.message.reply_text(
+        f"🧠 *Clinical Reasoning Feedback*\n\n{feedback}",
+        reply_markup=new_case_keyboard,
+        parse_mode="Markdown",
+    )
+    user_sessions.pop(user_id, None)
 
 
 async def new_case_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     query = update.callback_query
     await query.answer()
+    user_sessions.pop(query.from_user.id, None)
     rows = [[InlineKeyboardButton(s, callback_data=f"specialty_{s}")] for s in SPECIALTY_MAP]
     keyboard = InlineKeyboardMarkup(rows)
     await query.message.reply_text("Choose a specialty:", reply_markup=keyboard)
@@ -318,6 +344,7 @@ def main() -> None:
     app.add_handler(CallbackQueryHandler(section_callback, pattern="^section_"))
     app.add_handler(CallbackQueryHandler(diagnose_callback, pattern="^ready_to_diagnose$"))
     app.add_handler(CallbackQueryHandler(dx_callback, pattern="^dx_"))
+    app.add_handler(CallbackQueryHandler(feedback_callback, pattern="^get_feedback$"))
     app.add_handler(CallbackQueryHandler(new_case_callback, pattern="^new_case$"))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, fallback))
 
