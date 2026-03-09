@@ -1,0 +1,23 @@
+{
+  "case_id": "41121331",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 65-year-old woman presented with atypical chest pain and exertional dyspnea.",
+  "history": "The patient has a history of tongue carcinoma and pulmonary embolism managed with an IVC filter. She underwent imaging tests after an ECG and echocardiography revealed right heart strain.",
+  "exam": "ECG and echocardiography revealed right heart strain.",
+  "labs": "Coronary angiography showed 80% stenosis in the mid-segment of the left anterior descending (LAD) artery. Fluoroscopy revealed a migrating IVC filter in the right pulmonary artery and right ventricular outflow tract.",
+  "correct_diagnosis": "Intracardiopulmonary migration of an inferior vena cava filter and concurrent coronary artery disease",
+  "differentials": [
+    "Intracardiopulmonary migration of an inferior vena cava filter and concurrent coronary artery disease",
+    "Pulmonary embolism",
+    "Coronary artery disease",
+    "Right heart strain",
+    "Tongue carcinoma"
+  ],
+  "correct_ranking": [
+    "Intracardiopulmonary migration of an inferior vena cava filter and concurrent coronary artery disease",
+    "Pulmonary embolism",
+    "Coronary artery disease",
+    "Right heart strain",
+    "Tongue carcinoma"
+  ]
+}

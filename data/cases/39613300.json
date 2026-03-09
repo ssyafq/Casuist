@@ -1,0 +1,23 @@
+{
+  "case_id": "39613300",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 37-year-old woman with untreated hyperthyroidism and bipolar disorder presents with mania in the context of thyroid storm.",
+  "history": "The patient has a history of bipolar disorder and untreated hyperthyroidism. She was admitted for mania and developed catatonic symptoms after receiving low-dose haloperidol.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided, but the patient was found to have hyperthyroidism.",
+  "correct_diagnosis": "Catatonia associated with hyperthyroidism",
+  "differentials": [
+    "Thyroid storm",
+    "Catatonia associated with hyperthyroidism",
+    "Bipolar disorder with psychotic features",
+    "Neuroleptic malignant syndrome",
+    "Schizophrenia"
+  ],
+  "correct_ranking": [
+    "Catatonia associated with hyperthyroidism",
+    "Thyroid storm",
+    "Bipolar disorder with psychotic features",
+    "Neuroleptic malignant syndrome",
+    "Schizophrenia"
+  ]
+}

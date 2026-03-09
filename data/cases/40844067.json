@@ -1,0 +1,23 @@
+{
+  "case_id": "40844067",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "68-year-old male with rapid onset of chest pain and sweating for a day.",
+  "history": "Ticagrelor is an oral antiplatelet drug. The patient developed severe thrombocytopenia after receiving a loading dose of ticagrelor, despite the fact that no other thrombocytopenia-causing medicines were given to him.",
+  "exam": "Initial cardiac assessment suggested acute coronary syndrome. No other significant findings.",
+  "labs": "Normal hemogram initially, followed by severe thrombocytopenia after ticagrelor administration. Platelet count gradually recovered after discontinuing ticagrelor.",
+  "correct_diagnosis": "Ticagrelor-induced acute isolated thrombocytopenia",
+  "differentials": [
+    "Ticagrelor-induced acute isolated thrombocytopenia",
+    "Acute coronary syndrome",
+    "Microangiopathic hemolytic anemia",
+    "Thrombotic thrombocytopenic purpura",
+    "Drug-induced thrombocytopenia"
+  ],
+  "correct_ranking": [
+    "Ticagrelor-induced acute isolated thrombocytopenia",
+    "Acute coronary syndrome",
+    "Microangiopathic hemolytic anemia",
+    "Thrombotic thrombocytopenic purpura",
+    "Drug-induced thrombocytopenia"
+  ]
+}

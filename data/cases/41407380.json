@@ -1,0 +1,23 @@
+{
+  "case_id": "41407380",
+  "specialty": "stroke",
+  "chief_complaint": "A 13-year-9-month-old, female, captive red panda presented with acute hemiparesis.",
+  "history": "The animal initially showed improvement with corticosteroid therapy, but its neurological condition worsened, leading to death on day 10. Necropsy revealed extensive cerebral infarction and severe Aspergillus infections in the nose and lungs, but not in the brain. Additionally, atrophy of the spleen and lymph nodes was observed.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG and blood tests were not mentioned. Imaging revealed cerebral infarction. Necropsy confirmed the presence of Aspergillus infections in the nose and lungs.",
+  "correct_diagnosis": "Thrombotic cerebral infarction",
+  "differentials": [
+    "Thrombotic cerebral infarction",
+    "Aspergillus infection of the brain",
+    "Sepsis",
+    "Corticosteroid-induced immunosuppression",
+    "Cardiac embolism"
+  ],
+  "correct_ranking": [
+    "Thrombotic cerebral infarction",
+    "Aspergillus infection of the brain",
+    "Sepsis",
+    "Corticosteroid-induced immunosuppression",
+    "Cardiac embolism"
+  ]
+}

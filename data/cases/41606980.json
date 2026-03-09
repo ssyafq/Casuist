@@ -1,0 +1,23 @@
+{
+  "case_id": "41606980",
+  "specialty": "meningitis",
+  "chief_complaint": "A 14-year-old male student presented with disturbed consciousness, pallor, and signs of circulatory failure.",
+  "history": "The patient developed symptoms on November 20, 2024. He had no history of vaccination against Neisseria meningitidis serogroup Y. He had enrolled in the school on August 1, 2024, and had no activity outside the campus from enrollment until he left for medical treatment on November 21, 2024.",
+  "exam": "The patient presented with signs of circulatory failure, but without meningeal irritation.",
+  "labs": "Neisseria meningitidis isolate from the case was ST-1655, belonging to the CC23 clonal complex. Carrier rate of Neisseria meningitidis among 20 close contacts was 25% (5/20).",
+  "correct_diagnosis": "Fulminant meningococcal disease",
+  "differentials": [
+    "Fulminant meningococcal disease",
+    "Septic shock",
+    "Meningitis",
+    "Neisseria meningitidis infection",
+    "Bacterial sepsis"
+  ],
+  "correct_ranking": [
+    "Fulminant meningococcal disease",
+    "Septic shock",
+    "Meningitis",
+    "Neisseria meningitidis infection",
+    "Bacterial sepsis"
+  ]
+}

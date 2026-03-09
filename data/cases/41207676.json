@@ -1,0 +1,23 @@
+{
+  "case_id": "41207676",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 79-year-old female presented with abdominal pain and hematemesis/melena.",
+  "history": "The patient presented to the emergency department with complaints of abdominal pain and hematemesis/melena. Blood tests revealed anemia (hemoglobin:10.0g/dl).",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Blood tests revealed anemia (hemoglobin:10.0g/dl). Abdominal plain computed tomography demonstrated situs inversus totalis and a cystic structure with high attenuation extending from the descending to the horizontal portion of the duodenum.",
+  "correct_diagnosis": "Duodenal diverticular bleeding",
+  "differentials": [
+    "Duodenal diverticular bleeding",
+    "Gastrointestinal variceal bleeding",
+    "Peptic ulcer disease",
+    "Mallory-Weiss tear",
+    "Gastrointestinal cancer"
+  ],
+  "correct_ranking": [
+    "Duodenal diverticular bleeding",
+    "Gastrointestinal variceal bleeding",
+    "Peptic ulcer disease",
+    "Mallory-Weiss tear",
+    "Gastrointestinal cancer"
+  ]
+}

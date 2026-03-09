@@ -1,0 +1,23 @@
+{
+  "case_id": "41436218",
+  "specialty": "meningitis",
+  "chief_complaint": "A 3-month-old infant presented with fever, irritability, and lethargy.",
+  "history": "The infant had been experiencing recurrent viral infections and had a history of lymphocytopenia. Immunophenotyping revealed low absolute counts of T, B, and natural killer cells. The infant had not been receiving any medications and had no known allergies.",
+  "exam": "Vital signs: temperature 38.5°C, heart rate 160 bpm, respiratory rate 40 breaths/min. Physical examination revealed a lethargic infant with a bulging fontanelle.",
+  "labs": "Complete blood count: lymphocyte count 0.2 x 10^9/L, platelet count 50 x 10^9/L. Immunophenotyping: low absolute counts of T, B, and natural killer cells. Cerebrospinal fluid analysis: human parvovirus B-19 DNA detected.",
+  "correct_diagnosis": "Primary immunodeficiency with human parvovirus B-19 meningitis",
+  "differentials": [
+    "Primary immunodeficiency with human parvovirus B-19 meningitis",
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Meningitis due to other viral pathogens",
+    "Meningitis due to fungal pathogens"
+  ],
+  "correct_ranking": [
+    "Primary immunodeficiency with human parvovirus B-19 meningitis",
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Meningitis due to other viral pathogens",
+    "Meningitis due to fungal pathogens"
+  ]
+}

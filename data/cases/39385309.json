@@ -1,0 +1,23 @@
+{
+  "case_id": "39385309",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 36-year-old Hispanic man presents with chest pain concerning for myocardial infarction.",
+  "history": "The patient developed a quotidian fever pattern following an upper respiratory tract infection with no significant past medical history.",
+  "exam": "No specific physical examination findings are mentioned in the case report.",
+  "labs": "Cardiac catheterization revealed non-obstructive coronary artery disease, myopericarditis, significant neutrophilic leukocytosis, and hyperferritinemia.",
+  "correct_diagnosis": "Adult-onset Still's disease",
+  "differentials": [
+    "Myocardial infarction",
+    "Adult-onset Still's disease",
+    "Pneumonia",
+    "Pericarditis",
+    "Acute coronary syndrome"
+  ],
+  "correct_ranking": [
+    "Adult-onset Still's disease",
+    "Myocardial infarction",
+    "Pericarditis",
+    "Acute coronary syndrome",
+    "Pneumonia"
+  ]
+}

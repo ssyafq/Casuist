@@ -1,0 +1,23 @@
+{
+  "case_id": "41254245",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 65-year-old male patient presented with postoperative cardiogenic shock after aortic root replacement.",
+  "history": "The patient underwent aortic root replacement using an On-X mechanical valve. Due to postoperative cardiogenic shock, an extracorporeal left ventricular assist device (LVAD) was implanted as a bridge to durable LVAD therapy. The patient had a history of valvular disease and was at risk for thromboembolism.",
+  "exam": "Vital signs: BP 80/50 mmHg, HR 120 bpm, RR 24/min. Physical examination revealed a patient in cardiogenic shock with decreased peripheral perfusion.",
+  "labs": "ECG: New Q-waves in leads II, III, and aVF. Bloods: Elevated troponin levels. Imaging: Echocardiogram showed decreased left ventricular function.",
+  "correct_diagnosis": "Cardiogenic shock post-aortic root replacement",
+  "differentials": [
+    "Cardiogenic shock post-aortic root replacement",
+    "Thromboembolism due to On-X mechanical valve",
+    "Left ventricular failure",
+    "Aortic root replacement complications",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Cardiogenic shock post-aortic root replacement",
+    "Thromboembolism due to On-X mechanical valve",
+    "Left ventricular failure",
+    "Aortic root replacement complications",
+    "Myocardial infarction"
+  ]
+}

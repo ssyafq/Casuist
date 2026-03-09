@@ -1,0 +1,23 @@
+{
+  "case_id": "40898588",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 59-year-old male presented with acute coronary syndromes.",
+  "history": "Genetically confirmed porphyria, underwent two percutaneous coronary interventions (PCI) using Everolimus and Sirolimus-eluting intracoronary devices for acute coronary syndromes. The first PCI involved treatment of mid-LAD disease with a SYNERGY Everolimus-eluting stent. Two years later, the patient re-presented with unstable angina and underwent further PCI using an Xience Everolimus-eluting stent for LAD and a Sirolimus-coated drug-eluting balloon for a CTO in first diagonal branch.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG, bloods, imaging, and other tests not specified.",
+  "correct_diagnosis": "Acute coronary syndromes",
+  "differentials": [
+    "Acute coronary syndromes",
+    "Unstable angina",
+    "Myocardial infarction",
+    "Coronary artery disease",
+    "Porphyria-related cardiac complications"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndromes",
+    "Unstable angina",
+    "Myocardial infarction",
+    "Coronary artery disease",
+    "Porphyria-related cardiac complications"
+  ]
+}

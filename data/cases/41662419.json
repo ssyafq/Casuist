@@ -1,0 +1,23 @@
+{
+  "case_id": "41662419",
+  "specialty": "gastrointestinal oncology",
+  "chief_complaint": "A 56-year-old man with a long-standing HIV infection presents with a diagnosis of locally advanced anal squamous cell carcinoma.",
+  "history": "The patient was diagnosed with locally advanced anal squamous cell carcinoma (T4N1cM0) and received standard concurrent chemoradiotherapy (CRT) with mitomycin C and 5-fluorouracil (5-FU). He experienced complications including Grade 3 febrile leukopenia, Grade 2 radiodermatitis, and scrotal lymphedema. The patient's HIV infection is well-managed on stable antiretroviral therapy (ART).",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Imaging and endoscopic evaluation revealed fibrotic changes without evidence of active disease at six months post-treatment. Retrospective immunohistochemical analysis of the original tumor revealed strong p16 expression, aberrant p53 expression, and a markedly elevated Ki-67 index (99%).",
+  "correct_diagnosis": "Locally advanced anal squamous cell carcinoma with aggressive tumor biology",
+  "differentials": [
+    "Locally advanced anal squamous cell carcinoma with aggressive tumor biology",
+    "Anal gland carcinoma",
+    "Basal cell carcinoma of the anus",
+    "Squamous cell carcinoma of the anal margin",
+    "Anal melanoma"
+  ],
+  "correct_ranking": [
+    "Locally advanced anal squamous cell carcinoma with aggressive tumor biology",
+    "Anal gland carcinoma",
+    "Basal cell carcinoma of the anus",
+    "Squamous cell carcinoma of the anal margin",
+    "Anal melanoma"
+  ]
+}

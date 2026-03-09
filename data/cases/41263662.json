@@ -1,0 +1,23 @@
+{
+  "case_id": "41263662",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "Two patients, ages 45 and 62, female and male, respectively, presented with symptoms of chronic thromboembolic pulmonary hypertension.",
+  "history": "Chronic thromboembolic pulmonary hypertension (CTEPH) can lead to right ventricular (RV) ischemia and dysfunction due to chronic pulmonary artery obstruction and increased afterload.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG, bloods, and imaging studies, including cardiovascular MRI (CMR), were performed. CMR showed reduced biventricular perfusion before pulmonary thromboendarterectomy (PTE) and improvement in one patient after PTE.",
+  "correct_diagnosis": "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+  "differentials": [
+    "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+    "Pulmonary arterial hypertension",
+    "Pulmonary embolism",
+    "Right ventricular dysfunction",
+    "Cor pulmonale"
+  ],
+  "correct_ranking": [
+    "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+    "Pulmonary arterial hypertension",
+    "Pulmonary embolism",
+    "Right ventricular dysfunction",
+    "Cor pulmonale"
+  ]
+}

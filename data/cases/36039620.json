@@ -1,0 +1,23 @@
+{
+  "case_id": "36039620",
+  "specialty": "cardiology",
+  "chief_complaint": "A 71-year-old patient undergoing elective non-cardiac surgery with a preoperative cardiology consult.",
+  "history": "The patient had a preoperative cardiology consultation prior to elective non-cardiac surgery. The majority of referrals were for preoperative clearance, and the most common recommendation was to withhold antiplatelet medications.",
+  "exam": "No specific physical examination findings were noted in the study.",
+  "labs": "No specific laboratory or imaging results were provided, but the study mentioned the use of the 2014 American College of Cardiology/American Heart Association guidelines for assessment.",
+  "correct_diagnosis": "Inappropriate preoperative cardiology referral",
+  "differentials": [
+    "Appropriate preoperative cardiology referral",
+    "Perioperative cardiac risk assessment",
+    "Inappropriate preoperative cardiology referral",
+    "Cardiac disease diagnosis",
+    "Surgical clearance"
+  ],
+  "correct_ranking": [
+    "Inappropriate preoperative cardiology referral",
+    "Appropriate preoperative cardiology referral",
+    "Perioperative cardiac risk assessment",
+    "Cardiac disease diagnosis",
+    "Surgical clearance"
+  ]
+}

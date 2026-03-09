@@ -1,0 +1,23 @@
+{
+  "case_id": "38834307",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient with a history of Graves' disease after COVID-19 infection presents with symptoms possibly exacerbated by COVID-19 mRNA vaccination.",
+  "history": "The patient developed Graves' disease after COVID-19 infection and may have had their condition worsened by COVID-19 mRNA vaccination, potentially inducing a thyroid storm.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Graves' disease",
+    "COVID-19 infection",
+    "Thyroiditis",
+    "Hyperthyroidism"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Graves' disease",
+    "Hyperthyroidism",
+    "Thyroiditis",
+    "COVID-19 infection"
+  ]
+}

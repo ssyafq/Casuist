@@ -1,0 +1,23 @@
+{
+  "case_id": "41609449",
+  "specialty": "meningitis",
+  "chief_complaint": "A 15-year-old female patient presented with abdominal pain, fever, cough, and hallucinations.",
+  "history": "The patient was initially considered to have an abdominal pathology. A preliminary diagnosis of meningitis was established after systematic clinical evaluations in the pediatric emergency department. The patient's cerebrospinal fluid (CSF) was obtained via lumbar puncture for diagnostic confirmation.",
+  "exam": "Vital signs: not specified. Physical examination findings: not specified.",
+  "labs": "Cerebrospinal fluid (CSF) analysis: purulent-appearing CSF sample. Bio-Speedy(R) Meningitis/Encephalitis quantitative polymerase chain reaction (qPCR) MX-17 Panel (Bioeksen, Turkiye) multiplex PCR kit identified N.meningitidis as the causative pathogen. Real-time (RT)- PCR-based method identified the serogroup of N.meningitidis as serogroup C.",
+  "correct_diagnosis": "Neisseria meningitidis serogroup C infection",
+  "differentials": [
+    "Neisseria meningitidis serogroup C infection",
+    "Abdominal pathology",
+    "Meningitis due to other bacterial serogroups",
+    "Viral meningitis",
+    "Encephalitis"
+  ],
+  "correct_ranking": [
+    "Neisseria meningitidis serogroup C infection",
+    "Abdominal pathology",
+    "Meningitis due to other bacterial serogroups",
+    "Viral meningitis",
+    "Encephalitis"
+  ]
+}

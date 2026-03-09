@@ -1,0 +1,23 @@
+{
+  "case_id": "41579008",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 64-year-old woman presented with altered mental status after a COVID-19 infection.",
+  "history": "The patient was admitted to the emergency department due to altered mental status. She had previously been infected with COVID-19. Throughout her hospitalization, she exhibited elevated blood pressure necessitating intravenous treatment. She developed ascending symmetrical limb weakness and progressive loss of reflexes, along with a severe motor deficit and gait disturbance, accompanied by arterial blood pressure fluctuations and other signs of autonomic dysfunction.",
+  "exam": "Vital signs: elevated blood pressure. Physical examination findings: bilateral occipital diffuse hypodensity, T2-weighted image hyperintensity at the parietal and occipital levels, indicative of vasogenic edema.",
+  "labs": "Brain CT: bilateral occipital diffuse hypodensity. Brain MRI: T2-weighted image hyperintensity at the parietal and occipital levels, indicative of vasogenic edema. ECG: not mentioned. Bloods: euvolemic hyponatremia with concurrent low serum osmolality and high urine osmolality and sodium, indicating a syndrome of inappropriate antidiuretic hormone (SIADH).",
+  "correct_diagnosis": "Guillain-Barre Syndrome (GBS) with dysautonomia triggered by a COVID-19 infection",
+  "differentials": [
+    "Posterior Reversible Encephalopathy Syndrome (PRES)",
+    "Syndrome of Inappropriate Antidiuretic Hormone (SIADH)",
+    "Guillain-Barre Syndrome (GBS) with dysautonomia triggered by a COVID-19 infection",
+    "Autonomic Dysfunction",
+    "COVID-19 Pneumonia"
+  ],
+  "correct_ranking": [
+    "Guillain-Barre Syndrome (GBS) with dysautonomia triggered by a COVID-19 infection",
+    "Posterior Reversible Encephalopathy Syndrome (PRES)",
+    "Syndrome of Inappropriate Antidiuretic Hormone (SIADH)",
+    "Autonomic Dysfunction",
+    "COVID-19 Pneumonia"
+  ]
+}

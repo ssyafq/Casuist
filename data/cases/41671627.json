@@ -1,0 +1,23 @@
+{
+  "case_id": "41671627",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "Two patients, aged 72 and 78, presented with life-threatening gastrointestinal bleeding while receiving amivantamab plus lazertinib for EGFR-mutated non-small cell lung cancer.",
+  "history": "Both patients had progressive hypoalbuminemia and gastrointestinal mucosal edema preceding the onset of bleeding. They received apixaban and had a history of older age and treatment in later lines of therapy.",
+  "exam": "Vital signs were not provided, but both patients were evaluated with contrast-enhanced computed tomography and endoscopic evaluation.",
+  "labs": "Contrast-enhanced computed tomography and endoscopic evaluation demonstrated diffuse bowel wall edema and multiple mucosal ulcers.",
+  "correct_diagnosis": "Severe gastrointestinal bleeding due to bowel wall edema and mucosal ulcers secondary to amivantamab plus lazertinib therapy",
+  "differentials": [
+    "Severe gastrointestinal bleeding due to bowel wall edema and mucosal ulcers secondary to amivantamab plus lazertinib therapy",
+    "Gastrointestinal bleeding due to anticoagulant therapy",
+    "Gastrointestinal bleeding due to hypoalbuminemia",
+    "Gastrointestinal bleeding due to bowel obstruction",
+    "Gastrointestinal bleeding due to ischemic colitis"
+  ],
+  "correct_ranking": [
+    "Severe gastrointestinal bleeding due to bowel wall edema and mucosal ulcers secondary to amivantamab plus lazertinib therapy",
+    "Gastrointestinal bleeding due to anticoagulant therapy",
+    "Gastrointestinal bleeding due to hypoalbuminemia",
+    "Gastrointestinal bleeding due to bowel obstruction",
+    "Gastrointestinal bleeding due to ischemic colitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41622941",
+  "specialty": "stroke",
+  "chief_complaint": "A captive senile talapoin monkey (Miopithecus talapoin) developed sudden neurological signs.",
+  "history": "The monkey was found to have sudden neurological signs and died within 24 hours. The necropsy revealed an extensive infarct in the right hemisphere, from occipital to frontal lobe.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Necropsy and microscopy showed a thrombus, neuronal edema, and necrosis, and arteriosclerosis.",
+  "correct_diagnosis": "Ischemic stroke",
+  "differentials": [
+    "Ischemic stroke",
+    "Hemorrhagic stroke",
+    "Cerebral vasculitis",
+    "Cerebral amyloid angiopathy",
+    "Cerebral vasospasm"
+  ],
+  "correct_ranking": [
+    "Ischemic stroke",
+    "Hemorrhagic stroke",
+    "Cerebral vasculitis",
+    "Cerebral amyloid angiopathy",
+    "Cerebral vasospasm"
+  ]
+}

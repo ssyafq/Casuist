@@ -1,0 +1,23 @@
+{
+  "case_id": "41511136",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 65-year-old male patient presented with severe respiratory distress and hypoxemia.",
+  "history": "Acute respiratory distress syndrome (ARDS) is a severe complication of COVID-19. The patient had a deficiency of alveolar surfactant, leading to severe hypoxemia. Exogenous surfactant administration was attempted to improve the overall clinical condition.",
+  "exam": "Vital signs: respiratory rate 40/min, oxygen saturation 60% on room air, blood pressure 90/60 mmHg. Physical examination revealed bilateral crackles and decreased breath sounds.",
+  "labs": "ECG: normal. Bloods: WBC 18,000/mm^3, PaO2/FiO2 ratio 100. Imaging: chest X-ray showed bilateral infiltrates. Other tests: none.",
+  "correct_diagnosis": "COVID-19-associated Acute Respiratory Distress Syndrome (ARDS)",
+  "differentials": [
+    "COVID-19-associated Acute Respiratory Distress Syndrome (ARDS)",
+    "Pneumonia",
+    "Acute Lung Injury",
+    "Severe Asthma Exacerbation",
+    "Cardiogenic Pulmonary Edema"
+  ],
+  "correct_ranking": [
+    "COVID-19-associated Acute Respiratory Distress Syndrome (ARDS)",
+    "Pneumonia",
+    "Acute Lung Injury",
+    "Severe Asthma Exacerbation",
+    "Cardiogenic Pulmonary Edema"
+  ]
+}

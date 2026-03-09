@@ -1,0 +1,23 @@
+{
+  "case_id": "41483370",
+  "specialty": "meningitis",
+  "chief_complaint": "A 40-year-old woman presented with headache, dizziness, and blurred vision.",
+  "history": "The patient presented with headache, dizziness, and blurred vision. Surgical intervention via right craniotomy was recommended due to diagnostic uncertainty, symptomatic mass effect, and the potential for a malignant diagnosis.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Histopathology revealed dense fibrous tissue with chronic inflammatory cell infiltration. Immunohistochemistry was positive for CD3 and CD20, and negative for EMA, SSTR2, IgG, and IgG4.",
+  "correct_diagnosis": "Idiopathic hypertrophic pachymeningitis (IHP)",
+  "differentials": [
+    "Idiopathic hypertrophic pachymeningitis (IHP)",
+    "CNS neoplasm",
+    "Meningitis",
+    "Dural thickening",
+    "Chronic inflammatory cell infiltration"
+  ],
+  "correct_ranking": [
+    "Idiopathic hypertrophic pachymeningitis (IHP)",
+    "CNS neoplasm",
+    "Meningitis",
+    "Dural thickening",
+    "Chronic inflammatory cell infiltration"
+  ]
+}

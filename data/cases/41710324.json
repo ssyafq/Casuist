@@ -1,0 +1,23 @@
+{
+  "case_id": "41710324",
+  "specialty": "COPD",
+  "chief_complaint": "A 60-year-old male patient presents with shortness of breath and wheezing, despite being on dual bronchodilator therapy.",
+  "history": "The patient has a 10-year history of chronic obstructive pulmonary disease (COPD), with a modified Medical Research Council Dyspnea Scale >/=2 and a COPD Assessment Test (CAT) >/=10. He has been on stable dual bronchodilator therapy for the past year.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 20 bpm, SpO2 92% on room air. Physical examination reveals bilateral wheezing and decreased breath sounds.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: not performed. CAT scores were assessed at baseline, week 6, and week 12.",
+  "correct_diagnosis": "Chronic Obstructive Pulmonary Disease (COPD) with persistent symptoms",
+  "differentials": [
+    "Chronic Obstructive Pulmonary Disease (COPD) with persistent symptoms",
+    "Asthma",
+    "Pneumonia",
+    "Heart Failure",
+    "Pulmonary Embolism"
+  ],
+  "correct_ranking": [
+    "Chronic Obstructive Pulmonary Disease (COPD) with persistent symptoms",
+    "Asthma",
+    "Pneumonia",
+    "Heart Failure",
+    "Pulmonary Embolism"
+  ]
+}

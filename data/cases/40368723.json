@@ -1,0 +1,23 @@
+{
+  "case_id": "40368723",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "Young individuals presenting with acute coronary syndrome (ACS).",
+  "history": "Young individuals who present with ACS are often devoid of typical traditional atherosclerotic risk factors. They pose challenges to risk stratify for diagnostic imaging and for pathogenetic etiology. Two patients presented with ACS and were found to have spontaneous coronary artery dissection with thrombosis without significant atherosclerotic burden, but high lipoprotein(a) levels.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "High lipoprotein(a) levels, spontaneous coronary artery dissection with thrombosis on imaging.",
+  "correct_diagnosis": "Spontaneous coronary artery dissection with thrombosis",
+  "differentials": [
+    "Myocardial infarction",
+    "Spontaneous coronary artery dissection with thrombosis",
+    "Stable angina",
+    "Unstable angina",
+    "Atherosclerotic coronary artery disease"
+  ],
+  "correct_ranking": [
+    "Spontaneous coronary artery dissection with thrombosis",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Atherosclerotic coronary artery disease",
+    "Stable angina"
+  ]
+}

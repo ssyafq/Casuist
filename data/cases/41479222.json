@@ -1,0 +1,23 @@
+{
+  "case_id": "41479222",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 28-year-old pregnant woman at 32 weeks 4 days gestation presented with diabetic ketoacidosis and hypertriglyceridemic acute pancreatitis.",
+  "history": "The patient had a history of gestational diabetes mellitus. She developed diabetic ketoacidosis and hypertriglyceridemic acute pancreatitis, necessitating an emergency cesarean section.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Not provided.",
+  "correct_diagnosis": "Diabetic ketoacidosis with hypertriglyceridemic acute pancreatitis",
+  "differentials": [
+    "Diabetic ketoacidosis with hypertriglyceridemic acute pancreatitis",
+    "Hypertriglyceridemic acute pancreatitis",
+    "Diabetic ketoacidosis",
+    "Acute pancreatitis",
+    "Gestational diabetes mellitus"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis with hypertriglyceridemic acute pancreatitis",
+    "Hypertriglyceridemic acute pancreatitis",
+    "Diabetic ketoacidosis",
+    "Acute pancreatitis",
+    "Gestational diabetes mellitus"
+  ]
+}

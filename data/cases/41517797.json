@@ -1,0 +1,23 @@
+{
+  "case_id": "41517797",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 74-year-old man presented with chest tightness and tachypnea lasting 3 days.",
+  "history": "The patient had no history of hypertension, diabetes mellitus, or hyperlipidemia, denied a family history of coronary heart disease, and had a smoking history of over 30 years.",
+  "exam": "Vital signs and physical examination findings were not explicitly stated.",
+  "labs": "Coronary angiography revealed occlusion in the proximal to mid-segment of the right coronary artery, and echocardiography indicated ventricular septal rupture.",
+  "correct_diagnosis": "Ventricular septal rupture (VSR) following acute myocardial infarction (MI)",
+  "differentials": [
+    "Ventricular septal rupture (VSR) following acute myocardial infarction (MI)",
+    "Acute inferior wall myocardial infarction",
+    "Right coronary artery occlusion",
+    "Hypertensive emergency",
+    "Cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "Ventricular septal rupture (VSR) following acute myocardial infarction (MI)",
+    "Acute inferior wall myocardial infarction",
+    "Right coronary artery occlusion",
+    "Hypertensive emergency",
+    "Cardiogenic shock"
+  ]
+}

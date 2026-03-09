@@ -1,0 +1,23 @@
+{
+  "case_id": "41656847",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "Three patients, aged 45, 58, and 72, presented with massive gastrointestinal bleeding, manifested as recurrent hematemesis and hematochezia with large-volume bleeding.",
+  "history": "Dieulafoy's disease is a rare condition that can cause acute, life-threatening massive gastrointestinal bleeding and is prone to misdiagnosis and missed diagnosis. The patients were admitted to the hospital with a history of massive gastrointestinal bleeding.",
+  "exam": "Vital signs: tachycardia, hypotension. Physical examination: abdominal tenderness, guarding.",
+  "labs": "ECG: normal. Bloods: anemia, coagulopathy. Imaging: upper GI series showing diverticula of the descending duodenum. Endoscopy: active bleeding located in the descending duodenum.",
+  "correct_diagnosis": "Dieulafoy's disease within diverticula of the descending duodenum",
+  "differentials": [
+    "Dieulafoy's disease within diverticula of the descending duodenum",
+    "Gastric ulcer",
+    "Duodenal ulcer",
+    "Variceal bleeding",
+    "Mallory-Weiss tear"
+  ],
+  "correct_ranking": [
+    "Dieulafoy's disease within diverticula of the descending duodenum",
+    "Gastric ulcer",
+    "Duodenal ulcer",
+    "Variceal bleeding",
+    "Mallory-Weiss tear"
+  ]
+}

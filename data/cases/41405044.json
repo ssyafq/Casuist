@@ -1,0 +1,23 @@
+{
+  "case_id": "41405044",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 45-year-old female patient presented with sudden onset of severe shortness of breath and chest pain.",
+  "history": "The patient had a history of chronic thromboembolic pulmonary hypertension (CTEPH) and had undergone pulmonary endarterectomy. She had been experiencing worsening symptoms over the past few weeks.",
+  "exam": "Vital signs: BP 90/60 mmHg, HR 120 bpm, RR 30 breaths/min. Physical examination revealed bilateral crackles and decreased breath sounds.",
+  "labs": "ECG: showing signs of right heart strain. Bloods: Hb 8 g/dL, platelets 150 x 10^9/L. Imaging: CT pulmonary angiogram showing massive pulmonary hemorrhage.",
+  "correct_diagnosis": "Pulmonary hemorrhage after pulmonary endarterectomy in a patient with chronic thromboembolic pulmonary hypertension",
+  "differentials": [
+    "Pulmonary hemorrhage after pulmonary endarterectomy in a patient with chronic thromboembolic pulmonary hypertension",
+    "Acute respiratory distress syndrome (ARDS)",
+    "Pulmonary embolism",
+    "Cardiogenic shock",
+    "Sepsis"
+  ],
+  "correct_ranking": [
+    "Pulmonary hemorrhage after pulmonary endarterectomy in a patient with chronic thromboembolic pulmonary hypertension",
+    "Acute respiratory distress syndrome (ARDS)",
+    "Pulmonary embolism",
+    "Cardiogenic shock",
+    "Sepsis"
+  ]
+}

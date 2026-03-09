@@ -1,0 +1,23 @@
+{
+  "case_id": "40793898",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 69-year-old male presented with acute coronary syndrome with ST elevation and cardiogenic shock.",
+  "history": "The patient had no cardiovascular history. He was admitted to the emergency department due to acute coronary syndrome. Immediately after percutaneous coronary intervention, he developed a greater requirement of vasopressors, the addition of inotropes, and an increase in oxygen supply by mechanical respiratory assistance. An echocardiogram was performed, which showed acute ischemic mitral regurgitation due to complete rupture of the posteromedial papillary muscle.",
+  "exam": "Vital signs: not specified. Physical examination findings: not specified.",
+  "labs": "Echocardiogram: acute ischemic mitral regurgitation due to complete rupture of the posteromedial papillary muscle.",
+  "correct_diagnosis": "Acute ischemic mitral regurgitation due to complete rupture of the posteromedial papillary muscle",
+  "differentials": [
+    "Acute ischemic mitral regurgitation due to complete rupture of the posteromedial papillary muscle",
+    "Cardiogenic shock due to acute coronary syndrome",
+    "Vasopressor-resistant shock",
+    "Inotrope-resistant cardiogenic shock",
+    "Mechanical respiratory failure"
+  ],
+  "correct_ranking": [
+    "Acute ischemic mitral regurgitation due to complete rupture of the posteromedial papillary muscle",
+    "Cardiogenic shock due to acute coronary syndrome",
+    "Vasopressor-resistant shock",
+    "Inotrope-resistant cardiogenic shock",
+    "Mechanical respiratory failure"
+  ]
+}

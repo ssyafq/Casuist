@@ -1,0 +1,23 @@
+{
+  "case_id": "41358171",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 70-year-old male presented with acute painless hematochezia.",
+  "history": "The patient had a history of colonic diverticulosis and presented with sudden onset of hematochezia. He had no significant past medical history and was not on any medications.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed a tender abdomen with no guarding or rebound tenderness.",
+  "labs": "ECG: normal. Bloods: Hb 8.5 g/dL, MCV 90 fL, platelets 200 x 10^9/L. Colonoscopy showed active bleeding originating from a diverticulum.",
+  "correct_diagnosis": "Colonic diverticular bleeding",
+  "differentials": [
+    "Colonic diverticular bleeding",
+    "Lower gastrointestinal bleeding due to angiodysplasia",
+    "Lower gastrointestinal bleeding due to ischemic colitis",
+    "Lower gastrointestinal bleeding due to colorectal cancer",
+    "Lower gastrointestinal bleeding due to inflammatory bowel disease"
+  ],
+  "correct_ranking": [
+    "Colonic diverticular bleeding",
+    "Lower gastrointestinal bleeding due to angiodysplasia",
+    "Lower gastrointestinal bleeding due to ischemic colitis",
+    "Lower gastrointestinal bleeding due to colorectal cancer",
+    "Lower gastrointestinal bleeding due to inflammatory bowel disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41502366",
+  "specialty": "stroke",
+  "chief_complaint": "A 65-year-old right-handed male patient presented to the emergency department with a few hours' history of mild confusion and difficulty expressing himself verbally.",
+  "history": "The patient has a history of hypertension and cured hairy cell leukemia. He presented to the emergency department with a few hours' history of mild confusion and difficulty expressing himself verbally.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 80 bpm. Neurologic exam revealed the patient could not read at all, but he could write perfectly with preserved spelling and handwriting.",
+  "labs": "CT scan of the brain showed a 5 cm infarction in the left occipital lobe, and a corresponding P2 occlusion was seen. MRI of the brain showed infarctions corresponding with prior case reports on the diagnosis.",
+  "correct_diagnosis": "Alexia without agraphia",
+  "differentials": [
+    "Alexia without agraphia",
+    "Anomic aphasia",
+    "Global aphasia",
+    "Transcortical sensory aphasia",
+    "Wernicke's aphasia"
+  ],
+  "correct_ranking": [
+    "Alexia without agraphia",
+    "Anomic aphasia",
+    "Global aphasia",
+    "Transcortical sensory aphasia",
+    "Wernicke's aphasia"
+  ]
+}

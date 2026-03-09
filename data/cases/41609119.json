@@ -1,0 +1,23 @@
+{
+  "case_id": "41609119",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 36-year-old female patient presented with progressive weakness, lower cranial nerve involvement, and areflexia.",
+  "history": "The patient initially presented with symptoms of infection 10 days before admission, including oropharyngeal pain and diarrhea. She was later diagnosed with Guillain-Barre syndrome (GBS) with associated cardiovascular dysautonomia. Echocardiography revealed apical hypokinesia of the left ventricle, consistent with Takotsubo cardiomyopathy (TCM). Additionally, her thyroid profile indicated hyperthyroidism, fulfilling the criteria for a thyroid storm.",
+  "exam": "Sinus tachycardia, atrial fibrillation, and apical hypokinesia of the left ventricle were observed.",
+  "labs": "Diagnostic evaluation included echocardiography showing apical hypokinesia of the left ventricle, thyroid profile indicating hyperthyroidism, and electrocardiogram (ECG) showing sinus tachycardia and atrial fibrillation.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy due to Guillain-Barre Syndrome and Thyroid Storm",
+  "differentials": [
+    "Takotsubo cardiomyopathy due to Guillain-Barre Syndrome and Thyroid Storm",
+    "Thyroid storm",
+    "Guillain-Barre Syndrome with cardiovascular dysautonomia",
+    "Takotsubo cardiomyopathy",
+    "Hyperthyroidism"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy due to Guillain-Barre Syndrome and Thyroid Storm",
+    "Thyroid storm",
+    "Guillain-Barre Syndrome with cardiovascular dysautonomia",
+    "Takotsubo cardiomyopathy",
+    "Hyperthyroidism"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "39772610",
+  "specialty": "cardiology",
+  "chief_complaint": "A patient with cancer presents with symptoms related to cardiovascular disease, potentially due to cancer therapies.",
+  "history": "The patient has a history of cancer and has undergone chemotherapy, tyrosine kinase inhibitors, immune checkpoint inhibitors, and radiation, which can increase the risk of cardiovascular disease, manifesting as left ventricular dysfunction, myocarditis, cardiomyopathy, accelerated atherosclerosis, and coronary vasospasm.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Multimodal cardiac imaging, including echocardiograms, cardiac magnetic resonance imaging, positron emission tomography, single-photon emission computed tomography, and coronary computed tomography angiography, are used to diagnose cardiovascular pathologies.",
+  "correct_diagnosis": "Atherosclerosis",
+  "differentials": [
+    "Cardiomyopathy",
+    "Myocarditis",
+    "Atherosclerosis",
+    "Left Ventricular Dysfunction",
+    "Coronary Vasospasm"
+  ],
+  "correct_ranking": [
+    "Atherosclerosis",
+    "Myocarditis",
+    "Cardiomyopathy",
+    "Left Ventricular Dysfunction",
+    "Coronary Vasospasm"
+  ]
+}

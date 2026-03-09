@@ -1,0 +1,23 @@
+{
+  "case_id": "41502194",
+  "specialty": "stroke",
+  "chief_complaint": "A 50-year-old male patient presented with intracerebral hemorrhage in the left thalamus, surrounding perifocal edema, and left lateral intraventricular hemorrhage.",
+  "history": "The patient was admitted to Cipto Mangunkusumo National General Hospital, Jakarta, in 2022. He was given mesenchymal stem cells (MSCs) treatment three times through Digital Subtraction Angiography (DSA).",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Imaging studies: intracerebral hemorrhage in the left thalamus, surrounding perifocal edema, and left lateral intraventricular hemorrhage.",
+  "correct_diagnosis": "Intracerebral hemorrhage in the left thalamus",
+  "differentials": [
+    "Intracerebral hemorrhage in the left thalamus",
+    "Cerebral vasculitis",
+    "Cerebral amyloid angiopathy",
+    "Hypertensive intracerebral hemorrhage",
+    "Cerebral venous sinus thrombosis"
+  ],
+  "correct_ranking": [
+    "Intracerebral hemorrhage in the left thalamus",
+    "Cerebral vasculitis",
+    "Hypertensive intracerebral hemorrhage",
+    "Cerebral amyloid angiopathy",
+    "Cerebral venous sinus thrombosis"
+  ]
+}

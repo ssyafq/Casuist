@@ -1,0 +1,23 @@
+{
+  "case_id": "41319076",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 24-year-old gravida 2 para 1 woman presented with acute abdominal pain in her 24-week period of gestation.",
+  "history": "Acute pancreatitis is an uncommon complication in pregnancy. The exact etiology in some cases cannot be identified and hence they are referred as idiopathic pancreatitis. The patient was managed accordingly.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Laboratory reports suggested elevated serum amylase or lipase and other enzymes consistent with acute pancreatitis.",
+  "correct_diagnosis": "Acute Pancreatitis",
+  "differentials": [
+    "Acute Pancreatitis",
+    "Gallstones-induced Pancreatitis",
+    "Idiopathic Pancreatitis",
+    "Hypertriglyceridemia-induced Pancreatitis",
+    "Pancreatic Cancer"
+  ],
+  "correct_ranking": [
+    "Acute Pancreatitis",
+    "Gallstones-induced Pancreatitis",
+    "Idiopathic Pancreatitis",
+    "Hypertriglyceridemia-induced Pancreatitis",
+    "Pancreatic Cancer"
+  ]
+}

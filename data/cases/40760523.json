@@ -1,0 +1,23 @@
+{
+  "case_id": "40760523",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 22-year-old male presented with acute abdominal pain, fever, and altered mental status, with a history of poorly controlled hyperthyroidism.",
+  "history": "The patient had a history of poorly controlled hyperthyroidism and presented with acute abdominal pain, fever, and altered mental status.",
+  "exam": "Altered mental status, acute abdominal pain, fever",
+  "labs": "Clinical scoring (Burch-Wartofsky Point Scale) and laboratory markers confirmed thyroid storm, imaging confirmed gastrointestinal perforation",
+  "correct_diagnosis": "Thyroid storm complicated by gastrointestinal perforation",
+  "differentials": [
+    "Sepsis",
+    "Thyroid storm complicated by gastrointestinal perforation",
+    "Acute abdomen",
+    "Hyperthyroid crisis",
+    "Gastrointestinal perforation"
+  ],
+  "correct_ranking": [
+    "Thyroid storm complicated by gastrointestinal perforation",
+    "Hyperthyroid crisis",
+    "Gastrointestinal perforation",
+    "Acute abdomen",
+    "Sepsis"
+  ]
+}

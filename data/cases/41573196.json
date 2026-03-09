@@ -1,0 +1,23 @@
+{
+  "case_id": "41573196",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 9-year-old febrile girl was admitted to the pediatric intensive care unit (PICU) for treatment of severe diabetic ketoacidosis (DKA) with influenza infection.",
+  "history": "The patient presented with severe DKA, with a pH of 6.72, bicarbonate of 3.4 mmol/L, glycaemia of 28.2 mmol/L, and urine ketones of 10 mmol/L. The treatment of severe DKA was promptly started, with the addition of mannitol due to computed tomography (CT) signs of mild initial cerebral swelling. The patient had a new-onset diabetes mellitus type 1 (T1DM) and an influenza infection.",
+  "exam": "Vital signs: febrile, bradycardia, sudden drop in oxygen saturation and arterial pressure. Physical examination: normal electrolyte status.",
+  "labs": "ECG: asystolic cardiac arrest, polymorphic ventricular tachycardia. Blood gas analyses: pH 6.72, bicarbonate 3.4 mmol/L, glycemia 28.2 mmol/L, lactate levels increased. Echocardiography: moderately impaired left ventricular systolic function, hypo- and dyskinesia of the interventricular septum.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy and cardiac arrest in a patient with diabetic ketoacidosis",
+  "differentials": [
+    "Takotsubo cardiomyopathy and cardiac arrest in a patient with diabetic ketoacidosis",
+    "Stress-induced cardiomyopathy",
+    "Diabetic ketoacidosis with cardiac arrest",
+    "Ventricular tachycardia",
+    "Cardiac arrest due to influenza infection"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy and cardiac arrest in a patient with diabetic ketoacidosis",
+    "Stress-induced cardiomyopathy",
+    "Diabetic ketoacidosis with cardiac arrest",
+    "Ventricular tachycardia",
+    "Cardiac arrest due to influenza infection"
+  ]
+}

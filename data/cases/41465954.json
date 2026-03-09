@@ -1,0 +1,23 @@
+{
+  "case_id": "41465954",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 57-year-old man presented with a 12-hour history of fever, chest tightness, and palpitations.",
+  "history": "The patient has a history of hypertension and previous myocardial infarction. He presented to the emergency department with symptoms of fever, chest tightness, and palpitations.",
+  "exam": "Vital signs: fever, normal blood pressure. Physical examination: chest tightness and palpitations.",
+  "labs": "ECG: sinus rhythm with abnormal Q waves and ST-segment elevation (0.1-0.35 mV) in leads V1-V3. Positive COVID-19 polymerase chain reaction test. Beta-angle measurement and r'-wave triangle base duration consistent with Brugada phenocopy pattern.",
+  "correct_diagnosis": "COVID-19-induced Brugada phenocopy pattern",
+  "differentials": [
+    "COVID-19-induced Brugada phenocopy pattern",
+    "ST-elevation myocardial infarction",
+    "Acute coronary syndrome",
+    "Viral myocarditis",
+    "Arrhythmogenic right ventricular cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "COVID-19-induced Brugada phenocopy pattern",
+    "ST-elevation myocardial infarction",
+    "Acute coronary syndrome",
+    "Viral myocarditis",
+    "Arrhythmogenic right ventricular cardiomyopathy"
+  ]
+}

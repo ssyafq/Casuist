@@ -1,0 +1,23 @@
+{
+  "case_id": "40926394",
+  "specialty": "COPD",
+  "chief_complaint": "A 70-year-old woman presented with decreased vision in the right eye.",
+  "history": "The patient has a history of smoking and presented with reduced vision in the right eye due to CRVO. She had a productive morning cough with white sputum, shortness of breath, involuntary weight loss, morning headaches, and fatigue over the past 3 months. She had well-controlled hyperlipidemia but lacked classic CRVO risk factors.",
+  "exam": "Clinical ophthalmological examination, multimodal imaging, and physical examination revealed findings consistent with CRVO. Pulmonary examination, spirometry, and thorax imaging showed evidence of COPD.",
+  "labs": "Elevated polyclonal free light chains (FLCs), elevated Beta-2 microglobulin (β2M), and anemia were noted. Other investigations were consistent with CRVO.",
+  "correct_diagnosis": "Chronic Obstructive Pulmonary Disease (COPD) as a potential underlying condition in Central Retinal Vein Occlusion (CRVO)",
+  "differentials": [
+    "Chronic Obstructive Pulmonary Disease (COPD) as a potential underlying condition in Central Retinal Vein Occlusion (CRVO)",
+    "Hypercoagulability",
+    "Endothelial dysfunction",
+    "Stasis of blood",
+    "Cardiovascular risk factors"
+  ],
+  "correct_ranking": [
+    "Chronic Obstructive Pulmonary Disease (COPD) as a potential underlying condition in Central Retinal Vein Occlusion (CRVO)",
+    "Hypercoagulability",
+    "Endothelial dysfunction",
+    "Stasis of blood",
+    "Cardiovascular risk factors"
+  ]
+}

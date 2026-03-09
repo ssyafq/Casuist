@@ -1,0 +1,23 @@
+{
+  "case_id": "41627015",
+  "specialty": "stroke",
+  "chief_complaint": "An 85-year-old female nursing home resident presents with behavioral disorders and agitation.",
+  "history": "The patient experienced a significant existential disruption following a stroke, resulting in multiple losses of individual and social supports. She exhibits behavioral disorders, mood disorders, and agitation, alongside functional and cognitive impairments. Her past medical history includes hypertension and diabetes mellitus. She is currently taking metformin and lisinopril. Social history reveals a history of smoking and occasional alcohol use.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 80 bpm, RR 20 breaths/min, T 36.5°C. Physical examination reveals right-sided hemiparesis and decreased cognitive function.",
+  "labs": "ECG: normal sinus rhythm. Bloods: normal electrolytes, normal glucose. Imaging: CT scan of the brain shows a left middle cerebral artery infarct.",
+  "correct_diagnosis": "Post-stroke psychological pain",
+  "differentials": [
+    "Post-stroke depression",
+    "Post-stroke anxiety disorder",
+    "Post-traumatic stress disorder",
+    "Dementia",
+    "Post-stroke psychological pain"
+  ],
+  "correct_ranking": [
+    "Post-stroke psychological pain",
+    "Post-stroke depression",
+    "Post-stroke anxiety disorder",
+    "Dementia",
+    "Post-traumatic stress disorder"
+  ]
+}

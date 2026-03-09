@@ -1,0 +1,23 @@
+{
+  "case_id": "41120623",
+  "specialty": "chest pain",
+  "chief_complaint": "A 45-year-old female patient presented with atypical chest pain.",
+  "history": "The patient was admitted into hospital for chest pain and an abnormal flow in the pulmonary artery observed on transthoracic echocardiography in the emergency department. Further investigations revealed a coronary-to-pulmonary fistula connecting the left anterior descending artery to the pulmonary artery trunk. The patient had a peptic ulcer, which was successfully treated.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Transthoracic echocardiography: abnormal flow in the pulmonary artery; Myocardial perfusion scan: normal perfusion in the left anterior descending artery territory; Upper digestive endoscopy: peptic ulcer.",
+  "correct_diagnosis": "Coronary-to-pulmonary artery fistula",
+  "differentials": [
+    "Coronary-to-pulmonary artery fistula",
+    "Peptic ulcer disease",
+    "Acute coronary syndrome",
+    "Pulmonary embolism",
+    "Costochondritis"
+  ],
+  "correct_ranking": [
+    "Coronary-to-pulmonary artery fistula",
+    "Peptic ulcer disease",
+    "Acute coronary syndrome",
+    "Pulmonary embolism",
+    "Costochondritis"
+  ]
+}

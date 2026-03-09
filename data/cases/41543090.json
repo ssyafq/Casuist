@@ -1,0 +1,23 @@
+{
+  "case_id": "41543090",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 75-year-old female patient presented with acute onset of polyuria, polydipsia, and weight loss over the past week.",
+  "history": "The patient has a 10-year history of type 2 diabetes mellitus, managed with metformin and lifestyle modifications. She has no history of ketoacidosis or pancreatic autoantibodies. Her family history is unremarkable.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min, SpO2 98%. Physical examination revealed dry mucous membranes, decreased skin turgor, and a negative fundoscopic examination.",
+  "labs": "Blood glucose: 420 mg/dL, HbA1c: 12.5%, pancreatic islet function: impaired, amylase levels: elevated, diabetic autoantibodies: negative. ECG: normal.",
+  "correct_diagnosis": "Type 2 diabetes mellitus complicated with fulminant type 1 diabetes mellitus",
+  "differentials": [
+    "Type 2 diabetes mellitus complicated with fulminant type 1 diabetes mellitus",
+    "Diabetic ketoacidosis due to type 2 diabetes mellitus",
+    "Fulminant type 1 diabetes mellitus",
+    "Type 1 diabetes mellitus with ketosis",
+    "Hyperosmolar hyperglycemic state"
+  ],
+  "correct_ranking": [
+    "Type 2 diabetes mellitus complicated with fulminant type 1 diabetes mellitus",
+    "Fulminant type 1 diabetes mellitus",
+    "Diabetic ketoacidosis due to type 2 diabetes mellitus",
+    "Type 1 diabetes mellitus with ketosis",
+    "Hyperosmolar hyperglycemic state"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41553207",
+  "specialty": "stroke",
+  "chief_complaint": "A 45-year-old female patient presented with visual impairment and an abnormal hormone profile.",
+  "history": "The patient underwent an endoscopic endonasal approach (EEA) for infundibulo-neurohypophysitis. Postoperative, she developed a bi-thalamic stroke due to a Percheron artery infarct.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 16 breaths/min. Physical examination revealed visual impairment and signs of endocrine dysfunction.",
+  "labs": "ECG: normal. Bloods: elevated inflammatory markers, abnormal hormone profile. Imaging: MRI showing bi-thalamic stroke and Percheron artery variant.",
+  "correct_diagnosis": "Percheron artery infarct secondary to endoscopic endonasal approach for infundibulo-neurohypophysitis",
+  "differentials": [
+    "Percheron artery infarct secondary to endoscopic endonasal approach for infundibulo-neurohypophysitis",
+    "Top of the basilar syndrome",
+    "Infundibulo-neurohypophysitis",
+    "Bi-thalamic stroke",
+    "Percheron artery variant"
+  ],
+  "correct_ranking": [
+    "Percheron artery infarct secondary to endoscopic endonasal approach for infundibulo-neurohypophysitis",
+    "Top of the basilar syndrome",
+    "Infundibulo-neurohypophysitis",
+    "Bi-thalamic stroke",
+    "Percheron artery variant"
+  ]
+}

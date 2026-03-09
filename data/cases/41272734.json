@@ -1,0 +1,23 @@
+{
+  "case_id": "41272734",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 32-year-old healthy Lebanese female patient presented with acute coronary syndrome.",
+  "history": "The patient had no significant past medical history or cardiovascular risk factors. She developed acute coronary syndrome 8 months after initiating oral contraceptive pills (Yasmin tablets; 3.0 mg drospirenone and 0.030 mg ethinyl estradiol).",
+  "exam": "Vital signs and physical examination findings are not provided in the case report.",
+  "labs": "ECG showed ST elevation myocardial infarction. Blood tests and imaging results are not provided in the case report.",
+  "correct_diagnosis": "Massive left main coronary artery thrombosis induced by oral contraceptive pills",
+  "differentials": [
+    "Massive left main coronary artery thrombosis induced by oral contraceptive pills",
+    "Acute coronary syndrome due to atherosclerotic coronary artery disease",
+    "Acute coronary syndrome due to aortic dissection",
+    "Acute coronary syndrome due to myocardial bridge",
+    "Acute coronary syndrome due to coronary artery vasculitis"
+  ],
+  "correct_ranking": [
+    "Massive left main coronary artery thrombosis induced by oral contraceptive pills",
+    "Acute coronary syndrome due to atherosclerotic coronary artery disease",
+    "Acute coronary syndrome due to aortic dissection",
+    "Acute coronary syndrome due to myocardial bridge",
+    "Acute coronary syndrome due to coronary artery vasculitis"
+  ]
+}

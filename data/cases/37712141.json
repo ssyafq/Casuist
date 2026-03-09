@@ -1,0 +1,23 @@
+{
+  "case_id": "37712141",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 22-year-old male developed thyroid storm and had a history of epilepsy.",
+  "history": "The patient's past medical history was complicated by epilepsy, for which he took lacosamide. He developed thyroid storm necessitating therapeutic plasma exchange (TPE).",
+  "exam": "No specific physical examination findings were provided.",
+  "labs": "Lacosamide concentration was measured immediately before TPE (5.1 mug/mL) and 2.5 hours after the initial measurement (3.4 mug/mL).",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Epilepsy",
+    "Thyroiditis",
+    "Hyperthyroidism",
+    "Myxedema coma"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Hyperthyroidism",
+    "Thyroiditis",
+    "Myxedema coma",
+    "Epilepsy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40532062",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 62-year-old male presented with chest pain that resolved prior to arrival.",
+  "history": "The patient has a history of type 2 diabetes and hypertension. He presented with chest pain, which resolved before arrival at the emergency department.",
+  "exam": "No specific physical examination findings are mentioned in the case report.",
+  "labs": "Initial ECG was non-diagnostic, but continuous ST segment monitoring (C-STM) detected transient hyperacute T waves and mild ST elevations.",
+  "correct_diagnosis": "Left Anterior Descending Artery Obstruction",
+  "differentials": [
+    "Myocardial Infarction",
+    "Left Anterior Descending Artery Obstruction",
+    "Unstable Angina",
+    "Cardiac Arrhythmia",
+    "Aortic Dissection"
+  ],
+  "correct_ranking": [
+    "Left Anterior Descending Artery Obstruction",
+    "Myocardial Infarction",
+    "Unstable Angina",
+    "Cardiac Arrhythmia",
+    "Aortic Dissection"
+  ]
+}

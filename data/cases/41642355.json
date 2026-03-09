@@ -1,0 +1,23 @@
+{
+  "case_id": "41642355",
+  "specialty": "stroke",
+  "chief_complaint": "A  male patient with therapy-resistant anti-IgLON5 disease presented with sleep apnea, limb tremor, cerebral hemorrhage, epileptic seizures, psychiatric symptoms, multiple ischemic strokes, and kidney failure.",
+  "history": "The patient had sleep disorders, bulbar syndrome, gait instability, cognitive impairment, and movement disorders. He developed dysphagia, respiratory failure requiring tracheotomy, and persistently reduced state of wakefulness. Despite immunotherapy with high doses of prednisolone and repeated administration of intravenous immunoglobulins, the patient continued to deteriorate. He was switched to rituximab, which led to continuous improvement.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Positive IgLON5 antibodies in serum and cerebrospinal fluid, detected with the cell-based immunofluorescence assay. ECG, bloods, imaging, and other tests not specified.",
+  "correct_diagnosis": "Anti-IgLON5 disease",
+  "differentials": [
+    "Anti-IgLON5 disease",
+    "Multiple Sclerosis",
+    "Guillain-Barré Syndrome",
+    "Autoimmune Encephalitis",
+    "Vasculitis"
+  ],
+  "correct_ranking": [
+    "Anti-IgLON5 disease",
+    "Multiple Sclerosis",
+    "Guillain-Barré Syndrome",
+    "Autoimmune Encephalitis",
+    "Vasculitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41132028",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 55-year-old male patient presented with an acute one-day history of confusion and disorientation.",
+  "history": "The patient was dehydrated and in hypovolemic shock. He did not have any prior history of diabetes mellitus, or any previous history of significant abdominal pain. He was diagnosed with diabetic ketoacidosis (DKA) and transferred to the ICU. An MRI imaging of the abdomen and pelvis showed diffusely swollen pancreas, indicating chronic pancreatitis along with multiple hyper enhancing scattered foci in distal pancreatic body and tail.",
+  "exam": "The patient was dehydrated and in hypovolemic shock.",
+  "labs": "MRI imaging of the abdomen and pelvis showed diffusely swollen pancreas, indicating chronic pancreatitis along with multiple hyper enhancing scattered foci in distal pancreatic body and tail. Endoscopic ultrasound (EUS) revealed a lesion suggestive of either chronic focal pancreatitis versus pancreatic neoplasm. EUS-guided fine-needle biopsy (EUS-FNB) confirmed a final diagnosis of pancreatic adenocarcinoma.",
+  "correct_diagnosis": "Pancreatic adenocarcinoma",
+  "differentials": [
+    "Pancreatic adenocarcinoma",
+    "Chronic pancreatitis",
+    "Type 3c diabetes mellitus",
+    "Diabetic ketoacidosis",
+    "Chronic focal pancreatitis"
+  ],
+  "correct_ranking": [
+    "Pancreatic adenocarcinoma",
+    "Chronic pancreatitis",
+    "Type 3c diabetes mellitus",
+    "Diabetic ketoacidosis",
+    "Chronic focal pancreatitis"
+  ]
+}

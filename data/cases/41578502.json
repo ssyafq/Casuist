@@ -1,0 +1,23 @@
+{
+  "case_id": "41578502",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "43-year-old female with type 2 diabetes mellitus presents with severe diabetic ketoacidosis.",
+  "history": "Patient self-administered liraglutide at 10 times the recommended dose (cumulative 18 mg over 3 days) for weight loss. Type 2 diabetes mellitus is a major global health concern. Liraglutide, a glucagon-like peptide-1 receptor agonist, is widely used for glycemic control and weight loss.",
+  "exam": "Vital signs: pH 6.9, beta-hydroxybutyrate markedly elevated, hyperkalemia. Physical examination findings: end-organ compromise.",
+  "labs": "ECG: not mentioned, Bloods: pH 6.9, beta-hydroxybutyrate markedly elevated, hyperkalemia, Imaging: not mentioned, Other tests: not mentioned.",
+  "correct_diagnosis": "Diabetic ketoacidosis induced by liraglutide overdose",
+  "differentials": [
+    "Diabetic ketoacidosis induced by liraglutide overdose",
+    "Hypokalemia",
+    "Metabolic acidosis",
+    "Type 2 diabetes mellitus",
+    "Glucagon-like peptide-1 receptor agonist toxicity"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis induced by liraglutide overdose",
+    "Metabolic acidosis",
+    "Hypokalemia",
+    "Type 2 diabetes mellitus",
+    "Glucagon-like peptide-1 receptor agonist toxicity"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "36918211",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A man in his 50s presented with loss of appetite, diarrhoea, chills, and general malaise.",
+  "history": "The patient had consciousness disturbance, thyrotoxicosis, and thyroid-stimulating hormone (TSH) suppression. He was diagnosed with thyroid storm caused by subacute thyroiditis and treated with prednisolone and propranolol.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Elevated thyroglobulin and C reactive protein levels, suppressed TSH, and inverted T waves on ECG. A large thrombus was detected in the left ventricle.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy with left ventricle thrombus caused by subacute thyroiditis",
+  "differentials": [
+    "Myocardial infarction",
+    "Takotsubo cardiomyopathy with left ventricle thrombus caused by subacute thyroiditis",
+    "Thyroid storm",
+    "Subacute thyroiditis",
+    "Cardiomyopathy due to hyperthyroidism"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy with left ventricle thrombus caused by subacute thyroiditis",
+    "Thyroid storm",
+    "Subacute thyroiditis",
+    "Cardiomyopathy due to hyperthyroidism",
+    "Myocardial infarction"
+  ]
+}

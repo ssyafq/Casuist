@@ -1,0 +1,23 @@
+{
+  "case_id": "41338901",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 28-year-old woman presented with a non-palpable Nexplanon implant found within a segmental branch of the right lower lobe pulmonary artery.",
+  "history": "The patient had a history of a subdermal contraceptive implant inserted several years prior. She was asymptomatic until the implant was incidentally discovered on imaging.",
+  "exam": "Vital signs were within normal limits. Physical examination was unremarkable.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: CT pulmonary angiogram showing a non-palpable Nexplanon implant within a segmental branch of the right lower lobe pulmonary artery.",
+  "correct_diagnosis": "Pulmonary embolism of subdermal contraceptive implant",
+  "differentials": [
+    "Pulmonary embolism of subdermal contraceptive implant",
+    "Pulmonary artery thrombus",
+    "Pulmonary septic embolism",
+    "Pulmonary metastasis",
+    "Pulmonary artery sarcoma"
+  ],
+  "correct_ranking": [
+    "Pulmonary embolism of subdermal contraceptive implant",
+    "Pulmonary artery thrombus",
+    "Pulmonary septic embolism",
+    "Pulmonary metastasis",
+    "Pulmonary artery sarcoma"
+  ]
+}

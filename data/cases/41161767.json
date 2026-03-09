@@ -1,0 +1,23 @@
+{
+  "case_id": "41161767",
+  "specialty": "seizure",
+  "chief_complaint": "A 1-month-old female infant presented with recurrent generalised tonic-clonic seizures.",
+  "history": "The infant had persistent upward gaze and a prolonged postictal phase. Clinical examination revealed macrocephaly and global developmental delay. Laboratory investigations demonstrated profound hypocalcaemia, with an ionised calcium level of 0.6 mmol/L, attributed to primary hypoparathyroidism. Neuroimaging via brain MRI identified an acute subdural haematoma characterised by a 'bat-wing' configuration along with bilateral diffusion restriction. Subsequent genetic analysis confirmed the diagnosis of glutaric aciduria type 1 (GA1).",
+  "exam": "Vital signs: not provided. Physical examination revealed macrocephaly and global developmental delay.",
+  "labs": "Ionised calcium level: 0.6 mmol/L. MRI: acute subdural haematoma with 'bat-wing' configuration and bilateral diffusion restriction. Genetic analysis: glutaric aciduria type 1 (GA1).",
+  "correct_diagnosis": "Primary hypoparathyroidism as a seizure trigger in type 1 glutaric aciduria.",
+  "differentials": [
+    "Primary hypoparathyroidism as a seizure trigger in type 1 glutaric aciduria.",
+    "Glutaric aciduria type 1 (GA1)",
+    "Subdural haematoma",
+    "Hypocalcaemia",
+    "Epileptic encephalopathy"
+  ],
+  "correct_ranking": [
+    "Primary hypoparathyroidism as a seizure trigger in type 1 glutaric aciduria.",
+    "Glutaric aciduria type 1 (GA1)",
+    "Subdural haematoma",
+    "Hypocalcaemia",
+    "Epileptic encephalopathy"
+  ]
+}

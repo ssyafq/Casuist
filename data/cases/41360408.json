@@ -1,0 +1,23 @@
+{
+  "case_id": "41360408",
+  "specialty": "stroke",
+  "chief_complaint": "Two patients, ages 35 and 42, presented with sudden onset of weakness and speech difficulties.",
+  "history": "Patient 1: A 35-year-old man with a 5-year history of hypereosinophilic syndrome (HES) presented with sudden onset of right-sided weakness and aphasia. Patient 2: A 42-year-old man with a 10-year history of HES presented with sudden onset of left-sided weakness and dysarthria. Both patients had a history of recurrent eosinophilic pneumonia and cardiac involvement.",
+  "exam": "Vital signs: Patient 1 - BP 120/80, HR 80, RR 20; Patient 2 - BP 130/90, HR 90, RR 22. Physical examination: Patient 1 - Right-sided weakness, aphasia; Patient 2 - Left-sided weakness, dysarthria.",
+  "labs": "ECG: Patient 1 - Normal; Patient 2 - Normal. Bloods: Patient 1 - Eosinophil count 25,000/mm^3; Patient 2 - Eosinophil count 30,000/mm^3. Imaging: Patient 1 - CT scan showing left middle cerebral artery territory infarct; Patient 2 - CT scan showing right middle cerebral artery territory infarct.",
+  "correct_diagnosis": "Ischemic stroke in hypereosinophilic syndrome",
+  "differentials": [
+    "Ischemic stroke in hypereosinophilic syndrome",
+    "Cardiac embolic stroke",
+    "Cerebral vasculitis",
+    "Migraine with aura",
+    "Transient ischemic attack"
+  ],
+  "correct_ranking": [
+    "Ischemic stroke in hypereosinophilic syndrome",
+    "Cardiac embolic stroke",
+    "Cerebral vasculitis",
+    "Migraine with aura",
+    "Transient ischemic attack"
+  ]
+}

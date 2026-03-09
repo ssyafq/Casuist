@@ -1,0 +1,23 @@
+{
+  "case_id": "39663127",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A man in his mid-70s presented with recent-onset angina.",
+  "history": "The patient was started on treatment under the diagnosis of acute coronary syndrome. He developed haematemesis and dysphagia 12 hours after admission.",
+  "exam": "No specific physical examination findings mentioned.",
+  "labs": "ECG revealed ST-segment depression. Echocardiography showed a circular mass posterior to the left atrium. CT revealed oesophageal submucosal haematoma.",
+  "correct_diagnosis": "Oesophageal submucosal haematoma",
+  "differentials": [
+    "Oesophageal submucosal haematoma",
+    "Oesophageal rupture",
+    "Gastroesophageal reflux disease",
+    "Pulmonary embolism",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Oesophageal submucosal haematoma",
+    "Oesophageal rupture",
+    "Myocardial infarction",
+    "Pulmonary embolism",
+    "Gastroesophageal reflux disease"
+  ]
+}

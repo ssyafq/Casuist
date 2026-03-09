@@ -1,0 +1,23 @@
+{
+  "case_id": "41267585",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 25-year-old man presented with five days of high-grade fever, confusion, agitation, productive cough, and dyspnea.",
+  "history": "A 25-year-old man with a history of type 1 diabetes mellitus (HbA(1)c 10.4%) presented with high-grade fever, confusion, agitation, productive cough, and dyspnea. He was managed for diabetic ketoacidosis and pneumonia with insulin infusion, fluid resuscitation, broad-spectrum antibiotics, and mechanical ventilation. Despite correction of acidosis, fever persisted, and cultures remained negative.",
+  "exam": "High-grade fever, confusion, agitation, productive cough, and dyspnea. Bilateral lower-lobe pneumonia on chest CT, and mild cerebral edema on CT brain. Hypotension, tachycardia, and hypoxemia.",
+  "labs": "High-anion-gap metabolic acidosis (pH 7.15, HCO(3)(-) 10 mmol/L), hyperglycemia (427 mg/dL), leucocytosis (23 x 10(3)/microL), hyperferritinemia (2,000 ng/mL), hypertriglyceridemia (337mg/dl-3.805 mmol/l), bicytopenia (Hb 8.5 g/dL; platelets 92 x 10(3)/microL), and an HScore of 198.",
+  "correct_diagnosis": "Hemophagocytic lymphohistiocytosis (HLH) with secondary complications of diabetic ketoacidosis and pulmonary embolism",
+  "differentials": [
+    "Hemophagocytic lymphohistiocytosis (HLH) with secondary complications of diabetic ketoacidosis and pulmonary embolism",
+    "Diabetic ketoacidosis with secondary complications of pneumonia and pulmonary embolism",
+    "Pulmonary embolism with secondary complications of diabetic ketoacidosis and HLH",
+    "Sepsis with secondary complications of pneumonia, diabetic ketoacidosis, and HLH",
+    "Acute respiratory distress syndrome (ARDS) with secondary complications of pneumonia and HLH"
+  ],
+  "correct_ranking": [
+    "Hemophagocytic lymphohistiocytosis (HLH) with secondary complications of diabetic ketoacidosis and pulmonary embolism",
+    "Diabetic ketoacidosis with secondary complications of pneumonia and pulmonary embolism",
+    "Pulmonary embolism with secondary complications of diabetic ketoacidosis and HLH",
+    "Sepsis with secondary complications of pneumonia, diabetic ketoacidosis, and HLH",
+    "Acute respiratory distress syndrome (ARDS) with secondary complications of pneumonia and HLH"
+  ]
+}

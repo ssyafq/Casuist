@@ -1,0 +1,23 @@
+{
+  "case_id": "41338905",
+  "specialty": "seizure",
+  "chief_complaint": "A 50-year-old woman presents with focal seizures.",
+  "history": "The patient has a history of chronic renal disease and hypothyroidism. She was started on levofloxacin as part of her multidrug-resistant tuberculosis treatment regimen. The seizures exhibited unilateral aberrant movements with initially intact consciousness, thereafter followed by brief episodes of altered awareness.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Thorough investigations ruled out metabolic, structural and other pharmacological reasons.",
+  "correct_diagnosis": "Levofloxacin-induced focal seizure",
+  "differentials": [
+    "Levofloxacin-induced focal seizure",
+    "Metabolic encephalopathy",
+    "Structural brain lesion",
+    "Pharmacological seizure (other medication)",
+    "Idiopathic focal seizure"
+  ],
+  "correct_ranking": [
+    "Levofloxacin-induced focal seizure",
+    "Metabolic encephalopathy",
+    "Structural brain lesion",
+    "Pharmacological seizure (other medication)",
+    "Idiopathic focal seizure"
+  ]
+}

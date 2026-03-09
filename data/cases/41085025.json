@@ -1,0 +1,23 @@
+{
+  "case_id": "41085025",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 51-year-old woman presents with a history of chronic pancreatitis and recent development of pancreatic ductal adenocarcinoma.",
+  "history": "The patient has a history of PRSS1-associated hereditary pancreatitis, chronic alcohol and tobacco use, and recent neoadjuvant chemotherapy followed by total pancreatectomy.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Histological analysis of the entire pancreas revealed no high-grade PanINs and scattered low-grade PanINs, with and without KRAS mutations. Genomic profiling identified multiple driver alterations, comprising both clonal and subclonal events.",
+  "correct_diagnosis": "Pancreatic ductal adenocarcinoma in PRSS1-associated hereditary pancreatitis with chromothripsis-like tumor evolution",
+  "differentials": [
+    "Pancreatic ductal adenocarcinoma in PRSS1-associated hereditary pancreatitis with chromothripsis-like tumor evolution",
+    "Pancreatic ductal adenocarcinoma in PRSS1-associated hereditary pancreatitis",
+    "Pancreatic ductal adenocarcinoma with chromothripsis-like tumor evolution",
+    "Pancreatic ductal adenocarcinoma",
+    "Chronic pancreatitis"
+  ],
+  "correct_ranking": [
+    "Pancreatic ductal adenocarcinoma in PRSS1-associated hereditary pancreatitis with chromothripsis-like tumor evolution",
+    "Pancreatic ductal adenocarcinoma in PRSS1-associated hereditary pancreatitis",
+    "Pancreatic ductal adenocarcinoma with chromothripsis-like tumor evolution",
+    "Pancreatic ductal adenocarcinoma",
+    "Chronic pancreatitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40782646",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A diabetic patient presents with symptoms of coronary artery disease, including multivessel disease.",
+  "history": "The patient has a history of diabetes, which is a major risk factor for coronary artery disease, often resulting in diffuse, calcified, and complex lesions.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Intracoronary imaging and coronary angiography are used to guide revascularization strategies.",
+  "correct_diagnosis": "Multivessel coronary artery disease in a diabetic patient",
+  "differentials": [
+    "Unstable angina",
+    "Multivessel coronary artery disease in a diabetic patient",
+    "Myocardial infarction",
+    "Cardiomyopathy",
+    "Coronary artery disease with left ventricular dysfunction"
+  ],
+  "correct_ranking": [
+    "Multivessel coronary artery disease in a diabetic patient",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Coronary artery disease with left ventricular dysfunction",
+    "Cardiomyopathy"
+  ]
+}

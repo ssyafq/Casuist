@@ -1,0 +1,23 @@
+{
+  "case_id": "41338912",
+  "specialty": "chest pain",
+  "chief_complaint": "A middle-aged man presented with acute chest pain.",
+  "history": "The patient was admitted with acute chest pain and markedly elevated troponin levels. Diagnostic evaluations revealed an apical pneumothorax, and pneumomediastinum, without evidence of dynamic ischaemic ECG changes. The troponin elevation was attributed to stress from pneumomediastinum, localised inflammation and myocardial strain.",
+  "exam": "Vital signs and physical examination findings were not specified.",
+  "labs": "ECG: dynamic ischaemic changes were absent; Troponin: markedly elevated, with minimal variation in serial measurements (<10%); Imaging: apical pneumothorax and pneumomediastinum.",
+  "correct_diagnosis": "Myocardial strain due to pneumomediastinum",
+  "differentials": [
+    "Myocardial strain due to pneumomediastinum",
+    "Acute coronary syndrome",
+    "Pneumothorax",
+    "Pneumomediastinum",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Myocardial strain due to pneumomediastinum",
+    "Acute coronary syndrome",
+    "Pneumothorax",
+    "Pneumomediastinum",
+    "Cardiac tamponade"
+  ]
+}

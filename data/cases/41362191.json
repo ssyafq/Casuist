@@ -1,0 +1,23 @@
+{
+  "case_id": "41362191",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 42-year-old male presented with severe abdominal pain.",
+  "history": "Severe hypertriglyceridemia is a critical risk factor for acute pancreatitis. Lipemic interference in laboratory testing complicates diagnosis and delays clinical intervention.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Triglycerides: > 21.94 mmol/L, Sodium: 128 - 137 mmol/L, Total protein: 84.2 - 62.8 g/L",
+  "correct_diagnosis": "Acute pancreatitis",
+  "differentials": [
+    "Acute pancreatitis",
+    "Hypertriglyceridemia",
+    "Pancreatic necrosis",
+    "Pancreatic pseudocyst",
+    "Pancreatic cancer"
+  ],
+  "correct_ranking": [
+    "Acute pancreatitis",
+    "Hypertriglyceridemia",
+    "Pancreatic necrosis",
+    "Pancreatic pseudocyst",
+    "Pancreatic cancer"
+  ]
+}

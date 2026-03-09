@@ -1,0 +1,23 @@
+{
+  "case_id": "41662187",
+  "specialty": "COPD",
+  "chief_complaint": "A 65-year-old male patient presented with severe shortness of breath and progressive decline in lung function.",
+  "history": "Vanishing Lung Syndrome (VLS) is a rare, severe form of bullous pulmonary disease. The patient had a history of cigarette smoking and conservative management had failed to improve symptoms.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 24/min. Physical examination revealed a large bulla occupying more than 30% of the left hemithorax.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: Chest CT scan showing giant bullae occupying more than 30% of the left hemithorax.",
+  "correct_diagnosis": "Vanishing Lung Syndrome (VLS)",
+  "differentials": [
+    "Vanishing Lung Syndrome (VLS)",
+    "Pneumothorax",
+    "Ehlers-Danlos Syndrome",
+    "Alpha-1 antitrypsin deficiency",
+    "Chronic Obstructive Pulmonary Disease (COPD)"
+  ],
+  "correct_ranking": [
+    "Vanishing Lung Syndrome (VLS)",
+    "Pneumothorax",
+    "Ehlers-Danlos Syndrome",
+    "Alpha-1 antitrypsin deficiency",
+    "Chronic Obstructive Pulmonary Disease (COPD)"
+  ]
+}

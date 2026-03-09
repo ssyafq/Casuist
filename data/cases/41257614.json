@@ -1,0 +1,23 @@
+{
+  "case_id": "41257614",
+  "specialty": "meningitis",
+  "chief_complaint": "A 45-year-old male renal transplant recipient presented with symptoms of tuberculous meningitis.",
+  "history": "Tuberculosis is a challenging and severe infection among solid organ transplant recipients. The patient was diagnosed with renal allograft tuberculosis and tuberculous meningoencephalitis. A contezolid-included regimen was initiated to treat the infection.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Concentration of contezolid in serum and cerebrospinal fluid at various time points during treatment was monitored.",
+  "correct_diagnosis": "Tuberculous meningoencephalitis",
+  "differentials": [
+    "Tuberculous meningoencephalitis",
+    "Mycobacterium tuberculosis infection",
+    "Central nervous system infection",
+    "Renal transplant rejection",
+    "Meningitis due to other causes"
+  ],
+  "correct_ranking": [
+    "Tuberculous meningoencephalitis",
+    "Mycobacterium tuberculosis infection",
+    "Central nervous system infection",
+    "Renal transplant rejection",
+    "Meningitis due to other causes"
+  ]
+}

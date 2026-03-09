@@ -1,0 +1,23 @@
+{
+  "case_id": "39692117",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "Two patients presented with acute coronary syndrome.",
+  "history": "The patients had significant coronary lesions and underwent robotic-assisted percutaneous coronary intervention using the R-One+ system.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided, but the procedure involved minimal contrast use and reduced operator radiation exposure.",
+  "correct_diagnosis": "Acute Coronary Syndrome",
+  "differentials": [
+    "Stable Angina",
+    "Acute Coronary Syndrome",
+    "Cardiomyopathy",
+    "Coronary Artery Disease",
+    "Myocardial Infarction"
+  ],
+  "correct_ranking": [
+    "Acute Coronary Syndrome",
+    "Myocardial Infarction",
+    "Coronary Artery Disease",
+    "Stable Angina",
+    "Cardiomyopathy"
+  ]
+}

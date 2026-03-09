@@ -1,0 +1,23 @@
+{
+  "case_id": "41239603",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 65-year-old male patient presented with persistent chest pain.",
+  "history": "The patient initially presented with acute anterior myocardial infarction symptoms, including electrocardiogram findings of coved ST-segment elevation and significantly elevated myocardial enzymes. He was admitted for persistent chest pain and underwent percutaneous coronary intervention.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min. Physical examination revealed a patient in distress with a blood pressure drop.",
+  "labs": "ECG: coved ST-segment elevation. Myocardial enzymes: significantly elevated. Bedside ultrasound: ascending aortic dissection.",
+  "correct_diagnosis": "Acute type A aortic dissection (TA-AAD) with acute myocardial infarction (AMI)",
+  "differentials": [
+    "Acute type A aortic dissection (TA-AAD) with acute myocardial infarction (AMI)",
+    "Acute myocardial infarction (AMI)",
+    "Cardiogenic shock",
+    "Hypertensive emergency",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Acute type A aortic dissection (TA-AAD) with acute myocardial infarction (AMI)",
+    "Acute myocardial infarction (AMI)",
+    "Cardiogenic shock",
+    "Hypertensive emergency",
+    "Pulmonary embolism"
+  ]
+}

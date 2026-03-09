@@ -1,0 +1,23 @@
+{
+  "case_id": "41041329",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 45-year-old woman presented with sudden vision loss and facial pain.",
+  "history": "The patient had a history of poorly controlled diabetes mellitus complicated by diabetic ketoacidosis. She developed rhino-orbital-cerebral mucormycosis, refractory to systemic and local antifungal treatment as well as repeated extensive sinonasal debridement.",
+  "exam": "Vital signs: temperature 37.5°C, blood pressure 120/80 mmHg, pulse 100/min. Physical examination revealed decreased visual acuity, facial pain, and nasal discharge.",
+  "labs": "ECG: normal. Bloods: elevated blood glucose, leukocytosis. Imaging: CT scan of the orbits showing mucormycosis. Other tests: negative galactomannan antigen.",
+  "correct_diagnosis": "rhino-orbital-cerebral mucormycosis",
+  "differentials": [
+    "rhino-orbital-cerebral mucormycosis",
+    "aspergillosis",
+    "rhinoscleroma",
+    "rhinosporidiosis",
+    "nasopharyngeal carcinoma"
+  ],
+  "correct_ranking": [
+    "rhino-orbital-cerebral mucormycosis",
+    "aspergillosis",
+    "rhinoscleroma",
+    "rhinosporidiosis",
+    "nasopharyngeal carcinoma"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41101790",
+  "specialty": "COPD",
+  "chief_complaint": "A 1-month-old female infant presented with a month-long history of dry cough, along with two episodes of fever and increased work of breathing.",
+  "history": "The infant had a history of severe acute malnutrition. She was admitted to the hospital and required oxygen therapy. She had two episodes of fever and increased work of breathing.",
+  "exam": "On examination, she had mild tachypnoea, chest retractions, and reduced air entry in the left lower lung zone with occasional wheezing. Her oxygen saturation was normal on room air.",
+  "labs": "Chest X-ray showed left lung hyperinflation with mediastinal shift to the right. A plain CT chest done outside showed left lung hyperlucency. Bronchoscopy revealed near-complete blockage of the left main bronchus. Contrast chest CT identified a hypodense lesion in the subcarinal area, compressing the oesophagus and left main bronchus and abutting the aorta.",
+  "correct_diagnosis": "Oesophageal duplication cyst",
+  "differentials": [
+    "Oesophageal duplication cyst",
+    "Congenital lobar emphysema",
+    "Tracheomalacia",
+    "Foreign body aspiration",
+    "Bronchiolitis"
+  ],
+  "correct_ranking": [
+    "Oesophageal duplication cyst",
+    "Congenital lobar emphysema",
+    "Tracheomalacia",
+    "Foreign body aspiration",
+    "Bronchiolitis"
+  ]
+}

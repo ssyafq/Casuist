@@ -1,0 +1,23 @@
+{
+  "case_id": "41588453",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "43-year-old South Asian man with acute chest pain and diagnosed with an anterior ST-elevation myocardial infarction.",
+  "history": "Newly diagnosed type 2 diabetes, elevated cholesterol, primary percutaneous coronary intervention with drug-eluting stent placement, two additional episodes of acute in-stent thrombosis within 17 days, repeat balloon angioplasty, second stent, and administration of intravenous antiplatelet agents.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: anterior ST-elevation myocardial infarction, Bloods: elevated cholesterol, Imaging: angiography, optical coherence tomography, Left ventricular ejection fraction: ~30% at day 16, 40-45% by month 6.",
+  "correct_diagnosis": "Recurrent in-stent thrombosis",
+  "differentials": [
+    "Recurrent in-stent thrombosis",
+    "Stent malapposition",
+    "Stent underexpansion",
+    "Diabetes-related thrombosis",
+    "Dyslipidemia-related thrombosis"
+  ],
+  "correct_ranking": [
+    "Recurrent in-stent thrombosis",
+    "Stent malapposition",
+    "Stent underexpansion",
+    "Diabetes-related thrombosis",
+    "Dyslipidemia-related thrombosis"
+  ]
+}

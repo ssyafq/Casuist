@@ -1,0 +1,23 @@
+{
+  "case_id": "40797499",
+  "specialty": "chest pain",
+  "chief_complaint": "A 57-year-old male presented with severe chest pain lasting several hours, accompanied by hemodynamic instability and ST-segment elevation consistent with myocardial infarction.",
+  "history": "The patient presented with severe chest pain lasting several hours, accompanied by hemodynamic instability and ST-segment elevation consistent with myocardial infarction. He had no significant past medical history.",
+  "exam": "Vital signs: tachycardia, hypotension. Physical examination: diffuse chest pain, no focal abnormalities.",
+  "labs": "ECG: ST-segment elevation. Coronary angiography (CAG): total occlusion of the left circumflex artery (LCX). Computed tomography angiography (CTA): absence of the right coronary artery (RCA).",
+  "correct_diagnosis": "Misinterpretation of a left-dominant system with anomalous small RCA",
+  "differentials": [
+    "Misinterpretation of a left-dominant system with anomalous small RCA",
+    "Total occlusion of the left circumflex artery (LCX)",
+    "Right coronary artery (RCA) agenesis",
+    "Superdominant left circumflex artery (LCX)",
+    "Myocardial infarction due to coronary artery anomaly"
+  ],
+  "correct_ranking": [
+    "Misinterpretation of a left-dominant system with anomalous small RCA",
+    "Total occlusion of the left circumflex artery (LCX)",
+    "Right coronary artery (RCA) agenesis",
+    "Superdominant left circumflex artery (LCX)",
+    "Myocardial infarction due to coronary artery anomaly"
+  ]
+}

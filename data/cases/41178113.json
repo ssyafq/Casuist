@@ -1,0 +1,23 @@
+{
+  "case_id": "41178113",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 75-year-old woman developed acute hypoxia, tachycardia, and tachypnea during ureteroscopic lithotripsy.",
+  "history": "The patient has a history of hypertension and diabetes. She underwent ureteroscopic lithotripsy and developed acute hypoxia, tachycardia (110/min), and tachypnea (35/min) accompanied by a positive fluid balance of 2430 mL from irrigation absorption.",
+  "exam": "Vital signs: tachycardia (110/min), tachypnea (35/min), hypoxia. Physical examination findings: none specified.",
+  "labs": "ECG: not specified. Bloods: metabolic acidosis (pH 7.32), hypoxemia (PaO(2)/FiO(2) 132 mmHg), markedly elevated NT-proBNP (3892 pg/mL). Imaging: pulmonary CT angiography excluded thromboembolism but confirmed bilateral pulmonary edema. Other tests: bedside echocardiography revealed RV dilation, McConnell's sign, D-shaped LV, severe tricuspid regurgitation, elevated systolic pulmonary artery pressure (58 mmHg), 60/60 sign, and fused mitral E/A waves.",
+  "correct_diagnosis": "Fluid absorption-induced cardiogenic pulmonary edema",
+  "differentials": [
+    "Fluid absorption-induced cardiogenic pulmonary edema",
+    "Pulmonary embolism",
+    "Acute right ventricular (RV) volume overload",
+    "Biventricular dysfunction",
+    "Cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "Fluid absorption-induced cardiogenic pulmonary edema",
+    "Pulmonary embolism",
+    "Acute right ventricular (RV) volume overload",
+    "Biventricular dysfunction",
+    "Cardiogenic shock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "35334626",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 38-year-old woman with a twin pregnancy presents with nausea, abdominal pain, tachycardia, hypertension, and disturbance of consciousness.",
+  "history": "The patient was diagnosed with gestational hypertension and developed a thyroid storm during the peripartum period. She had no prior history of thyroid disease.",
+  "exam": "Tachycardia, hypertension, disturbance of consciousness, and desaturation. Postoperative period findings included fever, diarrhea, and high-output heart failure with pulmonary edema.",
+  "labs": "Diagnosis of thyroid storm confirmed using the Burch-Wartofsky point scale with 75 points.",
+  "correct_diagnosis": "Thyroid Storm",
+  "differentials": [
+    "Gestational Hypertension",
+    "Peripartum Cardiomyopathy",
+    "Thyroid Storm",
+    "Pulmonary Embolism",
+    "Severe Preeclampsia"
+  ],
+  "correct_ranking": [
+    "Thyroid Storm",
+    "Gestational Hypertension",
+    "Peripartum Cardiomyopathy",
+    "Severe Preeclampsia",
+    "Pulmonary Embolism"
+  ]
+}

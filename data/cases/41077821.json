@@ -1,0 +1,23 @@
+{
+  "case_id": "41077821",
+  "specialty": "chest pain",
+  "chief_complaint": "A 45-year-old male presented with recurrent chest pain.",
+  "history": "The patient had a history of ST-segment elevation myocardial infarction (STEMI) in the inferior leads. He underwent coronary angiography (CAG) which revealed only moderate stenosis of the right coronary artery (RCA).",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm. Physical examination revealed no significant abnormalities.",
+  "labs": "ECG: ST-segment elevation in the inferior leads. OCT: confirmed the diagnosis of SCAD-induced myocardial infarction.",
+  "correct_diagnosis": "Spontaneous coronary artery dissection (SCAD) of the right coronary artery (RCA)",
+  "differentials": [
+    "Spontaneous coronary artery dissection (SCAD) of the right coronary artery (RCA)",
+    "Acute myocardial infarction due to atherosclerotic coronary artery disease",
+    "Acute pericarditis",
+    "Pulmonary embolism",
+    "Gastroesophageal reflux disease (GERD) with esophageal spasm"
+  ],
+  "correct_ranking": [
+    "Spontaneous coronary artery dissection (SCAD) of the right coronary artery (RCA)",
+    "Acute myocardial infarction due to atherosclerotic coronary artery disease",
+    "Acute pericarditis",
+    "Pulmonary embolism",
+    "Gastroesophageal reflux disease (GERD) with esophageal spasm"
+  ]
+}

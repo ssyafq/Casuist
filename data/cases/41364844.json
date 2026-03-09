@@ -1,0 +1,23 @@
+{
+  "case_id": "41364844",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 65-year-old male patient presented with symptoms of shock and hypotension.",
+  "history": "The patient was initially treated for presumed septic shock. However, the intensive care nurse practitioner suspected cardiogenic shock due to the patient's history of myocardial infarction and the presence of chest pain. The patient had a history of hypertension and hyperlipidemia. He was on aspirin, atorvastatin, and lisinopril.",
+  "exam": "Vital signs: blood pressure 80/40 mmHg, heart rate 120 bpm, respiratory rate 24 breaths/min, oxygen saturation 88% on room air. Physical examination revealed a patient in shock with decreased peripheral pulses and cool extremities.",
+  "labs": "ECG: ST-segment elevation in leads II, III, and aVF. Bloods: lactate 4.5 mmol/L, creatinine 1.8 mg/dL, troponin 10 ng/mL. Imaging: echocardiogram showing a left ventricular ejection fraction of 20%.",
+  "correct_diagnosis": "Cardiogenic shock due to myocardial infarction",
+  "differentials": [
+    "Cardiogenic shock due to myocardial infarction",
+    "Septic shock",
+    "Hypovolemic shock",
+    "Cardiac tamponade",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Cardiogenic shock due to myocardial infarction",
+    "Septic shock",
+    "Hypovolemic shock",
+    "Cardiac tamponade",
+    "Pulmonary embolism"
+  ]
+}

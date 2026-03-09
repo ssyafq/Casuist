@@ -1,0 +1,23 @@
+{
+  "case_id": "41445215",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 75-year-old male patient presented with sudden onset shortness of breath and chest pain after undergoing percutaneous vertebroplasty.",
+  "history": "The patient had a history of osteoporosis and had undergone the procedure 30 minutes prior to presentation. He had no history of bleeding disorders or previous pulmonary embolism. He was on aspirin and calcium supplements.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 110 bpm, RR 24/min, SpO2 88% on room air. Physical examination revealed bilateral lung crackles and a loud P2.",
+  "labs": "ECG: S1Q3T3 pattern. Chest X-ray: Bilateral pulmonary infiltrates. CT Pulmonary Angiogram: Cement embolus in the right pulmonary artery.",
+  "correct_diagnosis": "Pulmonary embolism of Cement during percutaneous vertebroplasty",
+  "differentials": [
+    "Pulmonary embolism of Cement during percutaneous vertebroplasty",
+    "Acute respiratory distress syndrome",
+    "Pneumonia",
+    "Acute coronary syndrome",
+    "Pulmonary edema"
+  ],
+  "correct_ranking": [
+    "Pulmonary embolism of Cement during percutaneous vertebroplasty",
+    "Acute respiratory distress syndrome",
+    "Pneumonia",
+    "Acute coronary syndrome",
+    "Pulmonary edema"
+  ]
+}

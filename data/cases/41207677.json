@@ -1,0 +1,23 @@
+{
+  "case_id": "41207677",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "An 88-year-old female presented with melena.",
+  "history": "The patient was admitted with a complaint of melena. Abdominal computed tomography revealed a dense mass and a target sign in the distal ileum, suggesting an intestinal mass and associated intussusception. However, there were no signs of intestinal obstruction or ischemic change. Retrograde single-balloon enteroscopy revealed a lesion in the distal ileum that appeared as a spherical mass in the frontal view, with a long stalk visible posteriorly. Enteroscopic clipping and tattooing were performed for preoperative marking.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Abdominal computed tomography revealed a dense mass and a target sign in the distal ileum. Retrograde single-balloon enteroscopy revealed a lesion in the distal ileum. Contrast examination revealed a long and slender mass with a hemispherical, dome-shaped head.",
+  "correct_diagnosis": "Enteric muco-submucosal elongated polyp (EMSEP) with intussusception",
+  "differentials": [
+    "Enteric muco-submucosal elongated polyp (EMSEP) with intussusception",
+    "Intestinal lymphoma",
+    "Small intestine adenocarcinoma",
+    "Intestinal ischemia",
+    "Meckel's diverticulum"
+  ],
+  "correct_ranking": [
+    "Enteric muco-submucosal elongated polyp (EMSEP) with intussusception",
+    "Intestinal lymphoma",
+    "Small intestine adenocarcinoma",
+    "Intestinal ischemia",
+    "Meckel's diverticulum"
+  ]
+}

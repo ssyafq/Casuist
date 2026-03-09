@@ -1,0 +1,23 @@
+{
+  "case_id": "36451985",
+  "specialty": "cardiology",
+  "chief_complaint": "A 60-year-old patient presented with angina-like chest pain.",
+  "history": "The patient is an active smoker and a former type 2 diabetic with a history of chest pain and a positive stress test.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Initial electrocardiogram showed a discreet elevation of the ST segment and an aVR necrosis Q wave with mirror signs in the inferior territory. Diagnostic coronary angiography objectified a multi-vessel coronary lesion.",
+  "correct_diagnosis": "Ischemic heart disease",
+  "differentials": [
+    "Hypertrophic cardiomyopathy",
+    "Ischemic heart disease",
+    "Pericarditis",
+    "Cardiac sarcoidosis",
+    "Myocardial bridge"
+  ],
+  "correct_ranking": [
+    "Ischemic heart disease",
+    "Hypertrophic cardiomyopathy",
+    "Myocardial bridge",
+    "Pericarditis",
+    "Cardiac sarcoidosis"
+  ]
+}

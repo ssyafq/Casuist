@@ -1,0 +1,23 @@
+{
+  "case_id": "41557551",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 51-year-old male patient presented with a history of COVID-19 infection and a history of untreated type 2 diabetes mellitus.",
+  "history": "The patient was admitted to the hospital and received intravenous fluconazole for two weeks. He was discharged with oral fluconazole for three months and follow-up in an outpatient clinic. One month after hospital discharge, he presented with cardiorespiratory arrest.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG and blood tests were not mentioned, but the patient received intravenous fluconazole for two weeks.",
+  "correct_diagnosis": "Papiliotrema laurentii pulmonary mycosis",
+  "differentials": [
+    "Papiliotrema laurentii pulmonary mycosis",
+    "Aspergillus pneumonia",
+    "Histoplasmosis",
+    "Pneumocystis jirovecii pneumonia",
+    "Candida pneumonia"
+  ],
+  "correct_ranking": [
+    "Papiliotrema laurentii pulmonary mycosis",
+    "Aspergillus pneumonia",
+    "Histoplasmosis",
+    "Pneumocystis jirovecii pneumonia",
+    "Candida pneumonia"
+  ]
+}

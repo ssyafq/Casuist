@@ -1,0 +1,23 @@
+{
+  "case_id": "41613957",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 29-year-old male presented with a 3-day history of headache and poor appetite accompanied by a half-day of nausea and vomiting.",
+  "history": "The patient had a 3-day history of headache and poor appetite accompanied by a half-day of nausea and vomiting. He was admitted to the hospital after DKA was suspected. The patient had previously been diagnosed with Kallmann syndrome and had small testicles and a small penis. Chromosome examination revealed an extra X chromosome (47, XXY), and Klinefelter syndrome was diagnosed.",
+  "exam": "Vital signs: not provided. Physical examination revealed small testicles and a small penis.",
+  "labs": "Abdominal CT: small testicles and a small penis. Blood tests: results not provided.",
+  "correct_diagnosis": "Diabetic ketoacidosis in a patient with Klinefelter syndrome",
+  "differentials": [
+    "Diabetic ketoacidosis in a patient with Klinefelter syndrome",
+    "Kallmann syndrome",
+    "Metabolic syndrome",
+    "Type 2 diabetes",
+    "Gastroenteritis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis in a patient with Klinefelter syndrome",
+    "Kallmann syndrome",
+    "Metabolic syndrome",
+    "Type 2 diabetes",
+    "Gastroenteritis"
+  ]
+}

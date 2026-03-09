@@ -1,0 +1,23 @@
+{
+  "case_id": "41560324",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "An 81-year-old woman presented with loss of appetite, asthenia, and weight loss.",
+  "history": "The patient had a history of intrahepatic cholangiocarcinoma with metastases to the lungs and other organs. She was scheduled for a liver biopsy but died suddenly 3 days later.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Imaging revealed multiple liver tumors and suspected pulmonary metastases. Autopsy revealed cardiac tamponade due to left ventricular rupture, with thrombotic occlusion of both epicardial and microvascular branches in the distal left anterior descending artery.",
+  "correct_diagnosis": "Acute myocardial infarction due to nonbacterial thrombotic endocarditis in advanced intrahepatic cholangiocarcinoma",
+  "differentials": [
+    "Acute myocardial infarction due to nonbacterial thrombotic endocarditis in advanced intrahepatic cholangiocarcinoma",
+    "Coronary embolism from direct tumor embolism",
+    "Cardiac rupture due to myocardial infarction",
+    "Cardiac tamponade due to left ventricular rupture",
+    "Unstable angina"
+  ],
+  "correct_ranking": [
+    "Acute myocardial infarction due to nonbacterial thrombotic endocarditis in advanced intrahepatic cholangiocarcinoma",
+    "Coronary embolism from direct tumor embolism",
+    "Cardiac rupture due to myocardial infarction",
+    "Cardiac tamponade due to left ventricular rupture",
+    "Unstable angina"
+  ]
+}

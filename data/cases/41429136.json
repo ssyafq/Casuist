@@ -1,0 +1,23 @@
+{
+  "case_id": "41429136",
+  "specialty": "seizure",
+  "chief_complaint": "Four pediatric patients (ages not specified) with vitamin B6-dependent epilepsy presented with a history of long-term high-dose Pyridoxal Phosphate (PLP) therapy.",
+  "history": "All patients received high-dose oral PLP for several years, with frequent changes in formulation due to availability issues. Three patients developed hepatocellular carcinoma, and one developed fully reversible severe hepatotoxicity. Two patients had genetically confirmed PNPO deficiency, and two were later diagnosed with ALDH7A1 deficiency.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "No specific laboratory investigations are mentioned, but it is noted that regular hepatic monitoring should be implemented in all patients receiving chronic PLP therapy.",
+  "correct_diagnosis": "Hepatocellular Carcinoma due to Pyridoxal Phosphate toxicity",
+  "differentials": [
+    "Hepatocellular Carcinoma due to Pyridoxal Phosphate toxicity",
+    "Hepatotoxicity due to ALDH7A1 deficiency",
+    "Hepatotoxicity due to PNPO deficiency",
+    "Mitochondrial dysfunction due to Pyridoxal Phosphate toxicity",
+    "Schiff base-mediated protein modification due to Pyridoxal Phosphate toxicity"
+  ],
+  "correct_ranking": [
+    "Hepatocellular Carcinoma due to Pyridoxal Phosphate toxicity",
+    "Hepatotoxicity due to ALDH7A1 deficiency",
+    "Hepatotoxicity due to PNPO deficiency",
+    "Mitochondrial dysfunction due to Pyridoxal Phosphate toxicity",
+    "Schiff base-mediated protein modification due to Pyridoxal Phosphate toxicity"
+  ]
+}

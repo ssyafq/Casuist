@@ -1,0 +1,23 @@
+{
+  "case_id": "41233288",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 62-year-old woman presented with sudden onset of left-sided weakness and difficulty speaking.",
+  "history": "She had been experiencing shortness of breath for 2 days prior to the onset of neurological symptoms. Past medical history included hypertension and hyperlipidemia. She was on aspirin and atorvastatin. Social history was significant for recent travel and prolonged immobility.",
+  "exam": "Vital signs: BP 160/90 mmHg, HR 110 bpm, RR 24/min. Physical examination revealed left-sided weakness, dysarthria, and decreased sensation. Cardiac examination was normal.",
+  "labs": "ECG: normal sinus rhythm. Bloods: D-dimer 500 ng/mL, INR 1.2. Imaging: CT pulmonary angiogram showed multiple bilateral pulmonary emboli. Transesophageal echocardiogram revealed a patent foramen ovale.",
+  "correct_diagnosis": "Paradoxical embolism complicating acute pulmonary embolism",
+  "differentials": [
+    "Paradoxical embolism complicating acute pulmonary embolism",
+    "Cerebral vasculitis",
+    "Cardiac embolism",
+    "Migraine with aura",
+    "Stroke due to hypertension"
+  ],
+  "correct_ranking": [
+    "Paradoxical embolism complicating acute pulmonary embolism",
+    "Cerebral vasculitis",
+    "Cardiac embolism",
+    "Migraine with aura",
+    "Stroke due to hypertension"
+  ]
+}

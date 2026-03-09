@@ -1,0 +1,23 @@
+{
+  "case_id": "41635837",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "An elderly male patient with Stage IV lung adenocarcinoma presented with severe coma, hyperglycemia, and metabolic disorder.",
+  "history": "The patient was diagnosed with Stage IV lung adenocarcinoma harboring KRAS p.G12C and TP53 p.R273C mutations. He achieved sustained stable disease and symptomatic improvement through a sequential therapeutic strategy, including platinum-based chemotherapy followed by the PD-1 inhibitor sintilimab combined with anti-angiogenic agents (apatinib or anlotinib).",
+  "exam": "Vital signs: severe hyperglycemia, metabolic disorder. Physical examination: coma.",
+  "labs": "Laboratory investigations confirmed fulminant ICI-related diabetic ketoacidosis (DKA).",
+  "correct_diagnosis": "Fulminant ICI-related diabetic ketoacidosis (DKA)",
+  "differentials": [
+    "Fulminant ICI-related diabetic ketoacidosis (DKA)",
+    "Hyperosmolar hyperglycemic state",
+    "Diabetic ketoacidosis due to underlying diabetes mellitus",
+    "Hypoglycemic coma",
+    "Cerebral edema"
+  ],
+  "correct_ranking": [
+    "Fulminant ICI-related diabetic ketoacidosis (DKA)",
+    "Hyperosmolar hyperglycemic state",
+    "Diabetic ketoacidosis due to underlying diabetes mellitus",
+    "Hypoglycemic coma",
+    "Cerebral edema"
+  ]
+}

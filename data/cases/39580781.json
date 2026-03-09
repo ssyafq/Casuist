@@ -1,0 +1,23 @@
+{
+  "case_id": "39580781",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "Patients presented with septic cardiomyopathy, some without chest pain, mimicking acute coronary syndrome.",
+  "history": "Four cases of septic cardiomyopathy are presented, highlighting ECG and troponin elevations without significant coronary stenosis, likely due to vascular involvement and cellular damage from sepsis.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "ECG abnormalities and troponin elevations are noted, without significant stenosis on coronary angiography.",
+  "correct_diagnosis": "Septic cardiomyopathy",
+  "differentials": [
+    "Acute coronary syndrome",
+    "Myocarditis",
+    "Cardiogenic shock",
+    "Septic cardiomyopathy",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Septic cardiomyopathy",
+    "Myocarditis",
+    "Acute coronary syndrome",
+    "Cardiogenic shock",
+    "Pulmonary embolism"
+  ]
+}

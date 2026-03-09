@@ -1,0 +1,23 @@
+{
+  "case_id": "40312197",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A series of patients presented with acute coronary syndromes.",
+  "history": "Numerous risk factors such as smoking, low High Density Lipoprotein (HDL) levels, metabolic syndrome, high triglycerides, diabetes, etc. have been implicated in the development of coronary artery disease and ACS.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Low serum vitamin B12, high homocysteine, high Triglyceride, low HDL, low cholesterol and low LDL levels.",
+  "correct_diagnosis": "Vitamin B12 deficiency and hyperhomocystinemia associated with acute coronary syndromes",
+  "differentials": [
+    "Unstable angina",
+    "Vitamin B12 deficiency and hyperhomocystinemia associated with acute coronary syndromes",
+    "Myocardial infarction",
+    "Cardiogenic shock",
+    "Atherosclerotic cardiovascular disease"
+  ],
+  "correct_ranking": [
+    "Vitamin B12 deficiency and hyperhomocystinemia associated with acute coronary syndromes",
+    "Atherosclerotic cardiovascular disease",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Cardiogenic shock"
+  ]
+}

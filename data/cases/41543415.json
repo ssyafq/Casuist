@@ -1,0 +1,23 @@
+{
+  "case_id": "41543415",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 45-year-old male patient presented with hemodynamic collapse following induction of general anesthesia for open reduction and internal fixation of a traumatic pelvic fracture.",
+  "history": "The patient had a history of recent trauma to the pelvis and had been immobile for several days. He had no known history of cardiac disease or pulmonary embolism. He was on no regular medications.",
+  "exam": "Vital signs: BP 60/40 mmHg, HR 120 bpm, RR 24 bpm. Physical examination revealed a patient in cardiac arrest with no signs of cardiac tamponade.",
+  "labs": "ECG: PEA pattern. Bloods: normal coagulation studies. Imaging: none.",
+  "correct_diagnosis": "Massive Pulmonary Embolism",
+  "differentials": [
+    "Massive Pulmonary Embolism",
+    "Cardiac Tamponade",
+    "Tension Pneumothorax",
+    "Hypovolemic Shock",
+    "Anaphylactic Shock"
+  ],
+  "correct_ranking": [
+    "Massive Pulmonary Embolism",
+    "Cardiac Tamponade",
+    "Tension Pneumothorax",
+    "Hypovolemic Shock",
+    "Anaphylactic Shock"
+  ]
+}

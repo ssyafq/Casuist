@@ -1,0 +1,23 @@
+{
+  "case_id": "41514373",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "51-year-old Syrian male presenting with inferior ST-segment elevation myocardial infarction.",
+  "history": "Coronary artery anomalies represent morphological deviations from standard coronary anatomy, occurring in less than 1% of the general population. The patient had an anomalous aortic origin of a coronary artery arising from the ascending aorta.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: inferior ST-segment elevation myocardial infarction; Bloods: not provided; Imaging: not provided.",
+  "correct_diagnosis": "Anomalous aortic origin of a coronary artery arising from the ascending aorta causing inferior ST-segment elevation myocardial infarction.",
+  "differentials": [
+    "Anomalous aortic origin of a coronary artery arising from the ascending aorta causing inferior ST-segment elevation myocardial infarction.",
+    "Ostial dissection during percutaneous coronary intervention",
+    "Acute myocardial infarction due to coronary artery disease",
+    "Cardiac ischemia due to coronary artery anomaly",
+    "Sudden cardiac death due to coronary artery anomaly"
+  ],
+  "correct_ranking": [
+    "Anomalous aortic origin of a coronary artery arising from the ascending aorta causing inferior ST-segment elevation myocardial infarction.",
+    "Ostial dissection during percutaneous coronary intervention",
+    "Acute myocardial infarction due to coronary artery disease",
+    "Cardiac ischemia due to coronary artery anomaly",
+    "Sudden cardiac death due to coronary artery anomaly"
+  ]
+}

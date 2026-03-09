@@ -1,0 +1,23 @@
+{
+  "case_id": "41163254",
+  "specialty": "chest pain",
+  "chief_complaint": "A 55-year-old female patient presented with severe chest tightness and shortness of breath.",
+  "history": "The patient was treated symptomatically and placed under observation. A follow-up ECG revealed biphasic, inverted T waves in precordial leads V2-V5, consistent with Wellens Type A.",
+  "exam": "Sinus rhythm, a heart rate of 84/minute, and no ST-segment changes were initially observed.",
+  "labs": "ECG showed sinus rhythm, a heart rate of 84/minute, and biphasic, inverted T waves in precordial leads V2-V5. Coronary angiography demonstrated moderate (40%) diffuse narrowing of the proximal LAD, mild subocclusion of diagonal branches 1 and 2, 50% stenosis of the left circumflex artery, 50% stenosis of obtuse marginal branch 2, and significant (70%) mid-segment stenosis of the right coronary artery.",
+  "correct_diagnosis": "Wellens Syndrome",
+  "differentials": [
+    "Acute Coronary Syndrome",
+    "Myocardial Infarction",
+    "Wellens Syndrome",
+    "Angina Pectoris",
+    "Cardiac Tamponade"
+  ],
+  "correct_ranking": [
+    "Wellens Syndrome",
+    "Acute Coronary Syndrome",
+    "Myocardial Infarction",
+    "Angina Pectoris",
+    "Cardiac Tamponade"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41716509",
+  "specialty": "pneumonia",
+  "chief_complaint": "An 11-year-old spayed female Dogo Argentino dog with megaesophagus was managed with mechanical ventilation for aspiration pneumonia.",
+  "history": "The dog had been treated previously with omeprazole and amoxicillin-clavulanic acid for 2.5 weeks. Airway cytology showed inflammation and numerous yeast organisms most consistent with Candida. Therapy with fluconazole was initiated, but the dog's condition deteriorated.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Airway cytology: inflammation and numerous yeast organisms most consistent with Candida. Airway culture and postmortem culture of lung tissue: Candida glabrata and polymicrobial infection.",
+  "correct_diagnosis": "Candida glabrata pneumonia",
+  "differentials": [
+    "Candida glabrata pneumonia",
+    "Aspiration pneumonia",
+    "Polymicrobial pneumonia",
+    "Megaesophagus-related pneumonia",
+    "Antimicrobial-resistant bacterial pneumonia"
+  ],
+  "correct_ranking": [
+    "Candida glabrata pneumonia",
+    "Aspiration pneumonia",
+    "Polymicrobial pneumonia",
+    "Megaesophagus-related pneumonia",
+    "Antimicrobial-resistant bacterial pneumonia"
+  ]
+}

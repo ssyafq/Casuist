@@ -1,0 +1,23 @@
+{
+  "case_id": "39369420",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 74-year-old hypertensive male presented with features of acute coronary syndrome.",
+  "history": "The patient had a history of hypertension and aspirin allergy. He was planned for percutaneous transluminal coronary angioplasty (PTCA) of the right coronary artery (RCA) followed by dual antiplatelet therapy.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "No specific laboratory results were reported, but the patient underwent procedures like PTCA.",
+  "correct_diagnosis": "Acute Coronary Syndrome with Aspirin Hypersensitivity",
+  "differentials": [
+    "Stable Angina with Aspirin Hypersensitivity",
+    "Acute Coronary Syndrome with Aspirin Hypersensitivity",
+    "Myocardial Infarction with Aspirin Hypersensitivity",
+    "Unstable Angina with Aspirin Hypersensitivity",
+    "Aspirin-Exacerbated Respiratory Disease"
+  ],
+  "correct_ranking": [
+    "Acute Coronary Syndrome with Aspirin Hypersensitivity",
+    "Myocardial Infarction with Aspirin Hypersensitivity",
+    "Unstable Angina with Aspirin Hypersensitivity",
+    "Stable Angina with Aspirin Hypersensitivity",
+    "Aspirin-Exacerbated Respiratory Disease"
+  ]
+}

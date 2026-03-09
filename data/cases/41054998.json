@@ -1,0 +1,23 @@
+{
+  "case_id": "41054998",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 65-year-old male patient presented with a sudden onset of severe, painless, and massive hematemesis.",
+  "history": "The patient had a history of chronic gastrointestinal bleeding for several months prior to the acute event. He had no significant past medical history and was not on any regular medications. He was a non-smoker and had a moderate alcohol intake.",
+  "exam": "Vital signs: BP 90/60 mmHg, HR 120 bpm, RR 24/min. Physical examination revealed a pale and tachycardic patient with a palpable mass in the upper abdomen.",
+  "labs": "ECG: normal. Bloods: Hb 6.2 g/dL, MCV 85 fL, INR 1.2, platelets 150 x 10^9/L. Imaging: CT abdomen showed a large mass in the jejunum with significant bleeding.",
+  "correct_diagnosis": "Massive jejunal gastrointestinal stromal tumour bleed",
+  "differentials": [
+    "Massive jejunal gastrointestinal stromal tumour bleed",
+    "Duodenal ulcer with bleeding",
+    "Small bowel varices with bleeding",
+    "Meckel's diverticulum with bleeding",
+    "Mesenteric vein thrombosis with bleeding"
+  ],
+  "correct_ranking": [
+    "Massive jejunal gastrointestinal stromal tumour bleed",
+    "Duodenal ulcer with bleeding",
+    "Small bowel varices with bleeding",
+    "Meckel's diverticulum with bleeding",
+    "Mesenteric vein thrombosis with bleeding"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41366860",
+  "specialty": "stroke",
+  "chief_complaint": "An 82-year-old woman presented with recurrent ischemic strokes.",
+  "history": "The patient has atrial fibrillation and was on oral anticoagulation therapy. She was referred for left atrial appendage closure due to recurrent ischemic strokes despite therapy.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Transesophageal echocardiography (TEE) demonstrated slow flow within the left atrial appendage along with a large atrial septal aneurysm (ASA) exhibiting prominent spontaneous echo contrast (SEC).",
+  "correct_diagnosis": "Combined left atrial appendage and atrial septal aneurysm/patent foramen ovale closure in high-risk atrial fibrillation patients",
+  "differentials": [
+    "Combined left atrial appendage and atrial septal aneurysm/patent foramen ovale closure in high-risk atrial fibrillation patients",
+    "Left atrial appendage thrombus",
+    "Atrial septal aneurysm with patent foramen ovale",
+    "Atrial fibrillation with recurrent ischemic strokes",
+    "Cardiac source of embolism"
+  ],
+  "correct_ranking": [
+    "Combined left atrial appendage and atrial septal aneurysm/patent foramen ovale closure in high-risk atrial fibrillation patients",
+    "Atrial fibrillation with recurrent ischemic strokes",
+    "Left atrial appendage thrombus",
+    "Atrial septal aneurysm with patent foramen ovale",
+    "Cardiac source of embolism"
+  ]
+}

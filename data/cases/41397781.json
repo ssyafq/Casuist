@@ -1,0 +1,23 @@
+{
+  "case_id": "41397781",
+  "specialty": "stroke",
+  "chief_complaint": "A 14-year-old female patient presents with sudden onset of haemiparesis, facial nerve palsy, and focal seizures.",
+  "history": "The patient has a history of difficult-to-treat Crohn's disease (CD) complicated by haemorrhagic stroke. She experienced multiple admissions for recurrent abdominal pain and altered bowel habits. Due to financial constraints, biologicals were not administered initially. She developed a stroke during a relapse.",
+  "exam": "Vital signs: not provided. Physical examination findings: haemiparesis, facial nerve palsy.",
+  "labs": "Neuroimaging with angiography: infarction with haemorrhagic transformation in the left posterior parietal lobe and thrombosis of the superior sagittal sinus and left transverse sinus.",
+  "correct_diagnosis": "Haemorrhagic stroke in the context of Crohn's disease",
+  "differentials": [
+    "Haemorrhagic stroke in the context of Crohn's disease",
+    "Thrombotic stroke",
+    "Cerebral vasculitis",
+    "Migraine with aura",
+    "Seizure disorder"
+  ],
+  "correct_ranking": [
+    "Haemorrhagic stroke in the context of Crohn's disease",
+    "Thrombotic stroke",
+    "Cerebral vasculitis",
+    "Migraine with aura",
+    "Seizure disorder"
+  ]
+}

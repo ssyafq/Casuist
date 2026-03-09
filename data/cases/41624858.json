@@ -1,0 +1,23 @@
+{
+  "case_id": "41624858",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 44-year-old male presents with persistent symptoms following SARS-CoV-2 infection, including severe cognitive and motor fatigue, word-finding difficulties, and impaired concentration.",
+  "history": "The patient has a history of post-COVID-19 syndrome (PCS) with symptoms persisting for an unknown duration. He reports no significant past medical history, and his medication list is unknown. Social history is unremarkable.",
+  "exam": "Vital signs are within normal limits. Physical examination reveals no abnormalities.",
+  "labs": "Serum analysis demonstrates anti-VGLUT2 autoantibodies. Neuropsychological testing reveals marked deficits in alertness, attention, fluency, and processing speed. IVIG therapy yields subjective but no objective improvement.",
+  "correct_diagnosis": "Post-COVID-19 syndrome associated with anti-VGLUT2 autoantibodies",
+  "differentials": [
+    "Post-COVID-19 syndrome associated with anti-VGLUT2 autoantibodies",
+    "Post-COVID-19 syndrome",
+    "Viral encephalitis",
+    "Autoimmune encephalitis",
+    "Neurodegenerative disorder"
+  ],
+  "correct_ranking": [
+    "Post-COVID-19 syndrome associated with anti-VGLUT2 autoantibodies",
+    "Post-COVID-19 syndrome",
+    "Autoimmune encephalitis",
+    "Viral encephalitis",
+    "Neurodegenerative disorder"
+  ]
+}

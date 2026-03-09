@@ -1,0 +1,23 @@
+{
+  "case_id": "41134618",
+  "specialty": "COPD",
+  "chief_complaint": "73-year-old woman with an acute exacerbation of chronic obstructive pulmonary disease (COPD) requiring emergency intubation and mechanical ventilation for acute respiratory failure.",
+  "history": "The patient suffered from profound hypoxia and hypercapnia with uncompensated respiratory acidosis. She was administered an intravenous bolus of 500 mg of ketamine for prehospital anesthesia.",
+  "exam": "Vital signs: not specified. Physical examination findings: not specified.",
+  "labs": "ECG: not specified. Bloods: not specified. Imaging: not specified. Other tests: not specified.",
+  "correct_diagnosis": "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+  "differentials": [
+    "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+    "Respiratory failure",
+    "Ketamine-induced respiratory depression",
+    "Uncompensated respiratory acidosis",
+    "Hypoxia"
+  ],
+  "correct_ranking": [
+    "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+    "Respiratory failure",
+    "Ketamine-induced respiratory depression",
+    "Uncompensated respiratory acidosis",
+    "Hypoxia"
+  ]
+}

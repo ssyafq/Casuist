@@ -1,0 +1,23 @@
+{
+  "case_id": "41555177",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 61-year-old man experienced cardiopulmonary arrest twice during treatment for diabetic ketoacidosis and hyperosmolar hyperglycemic syndrome.",
+  "history": "The patient was treated for diabetic ketoacidosis and hyperosmolar hyperglycemic syndrome. He experienced cardiopulmonary arrest twice during treatment. Anemia progressed, and a fecal occult blood test was positive. Ischemic enteritis with multiple small ulcers in the cecum and deep ulcers in the ileum were observed with lower gastrointestinal endoscopy. Approximately 1 week after the examination, melena and intestinal obstruction developed. Fever and abdominal pain were intensified, and blood test findings markedly worsened.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Blood test findings worsened, and abdominal CT showed that the small intestine was dilated, the wall of the terminal ileum was thickened, and a small amount of ascites in the pelvis.",
+  "correct_diagnosis": "Gangrenous Ischemic Enteritis",
+  "differentials": [
+    "Gangrenous Ischemic Enteritis",
+    "Ischemic Enteritis",
+    "Necrotizing Enterocolitis",
+    "Intestinal Obstruction",
+    "Perforated Ileum"
+  ],
+  "correct_ranking": [
+    "Gangrenous Ischemic Enteritis",
+    "Ischemic Enteritis",
+    "Necrotizing Enterocolitis",
+    "Intestinal Obstruction",
+    "Perforated Ileum"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41276169",
+  "specialty": "meningitis",
+  "chief_complaint": "A 10-year-old girl presented with high-grade fever, right hemiplegia, and left abducens nerve palsy.",
+  "history": "A 10-year-old girl was diagnosed with acute myeloid leukemia (AML) and underwent intensive chemotherapy. She achieved complete remission after the first induction therapy but suffered from high-grade fever and neurological symptoms during recovery from bone marrow suppression. Cryptococcosis was diagnosed by detecting Cryptococcus neoformans in cerebrospinal fluid (CSF) analysis.",
+  "exam": "Vital signs: high-grade fever. Physical examination: right hemiplegia and left abducens nerve palsy.",
+  "labs": "MRI revealed two loci of T1 low/T2 high intensity in the brain stem area. CSF analysis showed detection of Cryptococcus neoformans by Biofire(R) FilmArray(R) meningitis/encephalitis (ME) panel. Blood tests: neutropenia.",
+  "correct_diagnosis": "Central nervous system cryptococcosis with brain stem hemorrhage",
+  "differentials": [
+    "Central nervous system cryptococcosis with brain stem hemorrhage",
+    "Meningitis due to other fungal pathogens",
+    "Meningitis due to bacterial pathogens",
+    "Stroke",
+    "Immune reconstitution inflammatory syndrome (IRIS)"
+  ],
+  "correct_ranking": [
+    "Central nervous system cryptococcosis with brain stem hemorrhage",
+    "Meningitis due to other fungal pathogens",
+    "Meningitis due to bacterial pathogens",
+    "Stroke",
+    "Immune reconstitution inflammatory syndrome (IRIS)"
+  ]
+}

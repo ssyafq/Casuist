@@ -1,0 +1,23 @@
+{
+  "case_id": "41474923",
+  "specialty": "stroke",
+  "chief_complaint": "A 35-year-old male presented with recurrent ischemic stroke.",
+  "history": "The patient had a history of recurrent ischemic stroke without any prior cardiac problems. Cardiac investigations were not performed initially, leading to a delayed diagnosis of left atrial myxoma.",
+  "exam": "Vital signs were not provided. Physical examination findings were not mentioned.",
+  "labs": "Echocardiography revealed a left atrial myxoma.",
+  "correct_diagnosis": "Left atrial myxoma",
+  "differentials": [
+    "Left atrial myxoma",
+    "Thrombotic stroke",
+    "Embolic stroke",
+    "Cardiac arrhythmia",
+    "Atrial septal defect"
+  ],
+  "correct_ranking": [
+    "Left atrial myxoma",
+    "Embolic stroke",
+    "Thrombotic stroke",
+    "Cardiac arrhythmia",
+    "Atrial septal defect"
+  ]
+}

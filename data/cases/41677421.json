@@ -1,0 +1,23 @@
+{
+  "case_id": "41677421",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 79-year-old man presented with a history of acute myocardial infarction.",
+  "history": "The patient underwent percutaneous coronary intervention (PCI) for acute myocardial infarction (AMI). Subsequent transthoracic echocardiogram (TTE) revealed an apical pseudoaneurysm. Follow-up TTE and cardiac magnetic resonance (CMR) confirmed the pseudoaneurysm involving both ventricles with secondary left-to-right shunt.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG: Acute myocardial infarction. Bloods: Not provided. Imaging: TTE and CMR confirmed the pseudoaneurysm involving both ventricles with secondary left-to-right shunt.",
+  "correct_diagnosis": "Apical left ventricular pseudoaneurysm with left-to-right shunt",
+  "differentials": [
+    "Apical left ventricular pseudoaneurysm with left-to-right shunt",
+    "Left ventricular free wall rupture",
+    "Right ventricular free wall rupture",
+    "Cardiac tamponade",
+    "Acute myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Apical left ventricular pseudoaneurysm with left-to-right shunt",
+    "Left ventricular free wall rupture",
+    "Right ventricular free wall rupture",
+    "Cardiac tamponade",
+    "Acute myocardial infarction"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41398932",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 59-year-old male presented with acute-onset dyspnea and chest pain.",
+  "history": "The patient had laryngeal cancer and completed three cycles of neoadjuvant paclitaxel-cisplatin chemotherapy. He underwent a total laryngectomy and presented with symptoms that rapidly deteriorated into cardiogenic shock.",
+  "exam": "Severe hypotension, third-degree atrioventricular block, and profound cardiogenic shock.",
+  "labs": "Echocardiography: severely depressed left ventricular ejection fraction (< 30%) with global hypokinesis. Serum high-sensitivity troponin I levels: > 27 ng/mL.",
+  "correct_diagnosis": "Chemotherapy-induced fulminant myocarditis",
+  "differentials": [
+    "Chemotherapy-induced fulminant myocarditis",
+    "Acute coronary syndrome",
+    "Cardiogenic shock due to obstructive coronary artery disease",
+    "Septic shock",
+    "Acute kidney injury due to rhabdomyolysis"
+  ],
+  "correct_ranking": [
+    "Chemotherapy-induced fulminant myocarditis",
+    "Acute coronary syndrome",
+    "Cardiogenic shock due to obstructive coronary artery disease",
+    "Septic shock",
+    "Acute kidney injury due to rhabdomyolysis"
+  ]
+}

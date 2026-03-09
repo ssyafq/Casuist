@@ -1,0 +1,23 @@
+{
+  "case_id": "41163000",
+  "specialty": "chest pain",
+  "chief_complaint": "43-year-old female presenting with worsening dyspnea and chest pain.",
+  "history": "Patient has symptomatic asthma and a previous history of pulmonary embolism 10 years prior. She arrived at the emergency room with worsening symptoms. Laboratory markers, electrocardiogram, and echocardiogram did not indicate myocardial ischemia. Computed tomographic angiography evaluation revealed anomalous origin of the right coronary artery (AORCA) from the left coronary sinus with an anterior course between the aorta and pulmonary artery.",
+  "exam": "Vital signs and physical examination findings not specified.",
+  "labs": "Laboratory markers: unremarkable. Electrocardiogram: unremarkable. Echocardiogram: unremarkable. Computed tomographic angiography: AORCA from the left coronary sinus with an anterior course between the aorta and pulmonary artery.",
+  "correct_diagnosis": "Anomalous origin of the right coronary artery (AORCA)",
+  "differentials": [
+    "Anomalous origin of the right coronary artery (AORCA)",
+    "Myocardial ischemia",
+    "Pulmonary embolism",
+    "Asthma exacerbation",
+    "Gastroesophageal reflux disease"
+  ],
+  "correct_ranking": [
+    "Anomalous origin of the right coronary artery (AORCA)",
+    "Myocardial ischemia",
+    "Pulmonary embolism",
+    "Asthma exacerbation",
+    "Gastroesophageal reflux disease"
+  ]
+}

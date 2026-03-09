@@ -1,0 +1,23 @@
+{
+  "case_id": "40609000",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A pediatric patient presents with tachypnea as the initial symptom.",
+  "history": "The patient has new onset type 1 diabetes mellitus and is in diabetic ketoacidosis, with variable symptoms that may be difficult to discern from their history.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided.",
+  "correct_diagnosis": "Diabetic Ketoacidosis",
+  "differentials": [
+    "Hypovolemic Shock",
+    "Diabetic Ketoacidosis",
+    "Respiratory Acidosis",
+    "Metabolic Alkalosis",
+    "Septic Shock"
+  ],
+  "correct_ranking": [
+    "Diabetic Ketoacidosis",
+    "Hypovolemic Shock",
+    "Respiratory Acidosis",
+    "Septic Shock",
+    "Metabolic Alkalosis"
+  ]
+}

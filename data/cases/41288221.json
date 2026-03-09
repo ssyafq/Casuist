@@ -1,0 +1,23 @@
+{
+  "case_id": "41288221",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 55-year-old male patient presented with recurrent episodes of gastrointestinal bleeding.",
+  "history": "The patient has a history of liver cirrhosis and portal hypertension. He underwent a transjugular intrahepatic portosystemic shunt (TIPS) procedure 6 months ago for refractory ascites. However, he recently experienced a TIPS thrombosis, leading to recurrent gastrointestinal bleeding. He has been taking spironolactone and furosemide for ascites management.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 20/min. Physical examination revealed a distended abdomen with shifting dullness.",
+  "labs": "ECG: normal. Bloods: Hb 8.5 g/dL, platelets 150 x 10^9/L. Imaging: TIPS thrombosis confirmed on CT angiography.",
+  "correct_diagnosis": "TIPS thrombosis",
+  "differentials": [
+    "TIPS thrombosis",
+    "Portal vein thrombosis",
+    "Hepatic artery thrombosis",
+    "Gastrointestinal variceal bleeding",
+    "Hepatic encephalopathy"
+  ],
+  "correct_ranking": [
+    "TIPS thrombosis",
+    "Portal vein thrombosis",
+    "Hepatic artery thrombosis",
+    "Gastrointestinal variceal bleeding",
+    "Hepatic encephalopathy"
+  ]
+}

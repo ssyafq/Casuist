@@ -1,0 +1,23 @@
+{
+  "case_id": "37614021",
+  "specialty": "thyroid storm",
+  "chief_complaint": "Four patients, 3 female and 1 male, between 39 and 46 years old, presented with fulminating thyroid storm complicated with multiple organ failure and cardiac arrest.",
+  "history": "The patients had severe hyperthyroidism, including thyroid storm, precipitated by various factors such as surgery, trauma, infection, medications, parturition, and noncompliance or stoppage of antithyroid drugs.",
+  "exam": "No specific physical examination findings are provided, but the patients had cardiovascular collapse.",
+  "labs": "No specific laboratory results are provided, but the patients had multiorgan failure.",
+  "correct_diagnosis": "Thyroid Storm",
+  "differentials": [
+    "Thyroid Storm",
+    "Sepsis",
+    "Cardiogenic Shock",
+    "Toxic Multinodular Goiter",
+    "Thyroiditis"
+  ],
+  "correct_ranking": [
+    "Thyroid Storm",
+    "Sepsis",
+    "Cardiogenic Shock",
+    "Toxic Multinodular Goiter",
+    "Thyroiditis"
+  ]
+}

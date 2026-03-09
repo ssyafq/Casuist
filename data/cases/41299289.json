@@ -1,0 +1,23 @@
+{
+  "case_id": "41299289",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 55-year-old male presented with severe chest pain following a bee sting.",
+  "history": "The patient had a history of allergies and experienced anaphylaxis after the bee sting. He had no prior history of cardiovascular disease. He was not taking any medications.",
+  "exam": "Vital signs: BP 90/60 mmHg, HR 120 bpm, RR 24/min. Physical examination revealed a patient in distress with a normal cardiac examination.",
+  "labs": "ECG: ST-elevation MI in inferior and anterior leads. Bloods: Elevated troponin levels. Imaging: Coronary angiography revealed pathological findings.",
+  "correct_diagnosis": "Bee sting-induced myocardial infarction (Kounis Syndrome)",
+  "differentials": [
+    "Bee sting-induced myocardial infarction (Kounis Syndrome)",
+    "Acute coronary syndrome",
+    "Anaphylaxis-induced cardiac arrest",
+    "Cardiac arrhythmia",
+    "Panic attack"
+  ],
+  "correct_ranking": [
+    "Bee sting-induced myocardial infarction (Kounis Syndrome)",
+    "Acute coronary syndrome",
+    "Anaphylaxis-induced cardiac arrest",
+    "Cardiac arrhythmia",
+    "Panic attack"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41530078",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 35-year-old Asian male presents with recurrent episodes of acute pancreatitis.",
+  "history": "The patient has a history of recurrent acute pancreatitis over the past 2 years. Endoscopic retrograde cholangiopancreatography (ERCP) was performed, which revealed an anomalous biliopancreatic junction. The patient has no significant past medical history and is not on any medications. He is a non-smoker and does not consume excessive alcohol.",
+  "exam": "Vital signs are within normal limits. Physical examination reveals no abnormalities.",
+  "labs": "ERCP: Anomalous biliopancreatic junction. No other investigations were performed.",
+  "correct_diagnosis": "Anomalous biliopancreatic junction",
+  "differentials": [
+    "Anomalous biliopancreatic junction",
+    "Pancreas divisum",
+    "Chronic pancreatitis",
+    "Gallstones",
+    "Hypertriglyceridemia"
+  ],
+  "correct_ranking": [
+    "Anomalous biliopancreatic junction",
+    "Pancreas divisum",
+    "Chronic pancreatitis",
+    "Gallstones",
+    "Hypertriglyceridemia"
+  ]
+}

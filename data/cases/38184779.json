@@ -1,0 +1,23 @@
+{
+  "case_id": "38184779",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 42-year-old woman presents with an acute exacerbation of hyperthyroidism, including headaches, increased bilateral eye pressure, fatigue, and heart palpitations, 3 weeks after a diagnosis of COVID-19.",
+  "history": "The patient has a history of Graves' disease and recently tested positive for SARS-CoV-2. She reports daily headaches, increased bilateral eye pressure, fatigue, muscle weakness, episodes of confusion and agitation, and persistent heart palpitations.",
+  "exam": "Not explicitly stated, but symptoms include goiter, episodes of confusion and agitation, and persistent heart palpitations.",
+  "labs": "Elevated free T4 of 5.57, free T3 of 15.68, total T3 of 4.43, and near-absent thyroid stimulating hormone. The Burch-Wartofsky scale was 40.",
+  "correct_diagnosis": "Graves' disease exacerbation with impending thyroid storm",
+  "differentials": [
+    "Subacute thyroiditis",
+    "Graves' disease exacerbation with impending thyroid storm",
+    "Silent thyroiditis",
+    "Toxic multinodular goiter",
+    "Thyroid crisis due to other causes"
+  ],
+  "correct_ranking": [
+    "Graves' disease exacerbation with impending thyroid storm",
+    "Subacute thyroiditis",
+    "Silent thyroiditis",
+    "Toxic multinodular goiter",
+    "Thyroid crisis due to other causes"
+  ]
+}

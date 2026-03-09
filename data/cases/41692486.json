@@ -1,0 +1,23 @@
+{
+  "case_id": "41692486",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 45-year-old male patient developed shortness of breath and chest pain 4 days after stopping prophylactic anticoagulation with unfractionated heparin following surgical treatment of a complex midfacial and mandibular fracture.",
+  "history": "The patient underwent surgical treatment of a complex midfacial and mandibular fracture and received prophylactic anticoagulation with unfractionated heparin. Four days after stopping prophylactic anticoagulation, the patient developed pulmonary embolism and mild thrombocytopenia. HIT was initially not suspected and therapeutic anticoagulation was started.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min. Physical examination revealed signs of pulmonary embolism.",
+  "labs": "ECG: normal. Bloods: platelet count 50 x 10^9/L, aPTT 35 s. Imaging: CT pulmonary angiogram confirmed pulmonary embolism. HIT-antibody immunoassay and functional assay (HIPA) were strongly positive.",
+  "correct_diagnosis": "Delayed-onset, persisting autoimmune heparin-induced thrombocytopenia (HIT)",
+  "differentials": [
+    "Delayed-onset, persisting autoimmune heparin-induced thrombocytopenia (HIT)",
+    "Heparin-induced thrombocytopenia (HIT)",
+    "Pulmonary embolism",
+    "Thrombocytopenia",
+    "Disseminated intravascular coagulation (DIC)"
+  ],
+  "correct_ranking": [
+    "Delayed-onset, persisting autoimmune heparin-induced thrombocytopenia (HIT)",
+    "Heparin-induced thrombocytopenia (HIT)",
+    "Pulmonary embolism",
+    "Thrombocytopenia",
+    "Disseminated intravascular coagulation (DIC)"
+  ]
+}

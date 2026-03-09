@@ -1,0 +1,23 @@
+{
+  "case_id": "41572313",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 32-year-old Asian male patient presented with high-grade fever, abdominal pain, and jaundice.",
+  "history": "The patient had Epstein-Barr virus infection, which is common, but has never been reported to cause synchronous acute acalculous cholecystitis and acute pancreatitis alongside hepatitis.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the case report.",
+  "labs": "Comprehensive diagnostic evaluation confirmed acute hepatitis, acute acalculous cholecystitis, and acute pancreatitis. Histopathological examination of lymph node and liver biopsy specimens identified Epstein-Barr virus infection as the underlying cause of all three conditions.",
+  "correct_diagnosis": "Epstein-Barr virus-induced acute hepatitis, acute acalculous cholecystitis, and acute pancreatitis",
+  "differentials": [
+    "Epstein-Barr virus-induced acute hepatitis, acute acalculous cholecystitis, and acute pancreatitis",
+    "Acute acalculous cholecystitis",
+    "Acute pancreatitis",
+    "Acute hepatitis",
+    "Gallstone pancreatitis"
+  ],
+  "correct_ranking": [
+    "Epstein-Barr virus-induced acute hepatitis, acute acalculous cholecystitis, and acute pancreatitis",
+    "Acute acalculous cholecystitis",
+    "Acute pancreatitis",
+    "Acute hepatitis",
+    "Gallstone pancreatitis"
+  ]
+}

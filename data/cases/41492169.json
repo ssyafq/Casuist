@@ -1,0 +1,23 @@
+{
+  "case_id": "41492169",
+  "specialty": "pneumonia",
+  "chief_complaint": "52-year-old male patient with recurring pneumonitis symptoms, including fever, dyspnea, and a severe cough.",
+  "history": "Immunosuppressed patient due to rituximab use for chronic inflammatory demyelinating polyneuropathy. Required hospitalization 4 times over a 3-month period due to recurring pneumonitis symptoms. Negative SARS-CoV-2 polymerase chain reaction tests on 7/8 nasopharyngeal specimens, and failure to clinically improve with remdesivir.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "Negative SARS-CoV-2 polymerase chain reaction tests on 7/8 nasopharyngeal specimens, failure to clinically improve with remdesivir, and a positive test from a bronchoalveolar lavage specimen.",
+  "correct_diagnosis": "Persistent COVID-19",
+  "differentials": [
+    "Persistent COVID-19",
+    "Rituximab-induced organizing pneumonia",
+    "Chronic inflammatory demyelinating polyneuropathy",
+    "SARS-CoV-2 pneumonia",
+    "Organizing pneumonia"
+  ],
+  "correct_ranking": [
+    "Persistent COVID-19",
+    "Rituximab-induced organizing pneumonia",
+    "SARS-CoV-2 pneumonia",
+    "Chronic inflammatory demyelinating polyneuropathy",
+    "Organizing pneumonia"
+  ]
+}

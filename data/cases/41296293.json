@@ -1,0 +1,23 @@
+{
+  "case_id": "41296293",
+  "specialty": "seizure",
+  "chief_complaint": "A 50-year-old right-handed male presents with focal right-sided upper limb and facial seizures.",
+  "history": "The patient has type 2 diabetes mellitus and presents with complaints of focal seizures, acalculia, finger agnosia, left-right disorientation, semantic aphasia, and loss of comprehension. He has no significant past medical history and is not on any medications.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 70 bpm, RR 16 breaths/min. Physical examination reveals focal right-sided upper limb and facial weakness.",
+  "labs": "Laboratory reports: Blood glucose 350 mg/dL, sodium 145 mmol/L, potassium 3.5 mmol/L. MRI of the brain reveals dominant (left) parietal lobe pathology.",
+  "correct_diagnosis": "Gerstmann syndrome associated with hyperglycemic seizures",
+  "differentials": [
+    "Gerstmann syndrome associated with hyperglycemic seizures",
+    "Focal seizures due to parietal lobe pathology",
+    "Hyperglycemic hyperosmolar nonketotic syndrome (HHNS)",
+    "Parietal lobe stroke",
+    "Temporal lobe epilepsy"
+  ],
+  "correct_ranking": [
+    "Gerstmann syndrome associated with hyperglycemic seizures",
+    "Focal seizures due to parietal lobe pathology",
+    "Hyperglycemic hyperosmolar nonketotic syndrome (HHNS)",
+    "Parietal lobe stroke",
+    "Temporal lobe epilepsy"
+  ]
+}

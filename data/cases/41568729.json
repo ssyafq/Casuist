@@ -1,0 +1,23 @@
+{
+  "case_id": "41568729",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 10-year-old Indian male presented with a history of recurrent infections, nephrotic syndrome, and skeletal abnormalities.",
+  "history": "Schimke immunoosseous dysplasia (SIOD) is an uncommon inherited genetic disorder. The patient was diagnosed with SIOD after harbouring copy number variants in the SMARCAL1 gene.",
+  "exam": "Vital signs: normal. Physical examination revealed skeletal abnormalities and immune system deficiencies.",
+  "labs": "Genetic analysis revealed copy number variants in the SMARCAL1 gene.",
+  "correct_diagnosis": "Schimke immunoosseous dysplasia (SIOD)",
+  "differentials": [
+    "Schimke immunoosseous dysplasia (SIOD)",
+    "Nephrotic syndrome",
+    "Immune system deficiency",
+    "Skeletal abnormalities",
+    "Genetic disorder"
+  ],
+  "correct_ranking": [
+    "Schimke immunoosseous dysplasia (SIOD)",
+    "Nephrotic syndrome",
+    "Immune system deficiency",
+    "Skeletal abnormalities",
+    "Genetic disorder"
+  ]
+}

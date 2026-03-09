@@ -1,0 +1,23 @@
+{
+  "case_id": "41714058",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 65-year-old male presents with shortness of breath and cough.",
+  "history": "The patient has a history of hypertension and chronic obstructive pulmonary disease (COPD). He has been experiencing worsening symptoms over the past week, including increased shortness of breath and cough. He has not traveled recently and has not been in contact with anyone known to have COVID-19.",
+  "exam": "Vital signs: temperature 37.5°C, blood pressure 140/90 mmHg, heart rate 110 bpm, respiratory rate 24 breaths/min. Physical examination reveals bilateral wheezing and decreased breath sounds.",
+  "labs": "COVID-19 mortality rates and emergency department visits data are analyzed using Bayesian inference on latent Gaussian models in R-INLA.",
+  "correct_diagnosis": "COVID-19",
+  "differentials": [
+    "COVID-19",
+    "Community-acquired pneumonia",
+    "Chronic obstructive pulmonary disease exacerbation",
+    "Heart failure",
+    "Pneumothorax"
+  ],
+  "correct_ranking": [
+    "COVID-19",
+    "Community-acquired pneumonia",
+    "Chronic obstructive pulmonary disease exacerbation",
+    "Heart failure",
+    "Pneumothorax"
+  ]
+}

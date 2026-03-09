@@ -1,0 +1,23 @@
+{
+  "case_id": "41405637",
+  "specialty": "meningitis",
+  "chief_complaint": "An 82-year-old patient presented with severe acute cervicalgia, fever, arthritis of the wrists and hands.",
+  "history": "The patient exhibited symptoms mimicking acute meningitis, including elevated inflammatory parameters. Acute meningitis was ruled out with a normal cerebrospinal fluid study.",
+  "exam": "Vital signs included fever. Physical examination revealed severe cervicalgia, arthritis of the wrists and hands.",
+  "labs": "Computed tomography scan of the cervical spine revealed calcifications around the odontoid process. Cerebrospinal fluid study was normal.",
+  "correct_diagnosis": "Crowned dens syndrome",
+  "differentials": [
+    "Crowned dens syndrome",
+    "Acute meningitis",
+    "Calcium pyrophosphate dihydrate crystal deposition disease",
+    "Osteoarthritis",
+    "Rheumatoid arthritis"
+  ],
+  "correct_ranking": [
+    "Crowned dens syndrome",
+    "Calcium pyrophosphate dihydrate crystal deposition disease",
+    "Acute meningitis",
+    "Osteoarthritis",
+    "Rheumatoid arthritis"
+  ]
+}

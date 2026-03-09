@@ -1,0 +1,23 @@
+{
+  "case_id": "41398828",
+  "specialty": "stroke",
+  "chief_complaint": "A 64-year-old female patient presented with middle cerebral artery (MCA) stenosis.",
+  "history": "The patient had a history of watershed infarction in the corresponding blood supply area, along with vulnerable plaque and severe stenosis in the M1 segment of the right MCA. She underwent balloon angioplasty of the MCA.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Imaging studies indicated severe stenosis (>70%) of the right MCA with associated (watershed) cerebral infarction. ECG and blood results were not provided.",
+  "correct_diagnosis": "Severe stenosis (>70%) of the right MCA with associated (watershed) cerebral infarction",
+  "differentials": [
+    "Severe stenosis (>70%) of the right MCA with associated (watershed) cerebral infarction",
+    "Vulnerable plaque and severe stenosis in the M1 segment of the right MCA",
+    "Middle cerebral artery (MCA) stenosis",
+    "Acute thrombotic occlusion of the right MCA",
+    "Intraoperative hemorrhage during balloon angioplasty"
+  ],
+  "correct_ranking": [
+    "Severe stenosis (>70%) of the right MCA with associated (watershed) cerebral infarction",
+    "Vulnerable plaque and severe stenosis in the M1 segment of the right MCA",
+    "Middle cerebral artery (MCA) stenosis",
+    "Acute thrombotic occlusion of the right MCA",
+    "Intraoperative hemorrhage during balloon angioplasty"
+  ]
+}

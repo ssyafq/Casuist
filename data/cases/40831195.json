@@ -1,0 +1,23 @@
+{
+  "case_id": "40831195",
+  "specialty": "chest pain",
+  "chief_complaint": "A 73-year-old man presented with exertional chest pain.",
+  "history": "The patient had a history of severe stenosis of the right coronary artery (RCA) and severe stenotic lesions in the proximal and distal RCA. He reported a metal allergy and had moderate allergic reactions to Ni- and CoCr-EES confirmed by patch tests. He refused coronary artery bypass surgery and underwent percutaneous coronary intervention (PCI) with a CoCr-SES with PROBIO coating.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Coronary computed tomography revealed severe stenosis of the RCA, and coronary angiography (CAG) revealed severe stenotic lesions in the proximal and distal RCA. Intravascular ultrasound showed positive remodeling, a plaque with echo attenuation, and a mural thrombus at the culprit lesion. Follow-up CAG 56 days after PCI showed good stent patency, and optical coherence tomography imaging showed coverage of 92% of the struts with no obvious thrombus formation. Follow-up CAG 408 days after PCI showed coverage of 98% of the struts with no peri-stent contrast staining.",
+  "correct_diagnosis": "Effort Angina Pectoris",
+  "differentials": [
+    "Effort Angina Pectoris",
+    "Acute Coronary Syndrome",
+    "Chronic Stable Angina",
+    "Coronary Artery Disease",
+    "Cardiac Tamponade"
+  ],
+  "correct_ranking": [
+    "Effort Angina Pectoris",
+    "Acute Coronary Syndrome",
+    "Chronic Stable Angina",
+    "Coronary Artery Disease",
+    "Cardiac Tamponade"
+  ]
+}

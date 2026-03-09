@@ -1,0 +1,23 @@
+{
+  "case_id": "41571388",
+  "specialty": "seizure",
+  "chief_complaint": "A 6-year-old boy presents with seizures and a port-wine stain on his face.",
+  "history": "The patient has a history of seizures, glaucoma, limb hypertrophy, and venous anomalies. He has a facial port-wine stain and truncal port-wine stains. Exome sequencing did not reveal any pathogenic variants.",
+  "exam": "Vital signs: normal. Physical examination reveals a facial port-wine stain, truncal port-wine stains, limb hypertrophy, and venous anomalies.",
+  "labs": "Imaging studies confirmed the coexistence of Sturge-Weber syndrome and Klippel-Trenaunay syndrome phenotypes. No pathogenic variants were found on exome sequencing.",
+  "correct_diagnosis": "Sturge-Weber syndrome with Klippel-Trenaunay syndrome",
+  "differentials": [
+    "Sturge-Weber syndrome with Klippel-Trenaunay syndrome",
+    "Sturge-Weber syndrome",
+    "Klippel-Trenaunay syndrome",
+    "Port-wine stain with seizures",
+    "Venous malformation with limb hypertrophy"
+  ],
+  "correct_ranking": [
+    "Sturge-Weber syndrome with Klippel-Trenaunay syndrome",
+    "Sturge-Weber syndrome",
+    "Klippel-Trenaunay syndrome",
+    "Port-wine stain with seizures",
+    "Venous malformation with limb hypertrophy"
+  ]
+}

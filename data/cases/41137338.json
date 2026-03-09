@@ -1,0 +1,23 @@
+{
+  "case_id": "41137338",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "Two patients, a 65-year-old male and a 70-year-old female, both with small cell lung cancer, presented with symptoms of diabetic ketoacidosis.",
+  "history": "Both patients developed serplulimab-induced immune checkpoint inhibitor-induced diabetes mellitus (ICI-DM) after treatment with serplulimab. Case 1 developed delayed-onset ICI-DM after 2 years of treatment, while Case 2 developed ICI-DM earlier. Neither patient tested positive for diabetes-related autoantibodies.",
+  "exam": "Vital signs: tachycardia, tachypnea, and hyperglycemia. Physical examination revealed signs of diabetic ketoacidosis, including Kussmaul breathing and acetone breath.",
+  "labs": "Hyperglycemia (blood glucose 350-400 mg/dL), elevated glycated hemoglobin, moderate C-peptide deficiency, and diabetic ketoacidosis (DKA) confirmed by laboratory tests.",
+  "correct_diagnosis": "Serplulimab-induced immune checkpoint inhibitor-induced diabetes mellitus (ICI-DM)",
+  "differentials": [
+    "Serplulimab-induced immune checkpoint inhibitor-induced diabetes mellitus (ICI-DM)",
+    "Type 1 diabetes mellitus",
+    "Type 2 diabetes mellitus",
+    "Diabetic ketoacidosis due to other cause",
+    "Pancreatitis-induced diabetes"
+  ],
+  "correct_ranking": [
+    "Serplulimab-induced immune checkpoint inhibitor-induced diabetes mellitus (ICI-DM)",
+    "Type 1 diabetes mellitus",
+    "Type 2 diabetes mellitus",
+    "Diabetic ketoacidosis due to other cause",
+    "Pancreatitis-induced diabetes"
+  ]
+}

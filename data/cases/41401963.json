@@ -1,0 +1,23 @@
+{
+  "case_id": "41401963",
+  "specialty": "seizure",
+  "chief_complaint": "A 3-year-10-month-old boy presented with a history of intermittent seizures for over one year.",
+  "history": "The patient had global developmental delay, facial dysmorphism, and axial hypotonia. He experienced multiple seizure types, including epileptic spasms and myoclonic seizures. Severe developmental delay was indicated by the Gesell Developmental Schedule, and electroencephalography showed generalized spikes and spike-and-slow-wave discharges.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Electroencephalography showed generalized spikes and spike-and-slow-wave discharges.",
+  "correct_diagnosis": "Harel-Yoon syndrome due to a heterozygous ATAD3A variant",
+  "differentials": [
+    "Harel-Yoon syndrome due to a heterozygous ATAD3A variant",
+    "Other genetic epilepsy syndrome",
+    "Benign familial neonatal-infantile seizures",
+    "West syndrome",
+    "Dravet syndrome"
+  ],
+  "correct_ranking": [
+    "Harel-Yoon syndrome due to a heterozygous ATAD3A variant",
+    "Other genetic epilepsy syndrome",
+    "Benign familial neonatal-infantile seizures",
+    "West syndrome",
+    "Dravet syndrome"
+  ]
+}

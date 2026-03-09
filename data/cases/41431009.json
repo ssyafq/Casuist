@@ -1,0 +1,23 @@
+{
+  "case_id": "41431009",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 69-year-old woman developed acute-onset chest pain, tightness, and dyspnea on postoperative day 11 following open reduction and internal fixation of a left humeral shaft fracture.",
+  "history": "The patient reported significant anxiety due to the acute and unexplained nature of her symptoms. She had a history of long-term steroid therapy and a history of cancer.",
+  "exam": "Vital signs: not specified. Physical examination findings: left upper limb swelling.",
+  "labs": "Doppler ultrasound: hypoechoic thrombus in the left brachial vein. Computed tomographic pulmonary angiography: bilateral pulmonary artery filling defects.",
+  "correct_diagnosis": "Acute postoperative upper extremity deep vein thrombosis and pulmonary embolus",
+  "differentials": [
+    "Acute postoperative upper extremity deep vein thrombosis and pulmonary embolus",
+    "Pulmonary embolism",
+    "Acute coronary syndrome",
+    "Pneumonia",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Acute postoperative upper extremity deep vein thrombosis and pulmonary embolus",
+    "Pulmonary embolism",
+    "Acute coronary syndrome",
+    "Pneumonia",
+    "Cardiac tamponade"
+  ]
+}

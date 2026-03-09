@@ -1,0 +1,23 @@
+{
+  "case_id": "41451492",
+  "specialty": "seizure",
+  "chief_complaint": "An 8-year-and-6-month-old boy presents with intellectual developmental disorder and seizures.",
+  "history": "The child could raise his head at 3 months and sit alone at 8 months old. He could not walk alone at 1 year old and underwent 2 months' rehabilitation treatment, and could walk alone and call his parents at 1-and-a-half-years-old. At 4-years-and-10-months-old, he started to have frequent seizures, manifesting as low level of consciousness, body shaking, accompanied by blinking, lasting about a few seconds several times a day and could be relieved. With the treatment of sodium valproate combined with lamotrigine, the convulsions were controlled, but his movement and cognition were lagged behind.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "DNA sequencing revealed a novel variant of the AP2M1 gene (NM_004068.3) c.508C>T (p.Arg170Trp). Sanger sequencing confirmed that both of his parents were of the wild-type. The variant was rated as pathogenic (PS2+PS4+PM1+PM2+PP2+PP3).",
+  "correct_diagnosis": "Intellectual developmental disorder and seizures due to a variant of the AP2M1 gene.",
+  "differentials": [
+    "Intellectual developmental disorder and seizures due to a variant of the AP2M1 gene.",
+    "Autism spectrum disorder with seizures.",
+    "Ataxia with intellectual impairment and seizures.",
+    "Epilepsy with intellectual disability.",
+    "Genetic disorder with intellectual disability and seizures."
+  ],
+  "correct_ranking": [
+    "Intellectual developmental disorder and seizures due to a variant of the AP2M1 gene.",
+    "Autism spectrum disorder with seizures.",
+    "Ataxia with intellectual impairment and seizures.",
+    "Epilepsy with intellectual disability.",
+    "Genetic disorder with intellectual disability and seizures."
+  ]
+}

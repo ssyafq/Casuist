@@ -1,0 +1,23 @@
+{
+  "case_id": "41350736",
+  "specialty": "meningitis",
+  "chief_complaint": "A 30-year-old Han male presented with symptoms consistent with tuberculous meningitis, and a 57-year-old Han male presented with similar symptoms.",
+  "history": "Both patients exhibited clinical manifestations and cerebrospinal fluid findings consistent with tuberculous meningitis. Their responses to treatment for tuberculous meningitis were suboptimal, with symptoms worsening. They were later diagnosed with autoimmune glial fibrillary acid protein astrocytopathy after detection of glial fibrillary acid protein-immunoglobulin G antibody in serum and/or cerebrospinal fluid.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Cerebrospinal fluid findings consistent with tuberculous meningitis, and positive glial fibrillary acid protein-immunoglobulin G antibody in serum and/or cerebrospinal fluid.",
+  "correct_diagnosis": "Autoimmune glial fibrillary acid protein astrocytopathy",
+  "differentials": [
+    "Autoimmune glial fibrillary acid protein astrocytopathy",
+    "Tuberculous meningitis",
+    "Encephalitis",
+    "Meningoencephalitis",
+    "Optic neuritis"
+  ],
+  "correct_ranking": [
+    "Autoimmune glial fibrillary acid protein astrocytopathy",
+    "Tuberculous meningitis",
+    "Encephalitis",
+    "Meningoencephalitis",
+    "Optic neuritis"
+  ]
+}

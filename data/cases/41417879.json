@@ -1,0 +1,23 @@
+{
+  "case_id": "41417879",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 68-year-old man presented with angina and hemodynamic instability. An 81-year-old woman presented with pulmonary embolism and systolic dysfunction with apical hypokinesia after thrombectomy.",
+  "history": "The first patient was a 68-year-old man with no coronary lesions. The second patient was an 81-year-old woman with pulmonary embolism. Both patients had systolic dysfunction and apical or basal hypokinesia.",
+  "exam": "Vital signs were not provided. Physical examination findings were not described.",
+  "labs": "ECG showed prominent T waves in V2-V4. Ventriculogram showed systolic dysfunction and basal hypokinesia in the first patient. After thrombectomy, the second patient showed systolic dysfunction with apical hypokinesia.",
+  "correct_diagnosis": "Stress cardiomyopathy triggered by pulmonary embolism and reverse Takotsubo",
+  "differentials": [
+    "Stress cardiomyopathy triggered by pulmonary embolism and reverse Takotsubo",
+    "Acute coronary syndrome",
+    "Pulmonary embolism",
+    "Takotsubo syndrome",
+    "Cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "Stress cardiomyopathy triggered by pulmonary embolism and reverse Takotsubo",
+    "Takotsubo syndrome",
+    "Acute coronary syndrome",
+    "Pulmonary embolism",
+    "Cardiogenic shock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "39305728",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 50-year-old male presents with typical anginal pain.",
+  "history": "The patient has a history of symptoms suggestive of acute coronary syndrome, with no further details provided on past medical history, medications, or social history.",
+  "exam": "No specific physical examination findings are mentioned in the case report.",
+  "labs": "Electrocardiogram (EKG) presented Aslanger's pattern. Cardiac catheterization showed severe lesion of the left anterior descending artery (ADA) and chronic occlusion of the right coronary artery with important collateral flow from branches of the left coronary artery to the right coronary artery.",
+  "correct_diagnosis": "Acute occlusion of the left anterior descending artery (ADA)",
+  "differentials": [
+    "Non-ST segment elevation myocardial infarction (NSTEMI)",
+    "ST segment elevation myocardial infarction (STEMI)",
+    "Acute occlusion of the right coronary artery",
+    "Acute coronary syndrome with chronic occlusion",
+    "Acute occlusion of the left anterior descending artery (ADA)"
+  ],
+  "correct_ranking": [
+    "Acute occlusion of the left anterior descending artery (ADA)",
+    "Non-ST segment elevation myocardial infarction (NSTEMI)",
+    "ST segment elevation myocardial infarction (STEMI)",
+    "Acute coronary syndrome with chronic occlusion",
+    "Acute occlusion of the right coronary artery"
+  ]
+}

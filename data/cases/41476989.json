@@ -1,0 +1,23 @@
+{
+  "case_id": "41476989",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 29-year-old woman with exertional dyspnea and two episodes of acute hypercapnic respiratory failure.",
+  "history": "The patient has a six-year history of unexplained exertional dyspnea. She was hospitalized twice for acute hypercapnic respiratory failure, once five months earlier due to severe tricuspid regurgitation, and again eight weeks after mild COVID-19. The second episode was characterized by coma due to hypercapnic respiratory failure without parenchymal lung disease.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Standard electrophysiology, neostigmine testing, and acetylcholine-receptor antibodies (AChR-Ab) were negative. MuSK antibodies (MuSK-Ab) were strongly positive.",
+  "correct_diagnosis": "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis",
+  "differentials": [
+    "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis",
+    "Post-COVID-19 respiratory failure",
+    "Tricuspid regurgitation",
+    "Hypercapnic respiratory failure",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis",
+    "Post-COVID-19 respiratory failure",
+    "Tricuspid regurgitation",
+    "Hypercapnic respiratory failure",
+    "Pneumonia"
+  ]
+}

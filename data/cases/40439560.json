@@ -1,0 +1,23 @@
+{
+  "case_id": "40439560",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 41-year-old female patient with recurrent nasopharyngeal carcinoma (NPC) presents with diabetic ketoacidosis (DKA) during maintenance immunotherapy.",
+  "history": "The patient has recurrent NPC (rT3N0M0, 8th edition of AJCC staging) and was undergoing maintenance treatment with the immune checkpoint inhibitor tislelizumab. She experienced DKA during her 13th session of treatment.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided, but the patient was diagnosed with immune-related DKA and immune checkpoint inhibitor-related diabetes.",
+  "correct_diagnosis": "Immune-related diabetic ketoacidosis",
+  "differentials": [
+    "Type 1 diabetes mellitus",
+    "Immune-related diabetic ketoacidosis",
+    "Type 2 diabetes mellitus",
+    "Alcoholic ketoacidosis",
+    "Starvation ketoacidosis"
+  ],
+  "correct_ranking": [
+    "Immune-related diabetic ketoacidosis",
+    "Type 1 diabetes mellitus",
+    "Type 2 diabetes mellitus",
+    "Alcoholic ketoacidosis",
+    "Starvation ketoacidosis"
+  ]
+}

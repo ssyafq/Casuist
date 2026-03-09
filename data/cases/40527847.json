@@ -1,0 +1,23 @@
+{
+  "case_id": "40527847",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 58-year-old female presented with upper abdominal pain for 3 days.",
+  "history": "The patient had a history of diabetes and presented with upper abdominal pain. No other specific past medical history, medications, or social history were reported.",
+  "exam": "No specific vital signs or physical examination findings were reported.",
+  "labs": "Fasting blood glucose was 21 mmol/L, urinary ketone body 3+, pH 7.309, decreased actual and standard bicarbonate, and abdominal enhanced computed tomography showed a rounded low-density shadow with sharp edges and well-defined borders in the lumen of the bowel on the left side of the abdomen, with a size of 6 cm, and no significant enhancement within the lesion.",
+  "correct_diagnosis": "Small intestinal obstruction caused by bezoar combined with diabetes ketoacidosis",
+  "differentials": [
+    "Gastroenteritis",
+    "Small intestinal obstruction caused by bezoar combined with diabetes ketoacidosis",
+    "Appendicitis",
+    "Cholecystitis",
+    "Intussusception"
+  ],
+  "correct_ranking": [
+    "Small intestinal obstruction caused by bezoar combined with diabetes ketoacidosis",
+    "Intussusception",
+    "Appendicitis",
+    "Cholecystitis",
+    "Gastroenteritis"
+  ]
+}

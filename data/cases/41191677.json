@@ -1,0 +1,23 @@
+{
+  "case_id": "41191677",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 40-year-old female patient presents with recurrent acute abdominal pain, vomiting, inappetence, and weight loss over several months.",
+  "history": "The patient has a history of recurrent acute abdominal pain, vomiting, inappetence, and weight loss over several months. Diagnostic imaging revealed obliteration of fat in the pancreaticoduodenal groove and densification of the adjacent adipose planes, along with an infiltrative and stenosing lesion in the duodenum. The patient's symptoms persisted despite negative biopsy results.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Diagnostic imaging revealed obliteration of fat in the pancreaticoduodenal groove and densification of the adjacent adipose planes, along with an infiltrative and stenosing lesion in the duodenum.",
+  "correct_diagnosis": "Groove pancreatitis",
+  "differentials": [
+    "Groove pancreatitis",
+    "Chronic pancreatitis",
+    "Pancreatic cancer",
+    "Duodenal cancer",
+    "Gastrointestinal stromal tumor"
+  ],
+  "correct_ranking": [
+    "Groove pancreatitis",
+    "Chronic pancreatitis",
+    "Pancreatic cancer",
+    "Duodenal cancer",
+    "Gastrointestinal stromal tumor"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41494723",
+  "specialty": "seizure",
+  "chief_complaint": "A 7-year-old girl presents with recurrent seizures following a week of fever and flood exposure.",
+  "history": "She had a week of fever and flood exposure, followed by recurrent seizures. Initial suspicion was leptospira encephalitis, supported by positive serology. However, progressive hypertension and CT brain findings confirmed PRES secondary to leptospira-associated acute glomerulonephritis.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 110 bpm. Physical examination was unremarkable.",
+  "labs": "ECG: normal. Bloods: positive leptospira serology, elevated creatinine. CT brain: findings consistent with PRES. Other tests: normal.",
+  "correct_diagnosis": "Posterior reversible encephalopathy syndrome (PRES) secondary to leptospira-associated acute glomerulonephritis",
+  "differentials": [
+    "Posterior reversible encephalopathy syndrome (PRES) secondary to leptospira-associated acute glomerulonephritis",
+    "Leptospira encephalitis",
+    "Acute glomerulonephritis",
+    "Hypertensive encephalopathy",
+    "Meningitis"
+  ],
+  "correct_ranking": [
+    "Posterior reversible encephalopathy syndrome (PRES) secondary to leptospira-associated acute glomerulonephritis",
+    "Leptospira encephalitis",
+    "Acute glomerulonephritis",
+    "Hypertensive encephalopathy",
+    "Meningitis"
+  ]
+}

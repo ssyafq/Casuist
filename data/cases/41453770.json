@@ -1,0 +1,23 @@
+{
+  "case_id": "41453770",
+  "specialty": "chest pain",
+  "chief_complaint": "A 50-year-old woman presented with progressive, left-sided pleuritic chest pain.",
+  "history": "The patient experienced progressive, left-sided pleuritic chest pain. Initial investigations were negative. On re-presentation, inflammatory markers were raised and a small left pleural effusion was noted.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG: negative, Troponin: negative, D-dimer: negative, Inflammatory markers: raised, CT pulmonary angiography: focal pericardial fat inflammation.",
+  "correct_diagnosis": "Pericardial fat necrosis",
+  "differentials": [
+    "Pericardial fat necrosis",
+    "Pulmonary embolism",
+    "Myocardial infarction",
+    "Pleurisy",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Pericardial fat necrosis",
+    "Pulmonary embolism",
+    "Myocardial infarction",
+    "Pleurisy",
+    "Pneumonia"
+  ]
+}

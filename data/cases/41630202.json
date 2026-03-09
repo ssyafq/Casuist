@@ -1,0 +1,23 @@
+{
+  "case_id": "41630202",
+  "specialty": "meningitis",
+  "chief_complaint": "A 65-year-old male patient presented with fever, headache, and psychiatric behavioral abnormalities.",
+  "history": "The patient had no typical epidemiological history and was admitted with fever, headache, and psycho-behavioral abnormalities. He had no symptoms such as nausea, vomiting, or convulsions.",
+  "exam": "The patient had fever, headache, psychiatric behavioral abnormalities (delirium, confusion), neck stiffness, and a positive Kernig's sign, indicating meningeal irritation.",
+  "labs": "Investigations included supportive therapies, including neurotrophic agents, hepatoprotective drugs, and electrolyte imbalance correction.",
+  "correct_diagnosis": "Purulent meningitis caused by S suis infection",
+  "differentials": [
+    "Purulent meningitis caused by S suis infection",
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Fungal meningitis",
+    "Tuberculous meningitis"
+  ],
+  "correct_ranking": [
+    "Purulent meningitis caused by S suis infection",
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Fungal meningitis",
+    "Tuberculous meningitis"
+  ]
+}

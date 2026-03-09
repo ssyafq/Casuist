@@ -1,0 +1,23 @@
+{
+  "case_id": "41496545",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "An 84-year-old man presented with rectal bleeding after prostate biopsy.",
+  "history": "Minor bleeding after prostate biopsy is a relatively common complication, but clinically significant hemorrhage happens rarely. The patient required a massive transfusion.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Transfusion required, but specific lab results not provided.",
+  "correct_diagnosis": "Prostatic artery pseudoaneurysm",
+  "differentials": [
+    "Prostatic artery pseudoaneurysm",
+    "Urethral injury",
+    "Bladder injury",
+    "Rectal injury",
+    "Diverticulosis"
+  ],
+  "correct_ranking": [
+    "Prostatic artery pseudoaneurysm",
+    "Urethral injury",
+    "Bladder injury",
+    "Rectal injury",
+    "Diverticulosis"
+  ]
+}

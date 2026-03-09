@@ -1,0 +1,23 @@
+{
+  "case_id": "41349276",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 45-year-old male patient presented with rapid deterioration requiring multiple pressors and specialized interventions.",
+  "history": "The patient had severe calcium channel antagonist toxicity with progression to profound shock through vasoplegia, cardiogenic collapse, or a combination of both. Various treatment options were available, but accurately identifying the type of shock was essential for guiding appropriate therapy.",
+  "exam": "Vital signs: tachycardia, hypotension, and decreased cardiac output. Physical examination findings: decreased peripheral pulses, cool extremities, and decreased urine output.",
+  "labs": "ECG: signs of myocardial ischemia. Bloods: elevated troponin levels, decreased blood pressure, and decreased urine output. Imaging: echocardiogram showing decreased left ventricular function.",
+  "correct_diagnosis": "Calcium channel antagonist toxicity with mixed shock state",
+  "differentials": [
+    "Calcium channel antagonist toxicity with mixed shock state",
+    "Vasodilatory shock",
+    "Cardiogenic shock",
+    "Septic shock",
+    "Anaphylactic shock"
+  ],
+  "correct_ranking": [
+    "Calcium channel antagonist toxicity with mixed shock state",
+    "Vasodilatory shock",
+    "Cardiogenic shock",
+    "Septic shock",
+    "Anaphylactic shock"
+  ]
+}

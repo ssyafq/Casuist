@@ -1,0 +1,23 @@
+{
+  "case_id": "41215477",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 55-year-old male presented with recurrent episodes of severe abdominal pain radiating to the back, accompanied by nausea and vomiting.",
+  "history": "The patient reported a history of recurrent acute pancreatitis precipitated by epidural steroid injections (ESIs) administered for chronic low back pain. He also had a subsequent diagnosis of intraductal papillary mucinous neoplasm of the pancreas (IPMN).",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 20 breaths/min, T 37.5°C. Physical examination revealed tenderness in the upper abdomen.",
+  "labs": "Elevated pancreatic enzymes: amylase 500 U/L, lipase 400 U/L. Imaging studies: CT scan of the abdomen showing pancreatic ductal dilation and a cystic lesion in the pancreas.",
+  "correct_diagnosis": "Recurrent acute pancreatitis precipitated by epidural steroid injections in the setting of intraductal papillary mucinous neoplasm of the pancreas (IPMN)",
+  "differentials": [
+    "Recurrent acute pancreatitis precipitated by epidural steroid injections in the setting of intraductal papillary mucinous neoplasm of the pancreas (IPMN)",
+    "Chronic pancreatitis",
+    "Pancreatic ductal adenocarcinoma",
+    "Gallstone pancreatitis",
+    "Hypertriglyceridemia-induced pancreatitis"
+  ],
+  "correct_ranking": [
+    "Recurrent acute pancreatitis precipitated by epidural steroid injections in the setting of intraductal papillary mucinous neoplasm of the pancreas (IPMN)",
+    "Chronic pancreatitis",
+    "Pancreatic ductal adenocarcinoma",
+    "Gallstone pancreatitis",
+    "Hypertriglyceridemia-induced pancreatitis"
+  ]
+}

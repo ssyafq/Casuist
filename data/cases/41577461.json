@@ -1,0 +1,23 @@
+{
+  "case_id": "41577461",
+  "specialty": "seizure",
+  "chief_complaint": "A 32-year-old pregnant woman presented with a new-onset seizure.",
+  "history": "The patient had a history of an untreated dental abscess, which was identified as the source of a Streptococcus pneumoniae infection. She had no history of seizures, hypertension, or other medical conditions. She was not taking any medications. Her social history revealed poor dental care.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed a tender dental abscess in the lower left molar region.",
+  "labs": "CT scan of the head showed a brain abscess in the left frontal lobe. Blood cultures grew Streptococcus pneumoniae. ECG was normal.",
+  "correct_diagnosis": "Brain abscess caused by Streptococcus pneumoniae from a dental source",
+  "differentials": [
+    "Eclampsia",
+    "Brain abscess caused by Streptococcus pneumoniae from a dental source",
+    "Cerebral vasculitis",
+    "Meningitis",
+    "Status epilepticus"
+  ],
+  "correct_ranking": [
+    "Brain abscess caused by Streptococcus pneumoniae from a dental source",
+    "Eclampsia",
+    "Cerebral vasculitis",
+    "Meningitis",
+    "Status epilepticus"
+  ]
+}

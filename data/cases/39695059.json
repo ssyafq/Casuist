@@ -1,0 +1,23 @@
+{
+  "case_id": "39695059",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "Two patients presented with acute coronary syndrome, one with continued chest pain despite medical therapy and the other with plaque progression.",
+  "history": "Both patients had coronary artery disease. The first patient experienced chest pain despite receiving medical therapy, leading to the detection of plaque ulceration. The second patient had two photon-counting computed tomography (PCCT) screenings within 6 months, revealing plaque progression.",
+  "exam": "No specific physical examination findings are reported.",
+  "labs": "Photon-counting computed tomography (PCCT) and intravascular ultrasound (IVUS) were used for diagnosis and intervention guidance.",
+  "correct_diagnosis": "Unstable angina",
+  "differentials": [
+    "Myocardial infarction",
+    "Stable angina",
+    "Unstable angina",
+    "Coronary artery spasm",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Unstable angina",
+    "Myocardial infarction",
+    "Stable angina",
+    "Coronary artery spasm",
+    "Cardiac arrhythmia"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41224686",
+  "specialty": "seizure",
+  "chief_complaint": "An 11-month-old boy presented with 6 months of failure to thrive, progressive seizures, developmental regression, and aversion to solid foods.",
+  "history": "The patient had a 6-month history of failure to thrive, progressive seizures, developmental regression, and aversion to solid foods. He also developed systemic symptoms including oral mucocutaneous lesions, neutropenia, and anemia. Initial diagnostic work-up included rapid whole exome sequencing (WES) and metabolic studies.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Investigations included an abnormal electroencephalogram, a thin corpus callosum, markedly elevated propionylcarnitine, plasma homocysteine, and methylmalonic acid, with normal vitamin B12, and maternal vitamin B12 undetectable.",
+  "correct_diagnosis": "Maternal cobalamin deficiency causing infantile seizures and developmental regression.",
+  "differentials": [
+    "Maternal cobalamin deficiency causing infantile seizures and developmental regression.",
+    "Inborn error of cobalamin metabolism",
+    "Nutritional B12 deficiency",
+    "Epileptic encephalopathy",
+    "Pernicious anemia"
+  ],
+  "correct_ranking": [
+    "Maternal cobalamin deficiency causing infantile seizures and developmental regression.",
+    "Inborn error of cobalamin metabolism",
+    "Nutritional B12 deficiency",
+    "Epileptic encephalopathy",
+    "Pernicious anemia"
+  ]
+}

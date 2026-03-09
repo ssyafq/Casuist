@@ -1,0 +1,23 @@
+{
+  "case_id": "40620201",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A previously healthy male presented with acute dyspnoea, chest pain, and diaphoresis.",
+  "history": "The patient had no clear history of exposure, but his symptoms suggested non-ST elevation acute coronary syndrome and pneumonia.",
+  "exam": "No specific physical examination findings are provided, but the patient deteriorated, necessitating intubation.",
+  "labs": "Serum acetylcholinesterase activity was markedly reduced, confirming OP poisoning as the underlying cause. ECG suggested non-ST elevation acute coronary syndrome.",
+  "correct_diagnosis": "Organophosphate poisoning",
+  "differentials": [
+    "Pneumonia",
+    "Non-ST elevation acute coronary syndrome",
+    "Organophosphate poisoning",
+    "Cholinergic toxidrome",
+    "Acute respiratory distress syndrome"
+  ],
+  "correct_ranking": [
+    "Organophosphate poisoning",
+    "Cholinergic toxidrome",
+    "Non-ST elevation acute coronary syndrome",
+    "Pneumonia",
+    "Acute respiratory distress syndrome"
+  ]
+}

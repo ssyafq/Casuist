@@ -1,0 +1,23 @@
+{
+  "case_id": "41606640",
+  "specialty": "stroke",
+  "chief_complaint": "A 16-year-old female from Ethiopia presented with a 1-month history of productive cough with whitish sputum, low-grade fever, night sweats, significant weight loss, and episodes of vomiting.",
+  "history": "The patient later developed right-sided hemiplegia and Broca's aphasia. She was managed with first-line antituberculosis drugs (rifampicin/isoniazid/pyrazinamide/ethambutol), prednisolone, pyridoxine, nutritional therapy with Plumpy Nut, and bedside physiotherapy.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "ECG, bloods, imaging, and other tests not explicitly stated.",
+  "correct_diagnosis": "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke",
+  "differentials": [
+    "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke",
+    "Ischemic stroke",
+    "Tuberculous meningitis",
+    "Miliary tuberculosis",
+    "Vasculitis"
+  ],
+  "correct_ranking": [
+    "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke",
+    "Ischemic stroke",
+    "Miliary tuberculosis",
+    "Tuberculous meningitis",
+    "Vasculitis"
+  ]
+}

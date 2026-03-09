@@ -1,0 +1,23 @@
+{
+  "case_id": "40875161",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 5-year-old male dog presented with a history of refractory immune-mediated thrombocytopenia (ITP), diabetic ketoacidosis, and gastrointestinal bleeding.",
+  "history": "The dog had a poor response to immunosuppressive therapy and experienced recurrent relapses when prednisolone (PDS) tapering was attempted. This led to complications such as diabetic ketoacidosis and chronic gastrointestinal bleeding. The dog was treated with canine adipose tissue-derived mesenchymal stromal cells (cAT-MSCs) administered intravenously at four-week intervals for eight sessions.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Investigations included refractory ITP, diabetic ketoacidosis, and gastrointestinal bleeding.",
+  "correct_diagnosis": "Refractory immune-mediated thrombocytopenia (ITP) treated with canine adipose tissue-derived mesenchymal stromal cells (cAT-MSCs)",
+  "differentials": [
+    "Refractory immune-mediated thrombocytopenia (ITP) treated with canine adipose tissue-derived mesenchymal stromal cells (cAT-MSCs)",
+    "Diabetic ketoacidosis",
+    "Gastrointestinal bleeding",
+    "Immunosuppressive treatment complications",
+    "Chronic disease"
+  ],
+  "correct_ranking": [
+    "Refractory immune-mediated thrombocytopenia (ITP) treated with canine adipose tissue-derived mesenchymal stromal cells (cAT-MSCs)",
+    "Diabetic ketoacidosis",
+    "Gastrointestinal bleeding",
+    "Immunosuppressive treatment complications",
+    "Chronic disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41621962",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 25-year-old woman presents with severe thrombosis and bleeding complications following a COVID-19 infection.",
+  "history": "Congenital protein C deficiency is a major thrombotic risk factor in the Japanese population. The patient had recurrent episodes of purpura fulminans despite warfarin therapy. She developed coagulopathy with poorly controlled thrombotic and bleeding complications, followed by disseminated intravascular coagulation (DIC).",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Not provided.",
+  "correct_diagnosis": "Severe congenital protein C deficiency with purpura fulminans and disseminated intravascular coagulation",
+  "differentials": [
+    "Severe congenital protein C deficiency with purpura fulminans and disseminated intravascular coagulation",
+    "Disseminated intravascular coagulation",
+    "Thrombotic thrombocytopenic purpura",
+    "Heparin-induced thrombocytopenia",
+    "COVID-19-related coagulopathy"
+  ],
+  "correct_ranking": [
+    "Severe congenital protein C deficiency with purpura fulminans and disseminated intravascular coagulation",
+    "Disseminated intravascular coagulation",
+    "Thrombotic thrombocytopenic purpura",
+    "Heparin-induced thrombocytopenia",
+    "COVID-19-related coagulopathy"
+  ]
+}

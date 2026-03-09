@@ -1,0 +1,23 @@
+{
+  "case_id": "41412941",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 50-year-old female presented with a 6-day history of left calf pain and swelling.",
+  "history": "She had a history of recurrent deep vein thrombosis (DVT) and a strong family history of thrombosis involving her mother and sibling. She also reported palpitations and shortness of breath.",
+  "exam": "Mild tenderness in the left calf with <3 cm asymmetry.",
+  "labs": "Normal blood tests apart from an elevated D-dimer. ECG confirmed paroxysmal atrial fibrillation. Doppler ultrasound ruled out DVT. CTPA demonstrated acute pulmonary vein thrombosis.",
+  "correct_diagnosis": "Acute pulmonary vein thrombosis",
+  "differentials": [
+    "Acute pulmonary vein thrombosis",
+    "Pulmonary embolism",
+    "Deep vein thrombosis",
+    "Atrial fibrillation",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Acute pulmonary vein thrombosis",
+    "Pulmonary embolism",
+    "Deep vein thrombosis",
+    "Atrial fibrillation",
+    "Cardiac arrhythmia"
+  ]
+}

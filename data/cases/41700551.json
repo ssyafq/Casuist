@@ -1,0 +1,23 @@
+{
+  "case_id": "41700551",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 53-year-old woman developed progressive cerebellar degeneration following coronavirus disease 2019 (COVID-19), presenting with dysarthria, imbalance, and gait ataxia two months after mild respiratory symptoms.",
+  "history": "The patient developed mild respiratory symptoms two months prior, followed by progressive cerebellar degeneration. She had no history of malignancy. Initial treatment with intravenous immunoglobulin and plasmapheresis achieved transient improvement and decreased antibody titers. However, recurrence of antibodies coincided with further cerebellar atrophy and posterior hypoperfusion on MRI and SPECT, despite maintenance immunotherapy.",
+  "exam": "Neurological examination revealed gaze-evoked nystagmus, broad-based ataxia, and cerebellar dysmetria. Vital signs were not provided.",
+  "labs": "Brain MRI demonstrated marked cerebellar atrophy. Cerebrospinal fluid analysis showed elevated protein, increased IgG index, and the presence of oligoclonal bands. Serological testing confirmed strong anti-Zic4 antibody positivity. SPECT showed posterior hypoperfusion.",
+  "correct_diagnosis": "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection",
+  "differentials": [
+    "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection",
+    "Paraneoplastic Cerebellar Degeneration",
+    "Postinfectious Autoimmune Cerebellar Degeneration",
+    "Small-Cell Lung Carcinoma",
+    "Cerebellar Atrophy"
+  ],
+  "correct_ranking": [
+    "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection",
+    "Paraneoplastic Cerebellar Degeneration",
+    "Postinfectious Autoimmune Cerebellar Degeneration",
+    "Small-Cell Lung Carcinoma",
+    "Cerebellar Atrophy"
+  ]
+}

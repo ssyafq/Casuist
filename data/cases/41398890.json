@@ -1,0 +1,23 @@
+{
+  "case_id": "41398890",
+  "specialty": "seizure",
+  "chief_complaint": "A 10-year-old female patient presented with abnormal emotions, involuntary movements, and language impairment.",
+  "history": "The patient was admitted to our hospital for detailed evaluation due to abnormal emotions, involuntary movements, and language impairment. Following admission, the patient developed seizures, impaired consciousness, cognitive dysfunction, and status dystonicus.",
+  "exam": "Vital signs: Not provided. Physical examination findings: Involuntary movements, impaired consciousness, and cognitive dysfunction.",
+  "labs": "Electroencephalogram (EEG): Abnormal results. Cerebrospinal fluid (CSF) tests: Abnormal results. Anti-NMDAR antibody: Positive.",
+  "correct_diagnosis": "Severe anti-NMDA receptor encephalitis",
+  "differentials": [
+    "Severe anti-NMDA receptor encephalitis",
+    "Status epilepticus",
+    "Cerebral vasculitis",
+    "Herpes simplex encephalitis",
+    "Meningitis"
+  ],
+  "correct_ranking": [
+    "Severe anti-NMDA receptor encephalitis",
+    "Status epilepticus",
+    "Cerebral vasculitis",
+    "Herpes simplex encephalitis",
+    "Meningitis"
+  ]
+}

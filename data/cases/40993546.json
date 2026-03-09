@@ -1,0 +1,23 @@
+{
+  "case_id": "40993546",
+  "specialty": "chest pain",
+  "chief_complaint": "A 43-year-old perimenopausal woman presented with multiple recurrent angina episodes. A 49-year-old man presented with complaints of recurrent chest pain for 7 months. A 68-year-old woman was readmitted for recurrent angina.",
+  "history": "All three patients had a history of refractory recurrent angina and rapid plaque progression due to intraplaque hemorrhage (IPH). Case 1 had two recent interventions for the left anterior descending coronary artery (LAD). Case 2 and Case 3 had mild-to-moderate stenosis in coronary angiographies.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Coronary angiography revealed rapid plaque progression. Optical coherence tomography revealed intraplaque hemorrhage as a possible cause of plaque progression. Electrocardiography showed dynamic ST-T changes.",
+  "correct_diagnosis": "Rapid plaque progression due to intraplaque hemorrhage",
+  "differentials": [
+    "Rapid plaque progression due to intraplaque hemorrhage",
+    "Coronary artery spasm",
+    "Fibrotic plaque with vasomotor dysfunction",
+    "Refractory angina due to stenosis",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Rapid plaque progression due to intraplaque hemorrhage",
+    "Coronary artery spasm",
+    "Fibrotic plaque with vasomotor dysfunction",
+    "Refractory angina due to stenosis",
+    "Myocardial infarction"
+  ]
+}

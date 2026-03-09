@@ -1,0 +1,23 @@
+{
+  "case_id": "41710254",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 45-year-old male presented with severe abdominal pain and vomiting.",
+  "history": "The patient had a history of hypertriglyceridemia and was admitted with acute pancreatitis. His triglyceride concentration was initially reported as 1.53 mmol/L, but subsequent retesting revealed an actual value of 88.92 mmol/L.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24 breaths/min. Physical examination revealed tenderness in the upper abdomen.",
+  "labs": "Triglyceride concentration: 88.92 mmol/L, Lipemic index: high.",
+  "correct_diagnosis": "Falsely decreased triglyceride concentration due to insufficient configuration of alarm rules.",
+  "differentials": [
+    "Falsely decreased triglyceride concentration due to insufficient configuration of alarm rules.",
+    "Acute pancreatitis due to hypertriglyceridemia",
+    "Pancreatic pseudocyst",
+    "Pancreatic cancer",
+    "Gallstone pancreatitis"
+  ],
+  "correct_ranking": [
+    "Falsely decreased triglyceride concentration due to insufficient configuration of alarm rules.",
+    "Acute pancreatitis due to hypertriglyceridemia",
+    "Pancreatic pseudocyst",
+    "Pancreatic cancer",
+    "Gallstone pancreatitis"
+  ]
+}

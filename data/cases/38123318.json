@@ -1,0 +1,23 @@
+{
+  "case_id": "38123318",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A woman in her mid-20s presented with acute personality change and focal myoclonic jerks, later diagnosed with encephalitis as the initial presentation of type 2 amiodarone-induced thyrotoxicosis.",
+  "history": "The patient had a history of hypertrophic cardiomyopathy and was on amiodarone. She presented with encephalitis, and other possible causes were excluded.",
+  "exam": "No specific vital signs or physical examination findings are mentioned, but the patient had acute personality change and focal myoclonic jerks.",
+  "labs": "Cerebrospinal fluid analysis showed non-specific protein count elevation with negative microbiology, virology, autoimmune screen, and onconeural antibodies. Electroencephalogram was consistent with generalised cerebral dysrhythmia. MRI of the head revealed symmetrical oedema within the motor cortices and a high T2 signal within the cerebellar dentate nuclei. Blood investigations confirmed thyrotoxicosis with negative antithyroid antibodies.",
+  "correct_diagnosis": "Type 2 amiodarone-induced thyrotoxicosis (AIT)",
+  "differentials": [
+    "Hashimoto's encephalopathy",
+    "Type 2 amiodarone-induced thyrotoxicosis (AIT)",
+    "Infectious encephalitis",
+    "Thyroid storm",
+    "Autoimmune encephalitis"
+  ],
+  "correct_ranking": [
+    "Type 2 amiodarone-induced thyrotoxicosis (AIT)",
+    "Thyroid storm",
+    "Hashimoto's encephalopathy",
+    "Autoimmune encephalitis",
+    "Infectious encephalitis"
+  ]
+}

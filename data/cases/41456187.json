@@ -1,0 +1,23 @@
+{
+  "case_id": "41456187",
+  "specialty": "stroke",
+  "chief_complaint": "A 45-year-old female presented with sudden onset left-sided weakness and difficulty speaking.",
+  "history": "The patient has a history of cardiac myxoma, which was diagnosed 2 years ago. She has been experiencing episodes of palpitations and shortness of breath. She has no history of hypertension, diabetes, or smoking. She takes aspirin for her cardiac condition.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed left-sided weakness and dysarthria.",
+  "labs": "ECG: normal sinus rhythm with a left atrial enlargement. Bloods: normal complete blood count and basic metabolic panel. Imaging: CT head showed an ischemic stroke in the left middle cerebral artery territory. Echocardiography confirmed the presence of a cardiac myxoma.",
+  "correct_diagnosis": "Ischemic stroke due to cardiac myxoma",
+  "differentials": [
+    "Ischemic stroke due to cardiac myxoma",
+    "Cardiac tamponade",
+    "Atrial fibrillation with embolic stroke",
+    "Carotid artery dissection",
+    "Migraine with aura"
+  ],
+  "correct_ranking": [
+    "Ischemic stroke due to cardiac myxoma",
+    "Atrial fibrillation with embolic stroke",
+    "Cardiac tamponade",
+    "Carotid artery dissection",
+    "Migraine with aura"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40819629",
+  "specialty": "chest pain",
+  "chief_complaint": "A 40-year-old man presented with chest pain and fever.",
+  "history": "A healthy man in his 40s presented with chest pain and fever. Pericardiocentesis produced exudative fluid with a markedly elevated adenosine deaminase level, leading to an initial diagnosis of tuberculous pericarditis and initiation of antituberculous therapy. Despite treatment, the patient deteriorated.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG, bloods, imaging, and other tests: Pericardiocentesis produced exudative fluid with a markedly elevated adenosine deaminase level.",
+  "correct_diagnosis": "Gastropericardial fistula due to a benign gastric ulcer",
+  "differentials": [
+    "Gastropericardial fistula due to a benign gastric ulcer",
+    "Tuberculous pericarditis",
+    "Acute coronary syndrome",
+    "Pneumopericardium",
+    "Chronic pericarditis"
+  ],
+  "correct_ranking": [
+    "Gastropericardial fistula due to a benign gastric ulcer",
+    "Tuberculous pericarditis",
+    "Acute coronary syndrome",
+    "Pneumopericardium",
+    "Chronic pericarditis"
+  ]
+}

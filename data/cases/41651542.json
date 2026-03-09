@@ -1,0 +1,23 @@
+{
+  "case_id": "41651542",
+  "specialty": "pneumonia",
+  "chief_complaint": "A term male neonate presented at birth with severe respiratory failure.",
+  "history": "Multisystem inflammatory syndrome in neonates (MIS-N) is a rare condition linked to perinatal exposure to SARS-CoV-2. The infant developed diffuse skin peeling, acute kidney injury, and hypertension over the next few days. The mother was RT-PCR positive for SARS-CoV-2, and the neonate had markedly elevated SARS-CoV-2 IgG with negative RT-PCR.",
+  "exam": "Vital signs and physical examination findings were not explicitly stated.",
+  "labs": "Echocardiography showed elevated pulmonary pressures without structural abnormalities. Serial echocardiography revealed diffuse endomyocardial and coronary intimal echogenicity suggestive of calcification. The infant was RT-PCR negative for SARS-CoV-2, but had markedly elevated SARS-CoV-2 IgG.",
+  "correct_diagnosis": "Multisystem inflammatory syndrome of newborn (MIS-N) with endomyocardial calcification and systemic hypertension",
+  "differentials": [
+    "Multisystem inflammatory syndrome of newborn (MIS-N) with endomyocardial calcification and systemic hypertension",
+    "Persistent pulmonary hypertension of the newborn",
+    "Acute kidney injury",
+    "Diffuse skin peeling",
+    "Congenital heart disease"
+  ],
+  "correct_ranking": [
+    "Multisystem inflammatory syndrome of newborn (MIS-N) with endomyocardial calcification and systemic hypertension",
+    "Persistent pulmonary hypertension of the newborn",
+    "Acute kidney injury",
+    "Diffuse skin peeling",
+    "Congenital heart disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40842261",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 56-day-old female infant presented with polyuria, fever, vomiting, and dehydration.",
+  "history": "The patient was diagnosed with neonatal diabetes mellitus (NDM) and had a clinical presentation that included diabetic ketoacidosis (DKA). Initial treatment with subcutaneous insulin was poorly controlled. A KCNJ11 mutation was later identified, and the patient was switched to sulfonylurea for better blood sugar control.",
+  "exam": "Vital signs: fever, dehydration. Physical examination findings: polyuria.",
+  "labs": "Laboratory workup indicated diabetic ketoacidosis (DKA) with hyperglycemia, ketosis, and metabolic acidosis.",
+  "correct_diagnosis": "De novo KCNJ11 mutation in an infant with neonatal diabetes mellitus presenting as diabetic ketoacidosis",
+  "differentials": [
+    "De novo KCNJ11 mutation in an infant with neonatal diabetes mellitus presenting as diabetic ketoacidosis",
+    "Diabetic ketoacidosis (DKA) due to other causes",
+    "Neonatal diabetes mellitus (NDM) due to other genetic mutations",
+    "Congenital hyperinsulinism",
+    "Congenital adrenal hyperplasia"
+  ],
+  "correct_ranking": [
+    "De novo KCNJ11 mutation in an infant with neonatal diabetes mellitus presenting as diabetic ketoacidosis",
+    "Diabetic ketoacidosis (DKA) due to other causes",
+    "Neonatal diabetes mellitus (NDM) due to other genetic mutations",
+    "Congenital hyperinsulinism",
+    "Congenital adrenal hyperplasia"
+  ]
+}

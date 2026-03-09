@@ -1,0 +1,23 @@
+{
+  "case_id": "41579394",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 75-year-old female patient presented with a non-ST elevation myocardial infarction.",
+  "history": "Wellens syndrome is a condition equivalent to ST elevation myocardial infarction, highly specific for critical stenosis of the proximal left anterior descending (LAD) coronary artery. Prolonged QT interval is a risk factor for life-threatening arrhythmia, characterized by a prolongation of the QT interval (QTc) longer than 440 ms corrected for heart rhythm on the ECG. The patient had a normal sinus rhythm, negative T waves in leads I, aVL, and V6, and a QTc interval of 431 ms on admission.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: normal sinus rhythm, negative T waves in leads I, aVL, and V6, QTc interval of 431 ms; 2 days after coronary angiography: deep inverted T waves in the V2-V4 leads, QTc prolongation to 828 ms. Coronary angiography: critical stenosis of the distal left main (LM) and proximal LAD coronary artery.",
+  "correct_diagnosis": "Wellens syndrome with prolonged QT interval in acute myocardial infarction due to LAD occlusion",
+  "differentials": [
+    "Wellens syndrome with prolonged QT interval in acute myocardial infarction due to LAD occlusion",
+    "Acute myocardial infarction due to LAD occlusion",
+    "Prolonged QT interval in acute myocardial infarction",
+    "Non-ST elevation myocardial infarction",
+    "Critical stenosis of the proximal LAD coronary artery"
+  ],
+  "correct_ranking": [
+    "Wellens syndrome with prolonged QT interval in acute myocardial infarction due to LAD occlusion",
+    "Acute myocardial infarction due to LAD occlusion",
+    "Prolonged QT interval in acute myocardial infarction",
+    "Non-ST elevation myocardial infarction",
+    "Critical stenosis of the proximal LAD coronary artery"
+  ]
+}

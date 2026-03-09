@@ -1,0 +1,23 @@
+{
+  "case_id": "41426499",
+  "specialty": "stroke",
+  "chief_complaint": "A 75-year-old man presented with acute right-sided weakness and involuntary, rhythmic contractions of the abdominal muscles.",
+  "history": "Post-stroke movement disorders are rare. Abdominal myoclonus following anterior cerebral artery (ACA) infarction has not been previously reported. The patient had an acute left ACA infarction involving the precentral gyrus, and other secondary causes of myoclonus were ruled out.",
+  "exam": "Scalp electroencephalography (EEG) showed no epileptiform discharges.",
+  "labs": "Imaging revealed an acute left ACA infarction involving the precentral gyrus.",
+  "correct_diagnosis": "Cortical abdominal myoclonus as a rare manifestation of ACA ischemic stroke",
+  "differentials": [
+    "Cortical abdominal myoclonus as a rare manifestation of ACA ischemic stroke",
+    "Epileptic myoclonus",
+    "Metabolic myoclonus",
+    "Toxic myoclonus",
+    "Essential myoclonus"
+  ],
+  "correct_ranking": [
+    "Cortical abdominal myoclonus as a rare manifestation of ACA ischemic stroke",
+    "Epileptic myoclonus",
+    "Metabolic myoclonus",
+    "Toxic myoclonus",
+    "Essential myoclonus"
+  ]
+}

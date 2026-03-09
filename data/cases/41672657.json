@@ -1,0 +1,23 @@
+{
+  "case_id": "41672657",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 36-year-old man presents with fever, malaise, night sweats, and hemoptysis.",
+  "history": "A 36-year-old man with a history of inferior vena cava thrombus and recurrent pulmonary embolism presents with fever, malaise, and night sweats for 3 days and hemoptysis in the last 24 hours. He has a history of recurrent PEs despite compliance with anticoagulation and changes in regimen.",
+  "exam": "Vital signs: fever, tachycardia. Physical examination: lungs clear to auscultation.",
+  "labs": "ECG: normal. Bloods: normal coagulation studies, elevated D-dimer. Imaging: CT pulmonary angiogram shows a new pulmonary embolism.",
+  "correct_diagnosis": "Pulmonary Infarction",
+  "differentials": [
+    "Pulmonary Infarction",
+    "Bronchiectasis",
+    "Pulmonary Embolism",
+    "Lung Cancer",
+    "Infectious Pneumonia"
+  ],
+  "correct_ranking": [
+    "Pulmonary Infarction",
+    "Pulmonary Embolism",
+    "Bronchiectasis",
+    "Infectious Pneumonia",
+    "Lung Cancer"
+  ]
+}

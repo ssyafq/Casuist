@@ -1,0 +1,23 @@
+{
+  "case_id": "39317480",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A man in late adolescence of Asian descent presented with cardiac-sounding chest pain. He had a history of flu-like symptoms a week prior to presentation.",
+  "history": "The patient had flu-like symptoms a week prior to presentation and was screened negative for the SARS-CoV-2 virus. He was initially treated for suspected perimyocarditis.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "ECG showed lateral T-wave changes and pre-excitation pattern suggestive of an accessory pathway. High-sensitivity troponin T peak was significantly elevated to 2550 ng/L. Transthoracic echocardiography revealed moderate left ventricular systolic dysfunction with regional wall motion abnormalities. Cardiac magnetic resonance imaging showed subendocardial delayed gadolinium enhancement with ischaemia and viability in the left circumflex territory. CT coronary angiogram was performed for suspected spontaneous coronary artery dissection.",
+  "correct_diagnosis": "Spontaneous coronary artery dissection",
+  "differentials": [
+    "Myocardial infarction",
+    "Spontaneous coronary artery dissection",
+    "Perimyocarditis",
+    "Acute coronary syndrome",
+    "Coronary artery disease"
+  ],
+  "correct_ranking": [
+    "Spontaneous coronary artery dissection",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Coronary artery disease",
+    "Perimyocarditis"
+  ]
+}

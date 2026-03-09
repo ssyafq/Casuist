@@ -1,0 +1,23 @@
+{
+  "case_id": "39548388",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A middle-aged female developed refractory tachycardia during unilateral total knee arthroplasty under general anesthesia.",
+  "history": "The patient underwent non-thyroidal surgery and was found to have hyperthyroidism via laboratory tests after surgery. She had no known history of thyroid disease prior to the surgery.",
+  "exam": "Refractory tachycardia during operation, other vital signs and physical examination findings not specified",
+  "labs": "Laboratory tests confirmed hyperthyroidism, Burch and Wartofsky scoring system suggested thyroid storm",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Anesthetic complication",
+    "Cardiac arrhythmia",
+    "Sepsis",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Anesthetic complication",
+    "Cardiac arrhythmia",
+    "Sepsis",
+    "Pulmonary embolism"
+  ]
+}

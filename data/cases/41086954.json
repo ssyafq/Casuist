@@ -1,0 +1,23 @@
+{
+  "case_id": "41086954",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "Two severe COVID-19 patients, a 45-year-old male and a 62-year-old female, presented with clinical deterioration.",
+  "history": "This case report analyzes two severe COVID-19 patients without pulmonary embolism, revealing persistently elevated levels of extracellular vesicles (EVs) carrying tissue factor (TF+), complement proteins (C3a+, TCC+), and endothelial markers (CD144+, CD54+).",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Temporal trends in EV subpopulations correlated with clinical deterioration, suggesting their role in endothelial injury, complement hyperactivation, and thromboinflammation.",
+  "correct_diagnosis": "High complement expression on extracellular vesicles in Covid-19 patients without pulmonary embolism leading to death",
+  "differentials": [
+    "High complement expression on extracellular vesicles in Covid-19 patients without pulmonary embolism leading to death",
+    "Pulmonary Embolism",
+    "COVID-19",
+    "Thromboinflammation",
+    "Endothelial Injury"
+  ],
+  "correct_ranking": [
+    "High complement expression on extracellular vesicles in Covid-19 patients without pulmonary embolism leading to death",
+    "Pulmonary Embolism",
+    "COVID-19",
+    "Thromboinflammation",
+    "Endothelial Injury"
+  ]
+}

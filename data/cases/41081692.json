@@ -1,0 +1,23 @@
+{
+  "case_id": "41081692",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 62-year-old woman presented with breathlessness.",
+  "history": "The patient had a history of diabetes, hypertension, and coronary artery disease. Preoperative echocardiography identified a mobile mass prolapsing through the tricuspid valve.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG: not provided; Bloods: not provided; Imaging: preoperative echocardiography identified a mobile mass prolapsing through the tricuspid valve; Transesophageal echocardiography confirmed intraoperative pulmonary embolism.",
+  "correct_diagnosis": "Intraoperative pulmonary embolism",
+  "differentials": [
+    "Intraoperative pulmonary embolism",
+    "Cardiac tamponade",
+    "Right atrial mass embolization",
+    "Tricuspid valve regurgitation",
+    "Hypothermic circulatory arrest complications"
+  ],
+  "correct_ranking": [
+    "Intraoperative pulmonary embolism",
+    "Right atrial mass embolization",
+    "Cardiac tamponade",
+    "Tricuspid valve regurgitation",
+    "Hypothermic circulatory arrest complications"
+  ]
+}

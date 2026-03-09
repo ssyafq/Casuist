@@ -1,0 +1,23 @@
+{
+  "case_id": "41635276",
+  "specialty": "COPD",
+  "chief_complaint": "A 65-year-old male with a 10-year history of chronic obstructive pulmonary disease (COPD) presents with shortness of breath and fatigue.",
+  "history": "The patient has been experiencing progressive shortness of breath over the past year, with a recent exacerbation requiring hospitalization. He has a 30-pack-year smoking history and has been on bronchodilators and inhaled corticosteroids. He has been prescribed long-term oxygen therapy (LTOT) for 15 hours a day, but his oxygen saturation remains low.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 24/min, SpO2 88% on room air. Physical examination reveals bilateral wheezing and crackles.",
+  "labs": "Arterial blood gas: pH 7.35, PaO2 55 mmHg, PaCO2 45 mmHg. ECG: normal. Chest X-ray: hyperinflation of the lungs.",
+  "correct_diagnosis": "Chronic hypoxia in COPD",
+  "differentials": [
+    "Chronic hypoxia in COPD",
+    "Pulmonary embolism",
+    "Heart failure",
+    "Cystic fibrosis",
+    "Asthma exacerbation"
+  ],
+  "correct_ranking": [
+    "Chronic hypoxia in COPD",
+    "Pulmonary embolism",
+    "Heart failure",
+    "Cystic fibrosis",
+    "Asthma exacerbation"
+  ]
+}

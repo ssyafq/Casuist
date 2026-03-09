@@ -1,0 +1,23 @@
+{
+  "case_id": "41493326",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 51-year-old female with a history of Lynch syndrome and metastatic urothelial carcinoma treated with pembrolizumab presented with a pancreatic mass identified during follow-up by PET/CT.",
+  "history": "The patient was treated with pembrolizumab for metastatic urothelial carcinoma. A pancreatic mass was identified during follow-up by PET/CT. Pathology from endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) could not exclude adenocarcinoma. Surgical resection revealed pathology consistent with type II autoimmune pancreatitis (AIP).",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "PET/CT scan: pancreatic mass identified. EUS-FNA: pathology consistent with adenocarcinoma (could not exclude). Surgical pathology: type II autoimmune pancreatitis (AIP).",
+  "correct_diagnosis": "Type II Autoimmune Pancreatitis (AIP)",
+  "differentials": [
+    "Type II Autoimmune Pancreatitis (AIP)",
+    "Adenocarcinoma of the Pancreas",
+    "Pancreatitis Induced by Pembrolizumab (ICI-PI)",
+    "Pancreatic Metastasis from Urothelial Carcinoma",
+    "Pancreatic Abscess"
+  ],
+  "correct_ranking": [
+    "Type II Autoimmune Pancreatitis (AIP)",
+    "Adenocarcinoma of the Pancreas",
+    "Pancreatitis Induced by Pembrolizumab (ICI-PI)",
+    "Pancreatic Metastasis from Urothelial Carcinoma",
+    "Pancreatic Abscess"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "32342300",
+  "specialty": "cardiology",
+  "chief_complaint": "A 66-year-old man presents with chest pain.",
+  "history": "The patient's history is not explicitly provided, but data from the ImageGuide Registry suggests that chest pain is the most common indication for nuclear cardiology studies.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Rest/stress 1-day studies were most common, with Tc-99 m being the most common radiopharmaceutical. 89% of studies were of good or better quality, and 62% of studies were normal.",
+  "correct_diagnosis": "Chest pain due to coronary artery disease",
+  "differentials": [
+    "Chest pain due to coronary artery disease",
+    "Pulmonary embolism",
+    "Gastroesophageal reflux disease",
+    "Musculoskeletal chest pain",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Chest pain due to coronary artery disease",
+    "Musculoskeletal chest pain",
+    "Gastroesophageal reflux disease",
+    "Pneumonia",
+    "Pulmonary embolism"
+  ]
+}

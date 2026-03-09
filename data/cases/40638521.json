@@ -1,0 +1,23 @@
+{
+  "case_id": "40638521",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 7-year-old intact female mixed-breed dog presented with severe anorexia and lethargy. The dog had a 4-week history of polyuria, polydipsia, polyphagia, and weight loss.",
+  "history": "The dog had a 4-week history of polyuria, polydipsia, polyphagia, and weight loss. No past medical history or current medications were reported.",
+  "exam": "Severe dehydration, heart rate of 120 beats/min, respiratory rate of 24 breaths/min, and rectal temperature of 37.5 degrees C.",
+  "labs": "ECG showed regular sinus rhythm, negative QRS complexes in multiple leads, and an unusually shifted mean electrical axis at -101 degrees. Serum cardiac troponin I levels were elevated (0.5 ng/mL). Emergency echocardiography revealed no abnormalities. Laboratory tests confirmed diabetic ketoacidosis (DKA) characterised by severe hyperglycaemia, ketonemia, and metabolic acidosis with an increased anion gap.",
+  "correct_diagnosis": "Diabetic Ketoacidosis with Extreme Axis Deviation",
+  "differentials": [
+    "Hypoadrenocorticism",
+    "Diabetic Ketoacidosis with Extreme Axis Deviation",
+    "Severe Dehydration",
+    "Cardiomyopathy",
+    "Electrolyte Imbalance"
+  ],
+  "correct_ranking": [
+    "Diabetic Ketoacidosis with Extreme Axis Deviation",
+    "Severe Dehydration",
+    "Electrolyte Imbalance",
+    "Cardiomyopathy",
+    "Hypoadrenocorticism"
+  ]
+}

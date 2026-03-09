@@ -1,0 +1,23 @@
+{
+  "case_id": "40836751",
+  "specialty": "chest pain",
+  "chief_complaint": "A 22-year-old male patient presented with undifferentiated chest pain.",
+  "history": "Marfan's syndrome is an autosomal dominant multisystem connective tissue disorder. The patient was diagnosed with spontaneous pneumothorax, and further examination was suggestive of Marfan's syndrome. The patient was treated with intercostal tube placement and was advised to follow-up at a higher center for genetic testing.",
+  "exam": "Further examination was suggestive of Marfan's syndrome.",
+  "labs": "ECG, blood tests, and imaging studies were not mentioned in the report.",
+  "correct_diagnosis": "Marfan's Syndrome",
+  "differentials": [
+    "Marfan's Syndrome",
+    "Aortic Dissection",
+    "Mitral Valve Prolapse",
+    "Primary Spontaneous Pneumothorax",
+    "Aortic Root Dilation"
+  ],
+  "correct_ranking": [
+    "Marfan's Syndrome",
+    "Aortic Dissection",
+    "Mitral Valve Prolapse",
+    "Primary Spontaneous Pneumothorax",
+    "Aortic Root Dilation"
+  ]
+}

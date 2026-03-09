@@ -1,0 +1,23 @@
+{
+  "case_id": "41067794",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 40-year-old woman presented with recurrent per rectal bleeding and haemodynamic instability.",
+  "history": "The patient presented with recurrent per rectal bleeding and haemodynamic instability. Extensive investigations including upper and lower endoscopy, capsule endoscopy, nuclear scintigraphy and CT angiography failed to identify a definitive bleeding source. Stool polymerase chain reaction (PCR) confirmed Shiga toxin 2-producing Escherichia coli.",
+  "exam": "Vital signs: unstable. Physical examination: not specified.",
+  "labs": "Stool PCR: Shiga toxin 2-producing Escherichia coli. Scintigraphy: active bleeding near the caecum. CT angiogram: faint blush in the ascending colon.",
+  "correct_diagnosis": "Shiga toxin-producing Escherichia coli",
+  "differentials": [
+    "Shiga toxin-producing Escherichia coli",
+    "Gastrointestinal angiodysplasia",
+    "Inflammatory bowel disease",
+    "Diverticulosis",
+    "Vascular malformation"
+  ],
+  "correct_ranking": [
+    "Shiga toxin-producing Escherichia coli",
+    "Gastrointestinal angiodysplasia",
+    "Inflammatory bowel disease",
+    "Diverticulosis",
+    "Vascular malformation"
+  ]
+}

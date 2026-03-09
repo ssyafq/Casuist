@@ -1,0 +1,23 @@
+{
+  "case_id": "41651786",
+  "specialty": "COPD",
+  "chief_complaint": "A 65-year-old male patient with a history of chronic obstructive pulmonary disease (COPD) presented with a new diagnosis of right lower lobe lung cancer.",
+  "history": "The patient underwent a sleeve right lower lobectomy (SRLL) at Akita University Hospital. He had squamous cell carcinoma pStage IB-IIB and was diagnosed with COPD. The patient's postoperative respiratory function exceeded predicted values.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 20/min. Physical examination revealed a surgical scar on the right side of the chest.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: CT scan of the chest showed a mass in the right lower lobe. Other tests: bronchoscopy and biopsy confirmed squamous cell carcinoma.",
+  "correct_diagnosis": "Squamous cell carcinoma of the right lower lobe",
+  "differentials": [
+    "Squamous cell carcinoma of the right lower lobe",
+    "Adenocarcinoma of the right lower lobe",
+    "Small cell carcinoma of the right lower lobe",
+    "Bronchial carcinoid tumor of the right lower lobe",
+    "Metastatic lung cancer from an unknown primary site"
+  ],
+  "correct_ranking": [
+    "Squamous cell carcinoma of the right lower lobe",
+    "Adenocarcinoma of the right lower lobe",
+    "Small cell carcinoma of the right lower lobe",
+    "Bronchial carcinoid tumor of the right lower lobe",
+    "Metastatic lung cancer from an unknown primary site"
+  ]
+}

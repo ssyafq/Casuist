@@ -1,0 +1,23 @@
+{
+  "case_id": "41232216",
+  "specialty": "seizure",
+  "chief_complaint": "A 65-year-old male patient presented with new-onset refractory status epilepticus (NORSE) following initiation of pembrolizumab therapy for non-small cell lung cancer.",
+  "history": "The patient had a history of triple metachronous malignancies, including cerebral hemangioblastoma, clear cell renal carcinoma, and non-small cell lung cancer. He was started on pembrolizumab as treatment for NSCLC. The patient developed subacute neurocognitive decline followed by NORSE. Diagnostic workup revealed GFAP antibodies in cerebrospinal fluid as well as serum, with no evidence of tumor progression or infectious causes.",
+  "exam": "Vital signs were not provided. Physical examination findings were not mentioned.",
+  "labs": "Diagnostic workup revealed GFAP antibodies in cerebrospinal fluid as well as serum. No evidence of tumor progression or infectious causes was found.",
+  "correct_diagnosis": "Iatrogenic NORSE: Immune checkpoint inhibitor-related anti-GFAP autoimmune astrocytopathy",
+  "differentials": [
+    "Iatrogenic NORSE: Immune checkpoint inhibitor-related anti-GFAP autoimmune astrocytopathy",
+    "Autoimmune Encephalitis",
+    "Refractory Status Epilepticus",
+    "Neurocognitive Decline",
+    "Cerebral Hemangioblastoma"
+  ],
+  "correct_ranking": [
+    "Iatrogenic NORSE: Immune checkpoint inhibitor-related anti-GFAP autoimmune astrocytopathy",
+    "Autoimmune Encephalitis",
+    "Refractory Status Epilepticus",
+    "Neurocognitive Decline",
+    "Cerebral Hemangioblastoma"
+  ]
+}

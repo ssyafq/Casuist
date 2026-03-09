@@ -1,0 +1,23 @@
+{
+  "case_id": "41392626",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 45-year-old male presented with severe abdominal pain radiating to the back, fever, and vomiting.",
+  "history": "Acute pancreatitis is a rare pathology, whose incidence tends to increase in Western countries, and whose severity is variable; severe forms (10-20 %) are associated with significant mortality, ranging from 13 to 35 % depending on the studies. Alongside the usual complications of such afflictions, rarer complications, especially related to an adjacent or distant organ involvement, can cause unusual symptoms and contribute to life-threatening risks for the patient. This case illustrates one of these uncommon complications, in the form of necrosis of an adrenal gland in the onset of severe necrotizing pancreatitis, which may lead to chronic adrenal insufficiency.",
+  "exam": "Vital signs: temperature 38.5°C, blood pressure 90/60 mmHg, pulse 120 bpm, respiratory rate 24 breaths/min. Physical examination revealed abdominal tenderness, guarding, and decreased bowel sounds.",
+  "labs": "ECG: normal. Bloods: WBC 18,000 cells/μL, creatinine 1.5 mg/dL, lipase 500 U/L, amylase 400 U/L. Imaging: CT scan of the abdomen showed necrotizing pancreatitis with adrenal gland necrosis.",
+  "correct_diagnosis": "Adrenal gland necrosis following acute pancreatitis",
+  "differentials": [
+    "Adrenal gland necrosis following acute pancreatitis",
+    "Chronic adrenal insufficiency",
+    "Necrotizing pancreatitis",
+    "Pancreatic abscess",
+    "Sepsis"
+  ],
+  "correct_ranking": [
+    "Adrenal gland necrosis following acute pancreatitis",
+    "Necrotizing pancreatitis",
+    "Chronic adrenal insufficiency",
+    "Pancreatic abscess",
+    "Sepsis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40891065",
+  "specialty": "chest pain",
+  "chief_complaint": "A 71-year-old woman presented with chest discomfort and dyspnea.",
+  "history": "The patient had a history of sepsis, which was the likely cause of her current symptoms. She had no history of coronary artery disease or other relevant medical conditions. Her medications included antibiotics for sepsis. Social history was unremarkable.",
+  "exam": "Vital signs: blood pressure 90/60 mmHg, heart rate 120 bpm, respiratory rate 30 breaths/min, oxygen saturation 88% on room air. Physical examination revealed a weak and tachycardic patient with bilateral lung crackles.",
+  "labs": "ECG: biphasic or deeply inverted T waves in the anterior precordial leads, particularly V2 and V3. Blood tests: elevated troponin levels, low ejection fraction on echocardiogram. Cardiac catheterization: no significant coronary pathology.",
+  "correct_diagnosis": "stress-induced cardiomyopathy resulting from sepsis",
+  "differentials": [
+    "stress-induced cardiomyopathy resulting from sepsis",
+    "Wellens' syndrome",
+    "sepsis-induced cardiomyopathy",
+    "acute coronary syndrome",
+    "pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "stress-induced cardiomyopathy resulting from sepsis",
+    "sepsis-induced cardiomyopathy",
+    "Wellens' syndrome",
+    "acute coronary syndrome",
+    "pulmonary embolism"
+  ]
+}

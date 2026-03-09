@@ -1,0 +1,23 @@
+{
+  "case_id": "37060353",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A young Thai patient presented with intermittent involuntary movement of all extremities and both eyes for 4 days.",
+  "history": "The patient had a history of increased appetite, weight loss, and heat intolerance over two months. The patient was treated with methimazole, propranolol, potassium iodide (SSKI), and dexamethasone for suspected thyroid storm due to Graves' disease.",
+  "exam": "Physical examination revealed fever, tachycardia, exophthalmos, eyelid retraction, and diffused thyroid enlargement.",
+  "labs": "Thyroid function testing suggested a thyroid storm due to Graves' disease. Cardiovascular re-evaluation and Revised Jones criteria suggested acute rheumatic fever.",
+  "correct_diagnosis": "Coexistence of Graves' disease with acute rheumatic fever",
+  "differentials": [
+    "Thyroid storm due to Graves' disease",
+    "Acute rheumatic fever",
+    "Coexistence of Graves' disease with acute rheumatic fever",
+    "Chorea",
+    "Congestive heart failure"
+  ],
+  "correct_ranking": [
+    "Coexistence of Graves' disease with acute rheumatic fever",
+    "Thyroid storm due to Graves' disease",
+    "Acute rheumatic fever",
+    "Congestive heart failure",
+    "Chorea"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41614251",
+  "specialty": "seizure",
+  "chief_complaint": "11-year-old girl with focal seizures.",
+  "history": "The patient developed super-refractory status epilepticus (SRSE) after focal seizures. Initial investigations, including MRI, CSF analysis, and autoimmune panels, were normal. She had extensive treatment with several anti-seizure medications, immunotherapy, attempt of treatment with ketogenic diet and anesthetic infusions targeting burst-suppression.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "MRI: normal, CSF analysis: normal, autoimmune panels: normal, Trio whole genome sequencing: compound heterozygous pathogenic variants in POLG.",
+  "correct_diagnosis": "Hereditary mitochondrial disease",
+  "differentials": [
+    "Hereditary mitochondrial disease",
+    "Autoimmune encephalitis",
+    "Infectious encephalitis",
+    "Cerebral vasculitis",
+    "Focal cortical dysplasia"
+  ],
+  "correct_ranking": [
+    "Hereditary mitochondrial disease",
+    "Autoimmune encephalitis",
+    "Infectious encephalitis",
+    "Cerebral vasculitis",
+    "Focal cortical dysplasia"
+  ]
+}

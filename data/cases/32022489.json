@@ -1,0 +1,23 @@
+{
+  "case_id": "32022489",
+  "specialty": "cardiology",
+  "chief_complaint": "A 72-year-old patient presents with exertional dyspnea.",
+  "history": "The patient has multiple cardiovascular risk factors.",
+  "exam": "Not specified",
+  "labs": "Not specified, but led to a percutaneous coronary intervention",
+  "correct_diagnosis": "Stable coronary heart disease",
+  "differentials": [
+    "Stable coronary heart disease",
+    "Hypertrophic cardiomyopathy",
+    "Cardiac amyloidosis",
+    "Aortic stenosis",
+    "Mitral regurgitation"
+  ],
+  "correct_ranking": [
+    "Stable coronary heart disease",
+    "Aortic stenosis",
+    "Mitral regurgitation",
+    "Hypertrophic cardiomyopathy",
+    "Cardiac amyloidosis"
+  ]
+}

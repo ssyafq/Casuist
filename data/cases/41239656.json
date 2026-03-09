@@ -1,0 +1,23 @@
+{
+  "case_id": "41239656",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 65-year-old male patient presented to our hospital due to upper gastrointestinal hemorrhage.",
+  "history": "The patient had a history of esophageal carcinoma and was admitted due to upper gastrointestinal hemorrhage. He underwent emergency endoscopy, which revealed an active pulsatile bleeding. Endoscopic hemostasis was unsuccessful.",
+  "exam": "Vital signs: BP 90/60 mmHg, HR 120 bpm, RR 24/min. Physical examination revealed a stable patient with signs of hypovolemic shock.",
+  "labs": "Hemoglobin: 6.5 g/dL, ECG: normal, Blood tests: normal liver and renal function, Coagulation profile: normal.",
+  "correct_diagnosis": "Upper gastrointestinal hemorrhage caused by a pseudoaneurysm of the left intercostal artery.",
+  "differentials": [
+    "Upper gastrointestinal hemorrhage caused by a pseudoaneurysm of the left intercostal artery.",
+    "Esophageal carcinoma with bleeding",
+    "Gastrointestinal varices",
+    "Duodenal ulcer with bleeding",
+    "Gastrointestinal angiodysplasia"
+  ],
+  "correct_ranking": [
+    "Upper gastrointestinal hemorrhage caused by a pseudoaneurysm of the left intercostal artery.",
+    "Esophageal carcinoma with bleeding",
+    "Gastrointestinal varices",
+    "Duodenal ulcer with bleeding",
+    "Gastrointestinal angiodysplasia"
+  ]
+}

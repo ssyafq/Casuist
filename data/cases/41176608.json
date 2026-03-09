@@ -1,0 +1,23 @@
+{
+  "case_id": "41176608",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 72-year-old woman developed high-risk pulmonary thromboembolism accompanied by cardiogenic shock following bed rest during conservative therapy of a femoral neck fracture.",
+  "history": "The patient was a 72-year-old woman with a history of femoral neck fracture. She developed high-risk pulmonary thromboembolism accompanied by cardiogenic shock following bed rest during conservative therapy. Despite the administration of thrombolytics and an anticoagulant, hemodynamics did not improve.",
+  "exam": "Vital signs briefly worsened after thrombus fragmentation, due to distal embolism, but improved with rapid fluid injection.",
+  "labs": "ECG and blood tests were not explicitly mentioned, but the patient was administered thrombolytics and an anticoagulant. Imaging tests such as CT or ultrasound may have been performed, but the results are not specified.",
+  "correct_diagnosis": "High-Risk Pulmonary Thromboembolism",
+  "differentials": [
+    "High-Risk Pulmonary Thromboembolism",
+    "Cardiogenic Shock",
+    "Femoral Neck Fracture",
+    "Thrombosis",
+    "Pulmonary Embolism"
+  ],
+  "correct_ranking": [
+    "High-Risk Pulmonary Thromboembolism",
+    "Cardiogenic Shock",
+    "Femoral Neck Fracture",
+    "Thrombosis",
+    "Pulmonary Embolism"
+  ]
+}

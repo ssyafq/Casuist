@@ -1,0 +1,23 @@
+{
+  "case_id": "41493322",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 40-day-old infant, a 2-month-old baby, and a 12-year-old child presented with vomiting and abdominal distension.",
+  "history": "Acute pancreatitis in children is an uncommon but increasingly recognized medical condition. The cases presented outline three pediatric cases of acute pancreatitis complicated by severe hypertriglyceridemia, emphasizing the challenges in diagnosis, treatment approaches, and outcome.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the case report.",
+  "labs": "Laboratory analyses indicated triglycerides at 15.6 g/L, 25.24 g/L, and 35 g/L, and lipase at six times the upper limit of normal, 498 IU/L, and high, respectively. Imaging confirmed Balthazar stage C pancreatitis in two cases.",
+  "correct_diagnosis": "Acute pancreatitis complicated by severe hypertriglyceridemia",
+  "differentials": [
+    "Acute pancreatitis complicated by severe hypertriglyceridemia",
+    "Familial hypertriglyceridemia (type IV)",
+    "Balthazar stage C pancreatitis",
+    "Severe hypertriglyceridemia",
+    "Pancreatitis"
+  ],
+  "correct_ranking": [
+    "Acute pancreatitis complicated by severe hypertriglyceridemia",
+    "Familial hypertriglyceridemia (type IV)",
+    "Balthazar stage C pancreatitis",
+    "Severe hypertriglyceridemia",
+    "Pancreatitis"
+  ]
+}

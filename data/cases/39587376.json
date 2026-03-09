@@ -1,0 +1,23 @@
+{
+  "case_id": "39587376",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A young adult male presents with severe chest discomfort shortly after eating oysters, preceded by urticaria.",
+  "history": "The patient, a young adult male, experienced urticaria soon after eating oysters, which quickly escalated to severe chest discomfort. He lacks typical cardiac risk factors.",
+  "exam": "No specific physical examination findings are provided, but the patient experienced severe chest discomfort and ventricular fibrillation.",
+  "labs": "Electrocardiogram showed indications of ST-elevation myocardial infarction.",
+  "correct_diagnosis": "Type II Kounis syndrome",
+  "differentials": [
+    "Acute myocardial infarction",
+    "Anaphylaxis",
+    "Type II Kounis syndrome",
+    "Stable angina",
+    "Vasospastic angina"
+  ],
+  "correct_ranking": [
+    "Type II Kounis syndrome",
+    "Acute myocardial infarction",
+    "Anaphylaxis",
+    "Vasospastic angina",
+    "Stable angina"
+  ]
+}

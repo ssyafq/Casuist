@@ -1,0 +1,23 @@
+{
+  "case_id": "34508392",
+  "specialty": "cardiology",
+  "chief_complaint": "An elderly gentleman presented with acute heart failure symptoms.",
+  "history": "The patient was previously well before presenting with symptoms of heart failure. There is no detailed past medical history, medications, or social history provided.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "Echocardiography (ECHO) findings were suspicious for cardiac amyloidosis. Cardiac magnetic resonance imaging (CMR) and laboratory results supported the diagnosis. Technetium-99m pyrophosphate (99mTc-PYP) bone scintigraphy with single photon emission computed tomography/computed tomography (SPECT/CT) showed radiotracer uptake in the myocardium higher than the skeletal bone uptake, corresponding to a Perugini score of 3 and an increased heart to contralateral lung ratio (H:CL) of 1.69.",
+  "correct_diagnosis": "Transthyretin cardiac amyloidosis (ATTR-CA)",
+  "differentials": [
+    "Light chain amyloidosis (AL)",
+    "Hypertrophic cardiomyopathy",
+    "Transthyretin cardiac amyloidosis (ATTR-CA)",
+    "Dilated cardiomyopathy",
+    "Restrictive cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Transthyretin cardiac amyloidosis (ATTR-CA)",
+    "Light chain amyloidosis (AL)",
+    "Restrictive cardiomyopathy",
+    "Hypertrophic cardiomyopathy",
+    "Dilated cardiomyopathy"
+  ]
+}

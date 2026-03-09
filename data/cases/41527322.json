@@ -1,0 +1,23 @@
+{
+  "case_id": "41527322",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 38-year-old man with Klinefelter syndrome presented with hematemesis, lightheadedness, syncope, and right upper-quadrant pain.",
+  "history": "The patient had known Klinefelter syndrome (47, XXY) and no prior abdominal surgery. He presented with hematemesis, lightheadedness, syncope, and right upper-quadrant pain. Laboratory testing revealed mild transaminitis, elevated ferritin, and normal bilirubin.",
+  "exam": "Vital signs not provided. Physical examination findings not provided.",
+  "labs": "Laboratory testing: mild transaminitis, elevated ferritin, normal bilirubin. Imaging: computed tomography angiography revealed hepatic steatosis and splenomegaly, hepatobiliary iminodiacetic acid scan and ultrasound showed no gallbladder, magnetic resonance cholangiopancreatography confirmed gallbladder agenesis.",
+  "correct_diagnosis": "Gallbladder agenesis",
+  "differentials": [
+    "Gallbladder agenesis",
+    "Biliary colic",
+    "Gastritis",
+    "Hiatal hernia",
+    "Hepatic steatosis"
+  ],
+  "correct_ranking": [
+    "Gallbladder agenesis",
+    "Biliary colic",
+    "Gastritis",
+    "Hiatal hernia",
+    "Hepatic steatosis"
+  ]
+}

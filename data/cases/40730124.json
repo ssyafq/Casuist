@@ -1,0 +1,23 @@
+{
+  "case_id": "40730124",
+  "specialty": "chest pain",
+  "chief_complaint": "A 41-year-old man presents with recurrent angina.",
+  "history": "The patient had undergone percutaneous coronary intervention (PCI) and initially showed improvement, but angina recurred after one month due to refusal of stent implantation. He has a history of subtotal occlusion of the first diagonal branch (D1).",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Magnetocardiography (MCG) initially suggested myocardial ischemia, which returned to normal after revascularization. A second MCG showed myocardial ischemia again with a normal electrocardiogram (ECG) and cardiac troponin I (cTNI). A second coronary angiography (CAG) confirmed D1 restenosis.",
+  "correct_diagnosis": "D1 restenosis",
+  "differentials": [
+    "Unstable angina",
+    "D1 restenosis",
+    "Myocardial infarction",
+    "Cardiac syndrome X",
+    "Aortic stenosis"
+  ],
+  "correct_ranking": [
+    "D1 restenosis",
+    "Unstable angina",
+    "Myocardial infarction",
+    "Cardiac syndrome X",
+    "Aortic stenosis"
+  ]
+}

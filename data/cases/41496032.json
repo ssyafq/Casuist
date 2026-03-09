@@ -1,0 +1,23 @@
+{
+  "case_id": "41496032",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 58-year-old male patient presented with a persistent high fever during treatment for mild acute pancreatitis.",
+  "history": "The patient had mild acute pancreatitis and was treated with ulinastatin. He had no evidence of infection, but developed a persistent high fever during treatment.",
+  "exam": "Vital signs: high fever, no other significant findings.",
+  "labs": "ECG: normal, Bloods: elevated pancreatic enzymes, Imaging: ultrasound showing mild pancreatitis, no signs of infection.",
+  "correct_diagnosis": "ulinastatin-related drug fever",
+  "differentials": [
+    "ulinastatin-related drug fever",
+    "infection (bacterial)",
+    "infection (viral)",
+    "mild acute pancreatitis exacerbation",
+    "drug reaction (other)"
+  ],
+  "correct_ranking": [
+    "ulinastatin-related drug fever",
+    "infection (bacterial)",
+    "infection (viral)",
+    "mild acute pancreatitis exacerbation",
+    "drug reaction (other)"
+  ]
+}

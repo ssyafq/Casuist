@@ -1,0 +1,23 @@
+{
+  "case_id": "41342387",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 10-year-old girl presented with abdominal symptoms, ascites, and pleural effusion.",
+  "history": "The patient was initially diagnosed with abdominal symptoms, ascites, pleural effusion, panniculitis, and arthritis. She was ultimately diagnosed with chronic pancreatitis with associated PPP syndrome.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Imaging studies and blood tests revealed systemic fat necrosis and pancreatic enzyme leakage.",
+  "correct_diagnosis": "Chronic pancreatitis with associated PPP syndrome",
+  "differentials": [
+    "Chronic pancreatitis with associated PPP syndrome",
+    "Acute pancreatitis",
+    "Pancreatic cancer",
+    "Pancreatic pseudocyst",
+    "Gastrointestinal lymphoma"
+  ],
+  "correct_ranking": [
+    "Chronic pancreatitis with associated PPP syndrome",
+    "Acute pancreatitis",
+    "Pancreatic pseudocyst",
+    "Pancreatic cancer",
+    "Gastrointestinal lymphoma"
+  ]
+}

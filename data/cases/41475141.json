@@ -1,0 +1,23 @@
+{
+  "case_id": "41475141",
+  "specialty": "meningitis",
+  "chief_complaint": "An 80-day-old pig presents with polyserositis, meningoencephalitis, arthritis, and omphalitis.",
+  "history": "Bacterial polyserositis, arthritis, and meningitis are well-known conditions in pigs, commonly linked to Glaesserella parasuis, Streptococcus suis, and Mycoplasma hyorhinis. This study reports a rare case of Salmonella enterica subsp. enterica serovar Agona (S. Agona) infection.",
+  "exam": "Physical examination findings are not provided.",
+  "labs": "Bacteriological examination revealed a pure culture of S. Agona from fibrinous lesions, and immunohistochemical examination confirmed the septicaemic distribution of the bacteria.",
+  "correct_diagnosis": "Salmonella enterica subsp. enterica serovar Agona (S. Agona) infection",
+  "differentials": [
+    "Salmonella enterica subsp. enterica serovar Agona (S. Agona) infection",
+    "Glaesserella parasuis infection",
+    "Streptococcus suis infection",
+    "Mycoplasma hyorhinis infection",
+    "Septicemia due to unknown cause"
+  ],
+  "correct_ranking": [
+    "Salmonella enterica subsp. enterica serovar Agona (S. Agona) infection",
+    "Glaesserella parasuis infection",
+    "Streptococcus suis infection",
+    "Mycoplasma hyorhinis infection",
+    "Septicemia due to unknown cause"
+  ]
+}

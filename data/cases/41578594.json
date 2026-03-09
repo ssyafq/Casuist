@@ -1,0 +1,23 @@
+{
+  "case_id": "41578594",
+  "specialty": "stroke",
+  "chief_complaint": "A 75-year-old right-handed male presented with limited movement in his left limbs and difficulties with speech.",
+  "history": "The patient has experienced a bilateral tremor in the upper limbs for 30 years, with exacerbation on the left side. He was hospitalized on January 1, 2021, due to his symptoms.",
+  "exam": "Vital signs: not mentioned. Physical examination findings: The left finger-nose test lacked stability and precision.",
+  "labs": "Cranial computed tomography revealed scattered lacunar infarctions in the brain. Magnetic resonance imaging revealed many lacunar lesions in the bilateral basal ganglia and the centrum semiovale. A fresh lesion was seen in the right centrum semiovale.",
+  "correct_diagnosis": "Acute ischemic stroke with bilateral essential tremor improvement",
+  "differentials": [
+    "Acute ischemic stroke with bilateral essential tremor improvement",
+    "Bilateral lacunar infarctions",
+    "Essential tremor",
+    "Cerebral small vessel disease",
+    "Normal pressure hydrocephalus"
+  ],
+  "correct_ranking": [
+    "Acute ischemic stroke with bilateral essential tremor improvement",
+    "Bilateral lacunar infarctions",
+    "Essential tremor",
+    "Cerebral small vessel disease",
+    "Normal pressure hydrocephalus"
+  ]
+}

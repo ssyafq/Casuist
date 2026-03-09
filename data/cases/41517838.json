@@ -1,0 +1,23 @@
+{
+  "case_id": "41517838",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 62-year-old man presents with persistent SARS-CoV-2 infection.",
+  "history": "The patient developed persistent SARS-CoV-2 infection after undergoing treatment for follicular lymphoma with anti-cluster of differentiation-20 antibody. He received 1 course of molnupiravir and nirmatrelvir/ritonavir each, multiple courses of remdesivir and corticosteroids each, but the infection persisted for over 2 months.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "SARS-CoV-2 polymerase chain reaction cycle threshold (Ct) value was 27.6, indicating active COVID-19. Following Mao-to treatment, the Ct value improved to 41, suggesting a marked reduction in viral load.",
+  "correct_diagnosis": "Persistent SARS-CoV-2 infection in an immunocompromised host",
+  "differentials": [
+    "Persistent SARS-CoV-2 infection in an immunocompromised host",
+    "B-cell lymphoma",
+    "Hematologic malignancy",
+    "COVID-19 pneumonia",
+    "Respiratory failure"
+  ],
+  "correct_ranking": [
+    "Persistent SARS-CoV-2 infection in an immunocompromised host",
+    "B-cell lymphoma",
+    "Hematologic malignancy",
+    "COVID-19 pneumonia",
+    "Respiratory failure"
+  ]
+}

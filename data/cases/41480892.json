@@ -1,0 +1,23 @@
+{
+  "case_id": "41480892",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 75-year-old woman presents with fever, cough, and dyspnea.",
+  "history": "The patient has late-onset, seropositive rheumatoid arthritis and started treatment with methotrexate and prednisolone two weeks prior to presentation. She developed symptoms of fever, cough, and dyspnea two weeks after starting methotrexate.",
+  "exam": "Vital signs: fever, cough, and dyspnea. Physical examination findings: bilateral pulmonary involvement.",
+  "labs": "Lung ultrasound and chest computed tomography revealed bilateral pulmonary involvement. Methotrexate was discontinued and the corticosteroid dose was increased.",
+  "correct_diagnosis": "Methotrexate-associated pneumonitis",
+  "differentials": [
+    "Methotrexate-associated pneumonitis",
+    "Rheumatoid arthritis-associated interstitial lung disease",
+    "Pneumonia due to infection",
+    "Chronic obstructive pulmonary disease exacerbation",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Methotrexate-associated pneumonitis",
+    "Rheumatoid arthritis-associated interstitial lung disease",
+    "Pneumonia due to infection",
+    "Chronic obstructive pulmonary disease exacerbation",
+    "Pulmonary embolism"
+  ]
+}

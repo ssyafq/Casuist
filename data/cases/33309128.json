@@ -1,0 +1,23 @@
+{
+  "case_id": "33309128",
+  "specialty": "cardiology",
+  "chief_complaint": "A 64-year-old woman with severe aortic valve regurgitation and recent clinical and echocardiographic deterioration.",
+  "history": "The patient had regular cardiological follow-up for severe aortic valve regurgitation and suffered recent clinical and echocardiographic deterioration.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Echocardiography showed severe aortic valve regurgitation.",
+  "correct_diagnosis": "Quadricuspid aortic valve",
+  "differentials": [
+    "Bicuspid aortic valve",
+    "Quadricuspid aortic valve",
+    "Tricuspid aortic valve",
+    "Aortic valve stenosis",
+    "Mitral valve regurgitation"
+  ],
+  "correct_ranking": [
+    "Quadricuspid aortic valve",
+    "Bicuspid aortic valve",
+    "Tricuspid aortic valve",
+    "Aortic valve stenosis",
+    "Mitral valve regurgitation"
+  ]
+}

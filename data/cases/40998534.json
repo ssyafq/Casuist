@@ -1,0 +1,23 @@
+{
+  "case_id": "40998534",
+  "specialty": "chest pain",
+  "chief_complaint": "A 40-year-old male presented with left-sided pleuritic chest pain.",
+  "history": "The patient had no previous history of systemic disease, infection, or malignancy. Initial laboratory and imaging findings suggested exudative pleural effusion, but further investigations excluded infectious causes, tuberculosis, and malignancy. A detailed history and physical examination led to a suspicion of an autoimmune disease.",
+  "exam": "Vital signs: normal. Physical examination revealed left-sided pleuritic chest pain and pleural effusion.",
+  "labs": "ECG: normal. Bloods: ANA, ENA, anti-SSA (Ro) positive, Schirmer test positive. Imaging: pleural effusion, exudative type.",
+  "correct_diagnosis": "Primary Sjogren's disease with pleural effusion",
+  "differentials": [
+    "Primary Sjogren's disease with pleural effusion",
+    "Pulmonary tuberculosis",
+    "Malignant pleural effusion",
+    "Infectious pleural effusion",
+    "Idiopathic pleural effusion"
+  ],
+  "correct_ranking": [
+    "Primary Sjogren's disease with pleural effusion",
+    "Pulmonary tuberculosis",
+    "Malignant pleural effusion",
+    "Infectious pleural effusion",
+    "Idiopathic pleural effusion"
+  ]
+}

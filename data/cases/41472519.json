@@ -1,0 +1,23 @@
+{
+  "case_id": "41472519",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 75-year-old male presented with a 2-day history of confusion, disorientation, and agitation.",
+  "history": "The patient had a history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. He was on metformin, atorvastatin, and lisinopril. He had no history of smoking or alcohol use. He was admitted to the hospital 2 days ago for a urinary tract infection and was treated with antibiotics.",
+  "exam": "Vital signs: blood pressure 160/90 mmHg, pulse 110 bpm, respiratory rate 24 breaths/min, and oxygen saturation 92% on room air. Physical examination revealed a disheveled and confused patient with a Glasgow Coma Scale of 12/15.",
+  "labs": "ECG: new ST-segment elevation in leads II, III, and aVF. hs-TnT: 120 ng/L (normal < 14 ng/L). Troponin I: 10 ng/L (normal < 0.4 ng/L). Chest X-ray: no signs of pulmonary edema.",
+  "correct_diagnosis": "Acute myocardial infarction with delirium",
+  "differentials": [
+    "Acute myocardial infarction with delirium",
+    "Urinary tract infection with sepsis",
+    "Delirium tremens",
+    "Hypertensive encephalopathy",
+    "Chronic kidney disease exacerbation"
+  ],
+  "correct_ranking": [
+    "Acute myocardial infarction with delirium",
+    "Urinary tract infection with sepsis",
+    "Delirium tremens",
+    "Hypertensive encephalopathy",
+    "Chronic kidney disease exacerbation"
+  ]
+}

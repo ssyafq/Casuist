@@ -1,0 +1,23 @@
+{
+  "case_id": "41392748",
+  "specialty": "meningitis",
+  "chief_complaint": "A 3-year-old, female neutered Bichon Frise presented with a 2-day history of behavioral changes and ataxia.",
+  "history": "The patient was presented with a 2-day history of behavioral changes and ataxia. The neurological examination was consistent with diffuse forebrain involvement, with left lateralization.",
+  "exam": "Vital signs and physical examination findings: diffuse forebrain involvement, left lateralization.",
+  "labs": "MRI study: bilaterally symmetrical T2W/T2 fluid-attenuated inversion recovery (T2-FLAIR) hyperintense, T1W hypointense, non-enhancing lesions involving the basal nuclei, with restricted diffusion and hemorrhage affecting both caudate nuclei. Similar bilaterally symmetrical T2W/T2-FLAIR hyperintense lesions were noted in the hypothalamus, midbrain, and occipital lobes. Histopathological examination indicated concomitant granulomatous meningoencephalitis and necrotizing encephalitis.",
+  "correct_diagnosis": "Concomitant granulomatous meningoencephalitis and necrotizing encephalitis",
+  "differentials": [
+    "Concomitant granulomatous meningoencephalitis and necrotizing encephalitis",
+    "Granulomatous meningoencephalitis",
+    "Necrotizing encephalitis",
+    "Bacterial meningitis",
+    "Fungal meningitis"
+  ],
+  "correct_ranking": [
+    "Concomitant granulomatous meningoencephalitis and necrotizing encephalitis",
+    "Granulomatous meningoencephalitis",
+    "Necrotizing encephalitis",
+    "Bacterial meningitis",
+    "Fungal meningitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40784706",
+  "specialty": "chest pain",
+  "chief_complaint": "A 47-year-old woman presented with sudden-onset dull nonradiating chest pain and palpitations.",
+  "history": "The patient's medical history is significant for generalized anxiety disorder, obesity, and former tobacco use. She takes daily multivitamins and ibuprofen as needed for knee pain.",
+  "exam": "Not provided",
+  "labs": "Not provided",
+  "correct_diagnosis": "Pulmonary embolism",
+  "differentials": [
+    "Pneumonia",
+    "Pulmonary embolism",
+    "Costochondritis",
+    "Myocardial infarction",
+    "Aortic dissection"
+  ],
+  "correct_ranking": [
+    "Pulmonary embolism",
+    "Myocardial infarction",
+    "Pneumonia",
+    "Costochondritis",
+    "Aortic dissection"
+  ]
+}

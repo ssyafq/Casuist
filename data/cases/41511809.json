@@ -1,0 +1,23 @@
+{
+  "case_id": "41511809",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 37-year-old woman presented to the emergency department with pleuritic chest pain.",
+  "history": "She had a history of pulmonary embolism and a recent cesarean section.",
+  "exam": "Vital signs: not specified. Physical examination findings: not specified.",
+  "labs": "D-dimer: negative. CT pulmonary angiography: single-subsegmental pulmonary embolism.",
+  "correct_diagnosis": "Single-subsegmental pulmonary embolism",
+  "differentials": [
+    "Single-subsegmental pulmonary embolism",
+    "Pleuritic chest pain due to musculoskeletal strain",
+    "Pneumonia",
+    "Pulmonary edema",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Single-subsegmental pulmonary embolism",
+    "Pleuritic chest pain due to musculoskeletal strain",
+    "Pneumonia",
+    "Pulmonary edema",
+    "Myocardial infarction"
+  ]
+}

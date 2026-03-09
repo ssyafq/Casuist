@@ -1,0 +1,23 @@
+{
+  "case_id": "40877801",
+  "specialty": "chest pain",
+  "chief_complaint": "A 29-year-old postpartum woman presented with recurrent episodes of chest pain, palpitations, and a fear of dying.",
+  "history": "The patient had five ED visits over two months, each following emotionally distressing interactions with her estranged spouse. Cardiac and medical evaluations were consistently unremarkable. She had a history of postpartum depression and was previously on sertraline, but it was discontinued. She also had a history of somatic symptoms.",
+  "exam": "Vital signs were not provided. Physical examination findings were not mentioned.",
+  "labs": "ECG, bloods, and imaging were performed, but results were unremarkable.",
+  "correct_diagnosis": "Borderline Personality Disorder (BPD)",
+  "differentials": [
+    "Borderline Personality Disorder (BPD)",
+    "Postpartum Depression",
+    "Panic Disorder",
+    "Cardiac Chest Pain",
+    "Somatization Disorder"
+  ],
+  "correct_ranking": [
+    "Borderline Personality Disorder (BPD)",
+    "Postpartum Depression",
+    "Panic Disorder",
+    "Cardiac Chest Pain",
+    "Somatization Disorder"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41662749",
+  "specialty": "meningitis",
+  "chief_complaint": "A 50-year-old woman with HIV infection presented with a 3-year history of recurrent undocumented meningoencephalitis, progressive motor weakness in the lower limbs, difficulty walking, and urinary and fecal incontinence.",
+  "history": "The patient had a 3-year history of recurrent undocumented meningoencephalitis, with several unsuccessful empirical antituberculosis and partially successful anticryptococcal regimens. She had been living in Amapa (northern Brazil) and was on suboptimal antiretroviral therapy for 8 years.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Repeated lumbar punctures for mycological culture and Histoplasma polymerase chain reaction test were necessary to confirm the diagnosis.",
+  "correct_diagnosis": "Histoplasmosis",
+  "differentials": [
+    "Histoplasmosis",
+    "Tuberculosis",
+    "Cryptococcal meningitis",
+    "Herpes simplex encephalitis",
+    "Cerebral toxoplasmosis"
+  ],
+  "correct_ranking": [
+    "Histoplasmosis",
+    "Tuberculosis",
+    "Cryptococcal meningitis",
+    "Herpes simplex encephalitis",
+    "Cerebral toxoplasmosis"
+  ]
+}

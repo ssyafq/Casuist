@@ -1,0 +1,23 @@
+{
+  "case_id": "41557084",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 45-year-old Chinese man presented with a spastic gait at age 38, followed by lower limb weakness at age 43.",
+  "history": "The patient developed a spastic gait at age 38, followed by lower limb weakness at age 43. Brain magnetic resonance imaging revealed mild leukoencephalopathy. Laboratory tests identified severe hyperhomocysteinemia. He had no history of pulmonary embolism.",
+  "exam": "Vital signs: not available. Physical examination revealed spastic gait and lower limb weakness.",
+  "labs": "Laboratory tests identified severe hyperhomocysteinemia. Whole-exome sequencing revealed three MTHFR variants: c.891T > A (p.Tyr297Ter), c.1916 C > T (p.Thr639Ile), and c.665 C > T (p.Ala222Val).",
+  "correct_diagnosis": "Severe MTHFR deficiency",
+  "differentials": [
+    "Severe MTHFR deficiency",
+    "Hereditary spastic paraplegia",
+    "Leukoencephalopathy",
+    "Hyperhomocysteinemia",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Severe MTHFR deficiency",
+    "Hereditary spastic paraplegia",
+    "Leukoencephalopathy",
+    "Hyperhomocysteinemia",
+    "Pulmonary embolism"
+  ]
+}

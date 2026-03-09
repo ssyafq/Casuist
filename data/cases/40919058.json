@@ -1,0 +1,23 @@
+{
+  "case_id": "40919058",
+  "specialty": "Gastroenterology",
+  "chief_complaint": "A 62-year-old male with known chronic obstructive pulmonary disease (COPD) and benign prostatic hyperplasia (BPH) presented for a routine screening colonoscopy.",
+  "history": "The patient underwent a routine screening colonoscopy and was found to have a bridge-shaped polyp in the sigmoid colon. The polyp was successfully resected via snare polypectomy following submucosal adrenaline injection. Histopathological analysis revealed the lesion to be a hyperplastic polyp.",
+  "exam": "Vital signs were within normal limits. Physical examination was unremarkable.",
+  "labs": "Colonoscopy findings: bridge-shaped polyp in the sigmoid colon. Histopathology: hyperplastic polyp.",
+  "correct_diagnosis": "Hyperplastic polyp",
+  "differentials": [
+    "Hyperplastic polyp",
+    "Adenomatous polyp",
+    "Inflammatory polyp",
+    "Familial adenomatous polyposis",
+    "Juvenile polyp"
+  ],
+  "correct_ranking": [
+    "Hyperplastic polyp",
+    "Adenomatous polyp",
+    "Inflammatory polyp",
+    "Familial adenomatous polyposis",
+    "Juvenile polyp"
+  ]
+}

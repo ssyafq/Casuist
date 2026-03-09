@@ -1,0 +1,23 @@
+{
+  "case_id": "41555436",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 90-year-old female presented with rectal bleeding and changes in bowel habits.",
+  "history": "The patient had a 90-year-old female with anorectal melanoma, a rare and aggressive cancer. Symptoms were non-specific, including bloody diarrhea, anal pain, and bowel habit changes. Diagnosis required tissue sample with immunohistochemistry due to difficulty in clinical differentiation from other tumor entities. The patient was diagnosed at an advanced stage, precluding surgical treatment.",
+  "exam": "Vital signs: not provided. Physical examination revealed a substantial rectal tumor with nearby lymph node involvement and suspected liver and adrenal gland metastases.",
+  "labs": "CT scan revealed a substantial rectal tumor with nearby lymph node involvement and suspected liver and adrenal gland metastases. Endoscopy revealed a semicircular lesion, which was identified as a necrotic amelanotic tumor expressing Melan-A and S-100.",
+  "correct_diagnosis": "Rectal melanoma",
+  "differentials": [
+    "Rectal melanoma",
+    "Hemorrhoidal disease",
+    "Anal cancer",
+    "Rectal polyp",
+    "Inflammatory bowel disease"
+  ],
+  "correct_ranking": [
+    "Rectal melanoma",
+    "Hemorrhoidal disease",
+    "Anal cancer",
+    "Rectal polyp",
+    "Inflammatory bowel disease"
+  ]
+}

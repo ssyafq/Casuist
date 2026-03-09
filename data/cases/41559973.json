@@ -1,0 +1,23 @@
+{
+  "case_id": "41559973",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 65-year-old male patient with type 2 diabetes mellitus presented with severe burns and inhalation injury, exhibiting agitation, delirium, and hypotonic polyuria.",
+  "history": "The patient had a history of type 2 diabetes mellitus, severe burns, and inhalation injury. He exhibited sustained hypermetabolism marked by protein hypercatabolism, insulin resistance, and relative insulin deficiency. These effects were exacerbated in diabetic patients, increasing susceptibility to acute metabolic crises.",
+  "exam": "Vital signs: agitation, delirium, hypotonic polyuria. Physical examination: unremarkable pituitary MRI.",
+  "labs": "Lab tests confirmed euglycemic diabetic ketoacidosis (EDKA) and non-thyroidal illness syndrome (NTIS). The water deprivation test with desmopressin challenge confirmed central diabetes insipidus (CDI).",
+  "correct_diagnosis": "Central Diabetes Insipidus (CDI)",
+  "differentials": [
+    "Central Diabetes Insipidus (CDI)",
+    "Euglycemic Diabetic Ketoacidosis (EDKA)",
+    "Non-Thyroidal Illness Syndrome (NTIS)",
+    "Nephrogenic Diabetes Insipidus",
+    "Osmotic Diuresis"
+  ],
+  "correct_ranking": [
+    "Central Diabetes Insipidus (CDI)",
+    "Euglycemic Diabetic Ketoacidosis (EDKA)",
+    "Non-Thyroidal Illness Syndrome (NTIS)",
+    "Nephrogenic Diabetes Insipidus",
+    "Osmotic Diuresis"
+  ]
+}

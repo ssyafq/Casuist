@@ -1,0 +1,23 @@
+{
+  "case_id": "41083174",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 40-year-old female patient presented with atypical ultrasound findings suggestive of cholecystitis with secondary pancreatitis and severe upper gastrointestinal bleeding.",
+  "history": "The patient had a history of repeated episodes of upper gastrointestinal symptoms, predominantly due to cholelithiasis. Standard management strategies with imaging and cholecystectomy were common practice. However, the patient's symptoms were atypical and did not respond to standard treatment.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed abdominal tenderness and guarding.",
+  "labs": "Ultrasound findings suggestive of cholecystitis with secondary pancreatitis. Blood tests revealed elevated liver enzymes and bilirubin levels. Upper GI endoscopy showed active bleeding from the ampulla of Vater.",
+  "correct_diagnosis": "Haemobilia with secondary pancreatitis",
+  "differentials": [
+    "Haemobilia with secondary pancreatitis",
+    "Calculous cholecystitis with secondary pancreatitis",
+    "Biliary pancreatitis",
+    "Malignant biliary obstruction",
+    "Gastrointestinal bleeding due to peptic ulcer disease"
+  ],
+  "correct_ranking": [
+    "Haemobilia with secondary pancreatitis",
+    "Calculous cholecystitis with secondary pancreatitis",
+    "Biliary pancreatitis",
+    "Malignant biliary obstruction",
+    "Gastrointestinal bleeding due to peptic ulcer disease"
+  ]
+}

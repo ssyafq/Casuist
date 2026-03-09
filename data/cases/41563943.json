@@ -1,0 +1,23 @@
+{
+  "case_id": "41563943",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 22-year-old woman presented with CRAB pneumonia and sepsis after auxiliary liver transplantation.",
+  "history": "The patient underwent orthotopic liver transplantation for acute liver failure. Postoperatively, she developed CRAB pneumonia and septicemia confirmed by imaging, bronchoscopy, and metagenomic next-generation sequencing. She received combination therapy with SUL-DUR, meropenem, eravacycline, and neutralized polymyxin B.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Blood and sputum cultures confirmed CRAB susceptibility to SUL-DUR. Inflammatory markers (CRP, IL-6, PCT) and pathogen loads markedly decreased.",
+  "correct_diagnosis": "Carbapenem-Resistant Acinetobacter baumannii (CRAB) pneumonia and sepsis",
+  "differentials": [
+    "Carbapenem-Resistant Acinetobacter baumannii (CRAB) pneumonia and sepsis",
+    "Pneumonia due to other Gram-negative bacteria",
+    "Sepsis due to other bacterial infections",
+    "Pneumonia due to fungal infections",
+    "Sepsis due to viral infections"
+  ],
+  "correct_ranking": [
+    "Carbapenem-Resistant Acinetobacter baumannii (CRAB) pneumonia and sepsis",
+    "Pneumonia due to other Gram-negative bacteria",
+    "Sepsis due to other bacterial infections",
+    "Pneumonia due to fungal infections",
+    "Sepsis due to viral infections"
+  ]
+}

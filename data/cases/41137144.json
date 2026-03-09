@@ -1,0 +1,23 @@
+{
+  "case_id": "41137144",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 44-year-old male patient presented with acute type A aortic dissection.",
+  "history": "The patient underwent partial resection of the ascending aorta with graft replacement and total aortic arch graft replacement with stented elephant trunk surgery 8 hours after admission. He developed acute respiratory distress syndrome (ARDS) and was treated with mechanical ventilation for a long time, leading to bloodborne infection and systemic inflammatory response syndrome. Abdominal distension occurred 20 days after surgery, and was diagnosed as acute pancreatitis (AP). Intraperitoneal bleeding occurred on the 39th postoperative day.",
+  "exam": "Vital signs and physical examination findings are not explicitly mentioned in the case report.",
+  "labs": "ECG: not mentioned; Bloods: not mentioned; Imaging: abdominal CT examination; Other tests: serum amylase",
+  "correct_diagnosis": "Acute pancreatitis (AP) complicated by abdominal hemorrhage",
+  "differentials": [
+    "Acute pancreatitis (AP) complicated by abdominal hemorrhage",
+    "Intraperitoneal hemorrhage",
+    "Abdominal abscess",
+    "Systemic inflammatory response syndrome",
+    "Acute respiratory distress syndrome (ARDS)"
+  ],
+  "correct_ranking": [
+    "Acute pancreatitis (AP) complicated by abdominal hemorrhage",
+    "Intraperitoneal hemorrhage",
+    "Abdominal abscess",
+    "Systemic inflammatory response syndrome",
+    "Acute respiratory distress syndrome (ARDS)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "35794521",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 29-year-old male patient presented with head trauma and was later found to have signs of a thyroid storm.",
+  "history": "The patient had a history of Graves' disease with hyperthyroidism and presented with cerebral contusion and laceration in both frontal lobes after a traumatic brain injury. He received mannitol, haemostatic therapy, and antiepileptic treatment.",
+  "exam": "The patient developed tachycardia, hyperthermia, sweating, and irritation, and later entered a deep coma.",
+  "labs": "Admission CT scan confirmed cerebral contusion and laceration, and later brain CT showed thrombosis of multiple venous sinuses, congestive infarction with haemorrhage, and brain swelling. Thyroid function tests revealed high levels of TPO-Ab, TR-Ab, TG-Ab, FT3, and FT4.",
+  "correct_diagnosis": "Cerebral venous sinus thrombosis (CVST) caused by thyroid storm",
+  "differentials": [
+    "Cerebral vasculitis",
+    "Cerebral venous sinus thrombosis (CVST) caused by thyroid storm",
+    "Traumatic subarachnoid hemorrhage",
+    "Intracranial hemorrhage due to anticoagulation",
+    "Seizure disorder"
+  ],
+  "correct_ranking": [
+    "Cerebral venous sinus thrombosis (CVST) caused by thyroid storm",
+    "Intracranial hemorrhage due to anticoagulation",
+    "Traumatic subarachnoid hemorrhage",
+    "Cerebral vasculitis",
+    "Seizure disorder"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41162205",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 64-year-old woman presents with anemia.",
+  "history": "The patient has a history of mechanical heart valve prostheses and moderate renal insufficiency. She was on warfarin therapy with a usual international normalized ratio (INR) of 2.5-3.5. Treatment with oseltamivir for influenza was introduced, leading to a rapid increase in the INR value within less than a week and a recurrence of digestive bleeding.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "INR: elevated, likely > 5.0",
+  "correct_diagnosis": "Gastrointestinal hemorrhage due to warfarin/oseltamivir drug interaction",
+  "differentials": [
+    "Gastrointestinal hemorrhage due to warfarin/oseltamivir drug interaction",
+    "Gastrointestinal hemorrhage due to warfarin toxicity",
+    "Gastrointestinal hemorrhage due to oseltamivir toxicity",
+    "Gastrointestinal hemorrhage due to mechanical heart valve prostheses",
+    "Gastrointestinal hemorrhage due to mechanical trauma"
+  ],
+  "correct_ranking": [
+    "Gastrointestinal hemorrhage due to warfarin/oseltamivir drug interaction",
+    "Gastrointestinal hemorrhage due to warfarin toxicity",
+    "Gastrointestinal hemorrhage due to oseltamivir toxicity",
+    "Gastrointestinal hemorrhage due to mechanical heart valve prostheses",
+    "Gastrointestinal hemorrhage due to mechanical trauma"
+  ]
+}

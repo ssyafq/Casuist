@@ -1,0 +1,23 @@
+{
+  "case_id": "39588605",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A patient experienced acute coronary syndrome following a stent fracture implanted 3 years previously.",
+  "history": "The patient had a coronary stent implanted 3 years prior to the current presentation. Risk factors for stent fracture include vessel tortuosity, hinge motion, overlapping stents, increased stent length, smaller stent diameter, and high post-dilation pressure.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific laboratory or imaging results are provided, but the patient's presentation was consistent with acute coronary syndrome, likely with ECG changes and elevated cardiac biomarkers.",
+  "correct_diagnosis": "ST-elevation myocardial infarction caused by stent fracture",
+  "differentials": [
+    "Unstable angina",
+    "ST-elevation myocardial infarction caused by stent fracture",
+    "Non-ST elevation myocardial infarction",
+    "Stent thrombosis",
+    "Spontaneous coronary artery dissection"
+  ],
+  "correct_ranking": [
+    "ST-elevation myocardial infarction caused by stent fracture",
+    "Stent thrombosis",
+    "Unstable angina",
+    "Non-ST elevation myocardial infarction",
+    "Spontaneous coronary artery dissection"
+  ]
+}

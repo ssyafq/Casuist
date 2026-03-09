@@ -1,0 +1,23 @@
+{
+  "case_id": "41178899",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 70-year-old woman presented to the Emergency Department with dyspnea and chest pain.",
+  "history": "She had been discharged two weeks earlier from the Infectious Diseases Department, where she was admitted for SARS-CoV-2 infection. She had peripheral O2 saturation (SpO2) of 94% on 6 l/min O2, pain, and an increase in the volume of the right lower limb.",
+  "exam": "Vital signs: SpO2 94% on 6 l/min O2. Physical examination revealed pain and an increase in the volume of the right lower limb.",
+  "labs": "Venous Doppler ultrasound of the right limb revealed complete thrombosis in the common femoral, popliteal, and small saphenous veins. Computed tomography angiography of the pulmonary artery revealed defects suggestive of pulmonary thromboembolism, visualized in the pulmonary artery trunk, bilateral pulmonary arteries, and various lobes.",
+  "correct_diagnosis": "Pulmonary embolism",
+  "differentials": [
+    "Pulmonary embolism",
+    "Acute respiratory distress syndrome (ARDS)",
+    "Pneumonia",
+    "Acute coronary syndrome",
+    "Chronic obstructive pulmonary disease (COPD) exacerbation"
+  ],
+  "correct_ranking": [
+    "Pulmonary embolism",
+    "Acute respiratory distress syndrome (ARDS)",
+    "Pneumonia",
+    "Acute coronary syndrome",
+    "Chronic obstructive pulmonary disease (COPD) exacerbation"
+  ]
+}

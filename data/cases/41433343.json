@@ -1,0 +1,23 @@
+{
+  "case_id": "41433343",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 55-year-old male with a 10-year history of type 2 diabetes presents with severe abdominal pain, vomiting, and polyuria.",
+  "history": "The patient has been treated with empagliflozin, an SGLT-2 inhibitor, for the past 6 months. He has a history of hypertension and hyperlipidemia. His social history is significant for smoking and a sedentary lifestyle.",
+  "exam": "Vital signs: blood pressure 140/90 mmHg, pulse 110 bpm, respiratory rate 24 breaths/min, temperature 37.5°C. Physical examination reveals abdominal tenderness and decreased level of consciousness.",
+  "labs": "Blood glucose 420 mg/dL, pH 7.2, bicarbonate 15 mmol/L, potassium 4.5 mmol/L, ECG showing sinus tachycardia.",
+  "correct_diagnosis": "Diabetic ketoacidosis",
+  "differentials": [
+    "Diabetic ketoacidosis",
+    "SGLT-2 inhibitor-induced hypovolemia",
+    "Genitourinary infection",
+    "Erythrocytosis",
+    "Sepsis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis",
+    "SGLT-2 inhibitor-induced hypovolemia",
+    "Genitourinary infection",
+    "Erythrocytosis",
+    "Sepsis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41517799",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 76-year-old man suddenly lost consciousness at home.",
+  "history": "The patient was assessed to be in cardiac and respiratory arrest. He had a history of cardiogenic shock, iatrogenic Type B26 aortic dissection, dilated cardiomyopathy, coronary heart disease, and atrial fibrillation.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: Cardiac arrest. Bloods: Not provided. Imaging: Computed Tomography Angiography (CTA) and Transesophageal Echocardiography (TEE) were performed.",
+  "correct_diagnosis": "Iatrogenic Type B26 aortic dissection",
+  "differentials": [
+    "Iatrogenic Type B26 aortic dissection",
+    "Type A aortic dissection",
+    "Cardiogenic shock",
+    "Dilated cardiomyopathy",
+    "Cardiopulmonary arrest"
+  ],
+  "correct_ranking": [
+    "Iatrogenic Type B26 aortic dissection",
+    "Type A aortic dissection",
+    "Cardiogenic shock",
+    "Dilated cardiomyopathy",
+    "Cardiopulmonary arrest"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41264806",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 35-year-old woman presents with sudden onset shortness of breath and chest pain.",
+  "history": "The patient has a history of interrupted inferior vena cava with azygos continuation and polysplenia. She has been experiencing symptoms of a pulmonary embolism, including sudden onset shortness of breath and chest pain. She has no history of previous pulmonary embolisms or deep vein thrombosis. She is on no medications.",
+  "exam": "Vital signs: blood pressure 120/80 mmHg, heart rate 110 beats per minute, respiratory rate 24 breaths per minute. Physical examination reveals bilateral lung crackles and a loud S1 heart sound.",
+  "labs": "ECG: normal sinus rhythm with T-wave inversion in leads V1-V3. Blood tests: D-dimer 500 ng/mL, INR 1.2, platelet count 250,000/μL. Imaging: CT pulmonary angiogram shows a large pulmonary embolism in the right lung.",
+  "correct_diagnosis": "Pulmonary Embolism",
+  "differentials": [
+    "Pulmonary Embolism",
+    "Acute Coronary Syndrome",
+    "Pneumonia",
+    "Pulmonary Edema",
+    "Aortic Dissection"
+  ],
+  "correct_ranking": [
+    "Pulmonary Embolism",
+    "Acute Coronary Syndrome",
+    "Pneumonia",
+    "Pulmonary Edema",
+    "Aortic Dissection"
+  ]
+}

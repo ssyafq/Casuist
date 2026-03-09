@@ -1,0 +1,23 @@
+{
+  "case_id": "41692454",
+  "specialty": "stroke",
+  "chief_complaint": "An 82-year-old man presented with persistent complex visual hallucinations involving past episodic scenes.",
+  "history": "The patient had a history of post-stroke epilepsy (PSE) and presented with complex visual hallucinations (CVH) that resolved with levetiracetam and were maintained with zonisamide. A literature review suggested that CVH may occur when epileptic activity spreads to non-dominant temporal or parietal regions.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Electroencephalography revealed epileptic discharges in the right posterior temporal and parietal regions.",
+  "correct_diagnosis": "Post-stroke epilepsy with complex visual hallucinations",
+  "differentials": [
+    "Post-stroke epilepsy with complex visual hallucinations",
+    "Temporal lobe epilepsy",
+    "Parietal lobe epilepsy",
+    "Alzheimer's disease with visual hallucinations",
+    "Psychotic disorder"
+  ],
+  "correct_ranking": [
+    "Post-stroke epilepsy with complex visual hallucinations",
+    "Temporal lobe epilepsy",
+    "Parietal lobe epilepsy",
+    "Alzheimer's disease with visual hallucinations",
+    "Psychotic disorder"
+  ]
+}

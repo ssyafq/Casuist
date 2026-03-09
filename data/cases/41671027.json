@@ -1,0 +1,23 @@
+{
+  "case_id": "41671027",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 32-year-old woman presented with acute chest pain.",
+  "history": "The patient had been taking combined oral contraceptives for four months. She presented with acute chest pain and ST-segment elevation. Background: Spontaneous coronary artery dissection (SCAD) is an increasingly recognized cause of acute myocardial infarction (AMI) in young women, with hormonal factors potentially playing a significant role.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Coronary angiography revealed diffuse LAD narrowing that improved after intracoronary nitroglycerin. Follow-up optical coherence tomography at 6 weeks confirmed intramural hematoma consistent with SCAD.",
+  "correct_diagnosis": "Spontaneous coronary artery dissection (SCAD)",
+  "differentials": [
+    "Spontaneous coronary artery dissection (SCAD)",
+    "Acute myocardial infarction (AMI)",
+    "Acute coronary syndrome (ACS)",
+    "Myocardial infarction caused by atherosclerotic plaque rupture",
+    "Myocardial infarction caused by coronary artery thrombosis"
+  ],
+  "correct_ranking": [
+    "Spontaneous coronary artery dissection (SCAD)",
+    "Acute coronary syndrome (ACS)",
+    "Acute myocardial infarction (AMI)",
+    "Myocardial infarction caused by atherosclerotic plaque rupture",
+    "Myocardial infarction caused by coronary artery thrombosis"
+  ]
+}

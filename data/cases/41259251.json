@@ -1,0 +1,23 @@
+{
+  "case_id": "41259251",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 65-year-old male patient presented with recurrent chest pain.",
+  "history": "The patient had a 5-year history of taking aspirin for coronary artery disease. He recently underwent stent implantation. He complained of fatigue and was found to have megaloblastic anemia and thrombocytopenia.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 20/min. Physical examination revealed no significant abnormalities.",
+  "labs": "ECG: normal. Blood tests: Hemoglobin 8.5 g/dL, Platelet count 50 x 10^9/L, Mean corpuscular volume (MCV) 110 fL. Coronary angiography revealed severe stenosis in the left anterior descending artery with a TIMI blood flow grade of 2.",
+  "correct_diagnosis": "Acute coronary syndrome with aspirin-related enteropathy",
+  "differentials": [
+    "Acute coronary syndrome with aspirin-related enteropathy",
+    "Acute coronary syndrome with NSAID-related enteropathy",
+    "Acute coronary syndrome with clopidogrel resistance",
+    "Acute coronary syndrome with stent thrombosis",
+    "Acute coronary syndrome with unknown etiology"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome with aspirin-related enteropathy",
+    "Acute coronary syndrome with NSAID-related enteropathy",
+    "Acute coronary syndrome with clopidogrel resistance",
+    "Acute coronary syndrome with stent thrombosis",
+    "Acute coronary syndrome with unknown etiology"
+  ]
+}

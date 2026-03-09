@@ -1,0 +1,23 @@
+{
+  "case_id": "39021107",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A patient presents with elevated and persistent cardiac troponin values.",
+  "history": "The patient has circulating IgG-troponin T immunocomplexes, known as macrotroponinemia, which can interfere with troponin measurements.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "High and persistent cardiac troponin values, likely due to macrotroponinemia.",
+  "correct_diagnosis": "Macrotroponinemia",
+  "differentials": [
+    "Acute Myocardial Infarction",
+    "Cardiac Contusion",
+    "Macrotroponinemia",
+    "Myopericarditis",
+    "Stress Cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Macrotroponinemia",
+    "Acute Myocardial Infarction",
+    "Myopericarditis",
+    "Stress Cardiomyopathy",
+    "Cardiac Contusion"
+  ]
+}

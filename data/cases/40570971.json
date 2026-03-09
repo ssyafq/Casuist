@@ -1,0 +1,23 @@
+{
+  "case_id": "40570971",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 47-year-old male with type 2 diabetes presented with intractable vomiting and Kussmaul respiration.",
+  "history": "The patient had a history of type 2 diabetes and presented with severe metabolic acidosis, intractable vomiting, and Kussmaul respiration.",
+  "exam": "Severe metabolic acidosis (pH 6.98), intractable vomiting, Kussmaul respiration",
+  "labs": "Chest computed tomography (CT) revealed a 2.5 x 4.0 cm pneumopericardium and a 3-mm linear defect at the left ventricular apex. Transthoracic echocardiography excluded cardiac tamponade.",
+  "correct_diagnosis": "Diabetic ketoacidosis with pneumopericardium and pericardial tear",
+  "differentials": [
+    "Myocardial infarction",
+    "Diabetic ketoacidosis with pneumopericardium and pericardial tear",
+    "Pulmonary embolism",
+    "Cardiac tamponade",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis with pneumopericardium and pericardial tear",
+    "Cardiac tamponade",
+    "Myocardial infarction",
+    "Pulmonary embolism",
+    "Pneumonia"
+  ]
+}

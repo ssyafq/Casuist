@@ -1,0 +1,23 @@
+{
+  "case_id": "41276393",
+  "specialty": "chest pain",
+  "chief_complaint": "A 72-year-old woman presented with acute substernal chest pain and dyspnea.",
+  "history": "The patient experienced these symptoms after an acupuncture session. Takotsubo cardiomyopathy is seen after intense emotional or physical triggers.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min. Physical examination revealed decreased breath sounds on the left side.",
+  "labs": "ECG: anterolateral ST elevations. Chest radiograph: pneumothorax.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy with pneumothorax",
+  "differentials": [
+    "Takotsubo cardiomyopathy with pneumothorax",
+    "Acute coronary syndrome",
+    "Pneumothorax with cardiac tamponade",
+    "Acute asthma exacerbation",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy with pneumothorax",
+    "Acute coronary syndrome",
+    "Pneumothorax with cardiac tamponade",
+    "Acute asthma exacerbation",
+    "Pulmonary embolism"
+  ]
+}

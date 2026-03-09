@@ -1,0 +1,23 @@
+{
+  "case_id": "41490223",
+  "specialty": "chest pain",
+  "chief_complaint": "An 18-year-old girl presented to the emergency department with refractory epigastric and chest pain.",
+  "history": "She has a history of sickle cell disease (SCD) and presented with vaso-occlusive crises (VOC).",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG, bloods, imaging, and other tests were not mentioned.",
+  "correct_diagnosis": "Vaso-occlusive crises (VOC) due to sickle cell disease (SCD)",
+  "differentials": [
+    "Vaso-occlusive crises (VOC) due to sickle cell disease (SCD)",
+    "Pulmonary embolism",
+    "Gastrointestinal perforation",
+    "Acute coronary syndrome",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Vaso-occlusive crises (VOC) due to sickle cell disease (SCD)",
+    "Pulmonary embolism",
+    "Gastrointestinal perforation",
+    "Acute coronary syndrome",
+    "Pneumonia"
+  ]
+}

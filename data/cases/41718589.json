@@ -1,0 +1,23 @@
+{
+  "case_id": "41718589",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "Two infants, <1 month old, presented with rectal bleeding.",
+  "history": "Rectal bleeding in infants is frequently regarded as an alarming symptom for healthcare providers and often causes significant concern and anxiety among parents. Both infants showed no signs of illness. The diagnosis in one case was ingested maternal blood and in the other Food Protein-Induced Allergic Proctocolitis (FPIAP), triggered by cow's milk. FPIAP can also occur in exclusively breastfed infants when the lactating mother consumes cow's milk. Symptoms typically resolve following the initiation of an elimination diet.",
+  "exam": "No specific physical examination findings were mentioned.",
+  "labs": "No investigations were mentioned.",
+  "correct_diagnosis": "Food Protein-Induced Allergic Proctocolitis (FPIAP)",
+  "differentials": [
+    "Food Protein-Induced Allergic Proctocolitis (FPIAP)",
+    "Ingested maternal blood",
+    "Anal fissure",
+    "Hemorrhoids",
+    "Infectious gastroenteritis"
+  ],
+  "correct_ranking": [
+    "Food Protein-Induced Allergic Proctocolitis (FPIAP)",
+    "Ingested maternal blood",
+    "Anal fissure",
+    "Hemorrhoids",
+    "Infectious gastroenteritis"
+  ]
+}

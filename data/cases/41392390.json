@@ -1,0 +1,23 @@
+{
+  "case_id": "41392390",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 32-year-old female with metastatic thymoma developed fulminant chemotherapy-induced myocarditis following paclitaxel-based chemotherapy.",
+  "history": "The patient was treated with aggressive multimodal immunosuppressive therapy but progressed to refractory cardiogenic shock and pulseless ventricular tachycardia, necessitating emergent venoarterial extracorporeal membrane oxygenation (VA-ECMO).",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the case report.",
+  "labs": "ECG showed pulseless ventricular tachycardia, and VA-ECMO was initiated. Hemodynamic stability was achieved, and the patient was successfully decannulated after a period of support with signs of improving cardiac function.",
+  "correct_diagnosis": "Fulminant chemotherapy-induced myocarditis",
+  "differentials": [
+    "Fulminant chemotherapy-induced myocarditis",
+    "Refractory cardiogenic shock",
+    "Pulseless ventricular tachycardia",
+    "Venoarterial extracorporeal membrane oxygenation (VA-ECMO) failure",
+    "Ventricular fibrillation"
+  ],
+  "correct_ranking": [
+    "Fulminant chemotherapy-induced myocarditis",
+    "Refractory cardiogenic shock",
+    "Pulseless ventricular tachycardia",
+    "Venoarterial extracorporeal membrane oxygenation (VA-ECMO) failure",
+    "Ventricular fibrillation"
+  ]
+}

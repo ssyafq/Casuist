@@ -1,0 +1,23 @@
+{
+  "case_id": "41560092",
+  "specialty": "meningitis",
+  "chief_complaint": "A 20-year-old female presented with acute coma of unknown origin.",
+  "history": "The patient initially presented with acute coma of unknown origin. Initial evaluation revealed nonspecific cerebral edema on neuroimaging, while symptomatic treatment yielded minimal improvement. Physical examination showed gangrene of the right toes, indicating significant vascular compromise. The patient had a history of nonspecific symptoms, but no prior diagnosis of systemic lupus erythematosus (SLE).",
+  "exam": "Vital signs: not provided. Physical examination revealed gangrene of the right toes and residual right-sided weakness (grade 2).",
+  "labs": "ECG: not provided. Bloods: positive antiphospholipid antibodies, positive anti-double-stranded DNA antibodies, positive anti-Smith antibodies, decreased complement component 3 and complement component 4 levels. Imaging: nonspecific cerebral edema on neuroimaging. Other tests: comprehensive exclusion of non-SLE related causes including infections, encephalitis, and metabolic abnormalities.",
+  "correct_diagnosis": "Neuropsychiatric lupus (NPSLE)",
+  "differentials": [
+    "Neuropsychiatric lupus (NPSLE)",
+    "Meningitis",
+    "Encephalitis",
+    "Metabolic encephalopathy",
+    "Vasculitis"
+  ],
+  "correct_ranking": [
+    "Neuropsychiatric lupus (NPSLE)",
+    "Meningitis",
+    "Encephalitis",
+    "Metabolic encephalopathy",
+    "Vasculitis"
+  ]
+}

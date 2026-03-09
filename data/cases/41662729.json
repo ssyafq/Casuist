@@ -1,0 +1,23 @@
+{
+  "case_id": "41662729",
+  "specialty": "meningitis",
+  "chief_complaint": "Five patients, aged 5-45 years, presented with symptoms of meningitis, including headache, fever, and stiff neck.",
+  "history": "All patients had a history of consuming raw or undercooked snails or slugs, which are intermediate hosts of Angiostrongylus cantonensis. They also reported exposure to contaminated water and food. The patients' past medical history was unremarkable, and they were not on any medications. Social history revealed that they all lived in southern Indian states.",
+  "exam": "Physical examination revealed signs of meningitis, including neck stiffness, photophobia, and altered mental status. Vital signs were within normal limits.",
+  "labs": "Cerebrospinal fluid analysis revealed elevated eosinophil counts and the presence of Angiostrongylus cantonensis DNA detected by quantitative PCR.",
+  "correct_diagnosis": "Angiostrongylus cantonensis eosinophilic meningitis",
+  "differentials": [
+    "Angiostrongylus cantonensis eosinophilic meningitis",
+    "Echinococcosis",
+    "Cysticercosis",
+    "Toxocariasis",
+    "Paragonimiasis"
+  ],
+  "correct_ranking": [
+    "Angiostrongylus cantonensis eosinophilic meningitis",
+    "Echinococcosis",
+    "Cysticercosis",
+    "Toxocariasis",
+    "Paragonimiasis"
+  ]
+}

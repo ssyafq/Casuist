@@ -1,0 +1,23 @@
+{
+  "case_id": "41196212",
+  "specialty": "seizure",
+  "chief_complaint": "A 50-year-old woman presented with a generalized tonic-clonic seizure that progressed to status epilepticus.",
+  "history": "The patient had been taking bupropion/naltrexone combination for weight loss and escitalopram for anxiety over the preceding three months. She exhibited fever, unstable blood pressure, and nausea, with no evidence of infection.",
+  "exam": "Vital signs included fever, unstable blood pressure, and nausea. Physical examination revealed agitation, nystagmus, rigidity, hyperreflexia, subclonus, hyperthermia, and hypertension.",
+  "labs": "EEG showed no epileptic activity. CT, MRI, lumbar puncture, and repeated blood tests revealed no alternative causes.",
+  "correct_diagnosis": "Serotonin syndrome",
+  "differentials": [
+    "Serotonin syndrome",
+    "Bupropion-induced seizure",
+    "Escitalopram-induced seizure",
+    "Valproate-induced serotonin syndrome",
+    "Status epilepticus"
+  ],
+  "correct_ranking": [
+    "Serotonin syndrome",
+    "Bupropion-induced seizure",
+    "Escitalopram-induced seizure",
+    "Valproate-induced serotonin syndrome",
+    "Status epilepticus"
+  ]
+}

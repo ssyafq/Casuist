@@ -1,0 +1,23 @@
+{
+  "case_id": "41316638",
+  "specialty": "pancreatitis",
+  "chief_complaint": "An 11-year-old unmarried boy presented with generalized body weakness, severe continuous epigastric pain, nausea, and vomiting.",
+  "history": "The patient was diagnosed with chronic pancreatitis in October 2018. He underwent yoga and shatkarma for 36 months, including shankprakshalan, kunjal, jalneti, vatkarma kapalbhati, and tratak.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Investigations and test results are not provided.",
+  "correct_diagnosis": "Chronic Pancreatitis",
+  "differentials": [
+    "Chronic Pancreatitis",
+    "Acute Pancreatitis",
+    "Pancreatic Cancer",
+    "Pancreatic Pseudocyst",
+    "Gastrointestinal Motility Disorder"
+  ],
+  "correct_ranking": [
+    "Chronic Pancreatitis",
+    "Acute Pancreatitis",
+    "Pancreatic Cancer",
+    "Pancreatic Pseudocyst",
+    "Gastrointestinal Motility Disorder"
+  ]
+}

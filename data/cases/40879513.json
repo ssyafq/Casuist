@@ -1,0 +1,23 @@
+{
+  "case_id": "40879513",
+  "specialty": "COPD",
+  "chief_complaint": "A 73-year-old male smoker with severe COPD presented with multiple lung nodules and hilar lymphadenopathy.",
+  "history": "The patient underwent endobronchial ultrasound (EBUS) guided fine needle aspiration of the largest left lung cavitary nodule. The patient's medical history included severe COPD, and he was a smoker.",
+  "exam": "Vital signs were not provided. Physical examination findings were not described.",
+  "labs": "The EBUS guided fine needle aspiration showed the presence of uniformly sized, septate hyphae with progressive dichotomous branching. Fungal PCR result confirmed the presence of Aspergillus fumigatus. GMS stain highlighted the presence of fruiting bodies, dichotomous branching septate hyphae, and singly dispersed conidia.",
+  "correct_diagnosis": "Aspergillus fumigatus infection",
+  "differentials": [
+    "Aspergillus fumigatus infection",
+    "Non-Aspergillus fungal infection",
+    "Lung cancer",
+    "Tuberculosis",
+    "Sarcoidosis"
+  ],
+  "correct_ranking": [
+    "Aspergillus fumigatus infection",
+    "Non-Aspergillus fungal infection",
+    "Lung cancer",
+    "Tuberculosis",
+    "Sarcoidosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41554616",
+  "specialty": "seizure",
+  "chief_complaint": "An early adolescent male presented with progressive neurological deterioration, including seizures, left hemiparesis, and cognitive decline from early childhood.",
+  "history": "The patient had developmental delay, gastrointestinal bleeding, chronic liver disease with oesophageal varices, severe anaemia, and thrombocytopenia. Initial investigations suggested TORCH infection due to intracranial calcifications and multisystem involvement. However, detailed neuroimaging revealed extensive periventricular calcifications, white matter abnormalities, and cysts characteristic of cerebroretinal microangiopathy with calcifications and cysts type 1 (CRMCC).",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Exome sequencing identified a homozygous pathogenic variant c.775G>A p.(Val259Met) in the CTC1 gene, confirming CRMCC. Initial investigations included neuroimaging showing intracranial calcifications and multisystem involvement.",
+  "correct_diagnosis": "Cerebro-retinal microangiopathy with calcifications and cysts type 1 (CRMCC)",
+  "differentials": [
+    "Cerebro-retinal microangiopathy with calcifications and cysts type 1 (CRMCC)",
+    "TORCH Infection",
+    "Cerebral Calcification Syndrome",
+    "Mitochondrial Encephalopathy",
+    "Leigh Disease"
+  ],
+  "correct_ranking": [
+    "Cerebro-retinal microangiopathy with calcifications and cysts type 1 (CRMCC)",
+    "TORCH Infection",
+    "Cerebral Calcification Syndrome",
+    "Mitochondrial Encephalopathy",
+    "Leigh Disease"
+  ]
+}

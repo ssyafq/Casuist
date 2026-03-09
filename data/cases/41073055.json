@@ -1,0 +1,23 @@
+{
+  "case_id": "41073055",
+  "specialty": "chest pain",
+  "chief_complaint": "A 20-year-old man presented with a 2-week history of dull aching pain localized to the anterior chest wall.",
+  "history": "The patient had a 2-week history of dull aching pain localized to the anterior chest wall, specifically in the sternum region. The pain was non-radiating and was exacerbated by physical activity or deep inspiration. There were no associated systemic symptoms or history of recent respiratory infections, coughing, wheezing, dyspnea, hemoptysis, palpitations, edema, or orthopnea. The patient had no known exposure to individuals with active pulmonary TB and no history of trauma, repetitive physical strain, or prior surgical interventions.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG, bloods, imaging, and other tests not provided.",
+  "correct_diagnosis": "Costochondritis",
+  "differentials": [
+    "Costochondritis",
+    "Pulmonary Tuberculosis",
+    "Ankylosing Spondylitis",
+    "Reactive Arthritis",
+    "Pleurisy"
+  ],
+  "correct_ranking": [
+    "Costochondritis",
+    "Pulmonary Tuberculosis",
+    "Ankylosing Spondylitis",
+    "Reactive Arthritis",
+    "Pleurisy"
+  ]
+}

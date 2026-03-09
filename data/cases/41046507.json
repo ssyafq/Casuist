@@ -1,0 +1,23 @@
+{
+  "case_id": "41046507",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 33-year-old female patient presented with severe iron deficiency anemia and significant abdominal pain.",
+  "history": "The patient had prior negative gastroscopy and ileocolonoscopy findings. She underwent capsule endoscopy, which showed an ulcerated tumor-suspicious lesion in the jejunum. Biopsy samples obtained during jejunoscopy identified the lesion as a gastrointestinal stromal tumor.",
+  "exam": "Vital signs and physical examination findings are not provided in the source.",
+  "labs": "Iron deficiency anemia, fecal occult blood test positivity, capsule endoscopy showing an ulcerated tumor-suspicious lesion in the jejunum, biopsy samples confirming gastrointestinal stromal tumor.",
+  "correct_diagnosis": "Gastrointestinal stromal tumor",
+  "differentials": [
+    "Gastrointestinal stromal tumor",
+    "Small bowel adenocarcinoma",
+    "Small bowel lymphoma",
+    "Meckel's diverticulum",
+    "Inflammatory bowel disease"
+  ],
+  "correct_ranking": [
+    "Gastrointestinal stromal tumor",
+    "Small bowel adenocarcinoma",
+    "Small bowel lymphoma",
+    "Meckel's diverticulum",
+    "Inflammatory bowel disease"
+  ]
+}

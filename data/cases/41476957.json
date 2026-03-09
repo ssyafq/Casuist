@@ -1,0 +1,23 @@
+{
+  "case_id": "41476957",
+  "specialty": "meningitis",
+  "chief_complaint": "A 56-year-old female presented with a one-year history of recurrent high-grade fever, fatigue, accompanied by seizures and episode of altered consciousness lasting for over 17 hours.",
+  "history": "The patient had a one-year history of recurrent high-grade fever, fatigue, accompanied by seizures and episode of altered consciousness lasting for over 17 hours. During the course of hospitalization, she exhibited polyarticular swelling and pain, seizures and impaired consciousness. Laboratory analysis revealed leukocytosis and markedly elevated serum ferritin levels.",
+  "exam": "Vital signs: not specified. Physical examination findings: polyarticular swelling and pain, seizures and impaired consciousness.",
+  "labs": "Laboratory analysis revealed leukocytosis and markedly elevated serum ferritin levels. Brain magnetic resonance imaging (MRI) showed diffuse leptomeningeal enhancement. CSF analysis and other evaluations excluded infectious, demyelinating, and other etiologies.",
+  "correct_diagnosis": "Aseptic meningitis secondary to Adult-onset Still's disease",
+  "differentials": [
+    "Aseptic meningitis secondary to Adult-onset Still's disease",
+    "Infectious meningitis",
+    "Demyelinating disease",
+    "Viral encephalitis",
+    "Autoimmune encephalitis"
+  ],
+  "correct_ranking": [
+    "Aseptic meningitis secondary to Adult-onset Still's disease",
+    "Infectious meningitis",
+    "Demyelinating disease",
+    "Viral encephalitis",
+    "Autoimmune encephalitis"
+  ]
+}

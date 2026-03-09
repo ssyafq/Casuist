@@ -1,0 +1,23 @@
+{
+  "case_id": "41673952",
+  "specialty": "seizure",
+  "chief_complaint": "An 11-month-old boy presents with a 2-month history of afebrile focal-to-generalized tonic seizures and developmental delay.",
+  "history": "The patient began experiencing seizures at 2 months of age, initially with focal-to-generalized tonic seizures and focal activity on electroencephalography (EEG). He has a history of developmental delay and has been resistant to antiseizure medications. The patient has had multiple seizure types, including motor focal seizures, epileptic spasms with and without hypsarrhythmia, and generalized seizures, accompanied by abnormal movements and EEG findings consistent with epileptic encephalopathy.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Whole-exome sequencing identified a de novo likely pathogenic variant in the GRIN2D gene, affecting one of the transmembrane domains (M3), which is essential for normal NMDAR function.",
+  "correct_diagnosis": "GRIN2D-related developmental and epileptic encephalopathy",
+  "differentials": [
+    "GRIN2D-related developmental and epileptic encephalopathy",
+    "NMDAR-related developmental and epileptic encephalopathy",
+    "Other genetic developmental and epileptic encephalopathy",
+    "Focal epilepsy with developmental delay",
+    "Generalized epilepsy with developmental delay"
+  ],
+  "correct_ranking": [
+    "GRIN2D-related developmental and epileptic encephalopathy",
+    "NMDAR-related developmental and epileptic encephalopathy",
+    "Other genetic developmental and epileptic encephalopathy",
+    "Focal epilepsy with developmental delay",
+    "Generalized epilepsy with developmental delay"
+  ]
+}

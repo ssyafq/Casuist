@@ -1,0 +1,23 @@
+{
+  "case_id": "41325193",
+  "specialty": "meningitis",
+  "chief_complaint": "A 35-year-old male presented with fever, headache, and vomiting, which gradually progressed to unconsciousness.",
+  "history": "The patient was admitted to the hospital due to fever, headache, and vomiting. Cerebrospinal fluid examination revealed haemorrhagic suppurative meningitis, and Hongkiin second-generation sequencing of cerebrospinal fluid and blood pathogens resulted in the detection of Naegleria fowleri; thus, a diagnosis of primary amebic meningitis was made. The patient had no known medical history and was not taking any medications. Social history was not provided.",
+  "exam": "Vital signs: fever, tachycardia, and tachypnea. Physical examination revealed a comatose patient with signs of meningismus.",
+  "labs": "ECG: not specified. Bloods: Naegleria fowleri detected in cerebrospinal fluid and blood. Imaging: not specified. Bedside transthoracic echocardiography revealed signs of acute myocarditis.",
+  "correct_diagnosis": "Primary amebic meningitis with acute myocarditis",
+  "differentials": [
+    "Primary amebic meningitis with acute myocarditis",
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Fungal meningitis",
+    "Tuberculous meningitis"
+  ],
+  "correct_ranking": [
+    "Primary amebic meningitis with acute myocarditis",
+    "Bacterial meningitis",
+    "Viral meningitis",
+    "Fungal meningitis",
+    "Tuberculous meningitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41089700",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 15-year-old boy presented with symptoms of Behcet's syndrome, including pulmonary embolism, pulmonary aortic aneurysm, and recurrent deep vein thrombosis.",
+  "history": "The patient was diagnosed with Behcet's syndrome, a rare condition characterized by inflammation of blood vessels. He presented with pulmonary embolism, pulmonary aortic aneurysm, and recurrent deep vein thrombosis. He underwent a comprehensive strategy of systematic immunotherapy and anticoagulation treatment.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided.",
+  "correct_diagnosis": "Behcet's syndrome with venous thrombosis",
+  "differentials": [
+    "Behcet's syndrome with venous thrombosis",
+    "Pulmonary embolism",
+    "Pulmonary aortic aneurysm",
+    "Deep vein thrombosis",
+    "Systemic lupus erythematosus"
+  ],
+  "correct_ranking": [
+    "Behcet's syndrome with venous thrombosis",
+    "Pulmonary embolism",
+    "Pulmonary aortic aneurysm",
+    "Deep vein thrombosis",
+    "Systemic lupus erythematosus"
+  ]
+}

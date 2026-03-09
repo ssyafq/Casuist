@@ -1,0 +1,23 @@
+{
+  "case_id": "41081410",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 29-year-old man presented with hematemesis after mild chest trauma.",
+  "history": "A previously healthy man with a month-long dry cough. No history of tuberculosis, diabetes, or immunosuppression. Tested negative for human immunodeficiency virus.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Endoscopy showed a blood-filled stomach, but bleeding originated from the trachea. Bronchoscopy revealed an aspergilloma in the left upper lung lobe, confirmed histologically and by fungal culture. Imaging showed an apical cavity with pleural thickening.",
+  "correct_diagnosis": "Pulmonary Aspergillosis",
+  "differentials": [
+    "Pulmonary Aspergillosis",
+    "Gastrointestinal Bleeding due to Trauma",
+    "Pulmonary Embolism",
+    "Esophageal Varices",
+    "Gastroesophageal Reflux Disease"
+  ],
+  "correct_ranking": [
+    "Pulmonary Aspergillosis",
+    "Gastrointestinal Bleeding due to Trauma",
+    "Pulmonary Embolism",
+    "Esophageal Varices",
+    "Gastroesophageal Reflux Disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41398265",
+  "specialty": "meningitis",
+  "chief_complaint": "12-year-old female cat presented with left-sided eye swelling, inappetence, and lethargy six days after a routine dental procedure.",
+  "history": "The cat underwent a routine dental procedure six days prior to presentation. The cat's mental status deteriorated, and a generalized epileptic seizure was observed. Due to the poor prognosis, the owners elected euthanasia.",
+  "exam": "General and ophthalmic examination revealed absent vision, hyphema, and exophthalmos of the left eye, suspected to be secondary to ocular trauma.",
+  "labs": "Postmortem MRI of the skull revealed retrobulbar and optic nerve inflammation, meningoencephalitis, and a suspected intracranial abscess potentially associated with the recent dental extraction. Necropsy confirmed a retrobulbar abscess, ascending bacterial optic neuritis, and bacterial meningoencephalitis.",
+  "correct_diagnosis": "Bacterial meningoencephalitis",
+  "differentials": [
+    "Bacterial meningoencephalitis",
+    "Retrobulbar abscess",
+    "Ascending bacterial optic neuritis",
+    "Intracranial abscess",
+    "Penetrating ocular trauma"
+  ],
+  "correct_ranking": [
+    "Bacterial meningoencephalitis",
+    "Retrobulbar abscess",
+    "Ascending bacterial optic neuritis",
+    "Intracranial abscess",
+    "Penetrating ocular trauma"
+  ]
+}

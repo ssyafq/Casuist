@@ -1,0 +1,23 @@
+{
+  "case_id": "40991500",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 12-year-old child presents with lower gastrointestinal bleeding.",
+  "history": "The patient has multiple bluish papules and nodules. Blue rubber bleb nevus syndrome (BRBNS) and familial multiple glomuvenous malformations (GVM) are genetic disorders characterized by multiple cutaneous vascular malformations. Unlike multiple GVM, BRBNS comprises a risk of systemic involvement with vascular malformations in other organs, potentially causing life-threatening bleeding.",
+  "exam": "Vital signs are within normal limits. Physical examination reveals multiple bluish papules and nodules.",
+  "labs": "Imaging studies show vascular malformations in the gastrointestinal tract.",
+  "correct_diagnosis": "Familial multiple glomuvenous malformations (GVM)",
+  "differentials": [
+    "Familial multiple glomuvenous malformations (GVM)",
+    "Blue rubber bleb nevus syndrome (BRBNS)",
+    "Port-wine stain",
+    "Hemangioma",
+    "Vascular malformation"
+  ],
+  "correct_ranking": [
+    "Familial multiple glomuvenous malformations (GVM)",
+    "Blue rubber bleb nevus syndrome (BRBNS)",
+    "Port-wine stain",
+    "Hemangioma",
+    "Vascular malformation"
+  ]
+}

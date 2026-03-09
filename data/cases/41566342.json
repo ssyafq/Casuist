@@ -1,0 +1,23 @@
+{
+  "case_id": "41566342",
+  "specialty": "chest pain",
+  "chief_complaint": "A 24-year-old female Black African university graduate presented with cyclical chest pain and shortness of breath around the time of her menses.",
+  "history": "The patient experienced severe dysmenorrhea and menorrhagia. She presented with cyclical chest pain and shortness of breath that occurred around the time of her menses. The symptoms were suggestive of thoracic endometriosis syndrome.",
+  "exam": "Physical examination revealed a right-sided pleural effusion. Vital signs were not provided.",
+  "labs": "Imaging studies revealed a right-sided pleural effusion with a chocolate-colored aspirate, suggestive of thoracic endometriosis. ECG and other blood tests were not mentioned.",
+  "correct_diagnosis": "Thoracic endometriosis syndrome",
+  "differentials": [
+    "Thoracic endometriosis syndrome",
+    "Pleurisy",
+    "Pulmonary embolism",
+    "Pneumonia",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Thoracic endometriosis syndrome",
+    "Pleurisy",
+    "Pulmonary embolism",
+    "Pneumonia",
+    "Cardiac tamponade"
+  ]
+}

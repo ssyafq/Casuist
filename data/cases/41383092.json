@@ -1,0 +1,23 @@
+{
+  "case_id": "41383092",
+  "specialty": "meningitis",
+  "chief_complaint": "A 5-year-old castrated male Maltese dog presented with generalized tonic-clonic cluster seizures.",
+  "history": "The dog exhibited signs of obtundation, head turn, and tetraparesis. Treatment was initiated with immunosuppressants and antiseizure medication. Blood tests during treatment indicated hyponatremia and hypochloremia. The dog was diagnosed with meningoencephalitis of unknown etiology (MUE) concurrent with hydrocephalus.",
+  "exam": "The dog was considered euvolemic.",
+  "labs": "Blood tests showed hyponatremia, hypochloremia, plasma hypoosmolality, high urine osmolality, and natriuresis. Magnetic resonance imaging showed diffuse multifocal lesions of the cerebral white and grey matter extending from the left frontal lobe to the occipital lobe, along with ventriculomegaly.",
+  "correct_diagnosis": "Syndrome of Inappropriate Secretion of Antidiuretic Hormone (SIADH) in a dog with meningoencephalitis of unknown etiology",
+  "differentials": [
+    "Syndrome of Inappropriate Secretion of Antidiuretic Hormone (SIADH) in a dog with meningoencephalitis of unknown etiology",
+    "Hypothalamic-pituitary axis dysfunction",
+    "Inflammatory meningitis",
+    "Hydrocephalus",
+    "Adrenal insufficiency"
+  ],
+  "correct_ranking": [
+    "Syndrome of Inappropriate Secretion of Antidiuretic Hormone (SIADH) in a dog with meningoencephalitis of unknown etiology",
+    "Hypothalamic-pituitary axis dysfunction",
+    "Inflammatory meningitis",
+    "Hydrocephalus",
+    "Adrenal insufficiency"
+  ]
+}

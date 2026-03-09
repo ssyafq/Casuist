@@ -1,0 +1,23 @@
+{
+  "case_id": "41358795",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 9-year-old neutered male Miniature Pinscher dog presented with anorexia and lethargy.",
+  "history": "Acute pancreatitis was diagnosed based on laboratory and imaging studies. Follow-up ultrasonography revealed peripancreatic and pericolonic lesions, colonic luminal narrowing, and ileus. Computed tomography revealed pancreatic necrosis with an inflammatory mass, colonic wall thickening, luminal narrowing, and proximal intestinal obstruction.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Laboratory studies and imaging results: ultrasonography revealed peripancreatic and pericolonic lesions, colonic luminal narrowing, and ileus; computed tomography revealed pancreatic necrosis with an inflammatory mass, colonic wall thickening, luminal narrowing, and proximal intestinal obstruction.",
+  "correct_diagnosis": "Colonic obstruction caused by acute necrotizing pancreatitis",
+  "differentials": [
+    "Colonic obstruction caused by acute necrotizing pancreatitis",
+    "Peripancreatic abscess",
+    "Pancreatic necrosis",
+    "Colonic wall thickening",
+    "Proximal intestinal obstruction"
+  ],
+  "correct_ranking": [
+    "Colonic obstruction caused by acute necrotizing pancreatitis",
+    "Peripancreatic abscess",
+    "Pancreatic necrosis",
+    "Colonic wall thickening",
+    "Proximal intestinal obstruction"
+  ]
+}

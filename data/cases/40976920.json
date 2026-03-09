@@ -1,0 +1,23 @@
+{
+  "case_id": "40976920",
+  "specialty": "chest pain",
+  "chief_complaint": "A 72-year-old man presented to the Emergency Department with chest pain.",
+  "history": "The patient had a history of hypertension and hyperlipidemia. He was admitted to the Emergency Department with a 2-hour history of chest pain. He denied any prior history of coronary artery disease or cardiac surgery. He was on aspirin and atorvastatin.",
+  "exam": "Vital signs: blood pressure 140/90 mmHg, pulse 90 beats per minute, respiratory rate 18 breaths per minute, oxygen saturation 98% on room air. Physical examination revealed a normal cardiac examination.",
+  "labs": "ECG: normal sinus rhythm with ST-segment depression in leads II, III, and aVF. Blood work: troponin I 0.5 ng/mL (normal < 0.1 ng/mL). Computed Tomography Angiography (CTA): giant right coronary artery aneurysm (diameter > 8 mm) with mural thrombus and adjacent myocardial infarction.",
+  "correct_diagnosis": "Giant Right Coronary Artery Aneurysm",
+  "differentials": [
+    "Giant Right Coronary Artery Aneurysm",
+    "Acute Myocardial Infarction",
+    "Coronary Artery Dissection",
+    "Cardiac Tamponade",
+    "Pulmonary Embolism"
+  ],
+  "correct_ranking": [
+    "Giant Right Coronary Artery Aneurysm",
+    "Acute Myocardial Infarction",
+    "Coronary Artery Dissection",
+    "Cardiac Tamponade",
+    "Pulmonary Embolism"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41411871",
+  "specialty": "meningitis",
+  "chief_complaint": "A 25-year-old Senegalese man presented with fever, headache, and confusion after returning to the Canary Islands from his home country.",
+  "history": "The patient had been in good health until 3 days prior to presentation, when he developed fever, headache, and confusion. He had recently returned from Senegal, where Borrelia crocidurae infection is considered endemic. He had not received any vaccinations before traveling. He had no history of previous illnesses or allergies.",
+  "exam": "Vital signs: temperature 38.5°C, blood pressure 120/80 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute. Physical examination revealed neck stiffness and altered mental status.",
+  "labs": "Lumbar puncture revealed cerebrospinal fluid (CSF) with elevated white blood cell count (200 cells/μL), elevated protein (1.5 g/L), and decreased glucose (2.5 mmol/L). CSF PCR was positive for Borrelia crocidurae DNA. Blood tests revealed normal white blood cell count and normal liver function tests.",
+  "correct_diagnosis": "Borrelia crocidurae meningoencephalitis",
+  "differentials": [
+    "Borrelia crocidurae meningoencephalitis",
+    "Neisseria meningitidis meningitis",
+    "Haemophilus influenzae type b meningitis",
+    "Cryptococcal meningitis",
+    "Herpes simplex encephalitis"
+  ],
+  "correct_ranking": [
+    "Borrelia crocidurae meningoencephalitis",
+    "Neisseria meningitidis meningitis",
+    "Haemophilus influenzae type b meningitis",
+    "Cryptococcal meningitis",
+    "Herpes simplex encephalitis"
+  ]
+}

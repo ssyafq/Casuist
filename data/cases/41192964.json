@@ -1,0 +1,23 @@
+{
+  "case_id": "41192964",
+  "specialty": "seizure",
+  "chief_complaint": "A term infant presenting with progressive developmental delay, feeding difficulties, recurrent seizures, and failure to thrive from early neonatal age.",
+  "history": "The infant initially exhibited symptoms including vomiting, lethargy, and seizures, necessitating multiple hospitalisations. Progressive neurological deterioration, hepatomegaly, bilateral nephromegaly, hypothyroidism, gastro-oesophageal reflux disease, and auditory neuropathy were noted. MRI showed cerebral atrophy and dilated ventricles. Extensive investigations ruled out infections, metabolic acidosis, and structural brain malformations.",
+  "exam": "Vital signs and physical examination findings: hepatomegaly, bilateral nephromegaly, and signs of developmental delay.",
+  "labs": "Whole exome sequencing identified a homozygous missense mutation in the mannosyl-oligosaccharide glucosidase (MOGS) gene (c.2090T>C; p.Leu697Ser). MRI showed cerebral atrophy and dilated ventricles. Other investigations: normal ECG, normal bloods, normal imaging (excluding MRI findings).",
+  "correct_diagnosis": "Congenital disorder of glycosylation type IIb",
+  "differentials": [
+    "Congenital disorder of glycosylation type IIb",
+    "Metabolic acidosis",
+    "Structural brain malformation",
+    "Infectious encephalitis",
+    "Hypothyroidism"
+  ],
+  "correct_ranking": [
+    "Congenital disorder of glycosylation type IIb",
+    "Metabolic acidosis",
+    "Structural brain malformation",
+    "Infectious encephalitis",
+    "Hypothyroidism"
+  ]
+}

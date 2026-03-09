@@ -1,0 +1,23 @@
+{
+  "case_id": "32562212",
+  "specialty": "cardiology",
+  "chief_complaint": "A patient presents with concerns regarding sports participation due to potential cardiac issues.",
+  "history": "The patient's history is complex, with multiple clinical scenarios illustrating the complexity of decision-making in sports cardiology, including the interpretation of consensus documents.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific investigations or test results are provided.",
+  "correct_diagnosis": "Hypertrophic Cardiomyopathy",
+  "differentials": [
+    "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "Hypertrophic Cardiomyopathy",
+    "Long QT Syndrome",
+    "Brugada Syndrome",
+    "Dilated Cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Hypertrophic Cardiomyopathy",
+    "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "Long QT Syndrome",
+    "Brugada Syndrome",
+    "Dilated Cardiomyopathy"
+  ]
+}

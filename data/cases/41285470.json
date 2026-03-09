@@ -1,0 +1,23 @@
+{
+  "case_id": "41285470",
+  "specialty": "seizure",
+  "chief_complaint": "An 83-year-old woman presented with total aphasia and loss of ability to speak 44 minutes prior to hospital admission.",
+  "history": "The patient had a Glasgow Coma Scale of E4V1M2 with no conjugate deviation, paralysis, or seizures. MRI diffusion-weighted images showed high-signal intensity lesions in the left temporoparietal lobe and pulvinar and aortogenic cerebral embolism in the right hemisphere. The patient's history revealed alexia, preceding visual symptoms, and lack of memory at the time of hospital arrival.",
+  "exam": "Glasgow Coma Scale: E4V1M2, no conjugate deviation, paralysis, or seizures.",
+  "labs": "MRI diffusion-weighted images: high-signal intensity lesions in the left temporoparietal lobe and pulvinar, aortogenic cerebral embolism in the right hemisphere. T(2) star-weighted images and electroencephalogram: nonconvulsive status epilepticus originating from an old subcortical hemorrhage.",
+  "correct_diagnosis": "Nonconvulsive status epilepticus originating from an old subcortical hemorrhage",
+  "differentials": [
+    "Nonconvulsive status epilepticus originating from an old subcortical hemorrhage",
+    "Hyperacute cerebral infarction",
+    "Cerebral embolism",
+    "Stroke mimic",
+    "Cerebral vasculitis"
+  ],
+  "correct_ranking": [
+    "Nonconvulsive status epilepticus originating from an old subcortical hemorrhage",
+    "Hyperacute cerebral infarction",
+    "Cerebral embolism",
+    "Stroke mimic",
+    "Cerebral vasculitis"
+  ]
+}

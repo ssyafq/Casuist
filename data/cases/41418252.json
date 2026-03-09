@@ -1,0 +1,23 @@
+{
+  "case_id": "41418252",
+  "specialty": "seizure",
+  "chief_complaint": "A 19-year-old male with a three-month history of recurrent seizures.",
+  "history": "The patient presented with a three-month history of recurrent seizures. Initial management with valproic acid led to significant improvement, with the patient remaining seizure-free during follow-up. Cerebral MRI revealed a porencephalic cyst with a mural nodule in the left temporo-occipital region; however, angiographic studies demonstrated no vascular abnormalities.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Cerebral MRI: porencephalic cyst with a mural nodule in the left temporo-occipital region; Angiographic studies: no vascular abnormalities.",
+  "correct_diagnosis": "Porencephalic cyst",
+  "differentials": [
+    "Porencephalic cyst",
+    "Arteriovenous malformation",
+    "Temporal lobe epilepsy",
+    "Hydrocephalus",
+    "Brain tumor"
+  ],
+  "correct_ranking": [
+    "Porencephalic cyst",
+    "Temporal lobe epilepsy",
+    "Arteriovenous malformation",
+    "Hydrocephalus",
+    "Brain tumor"
+  ]
+}

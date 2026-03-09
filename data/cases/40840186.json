@@ -1,0 +1,23 @@
+{
+  "case_id": "40840186",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 65-year-old male patient presented with syncope followed by epigastric pain.",
+  "history": "The patient had a history of hypertension and hyperlipidemia. He was admitted for syncope followed by epigastric pain. Increased hs-TnI peak values and more pronounced ST-segment elevation in V3 than other leads were noted.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm. Physical examination revealed no significant abnormalities.",
+  "labs": "ECG: ST-segment elevation in V3, ST depression in V2 and V4, negative T waves in many leads. Bloods: hs-TnI peak values elevated.",
+  "correct_diagnosis": "Acute coronary syndrome with multivessel coronary artery disease",
+  "differentials": [
+    "Acute coronary syndrome with multivessel coronary artery disease",
+    "Unstable angina",
+    "Myocardial infarction with ST-elevation in a single lead",
+    "Cardiac tamponade",
+    "Vasovagal syncope"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome with multivessel coronary artery disease",
+    "Unstable angina",
+    "Myocardial infarction with ST-elevation in a single lead",
+    "Cardiac tamponade",
+    "Vasovagal syncope"
+  ]
+}

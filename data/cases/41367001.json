@@ -1,0 +1,23 @@
+{
+  "case_id": "41367001",
+  "specialty": "COPD",
+  "chief_complaint": "A 53-year-old male with chronic obstructive pulmonary disease and rectal prolapse underwent the Altemeier procedure, presenting with sepsis and anastomotic leakage.",
+  "history": "The patient had a history of chronic obstructive pulmonary disease and rectal prolapse. He underwent the Altemeier procedure. On postoperative day 4, he developed sepsis secondary to anastomotic leakage.",
+  "exam": "Vital signs: not provided. Physical examination revealed signs of sepsis, anastomotic leakage, presacral infection, and acute exacerbation of chronic obstructive pulmonary disease.",
+  "labs": "Procalcitonin and C-reactive protein levels were elevated. Other investigations: not provided.",
+  "correct_diagnosis": "Sepsis secondary to anastomotic leakage",
+  "differentials": [
+    "Sepsis secondary to anastomotic leakage",
+    "Presacral infection",
+    "Acute exacerbation of chronic obstructive pulmonary disease",
+    "Anastomotic leakage",
+    "Rectal prolapse"
+  ],
+  "correct_ranking": [
+    "Sepsis secondary to anastomotic leakage",
+    "Presacral infection",
+    "Acute exacerbation of chronic obstructive pulmonary disease",
+    "Anastomotic leakage",
+    "Rectal prolapse"
+  ]
+}

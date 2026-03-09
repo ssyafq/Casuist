@@ -1,0 +1,23 @@
+{
+  "case_id": "41491537",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 58-year-old male patient presented with non-ST-segment elevation myocardial infarction (NSTEMI).",
+  "history": "The patient has a history of hypertension, diabetes, and obesity. He presented with ischemic cardiomyopathy with reduced ejection fraction, coronary artery disease, and a giant right coronary artery (RCA) aneurysm with compressive effects and secondary hemodynamic repercussions.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG showed non-ST-segment elevation myocardial infarction (NSTEMI). Blood tests and imaging results are not provided.",
+  "correct_diagnosis": "Acute myocardial infarction secondary to giant right coronary artery aneurysm",
+  "differentials": [
+    "Acute myocardial infarction secondary to giant right coronary artery aneurysm",
+    "Mediastinal mass",
+    "Ischemic cardiomyopathy with reduced ejection fraction",
+    "Coronary artery disease",
+    "Non-ST-segment elevation myocardial infarction (NSTEMI)"
+  ],
+  "correct_ranking": [
+    "Acute myocardial infarction secondary to giant right coronary artery aneurysm",
+    "Ischemic cardiomyopathy with reduced ejection fraction",
+    "Coronary artery disease",
+    "Non-ST-segment elevation myocardial infarction (NSTEMI)",
+    "Mediastinal mass"
+  ]
+}

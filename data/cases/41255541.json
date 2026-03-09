@@ -1,0 +1,23 @@
+{
+  "case_id": "41255541",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 26-year-old male patient presented with dry mouth, polydipsia, and polyuria lasting for 2 months.",
+  "history": "The patient was admitted with symptoms of dry mouth, polydipsia, and polyuria lasting for 2 months. He was diagnosed with maturity-onset diabetes of the young type 6 (MODY6) based on blood glucose levels, glycosylated hemoglobin results, familial co-segregation of the variant, and genetic sequencing data. The patient had a heterozygous neurogenic differentiation factor 1 (NEUROD1) c.-108G>C mutation.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Blood glucose levels, glycosylated hemoglobin results, genetic sequencing data, and familial co-segregation of the variant were performed. The results showed a heterozygous NEUROD1 c.-108G>C mutation.",
+  "correct_diagnosis": "Maturity-onset diabetes of the young type 6 (MODY6) with a heterozygous NEUROD1 c.-108G>C mutation",
+  "differentials": [
+    "Maturity-onset diabetes of the young type 6 (MODY6) with a heterozygous NEUROD1 c.-108G>C mutation",
+    "Diabetic ketoacidosis",
+    "Type 1 diabetes mellitus",
+    "Type 2 diabetes mellitus",
+    "Other forms of MODY"
+  ],
+  "correct_ranking": [
+    "Maturity-onset diabetes of the young type 6 (MODY6) with a heterozygous NEUROD1 c.-108G>C mutation",
+    "Diabetic ketoacidosis",
+    "Type 1 diabetes mellitus",
+    "Type 2 diabetes mellitus",
+    "Other forms of MODY"
+  ]
+}

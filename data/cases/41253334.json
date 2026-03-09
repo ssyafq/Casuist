@@ -1,0 +1,23 @@
+{
+  "case_id": "41253334",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 70-year-old woman was transferred to our hospital with a large mass in the right atrium.",
+  "history": "Right atrial thrombus with pulmonary thromboembolism is a fatal condition. The patient was diagnosed with a giant floating thrombus in the right atrium complicated by pulmonary embolism.",
+  "exam": "Vital signs were stable. Transthoracic echocardiography revealed a 16-x39-mm floating mass in the right atrium.",
+  "labs": "Blood tests indicated disseminated intravascular coagulation (DIC). Contrast-enhanced computed tomography (CT) revealed thrombi in the bilateral pulmonary arteries, inferior vena cava, and right common iliac vein. A contrast defect in the right atrium was also observed, suggesting a thrombus.",
+  "correct_diagnosis": "Giant floating thrombus in the right atrium complicated by pulmonary embolism",
+  "differentials": [
+    "Giant floating thrombus in the right atrium complicated by pulmonary embolism",
+    "Right atrial myxoma",
+    "Right atrial tumor",
+    "Pulmonary embolism",
+    "Disseminated intravascular coagulation"
+  ],
+  "correct_ranking": [
+    "Giant floating thrombus in the right atrium complicated by pulmonary embolism",
+    "Right atrial myxoma",
+    "Right atrial tumor",
+    "Pulmonary embolism",
+    "Disseminated intravascular coagulation"
+  ]
+}

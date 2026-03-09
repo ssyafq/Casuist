@@ -1,0 +1,23 @@
+{
+  "case_id": "41222629",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 32-year-old woman presented for an 18 F-FDG PET/CT scan for a lung nodule.",
+  "history": "Incidentally, there was a focus of moderate-to-intense uptake in the right lung with no CT correlate. Repeat imaging 55 minutes later demonstrated resolution of this uptake, confirming a diagnosis of iatrogenic FDG-embolus, or 'hot-clot' artifact.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "PET/CT scan with 18 F-FDG, initial and delayed imaging.",
+  "correct_diagnosis": "Iatrogenic FDG-embolus (hot-clot artifact)",
+  "differentials": [
+    "Iatrogenic FDG-embolus (hot-clot artifact)",
+    "Pulmonary embolism",
+    "Lung cancer",
+    "Infection",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Iatrogenic FDG-embolus (hot-clot artifact)",
+    "Pulmonary embolism",
+    "Lung cancer",
+    "Infection",
+    "Pneumonia"
+  ]
+}

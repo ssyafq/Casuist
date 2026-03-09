@@ -1,0 +1,23 @@
+{
+  "case_id": "41428761",
+  "specialty": "stroke",
+  "chief_complaint": "A 45-year-old male with chronic stroke presented with difficulty performing bilateral tasks.",
+  "history": "The patient has a history of left hemisphere stroke 5 years ago. He has been experiencing difficulty with bilateral hand and arm movements. He has no significant past medical history and is not taking any medications.",
+  "exam": "Vital signs: BP 120/80, HR 70, RR 16. Physical examination revealed increased compensatory movements of proximal joints and asymmetries in bilateral hand and arm movements.",
+  "labs": "ECG: Normal. Bloods: Normal. Imaging: Not mentioned.",
+  "correct_diagnosis": "Post-stroke upper limb dysfunction",
+  "differentials": [
+    "Post-stroke upper limb dysfunction",
+    "Bilateral shoulder injury",
+    "Cerebellar ataxia",
+    "Parkinson's disease",
+    "Motor neuron disease"
+  ],
+  "correct_ranking": [
+    "Post-stroke upper limb dysfunction",
+    "Bilateral shoulder injury",
+    "Cerebellar ataxia",
+    "Parkinson's disease",
+    "Motor neuron disease"
+  ]
+}

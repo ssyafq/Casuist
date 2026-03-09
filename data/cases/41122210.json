@@ -1,0 +1,23 @@
+{
+  "case_id": "41122210",
+  "specialty": "COPD",
+  "chief_complaint": "71-year-old man with a 2-month history of frequent throat clearing and cough, despite trying mucolytics, cough suppressants, and flu medications.",
+  "history": "Patient with multiple pathologies, tried various treatments without improvement. Invited to PCA for health education and spirometry test. Initial consultation revealed critical errors in inhalation technique, which were corrected. Despite this, symptoms did not improve.",
+  "exam": "Vital signs not mentioned, but spirometry tests were performed.",
+  "labs": "Spirometry test results: FEV1/FEV6 values, COPD grade = 2, BODEX = 3 (moderate). Later tests showed COPD grade = 1, BODEX = 3.",
+  "correct_diagnosis": "Chronic Obstructive Pulmonary Disease (COPD) with incorrect inhalation technique",
+  "differentials": [
+    "Chronic Obstructive Pulmonary Disease (COPD) with incorrect inhalation technique",
+    "Asthma",
+    "Chronic Bronchitis",
+    "Emphysema",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Chronic Obstructive Pulmonary Disease (COPD) with incorrect inhalation technique",
+    "Asthma",
+    "Chronic Bronchitis",
+    "Emphysema",
+    "Pneumonia"
+  ]
+}

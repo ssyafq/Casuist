@@ -1,0 +1,23 @@
+{
+  "case_id": "41384746",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "52-year-old man presented with acute myocardial infarction followed by ischemic stroke.",
+  "history": "The patient presented with acute myocardial infarction followed by ischemic stroke diagnosed within hours, representing metachronous cardio-cerebral infarction. He demonstrated significant cognitive and language impairments that limited participation in a standard outpatient cardiac rehabilitation program.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: acute myocardial infarction; Bloods: not provided; Imaging: not provided.",
+  "correct_diagnosis": "Metachronous cardio-cerebral infarction",
+  "differentials": [
+    "Metachronous cardio-cerebral infarction",
+    "Acute myocardial infarction",
+    "Ischemic stroke",
+    "Cardiac rehabilitation complications",
+    "Post-stroke cognitive impairment"
+  ],
+  "correct_ranking": [
+    "Metachronous cardio-cerebral infarction",
+    "Acute myocardial infarction",
+    "Ischemic stroke",
+    "Cardiac rehabilitation complications",
+    "Post-stroke cognitive impairment"
+  ]
+}

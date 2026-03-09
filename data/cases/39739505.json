@@ -1,0 +1,23 @@
+{
+  "case_id": "39739505",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 58-year-old hypertensive man presented with severe central chest pain and palpitation.",
+  "history": "The patient is a 58-year-old hypertensive man with no other mentioned past medical history, medications, or social history.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "ECG showed fast atrial fibrillation with features suggestive of left main coronary artery occlusion. Labs also showed high D-dimer and lactate. Coronary angiogram (CAG) showed no stenosis. Bedside Transthoracic echocardiography (TTE) showed a dissecting flap in the ascending aorta. CT revealed Stanford Type-A Aortic Dissection (AD).",
+  "correct_diagnosis": "Stanford Type-A Aortic Dissection",
+  "differentials": [
+    "Acute Coronary Syndrome",
+    "Stanford Type-A Aortic Dissection",
+    "Pulmonary Embolism",
+    "Cardiac Tamponade",
+    "Atrial Fibrillation"
+  ],
+  "correct_ranking": [
+    "Stanford Type-A Aortic Dissection",
+    "Acute Coronary Syndrome",
+    "Atrial Fibrillation",
+    "Cardiac Tamponade",
+    "Pulmonary Embolism"
+  ]
+}

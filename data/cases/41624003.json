@@ -1,0 +1,23 @@
+{
+  "case_id": "41624003",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 10-year-old male child with Schimke immuno-osseous dysplasia (SIOD) presented with respiratory symptoms after kidney transplantation.",
+  "history": "The patient had a history of SIOD, characterized by T-cell immunodeficiency, and had undergone kidney transplantation. He developed early-onset Epstein-Barr virus (EBV)-associated post-transplant lymphoproliferative disorder (PTLD) involving the lungs, which is extremely rare.",
+  "exam": "Vital signs: temperature 37.5°C, blood pressure 90/60 mmHg, respiratory rate 24/min, oxygen saturation 92% on room air. Physical examination revealed bilateral lung crackles.",
+  "labs": "ECG: normal. Bloods: WBC 12,000/μL, platelets 150,000/μL, creatinine 1.5 mg/dL. Imaging: Chest X-ray showed bilateral lung infiltrates. EBV PCR positive.",
+  "correct_diagnosis": "Post-transplant lymphoproliferative disorder (PTLD) involving the lungs",
+  "differentials": [
+    "Post-transplant lymphoproliferative disorder (PTLD) involving the lungs",
+    "Pneumonia",
+    "Acute graft-versus-host disease",
+    "Chronic rejection",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Post-transplant lymphoproliferative disorder (PTLD) involving the lungs",
+    "Pneumonia",
+    "Acute graft-versus-host disease",
+    "Chronic rejection",
+    "Pulmonary embolism"
+  ]
+}

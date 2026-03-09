@@ -1,0 +1,23 @@
+{
+  "case_id": "40701028",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "Two cases of deceased men with a history of diabetes, one 57 years old with chronic alcohol abuse and the other 75 years old with a history of insulin withdrawal.",
+  "history": "Case 1: 57-year-old man with a known history of mellitus diabetes and chronic alcohol abuse. Case 2: 75-year-old diabetic man with a history of prolonged insulin deprivation.",
+  "exam": "Postmortem examination with genital mutilations in Case 1 and neglected state in Case 2.",
+  "labs": "Elevated beta-hydroxybutyrate (BHB) concentrations in femoral blood and vitreous humor, elevated vitreous glucose, creatinine, and blood HbA1c.",
+  "correct_diagnosis": "Ketoacidosis",
+  "differentials": [
+    "Alcoholic Ketoacidosis",
+    "Diabetic Ketoacidosis",
+    "Lactic Acidosis",
+    "Ketoacidosis",
+    "Mixed Acidosis"
+  ],
+  "correct_ranking": [
+    "Ketoacidosis",
+    "Diabetic Ketoacidosis",
+    "Alcoholic Ketoacidosis",
+    "Lactic Acidosis",
+    "Mixed Acidosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41452240",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 62-year-old woman presented with abdominal pain and vomiting after undergoing hyperthermic intraperitoneal chemotherapy (HIPEC).",
+  "history": "The patient was a nondiabetic woman with a history of abdominal cancer. She underwent HIPEC without any preoperative or intraoperative complications. Postoperatively, she developed abdominal pain, vomiting, and altered mental status. Her blood glucose levels were within normal limits, but she had elevated ketone levels.",
+  "exam": "Vital signs: Temperature 38.5°C, Blood pressure 100/60 mmHg, Heart rate 110 beats per minute, Respiratory rate 24 breaths per minute. Physical examination revealed abdominal tenderness and distension.",
+  "labs": "Blood glucose: 120 mg/dL, Ketone levels: 3.5 mmol/L, Lactate: 2.5 mmol/L, Electrolytes: Normal, Complete Blood Count: Normal, Electrocardiogram: Normal.",
+  "correct_diagnosis": "Perioperative Euglycemic Diabetic Ketoacidosis",
+  "differentials": [
+    "Perioperative Euglycemic Diabetic Ketoacidosis",
+    "Acute Pancreatitis",
+    "Sepsis",
+    "Hypovolemic Shock",
+    "Postoperative Nausea and Vomiting"
+  ],
+  "correct_ranking": [
+    "Perioperative Euglycemic Diabetic Ketoacidosis",
+    "Acute Pancreatitis",
+    "Sepsis",
+    "Hypovolemic Shock",
+    "Postoperative Nausea and Vomiting"
+  ]
+}

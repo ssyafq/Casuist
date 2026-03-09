@@ -1,0 +1,23 @@
+{
+  "case_id": "40662978",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 61-year-old female presented with acute coronary syndrome 4 months after surgical aortic valve replacement.",
+  "history": "The patient had undergone surgical aortic valve replacement and presented 4 months later with symptoms of acute coronary syndrome.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "The patient was found to have 99% left main ostial coronary artery occlusion.",
+  "correct_diagnosis": "Ostial left main stenosis post SAVR",
+  "differentials": [
+    "Ostial left main stenosis post SAVR",
+    "Native coronary artery disease",
+    "Cardiac allograft vasculopathy",
+    "In-stent restenosis",
+    "Spontaneous coronary artery dissection"
+  ],
+  "correct_ranking": [
+    "Ostial left main stenosis post SAVR",
+    "Native coronary artery disease",
+    "Cardiac allograft vasculopathy",
+    "In-stent restenosis",
+    "Spontaneous coronary artery dissection"
+  ]
+}

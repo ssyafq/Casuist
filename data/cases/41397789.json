@@ -1,0 +1,23 @@
+{
+  "case_id": "41397789",
+  "specialty": "chest pain",
+  "chief_complaint": "A 16-year-old male presented with sudden pleuritic chest pain at rest.",
+  "history": "A patient in late adolescence presented with sudden pleuritic chest pain at rest. Chest radiograph showed pneumomediastinum with associated subcutaneous emphysema. CT thorax with oral contrast confirmed spontaneous pneumomediastinum (SPM) and excluded oesophageal or tracheobronchial injury.",
+  "exam": "The patient remained clinically stable during hospital observation.",
+  "labs": "Chest radiograph showed pneumomediastinum with associated subcutaneous emphysema. CT thorax with oral contrast confirmed spontaneous pneumomediastinum (SPM).",
+  "correct_diagnosis": "Spontaneous pneumomediastinum (SPM)",
+  "differentials": [
+    "Spontaneous pneumomediastinum (SPM)",
+    "Pulmonary embolism",
+    "Acute myocardial infarction",
+    "Pneumothorax",
+    "Costochondritis"
+  ],
+  "correct_ranking": [
+    "Spontaneous pneumomediastinum (SPM)",
+    "Pulmonary embolism",
+    "Pneumothorax",
+    "Acute myocardial infarction",
+    "Costochondritis"
+  ]
+}

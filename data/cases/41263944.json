@@ -1,0 +1,23 @@
+{
+  "case_id": "41263944",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 14-year-old boy presented with recurrent acute pancreatitis.",
+  "history": "Double gallbladder is a rare congenital anomaly of the biliary system. The patient had recurrent acute pancreatitis. Endoscopic retrograde cholangiopancreatography revealed an accessory gallbladder draining into the main pancreatic duct, along with a filling defect suggestive of a stone within the accessory cystic duct. These findings did not suggest pancreaticobiliary maljunction.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Elevated amylase levels in the gallbladder bile and elevated bilirubin levels in the accessory gallbladder fluid, suggesting bidirectional reflux of pancreatic juice and bile.",
+  "correct_diagnosis": "Double gallbladder with an accessory cystic duct draining into the main pancreatic duct.",
+  "differentials": [
+    "Double gallbladder with an accessory cystic duct draining into the main pancreatic duct.",
+    "Pancreaticobiliary maljunction",
+    "Choledochal cyst",
+    "Gallbladder polyp with pancreatitis",
+    "Acute pancreatitis without gallbladder disease"
+  ],
+  "correct_ranking": [
+    "Double gallbladder with an accessory cystic duct draining into the main pancreatic duct.",
+    "Pancreaticobiliary maljunction",
+    "Choledochal cyst",
+    "Gallbladder polyp with pancreatitis",
+    "Acute pancreatitis without gallbladder disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41353163",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 65-year-old male presented with shortness of breath and chest pain.",
+  "history": "The patient received anticoagulation therapy for 3 months without improvement. He had a history of smoking and was a heavy smoker for 40 years.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 24/min. Physical examination revealed bilateral wheezing and decreased breath sounds.",
+  "labs": "ECG: normal. Bloods: D-dimer elevated. PET-CT revealed hypermetabolic lesions suspicious for malignancy. Bronchoscopy with biopsy confirmed small cell lung cancer.",
+  "correct_diagnosis": "Small cell lung cancer invading the pulmonary artery",
+  "differentials": [
+    "Small cell lung cancer invading the pulmonary artery",
+    "Pulmonary thromboembolism",
+    "Pulmonary artery sarcoma",
+    "Pulmonary artery aneurysm",
+    "Pulmonary artery thrombosis"
+  ],
+  "correct_ranking": [
+    "Small cell lung cancer invading the pulmonary artery",
+    "Pulmonary thromboembolism",
+    "Pulmonary artery sarcoma",
+    "Pulmonary artery aneurysm",
+    "Pulmonary artery thrombosis"
+  ]
+}

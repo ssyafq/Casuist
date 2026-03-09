@@ -1,0 +1,23 @@
+{
+  "case_id": "40324275",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 47-year-old man presented with sudden chest pain. Acute coronary syndrome was suspected based on symptom and elevated troponin I levels.",
+  "history": "The patient presented with sudden chest pain. His past medical history, medications, and social history are not provided.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Elevated troponin I levels. Coronary angiography revealed diffuse coronary artery ectasia and total occlusion of mid-left circumflex artery.",
+  "correct_diagnosis": "Coronary artery ectasia",
+  "differentials": [
+    "Coronary artery perforation",
+    "Myocardial infarction",
+    "Coronary artery ectasia",
+    "Cardiac dissection",
+    "Unstable angina"
+  ],
+  "correct_ranking": [
+    "Coronary artery ectasia",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Coronary artery perforation",
+    "Cardiac dissection"
+  ]
+}

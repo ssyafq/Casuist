@@ -1,0 +1,23 @@
+{
+  "case_id": "40776672",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A patient with type 2 diabetes mellitus presented with significant elevation in blood glucose level and diabetic ketoacidosis.",
+  "history": "The patient had type 2 diabetes mellitus and was being treated with insulin. The patient exhibited a significant increase in blood glucose level and demonstrated substantial insulin resistance, requiring a large amount of insulin to gradually reduce the blood glucose level.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "Laboratory examination revealed a significant elevation in the patient's blood insulin autoantibody.",
+  "correct_diagnosis": "Exogenous insulin antibody syndrome (EIAS)",
+  "differentials": [
+    "Type 1 diabetes mellitus",
+    "Exogenous insulin antibody syndrome (EIAS)",
+    "Insulin resistance syndrome",
+    "Diabetic ketoacidosis",
+    "Hyperosmolar hyperglycemic state"
+  ],
+  "correct_ranking": [
+    "Exogenous insulin antibody syndrome (EIAS)",
+    "Insulin resistance syndrome",
+    "Diabetic ketoacidosis",
+    "Type 1 diabetes mellitus",
+    "Hyperosmolar hyperglycemic state"
+  ]
+}

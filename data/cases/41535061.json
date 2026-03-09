@@ -1,0 +1,23 @@
+{
+  "case_id": "41535061",
+  "specialty": "seizure",
+  "chief_complaint": "A 2-year-old girl presented with paroxysmal torticollis, which worsened over time, accompanied by ataxia, titubation, dystonia, dyskinesias, seizures, and encephalopathy.",
+  "history": "The girl was born of third-degree consanguinity and presented with symptoms starting around 2 years of age. The symptoms worsened over time, and she also experienced variable ataxia and seizures. Molecular analysis identified a novel homozygous mutation in the adenosine diphosphate-ribosyl serine hydrolase gene.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Brain MRI showed signal abnormalities in the periventricular white matter and bilateral putamina, with restricted diffusion seen in the latter. Molecular analysis identified a novel homozygous mutation in the adenosine diphosphate-ribosyl serine hydrolase gene (chr1: g.36093274G>T; c.980G>T).",
+  "correct_diagnosis": "Genotypic and radiological expansion of CONDSIAS",
+  "differentials": [
+    "Genotypic and radiological expansion of CONDSIAS",
+    "Paroxysmal Torticollis",
+    "Ataxia and Seizures",
+    "Dystonia and Dyskinesias",
+    "Neurodegeneration, childhood-onset, stress-induced"
+  ],
+  "correct_ranking": [
+    "Genotypic and radiological expansion of CONDSIAS",
+    "Paroxysmal Torticollis",
+    "Ataxia and Seizures",
+    "Dystonia and Dyskinesias",
+    "Neurodegeneration, childhood-onset, stress-induced"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41711926",
+  "specialty": "meningitis",
+  "chief_complaint": "A 64-year-old male patient presented with neck stiffness, headache, fever.",
+  "history": "The patient had eosinophilic meningitis caused by Angiostrongylus cantonensis, an uncommon disease in Brazil. He ingested slugs, water or food contaminated with the parasite. He had a false-positive result for Neisseria meningitides and received unsuccessful treatment with antibiotics. He was treated with prednisone and albendazole after extensive investigation.",
+  "exam": "Neck stiffness, headache, fever, and peripheral and cerebrospinal fluid (CSF) eosinophilia were observed.",
+  "labs": "DNA and anti-A.cantonensis antibodies were detected in CSF. Detection of antibodies and DNA of the parasite in CSF was crucial for diagnosis.",
+  "correct_diagnosis": "Eosinophilic meningitis caused by Angiostrongylus cantonensis",
+  "differentials": [
+    "Eosinophilic meningitis caused by Angiostrongylus cantonensis",
+    "Neisseria meningitides infection",
+    "Tuberculous meningitis",
+    "Cryptococcal meningitis",
+    "Viral meningitis"
+  ],
+  "correct_ranking": [
+    "Eosinophilic meningitis caused by Angiostrongylus cantonensis",
+    "Neisseria meningitides infection",
+    "Tuberculous meningitis",
+    "Cryptococcal meningitis",
+    "Viral meningitis"
+  ]
+}

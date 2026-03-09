@@ -1,0 +1,23 @@
+{
+  "case_id": "41517690",
+  "specialty": "stroke",
+  "chief_complaint": "A 41-year-old male patient suddenly experienced a cerebral infarction.",
+  "history": "The patient has lower limb osteosarcoma and was diagnosed with Trousseau syndrome, which includes clinical manifestations such as pulmonary embolism, arterial thrombosis, deep vein thrombosis, and nonbacterial thrombotic endocarditis.",
+  "exam": "The patient was conscious, spoke fluently, and had grade IV muscle strength in the left upper limb. The left lower limb had limited movement because of the tumor.",
+  "labs": "Emergency cerebral angiography, mechanical thrombectomy, and percutaneous superselective arteriography were performed.",
+  "correct_diagnosis": "Lower limb juvenile sarcoma combined with Trousseau syndrome, cerebral infarction",
+  "differentials": [
+    "Lower limb juvenile sarcoma combined with Trousseau syndrome, cerebral infarction",
+    "Pulmonary embolism",
+    "Arterial thrombosis",
+    "Deep vein thrombosis",
+    "Nonbacterial thrombotic endocarditis"
+  ],
+  "correct_ranking": [
+    "Lower limb juvenile sarcoma combined with Trousseau syndrome, cerebral infarction",
+    "Pulmonary embolism",
+    "Arterial thrombosis",
+    "Deep vein thrombosis",
+    "Nonbacterial thrombotic endocarditis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41534767",
+  "specialty": "stroke",
+  "chief_complaint": "A 60-year-old man presents with recurrent stroke.",
+  "history": "The patient has a history of recurrent stroke, and histopathology is key to the diagnosis of Immunoglobulin G4-related disease (IgG4-RD).",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Immunohistochemistry demonstrated scattered plasma cells in the intima and adventitia of the superficial temporal artery, with a small number of IgG4-positive cells observed (10-15 cells per high-power field).",
+  "correct_diagnosis": "IgG4-related arteritis",
+  "differentials": [
+    "IgG4-related arteritis",
+    "Recurrent idiopathic stroke",
+    "Atherosclerotic stroke",
+    "Cerebral vasculitis",
+    "Moyamoya disease"
+  ],
+  "correct_ranking": [
+    "IgG4-related arteritis",
+    "Recurrent idiopathic stroke",
+    "Atherosclerotic stroke",
+    "Cerebral vasculitis",
+    "Moyamoya disease"
+  ]
+}

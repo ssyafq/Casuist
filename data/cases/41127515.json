@@ -1,0 +1,23 @@
+{
+  "case_id": "41127515",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 36-year-old man presented with severe diabetic ketoacidosis.",
+  "history": "The patient was newly diagnosed with type 2 diabetes and developed severe euglycemic diabetic ketoacidosis within days of starting combined therapy with semaglutide and dapagliflozin. He had persistent vomiting and carbohydrate deficiency, likely related to GLP-1 RA side effects, leading to decreased insulin administration and metabolic decompensation.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Not provided.",
+  "correct_diagnosis": "Severe euglycemic diabetic ketoacidosis",
+  "differentials": [
+    "Severe euglycemic diabetic ketoacidosis",
+    "Diabetic ketoacidosis due to infection",
+    "Diabetic ketoacidosis due to other common triggers",
+    "Hypoglycemia-induced ketoacidosis",
+    "Other metabolic disorder"
+  ],
+  "correct_ranking": [
+    "Severe euglycemic diabetic ketoacidosis",
+    "Diabetic ketoacidosis due to infection",
+    "Diabetic ketoacidosis due to other common triggers",
+    "Hypoglycemia-induced ketoacidosis",
+    "Other metabolic disorder"
+  ]
+}

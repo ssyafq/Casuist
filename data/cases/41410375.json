@@ -1,0 +1,23 @@
+{
+  "case_id": "41410375",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 30-year-old male with a history of Maple syrup urine disease and Type 1 Diabetes Mellitus presented with recurrent instances of diabetic ketoacidosis.",
+  "history": "The patient had a history of Maple syrup urine disease diagnosed ante-natally and managed with strict dietary restrictions. He developed Type 1 Diabetes Mellitus and experienced recurrent episodes of diabetic ketoacidosis, necessitating liver transplant.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20 breaths/min. Physical examination revealed a stable patient with no acute distress.",
+  "labs": "ECG: normal. Bloods: glucose 250 mg/dL, electrolytes within normal limits. Imaging: not mentioned. Liver function tests: not mentioned.",
+  "correct_diagnosis": "Diabetic ketoacidosis",
+  "differentials": [
+    "Diabetic ketoacidosis",
+    "Maple syrup urine disease crisis",
+    "Liver failure",
+    "Type 1 Diabetes Mellitus",
+    "Hypoglycemia"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis",
+    "Maple syrup urine disease crisis",
+    "Liver failure",
+    "Type 1 Diabetes Mellitus",
+    "Hypoglycemia"
+  ]
+}

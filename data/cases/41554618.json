@@ -1,0 +1,23 @@
+{
+  "case_id": "41554618",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 1-year-old toddler presented with a 1-day history of persistent non-bilious vomiting, intermittent pallor, and irritability.",
+  "history": "The patient had a 1-day history of persistent non-bilious vomiting, intermittent pallor, and irritability, without fever or diarrhoea. Initial examination was non-specific, but progressive abdominal tenderness and new onset of fever prompted imaging and laboratory investigations.",
+  "exam": "Progressive abdominal tenderness and new onset of fever.",
+  "labs": "Elevated inflammatory markers, serum lipase, and contrast-enhanced CT findings.",
+  "correct_diagnosis": "Necrotising pancreatitis",
+  "differentials": [
+    "Necrotising pancreatitis",
+    "Acute appendicitis",
+    "Gastroenteritis",
+    "Intussusception",
+    "Urinary tract infection"
+  ],
+  "correct_ranking": [
+    "Necrotising pancreatitis",
+    "Acute appendicitis",
+    "Gastroenteritis",
+    "Intussusception",
+    "Urinary tract infection"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41546289",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "An 80-year-old woman presented with melena 2 years after surgery for small cell lung carcinoma.",
+  "history": "The patient had a history of lobectomy for small cell lung carcinoma, presented with melena 2 years after surgery, and underwent contrast-enhanced abdominal CT and enteroscopy. She also had a history of ongoing hemodialysis.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Contrast-enhanced abdominal CT and enteroscopy revealed a bleeding tumor at the proximal jejunum. Histopathology confirmed jejunal metastasis from small cell lung carcinoma.",
+  "correct_diagnosis": "Jejunal metastasis from small cell lung carcinoma",
+  "differentials": [
+    "Jejunal metastasis from small cell lung carcinoma",
+    "Gastrointestinal stromal tumor",
+    "Jejunal adenocarcinoma",
+    "Vascular malformation",
+    "Meckel's diverticulum"
+  ],
+  "correct_ranking": [
+    "Jejunal metastasis from small cell lung carcinoma",
+    "Gastrointestinal stromal tumor",
+    "Jejunal adenocarcinoma",
+    "Vascular malformation",
+    "Meckel's diverticulum"
+  ]
+}

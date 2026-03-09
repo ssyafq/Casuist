@@ -1,0 +1,23 @@
+{
+  "case_id": "41517765",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 32-year-old woman presents with hypertriglyceridemic acute pancreatitis.",
+  "history": "The patient has a history of 5 pregnancies and 1 live birth. She was transferred from the obstetrics department to the ICU at 29 weeks and 4 days of pregnancy due to hypertriglyceridemic acute pancreatitis.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated.",
+  "labs": "Diagnosing hypertriglyceridemic acute pancreatitis involves investigations such as blood tests to measure triglyceride levels.",
+  "correct_diagnosis": "Hypertriglyceridemic acute pancreatitis (HTG-AP)",
+  "differentials": [
+    "Hypertriglyceridemic acute pancreatitis (HTG-AP)",
+    "Acute pancreatitis",
+    "Preeclampsia",
+    "Cholestasis of pregnancy",
+    "Hypertension"
+  ],
+  "correct_ranking": [
+    "Hypertriglyceridemic acute pancreatitis (HTG-AP)",
+    "Acute pancreatitis",
+    "Preeclampsia",
+    "Cholestasis of pregnancy",
+    "Hypertension"
+  ]
+}

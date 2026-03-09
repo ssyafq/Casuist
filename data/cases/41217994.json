@@ -1,0 +1,23 @@
+{
+  "case_id": "41217994",
+  "specialty": "chest pain",
+  "chief_complaint": "A 37-year-old man presented with recurrent chest pain and suspected acute coronary syndrome.",
+  "history": "The patient had a background of dyslipidemia, heavy smoking, and illicit drug use. He presented with recurrent chest pain, and electrocardiography revealed anteroseptal ST-segment elevation. Initial troponin was negative.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated.",
+  "labs": "Electrocardiography: anteroseptal ST-segment elevation. Troponin: negative. Coronary angiography: anomalous LAD originating from the RCA with myocardial bridging at the mid-segment. Computed tomography coronary angiography: malignant inter-arterial course. Submaximal stress SPECT perfusion study: 77% of target heart rate, reproducing chest pain and revealing a small, reversible perfusion defect in the anteroseptal wall.",
+  "correct_diagnosis": "Myocardial ischemia secondary to anomalous origin of left anterior descending coronary artery",
+  "differentials": [
+    "Myocardial ischemia secondary to anomalous origin of left anterior descending coronary artery",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Coronary artery disease",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Myocardial ischemia secondary to anomalous origin of left anterior descending coronary artery",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Coronary artery disease",
+    "Cardiac arrhythmia"
+  ]
+}

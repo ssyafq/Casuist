@@ -1,0 +1,23 @@
+{
+  "case_id": "41298243",
+  "specialty": "chest pain",
+  "chief_complaint": "A 30-year-old woman presented with mild anginal symptoms.",
+  "history": "The patient has a history of surgically corrected congenital heart disease and was evaluated for chest pain. Coronary CT angiography revealed the absence of the right coronary artery origin, confirmed by coronary angiography. No obstructive coronary lesions were identified.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG and coronary CT angiography revealed the absence of the right coronary artery origin. Coronary angiography confirmed the absence of the right coronary artery. No obstructive coronary lesions were identified.",
+  "correct_diagnosis": "Congenital absence of the right coronary artery",
+  "differentials": [
+    "Congenital absence of the right coronary artery",
+    "Acute coronary syndrome",
+    "Coronary artery spasm",
+    "Cardiac tamponade",
+    "Pericarditis"
+  ],
+  "correct_ranking": [
+    "Congenital absence of the right coronary artery",
+    "Acute coronary syndrome",
+    "Coronary artery spasm",
+    "Cardiac tamponade",
+    "Pericarditis"
+  ]
+}

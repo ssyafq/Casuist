@@ -1,0 +1,23 @@
+{
+  "case_id": "41021446",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 37-year-old man underwent electronic bronchoscopy under general anesthesia due to pulmonary infection, presenting with severe myoclonus and marked tachycardia.",
+  "history": "The patient had severe myoclonus coupled with marked tachycardia following induction with etomidate. Despite intensifying the anesthesia, there was no notable amelioration in the myoclonus or tachycardia. Repeated administration of beta-blockers only managed to reduce the heart rate to approximately 150 beats per minute. The severe myoclonus and tachycardia persisted for about 20 minutes. He was initially suspected to have a reaction to the etomidate injection, but later diagnosed with hyperthyroidism.",
+  "exam": "Vital signs: heart rate 160-180 beats per minute, severe myoclonus, bilateral lower-limb weakness with muscle strength rated at 2 out of 5.",
+  "labs": "Hyperthyroidism diagnosis based on thorough history and laboratory tests. No specific lab results mentioned.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Etomidate-induced myoclonus",
+    "Hyperthyroidism",
+    "Anaphylactic reaction",
+    "Seizure disorder"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Hyperthyroidism",
+    "Etomidate-induced myoclonus",
+    "Anaphylactic reaction",
+    "Seizure disorder"
+  ]
+}

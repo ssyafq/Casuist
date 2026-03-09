@@ -1,0 +1,23 @@
+{
+  "case_id": "41349643",
+  "specialty": "meningitis",
+  "chief_complaint": "A 50-year-old male presented with left hemispheric syndrome from an acute left middle cerebral artery stroke, complicated by status epilepticus.",
+  "history": "A previously well 50-year-old gentleman with disseminated Salmonella infection. He presented with left hemispheric syndrome from an acute left middle cerebral artery stroke, complicated by status epilepticus requiring admission to the intensive care unit (ICU).",
+  "exam": "Vital signs not provided. Physical examination findings not provided.",
+  "labs": "Investigations revealed a large retroperitoneal abscess, and evidence of meningeal inflammation, ventriculitis and empyema.",
+  "correct_diagnosis": "Salmonella enteritidis meningitis",
+  "differentials": [
+    "Salmonella enteritidis meningitis",
+    "Neisseria meningitidis meningitis",
+    "Streptococcus pneumoniae meningitis",
+    "Cryptococcus neoformans meningitis",
+    "E. coli meningitis"
+  ],
+  "correct_ranking": [
+    "Salmonella enteritidis meningitis",
+    "Neisseria meningitidis meningitis",
+    "Streptococcus pneumoniae meningitis",
+    "Cryptococcus neoformans meningitis",
+    "E. coli meningitis"
+  ]
+}

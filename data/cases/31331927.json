@@ -1,0 +1,23 @@
+{
+  "case_id": "31331927",
+  "specialty": "cardiology",
+  "chief_complaint": "A 66-year-old woman presented with persistent cough and dyspnoea after undergoing right inferior lobectomy for pulmonary carcinoma.",
+  "history": "The patient had a history of pulmonary carcinoma and underwent right inferior lobectomy, but developed a persistent bronchopleural fistula (BPF) that was not amenable to surgical intervention after two failed surgeries.",
+  "exam": "No specific vital signs or physical examination findings are mentioned.",
+  "labs": "No specific investigations or results are mentioned, but the patient underwent a hybrid procedure using fluoroscopy and bronchoscopy.",
+  "correct_diagnosis": "Bronchopleural fistula",
+  "differentials": [
+    "Pneumonia",
+    "Bronchopleural fistula",
+    "Pulmonary embolism",
+    "Lung abscess",
+    "Empyema"
+  ],
+  "correct_ranking": [
+    "Bronchopleural fistula",
+    "Pneumonia",
+    "Lung abscess",
+    "Empyema",
+    "Pulmonary embolism"
+  ]
+}

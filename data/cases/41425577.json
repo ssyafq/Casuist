@@ -1,0 +1,23 @@
+{
+  "case_id": "41425577",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 41-year-old male patient presented with atypical abdominal pain followed by massive lower gastrointestinal bleeding.",
+  "history": "The patient had a 4-year history of intestinal Behcet's disease (BD). He initially presented with symptoms consistent with a recurrence of intestinal BD, including esophageal and anastomotic ulcers. Despite conservative medical treatment, the disease progressed to persistent bleeding.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Computed tomography angiography revealed extravasation around a branch artery of the superior mesenteric artery.",
+  "correct_diagnosis": "Rupture of the superior mesenteric artery branch in Behcet's disease",
+  "differentials": [
+    "Rupture of the superior mesenteric artery branch in Behcet's disease",
+    "Intestinal Behcet's disease with gastrointestinal bleeding",
+    "Mesenteric artery aneurysm",
+    "Gastrointestinal bleeding due to aortic dissection",
+    "Gastrointestinal bleeding due to aortoenteric fistula"
+  ],
+  "correct_ranking": [
+    "Rupture of the superior mesenteric artery branch in Behcet's disease",
+    "Intestinal Behcet's disease with gastrointestinal bleeding",
+    "Mesenteric artery aneurysm",
+    "Gastrointestinal bleeding due to aortic dissection",
+    "Gastrointestinal bleeding due to aortoenteric fistula"
+  ]
+}

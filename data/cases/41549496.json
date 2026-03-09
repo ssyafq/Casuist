@@ -1,0 +1,23 @@
+{
+  "case_id": "41549496",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 70-year-old woman presented with refractory sinusitis and a persistent cough.",
+  "history": "The patient had a past medical history of atrial fibrillation, sick sinus syndrome, breast cancer, gastroesophageal reflux disease, and anxiety. She developed iron-deficiency anemia and a rapid decline in renal function over 5 months.",
+  "exam": "Vital signs and physical examination findings are not explicitly mentioned.",
+  "labs": "Serologic testing revealed dual positivity for anti-proteinase 3 (PR3, c-ANCA) and anti-myeloperoxidase (MPO, p-ANCA). Renal biopsy confirmed pauci-immune glomerulonephritis.",
+  "correct_diagnosis": "Granulomatosis with polyangiitis (GPA)",
+  "differentials": [
+    "Granulomatosis with polyangiitis (GPA)",
+    "Rapidly progressive glomerulonephritis",
+    "Multisystem involvement due to SARS-CoV-2 infection",
+    "Pauci-immune glomerulonephritis",
+    "COVID-19 pneumonia"
+  ],
+  "correct_ranking": [
+    "Granulomatosis with polyangiitis (GPA)",
+    "Rapidly progressive glomerulonephritis",
+    "Multisystem involvement due to SARS-CoV-2 infection",
+    "Pauci-immune glomerulonephritis",
+    "COVID-19 pneumonia"
+  ]
+}

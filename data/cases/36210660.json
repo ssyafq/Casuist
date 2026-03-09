@@ -1,0 +1,23 @@
+{
+  "case_id": "36210660",
+  "specialty": "cardiology",
+  "chief_complaint": "A 40-year-old male presented with palpitations and rapidly progressive weakness of the lower limbs.",
+  "history": "The patient had no underlying cardiac illness but had other important medical illnesses. He developed quadriparesis in about 10 hours.",
+  "exam": "No specific vital signs or physical examination findings are mentioned.",
+  "labs": "Hyperkalemia was noted, and an ECG showed broad complex tachycardia.",
+  "correct_diagnosis": "Hyperkalemia due to Addison's disease",
+  "differentials": [
+    "Ventricular Tachycardia",
+    "Hyperkalemia due to Addison's disease",
+    "Hypokalemic Periodic Paralysis",
+    "Thyroid Storm",
+    "Adrenal Insufficiency"
+  ],
+  "correct_ranking": [
+    "Hyperkalemia due to Addison's disease",
+    "Adrenal Insufficiency",
+    "Hypokalemic Periodic Paralysis",
+    "Ventricular Tachycardia",
+    "Thyroid Storm"
+  ]
+}

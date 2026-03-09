@@ -1,0 +1,23 @@
+{
+  "case_id": "41510869",
+  "specialty": "seizure",
+  "chief_complaint": "A 2.5-year-old boy presents with speech delay, seizures, microcephaly, and hyperactive behavior.",
+  "history": "The patient has congenital microcephaly, psychomotor retardation, intractable seizures, and spasticity. Genetic testing detected a likely pathogenic homozygous variant c.1129G>A in the PHGDH gene. Parents were carrier for the detected variant. Biochemical analysis showed low serine and the patient was treated with oral serine and glycine.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Genetic testing: likely pathogenic homozygous variant c.1129G>A in the PHGDH gene. Biochemical analysis: low serine.",
+  "correct_diagnosis": "Infantile PHGDH Deficiency",
+  "differentials": [
+    "Infantile PHGDH Deficiency",
+    "Cerebral Palsy",
+    "Congenital Microcephaly",
+    "Psychomotor Retardation",
+    "Intractable Seizures"
+  ],
+  "correct_ranking": [
+    "Infantile PHGDH Deficiency",
+    "Cerebral Palsy",
+    "Congenital Microcephaly",
+    "Psychomotor Retardation",
+    "Intractable Seizures"
+  ]
+}

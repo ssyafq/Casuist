@@ -1,0 +1,23 @@
+{
+  "case_id": "40762341",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient presents with symptoms compatible with hyperthyroidism, leading to cardiac arrest.",
+  "history": "Thyroid storm is a rare but severe complication of thyrotoxicosis, posing a life-threatening risk to patients. The causes are numerous, ranging from Graves' disease and toxic goiter to amiodarone use or even following trauma.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Graves' disease",
+    "Toxic goiter",
+    "Cardiogenic shock",
+    "Septic shock"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Graves' disease",
+    "Toxic goiter",
+    "Cardiogenic shock",
+    "Septic shock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41013787",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "An 11-year-old Iranian girl presented with abdominal and flank pain, fever, and fatigue.",
+  "history": "The patient had poorly controlled type 1 diabetes and was initially admitted with a diagnosis of diabetic ketoacidosis. Despite management for diabetic ketoacidosis, the patient continued to exhibit signs of fever and illness. Further evaluation ruled out diabetic ketoacidosis, and active urine analysis indicated a kidney pathology.",
+  "exam": "Vital signs: fever, abdominal and flank pain. Physical examination findings: fatigue.",
+  "labs": "Computed tomography scan: emphysematous pyelonephritis (stage 4), gas within the pyelocaliceal system. Urine analysis: kidney pathology. Bloods: results not specified.",
+  "correct_diagnosis": "Emphysematous pyelonephritis",
+  "differentials": [
+    "Emphysematous pyelonephritis",
+    "Diabetic ketoacidosis",
+    "Pyelonephritis",
+    "Kidney abscess",
+    "Renal infarction"
+  ],
+  "correct_ranking": [
+    "Emphysematous pyelonephritis",
+    "Diabetic ketoacidosis",
+    "Pyelonephritis",
+    "Kidney abscess",
+    "Renal infarction"
+  ]
+}

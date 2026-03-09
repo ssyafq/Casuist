@@ -1,0 +1,23 @@
+{
+  "case_id": "41545225",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 60-year-old woman presents with progressive cough and exertional dyspnea.",
+  "history": "She has a history of right breast carcinoma and has received chemotherapy, whole breast radiotherapy, and pembrolizumab. Symptoms developed during the sixth pembrolizumab cycle.",
+  "exam": "Vital signs: normal. Physical examination: bilateral lung fields clear, no wheezing or crackles.",
+  "labs": "CT of the thorax: right upper lobe consolidation with air bronchogram and surrounding ground-glass opacities. Bronchoalveolar lavage: excluded infection and malignancy. Spirometry: improvement within 3 months.",
+  "correct_diagnosis": "Overlapping radiation-induced and pembrolizumab-induced pneumonitis",
+  "differentials": [
+    "Overlapping radiation-induced and pembrolizumab-induced pneumonitis",
+    "Radiation-induced pneumonitis",
+    "Pembrolizumab-induced pneumonitis",
+    "Infectious pneumonia",
+    "Malignancy-related pneumonia"
+  ],
+  "correct_ranking": [
+    "Overlapping radiation-induced and pembrolizumab-induced pneumonitis",
+    "Radiation-induced pneumonitis",
+    "Pembrolizumab-induced pneumonitis",
+    "Infectious pneumonia",
+    "Malignancy-related pneumonia"
+  ]
+}

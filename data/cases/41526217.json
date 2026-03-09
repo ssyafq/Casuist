@@ -1,0 +1,23 @@
+{
+  "case_id": "41526217",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 74-year-old male patient presented with upper abdominal pain.",
+  "history": "The patient visited the outpatient clinic with upper abdominal pain. A computed tomography scan revealed pancreatic enlargement, increased density of the surrounding fatty tissue, and retroperitoneal emphysema, indicating emphysematous pancreatitis. Upper gastrointestinal endoscopy revealed no gastrointestinal perforation. The patient's treatment regimen included fasting, fluid replacement, antibiotics, and total parenteral nutrition.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Computed tomography scan: pancreatic enlargement, increased density of the surrounding fatty tissue, and retroperitoneal emphysema. Upper gastrointestinal endoscopy: no gastrointestinal perforation.",
+  "correct_diagnosis": "Emphysematous pancreatitis",
+  "differentials": [
+    "Emphysematous pancreatitis",
+    "Necrotizing pancreatitis",
+    "Pancreatic pseudocyst",
+    "Pancreatic abscess",
+    "Gastrointestinal perforation"
+  ],
+  "correct_ranking": [
+    "Emphysematous pancreatitis",
+    "Necrotizing pancreatitis",
+    "Pancreatic pseudocyst",
+    "Pancreatic abscess",
+    "Gastrointestinal perforation"
+  ]
+}

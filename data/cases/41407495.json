@@ -1,0 +1,23 @@
+{
+  "case_id": "41407495",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 37-year-old female presented with right upper abdominal pain.",
+  "history": "The patient had a background of undiagnosed genetic hypertriglyceridaemia. She developed hypertriglyceridaemia pancreatitis, which progressed to atypical haemolytic uraemic syndrome (aHUS) and secondary haemophagocytic lymphohistiocytosis (sHLH).",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Elevated triglycerides and lipase levels. Rhabdomyolysis, haemolysis, progressive renal failure, thrombocytopenia, and unremitting fevers.",
+  "correct_diagnosis": "Hypertriglyceridaemic pancreatitis associated with atypical haemolytic uraemic syndrome and secondary haemophagocytic lymphohistiocytosis",
+  "differentials": [
+    "Hypertriglyceridaemic pancreatitis associated with atypical haemolytic uraemic syndrome and secondary haemophagocytic lymphohistiocytosis",
+    "Acute pancreatitis",
+    "Atypical haemolytic uraemic syndrome",
+    "Secondary haemophagocytic lymphohistiocytosis",
+    "Rhabdomyolysis"
+  ],
+  "correct_ranking": [
+    "Hypertriglyceridaemic pancreatitis associated with atypical haemolytic uraemic syndrome and secondary haemophagocytic lymphohistiocytosis",
+    "Acute pancreatitis",
+    "Atypical haemolytic uraemic syndrome",
+    "Secondary haemophagocytic lymphohistiocytosis",
+    "Rhabdomyolysis"
+  ]
+}

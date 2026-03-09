@@ -1,0 +1,23 @@
+{
+  "case_id": "41527484",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 7-year-old, 3.44-kg, spayed female Poodle presented with acute kidney injury.",
+  "history": "The patient was referred for acute kidney injury following firocoxib administration. Initial diagnostics revealed severe uraemia, oliguria, and elevated C-reactive protein levels. Despite fluid resuscitation and diuretic therapy, oliguria persisted, necessitating haemodialysis.",
+  "exam": "Tachypnoea developed post-haemodialysis, with radiographic evidence of pulmonary infiltration.",
+  "labs": "Severe uraemia, oliguria, elevated C-reactive protein levels, and progressive pulmonary infiltration on radiographs.",
+  "correct_diagnosis": "Uraemic pneumonitis",
+  "differentials": [
+    "Uraemic pneumonitis",
+    "Acute respiratory distress syndrome",
+    "Transfusion-related acute lung injury",
+    "Noncardiogenic pulmonary oedema",
+    "Cardiogenic pulmonary oedema"
+  ],
+  "correct_ranking": [
+    "Uraemic pneumonitis",
+    "Acute respiratory distress syndrome",
+    "Noncardiogenic pulmonary oedema",
+    "Transfusion-related acute lung injury",
+    "Cardiogenic pulmonary oedema"
+  ]
+}

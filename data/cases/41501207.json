@@ -1,0 +1,23 @@
+{
+  "case_id": "41501207",
+  "specialty": "nephrology",
+  "chief_complaint": "A 71-year-old man with type 2 diabetes presents with acute kidney injury.",
+  "history": "The patient developed oliguric AKI one month after initiating dapagliflozin. He experienced transient appetite loss associated with a COVID-19 infection. He has a history of chronic kidney disease (CKD).",
+  "exam": "Vital signs: not available. Physical examination: not available.",
+  "labs": "Serum creatinine: 2.0 mg/dL (initial), 8.3 mg/dL (peak), Kidney biopsy: characteristic features of osmotic nephropathy.",
+  "correct_diagnosis": "Osmotic nephropathy as a complication of SGLT2 inhibitor therapy",
+  "differentials": [
+    "Osmotic nephropathy as a complication of SGLT2 inhibitor therapy",
+    "Prerenal AKI due to COVID-19 infection",
+    "Acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Diabetic nephropathy exacerbation"
+  ],
+  "correct_ranking": [
+    "Osmotic nephropathy as a complication of SGLT2 inhibitor therapy",
+    "Prerenal AKI due to COVID-19 infection",
+    "Acute tubular necrosis",
+    "Acute interstitial nephritis",
+    "Diabetic nephropathy exacerbation"
+  ]
+}

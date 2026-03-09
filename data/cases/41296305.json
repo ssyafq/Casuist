@@ -1,0 +1,23 @@
+{
+  "case_id": "41296305",
+  "specialty": "seizure",
+  "chief_complaint": "A 54-year-old female presented with recurrent episodes of altered sensorium lasting 4-6 minutes with snoring and unresponsiveness, and confusion during resolution.",
+  "history": "The patient had recurrent hyponatremia and hypoglycemia. Electroencephalogram (EEG) showed epileptiform discharges. The recurrent seizure episodes persisted in spite of antiepileptic drugs. Serum autoimmune encephalitis panel was positive for leucine-rich glioma-inactivated 1 (LGI1) antibody.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Electroencephalogram (EEG): epileptiform discharges. Serum autoimmune encephalitis panel: positive for leucine-rich glioma-inactivated 1 (LGI1) antibody (2+) (titer 1:10). Cerebrospinal fluid (CSF) examination: glucose 174.7 mg/dL, protein 60.4 mg/dL, total leukocyte count (TLC) 5, acid-fast bacilli (AFB), Gram stain-no organism, culture sensitivity sterile, Cryptococcus antigen, cobwebbing absent, BioFire CSF meningitis/encephalitis panel was negative.",
+  "correct_diagnosis": "Autoimmune Encephalitis with LGI1 Antibody",
+  "differentials": [
+    "Autoimmune Encephalitis with LGI1 Antibody",
+    "Nonconvulsive Status Epilepticus",
+    "Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)",
+    "Recurrent Hypoglycemia",
+    "Hyponatremia"
+  ],
+  "correct_ranking": [
+    "Autoimmune Encephalitis with LGI1 Antibody",
+    "Nonconvulsive Status Epilepticus",
+    "Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)",
+    "Recurrent Hypoglycemia",
+    "Hyponatremia"
+  ]
+}

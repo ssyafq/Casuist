@@ -1,0 +1,23 @@
+{
+  "case_id": "41430976",
+  "specialty": "stroke",
+  "chief_complaint": "A 75-year-old male patient presented with sudden onset of vertigo, nausea, and left-sided weakness after undergoing carotid artery stenting.",
+  "history": "The patient had a history of hypertension, hyperlipidemia, and smoking. He underwent carotid artery stenting 2 days prior to presentation. He reported no recent trauma or infection.",
+  "exam": "Vital signs: Blood pressure 160/90 mmHg, pulse 80 beats per minute. Physical examination revealed left-sided weakness, nystagmus, and ataxia.",
+  "labs": "ECG: Normal. Bloods: Elevated troponin levels. Imaging: Thrombi were directly visualized in the basilar and vertebral arteries on black-blood MRI.",
+  "correct_diagnosis": "Vertebral artery stump syndrome (VASS)",
+  "differentials": [
+    "Vertebral artery stump syndrome (VASS)",
+    "Posterior circulation ischemic stroke",
+    "Vertebral artery dissection",
+    "Carotid artery stenosis",
+    "Basilar artery occlusion"
+  ],
+  "correct_ranking": [
+    "Vertebral artery stump syndrome (VASS)",
+    "Posterior circulation ischemic stroke",
+    "Vertebral artery dissection",
+    "Carotid artery stenosis",
+    "Basilar artery occlusion"
+  ]
+}

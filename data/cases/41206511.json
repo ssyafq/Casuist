@@ -1,0 +1,23 @@
+{
+  "case_id": "41206511",
+  "specialty": "seizure",
+  "chief_complaint": "A 27-year-old man presented with generalized tonic-clonic seizures, headache, and fever.",
+  "history": "The patient was initially treated as infectious meningoencephalitis with extensive antiviral and antibiotic treatment. He developed refractory status epilepticus and further investigations revealed no infectious cause. The patient's condition was later suspected to be autoimmune encephalitis (AIE) based on the 'possible AIE criteria'.",
+  "exam": "Vital signs and physical examination findings are not explicitly mentioned in the case report.",
+  "labs": "Cerebrospinal fluid analysis revealed no infectious cause. Brain magnetic resonance imaging (MRI) scan revealed asymmetrical bilateral cortical areas of abnormal hyperintensities on T2-weighted images with diffusion restriction involving the temporal, frontal, and parietal lobe. Follow-up MRI 4 weeks later showed a significant decrease in the hyperintensities.",
+  "correct_diagnosis": "Seronegative Autoimmune Encephalitis",
+  "differentials": [
+    "Seronegative Autoimmune Encephalitis",
+    "Infectious Meningoencephalitis",
+    "Refractory Status Epilepticus",
+    "Cerebral Vasculitis",
+    "Temporal Lobe Epilepsy"
+  ],
+  "correct_ranking": [
+    "Seronegative Autoimmune Encephalitis",
+    "Infectious Meningoencephalitis",
+    "Refractory Status Epilepticus",
+    "Temporal Lobe Epilepsy",
+    "Cerebral Vasculitis"
+  ]
+}

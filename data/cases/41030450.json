@@ -1,0 +1,23 @@
+{
+  "case_id": "41030450",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 35-year-old female patient presented with a 3-day history of polyuria, polydipsia, and vomiting, leading to a diagnosis of diabetic ketoacidosis (DKA).",
+  "history": "The patient was newly diagnosed with diabetes mellitus (DM) and presented with DKA, characterized by hyperglycemia, metabolic acidosis, and ketosis. She had negative insulin-related autoantibodies and no identifiable infectious etiology. The patient developed Guillain-Barre syndrome (GBS) with atypical features consistent with the acute motor axonal neuropathy (AMAN) variant, and reversible splenial lesion syndrome (RESLES).",
+  "exam": "Vital signs: temperature 37.2°C, blood pressure 120/80 mmHg, pulse 100 beats per minute, respiratory rate 24 breaths per minute, and oxygen saturation 98% on room air. Physical examination revealed weakness in the lower extremities and decreased deep tendon reflexes.",
+  "labs": "Laboratory investigations: blood glucose 350 mg/dL, pH 7.1, bicarbonate 10 mmol/L, lactate 4.5 mmol/L, creatine kinase 250 U/L, and white blood cell count 12,000 cells/μL. Electroencephalogram (EEG) showed a reversible splenial lesion syndrome (RESLES).",
+  "correct_diagnosis": "Diabetic ketoacidosis (DKA) complicated by Guillain-Barre syndrome (GBS) and reversible splenial lesion syndrome (RESLES)",
+  "differentials": [
+    "Diabetic ketoacidosis (DKA) complicated by Guillain-Barre syndrome (GBS) and reversible splenial lesion syndrome (RESLES)",
+    "Acute motor axonal neuropathy (AMAN) variant of Guillain-Barre syndrome",
+    "Reversible splenial lesion syndrome (RESLES)",
+    "Diabetic ketoacidosis (DKA) with negative insulin-related autoantibodies",
+    "Acute kidney injury secondary to diabetic ketoacidosis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis (DKA) complicated by Guillain-Barre syndrome (GBS) and reversible splenial lesion syndrome (RESLES)",
+    "Acute motor axonal neuropathy (AMAN) variant of Guillain-Barre syndrome",
+    "Reversible splenial lesion syndrome (RESLES)",
+    "Diabetic ketoacidosis (DKA) with negative insulin-related autoantibodies",
+    "Acute kidney injury secondary to diabetic ketoacidosis"
+  ]
+}

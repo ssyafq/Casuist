@@ -1,0 +1,23 @@
+{
+  "case_id": "41663882",
+  "specialty": "meningitis",
+  "chief_complaint": "A 14-year-old girl presented with meningitis complicated by bacteremia and cerebral venous sinus thrombosis.",
+  "history": "Complement factor B (FB) deficiency is an extremely rare alternative pathway defect. The patient developed Neisseria meningitidis serogroup Y meningitis. Complement function was assessed by TCA and AP50 hemolytic assay, FB quantification, and functional reconstitution with purified proteins.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "TCA: normal, AP50: undetectable, plasma FB concentration: reduced, C3 and C4: normal. Reconstitution with purified FB, but not FD, restored AP activity. Patient plasma failed to support C3b-dependent hemolysis.",
+  "correct_diagnosis": "Complement Factor B Deficiency",
+  "differentials": [
+    "Neisseria meningitidis serogroup Y meningitis",
+    "Cerebral venous sinus thrombosis",
+    "Bacteremia",
+    "Alternative pathway defect",
+    "Complement Factor B Deficiency"
+  ],
+  "correct_ranking": [
+    "Complement Factor B Deficiency",
+    "Neisseria meningitidis serogroup Y meningitis",
+    "Cerebral venous sinus thrombosis",
+    "Bacteremia",
+    "Alternative pathway defect"
+  ]
+}

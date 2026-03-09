@@ -1,0 +1,23 @@
+{
+  "case_id": "41116822",
+  "specialty": "chest pain",
+  "chief_complaint": "A 61-year-old male presented with anterior ST-elevation myocardial infarction (STEMI) and chest pain, diaphoresis, and dyspnea.",
+  "history": "The patient underwent successful primary percutaneous coronary intervention (PCI) to the left anterior descending artery. He was readmitted with chest pain, diaphoresis, and dyspnea. Initial echocardiography demonstrated preserved apical function.",
+  "exam": "Vital signs: tachycardia, tachypnea. Physical examination: chest pain, diaphoresis, and dyspnea.",
+  "labs": "ECG: anterior ST-elevation myocardial infarction (STEMI). Echocardiography: severe left ventricular dysfunction with apical ballooning. Coronary angiography: patent stents.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy (TCM)",
+  "differentials": [
+    "Takotsubo cardiomyopathy (TCM)",
+    "Stent thrombosis",
+    "Acute coronary syndrome (ACS)",
+    "Left ventricular dysfunction",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy (TCM)",
+    "Stent thrombosis",
+    "Acute coronary syndrome (ACS)",
+    "Left ventricular dysfunction",
+    "Cardiac tamponade"
+  ]
+}

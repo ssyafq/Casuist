@@ -1,0 +1,23 @@
+{
+  "case_id": "40419323",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A critically ill patient presents with severe metabolic acidosis and respiratory compensation. The patient has diabetic ketoacidosis (DKA) and is at risk for adverse peri-intubation events.",
+  "history": "The patient has a history of diabetes and is experiencing severe metabolic acidosis, with maximized respiratory compensation through hyperventilation. The patient requires aggressive apneic ventilation during intubation to mitigate worsening acidemia and prevent cardiovascular collapse.",
+  "exam": "Not specified",
+  "labs": "Not specified",
+  "correct_diagnosis": "Diabetic Ketoacidosis",
+  "differentials": [
+    "Diabetic Ketoacidosis",
+    "Respiratory Failure",
+    "Sepsis",
+    "Cardiac Arrest",
+    "Metabolic Disorder"
+  ],
+  "correct_ranking": [
+    "Diabetic Ketoacidosis",
+    "Metabolic Disorder",
+    "Respiratory Failure",
+    "Sepsis",
+    "Cardiac Arrest"
+  ]
+}

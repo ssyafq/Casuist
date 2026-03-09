@@ -1,0 +1,23 @@
+{
+  "case_id": "41469176",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 6-month-old infant presented to the paediatric emergency department in cardiogenic shock.",
+  "history": "The infant was admitted to the hospital 2 weeks prior with symptoms of failure to thrive and was treated with intravenous fluids. The infant's mother reported that the infant had been experiencing episodes of vomiting and diarrhea for several weeks prior to admission. The infant had no known medical history and was not taking any medications. The infant's mother reported that the infant had been exclusively breastfed since birth and had not been exposed to sunlight.",
+  "exam": "Vital signs: heart rate 160 bpm, blood pressure 60/40 mmHg, respiratory rate 40 breaths/min. Physical examination revealed a pale and lethargic infant with a grade 3/6 holosystolic murmur.",
+  "labs": "ECG: sinus tachycardia with low voltage QRS complexes. Bloods: sodium 130 mmol/L, potassium 4.5 mmol/L, calcium 2.0 mmol/L, magnesium 1.5 mmol/L, troponin 10 ng/mL. Imaging: echocardiogram showed a dilated left ventricle with reduced ejection fraction.",
+  "correct_diagnosis": "Vitamin D deficiency-associated cardiomyopathy",
+  "differentials": [
+    "Vitamin D deficiency-associated cardiomyopathy",
+    "Congenital heart disease",
+    "Cardiomyopathy due to metabolic disorder",
+    "Cardiac tamponade",
+    "Myocarditis"
+  ],
+  "correct_ranking": [
+    "Vitamin D deficiency-associated cardiomyopathy",
+    "Congenital heart disease",
+    "Cardiomyopathy due to metabolic disorder",
+    "Cardiac tamponade",
+    "Myocarditis"
+  ]
+}

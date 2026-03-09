@@ -1,0 +1,23 @@
+{
+  "case_id": "41609152",
+  "specialty": "meningitis",
+  "chief_complaint": "A 37-year-old man presented with a one-week history of headache, fever, and chills.",
+  "history": "The patient had a one-week history of headache, fever, and chills. He had a medical history of gout, diagnosed three years earlier. He experienced an acute gout flare during hospitalization, which required antigout therapy.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "CSF analysis: lymphocytic pleocytosis, elevated protein, mildly decreased glucose, and ADA activity of 7.4 IU/L and 9.1 IU/L. Serum ADA levels were also elevated (14.7 IU/L). CSF PCR confirmed VZV meningitis.",
+  "correct_diagnosis": "Varicella-Zoster Virus (VZV) Meningitis",
+  "differentials": [
+    "Varicella-Zoster Virus (VZV) Meningitis",
+    "Tuberculous Meningitis",
+    "Fungal Meningitis",
+    "Neoplastic Meningitis",
+    "Bacterial Meningitis"
+  ],
+  "correct_ranking": [
+    "Varicella-Zoster Virus (VZV) Meningitis",
+    "Tuberculous Meningitis",
+    "Fungal Meningitis",
+    "Neoplastic Meningitis",
+    "Bacterial Meningitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41546876",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 90-year-old man presented with myocardial infarction and gastrointestinal bleeding.",
+  "history": "The patient had severe acute-on-chronic anemia and active gastrointestinal bleeding. His chest pain resolved with blood transfusions, suggesting a type 2 myocardial infarction. He had severe coronary artery disease and bleeding angiodysplasias.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG: myocardial infarction. Bloods: severe acute-on-chronic anemia. Imaging: not provided.",
+  "correct_diagnosis": "Type 2 Myocardial Infarction",
+  "differentials": [
+    "Type 2 Myocardial Infarction",
+    "Type 1 Myocardial Infarction",
+    "Acute Coronary Syndrome",
+    "Gastrointestinal Bleeding",
+    "Anemia"
+  ],
+  "correct_ranking": [
+    "Type 2 Myocardial Infarction",
+    "Type 1 Myocardial Infarction",
+    "Acute Coronary Syndrome",
+    "Gastrointestinal Bleeding",
+    "Anemia"
+  ]
+}

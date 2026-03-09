@@ -1,0 +1,23 @@
+{
+  "case_id": "40999285",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 22-year-old woman presented with hematochezia and significant anemia.",
+  "history": "Meckel's diverticulum is a congenital anomaly of the gastrointestinal tract, occurring in approximately 2% of the general population. This patient's case highlights a rare presentation of Meckel's diverticulum without ectopic gastric mucosa, which is uncommon in adults and usually causes bleeding due to ulceration from ectopic gastric mucosa.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Initial endoscopic evaluation and contrast-enhanced computed tomography failed to identify the bleeding source.",
+  "correct_diagnosis": "Meckel's diverticulum without ectopic gastric mucosa",
+  "differentials": [
+    "Meckel's diverticulum without ectopic gastric mucosa",
+    "Diverticulitis",
+    "Inflammatory bowel disease",
+    "Angiodysplasia",
+    "Ischemic colitis"
+  ],
+  "correct_ranking": [
+    "Meckel's diverticulum without ectopic gastric mucosa",
+    "Diverticulitis",
+    "Inflammatory bowel disease",
+    "Angiodysplasia",
+    "Ischemic colitis"
+  ]
+}

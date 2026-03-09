@@ -1,0 +1,23 @@
+{
+  "case_id": "31342117",
+  "specialty": "cardiology",
+  "chief_complaint": "Infants and young children with congenital heart disease (CHD) presenting with symptoms related to their condition.",
+  "history": "Patients with CHD have a complex medical history, with various patient-related and patient-independent factors influencing their outcomes, including geographical location and socioeconomic disparities, particularly in the US-Mexico border region.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific investigations or test results are provided.",
+  "correct_diagnosis": "Congenital Heart Disease (CHD)",
+  "differentials": [
+    "Cardiomyopathy",
+    "Congenital Heart Disease (CHD)",
+    "Arrhythmia",
+    "Myocarditis",
+    "Kawasaki Disease"
+  ],
+  "correct_ranking": [
+    "Congenital Heart Disease (CHD)",
+    "Cardiomyopathy",
+    "Arrhythmia",
+    "Myocarditis",
+    "Kawasaki Disease"
+  ]
+}

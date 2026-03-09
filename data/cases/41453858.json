@@ -1,0 +1,23 @@
+{
+  "case_id": "41453858",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 22-year-old male with an acute cervical spinal cord injury (C4) and multiple subsegmental pulmonary emboli.",
+  "history": "The patient underwent regular mechanical insufflation-exsufflation (MI-E) and manual assisted coughs while therapeutically anticoagulated with enoxaparin. Contributing factors included a higher dose of therapeutic anticoagulation due to an elevated body mass index and a requirement for frequent, firm manual assisted coughs.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG, bloods, and imaging results not provided.",
+  "correct_diagnosis": "Haemoperitoneum",
+  "differentials": [
+    "Haemoperitoneum",
+    "Pulmonary Embolism",
+    "Spinal Cord Injury",
+    "Intra-Abdominal Haemorrhage",
+    "Respiratory Failure"
+  ],
+  "correct_ranking": [
+    "Haemoperitoneum",
+    "Pulmonary Embolism",
+    "Spinal Cord Injury",
+    "Intra-Abdominal Haemorrhage",
+    "Respiratory Failure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41198586",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 44-year-old man presented with melena and anemia.",
+  "history": "Autoimmune pancreatitis is a rare type of chronic pancreatitis associated with immune disorders. The patient presented with melena and anemia, and imaging revealed pancreatic swelling, splenic vein occlusion, and gastric varices. The patient underwent endoscopic ultrasonography-guided fine-needle biopsy, which confirmed autoimmune pancreatitis.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Imaging revealed pancreatic swelling, splenic vein occlusion, and gastric varices. Endoscopic ultrasonography-guided fine-needle biopsy confirmed autoimmune pancreatitis. Blood tests showed reduced B lymphocyte count and improved hemoglobin levels after treatment.",
+  "correct_diagnosis": "Autoimmune pancreatitis with gastric variceal bleeding",
+  "differentials": [
+    "Autoimmune pancreatitis with gastric variceal bleeding",
+    "Chronic pancreatitis with gastric variceal bleeding",
+    "Pancreatic cancer with gastric variceal bleeding",
+    "Gastric variceal bleeding due to portal hypertension",
+    "Gastric variceal bleeding due to liver cirrhosis"
+  ],
+  "correct_ranking": [
+    "Autoimmune pancreatitis with gastric variceal bleeding",
+    "Chronic pancreatitis with gastric variceal bleeding",
+    "Pancreatic cancer with gastric variceal bleeding",
+    "Gastric variceal bleeding due to portal hypertension",
+    "Gastric variceal bleeding due to liver cirrhosis"
+  ]
+}

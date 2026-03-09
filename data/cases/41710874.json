@@ -1,0 +1,23 @@
+{
+  "case_id": "41710874",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 30-year-old man presents with a two-year history of recurrent symptoms including scleritis, fever, cough, auricular chondritis, rash, and transfusion-dependent macrocytic anemia.",
+  "history": "The patient has a two-year history of recurrent scleritis, fever, cough, auricular chondritis, rash, and transfusion-dependent macrocytic anemia. Despite multiple immunosuppressants and broad-spectrum antimicrobials, symptoms persisted. He has also had relapsing bilateral ground-glass pulmonary infiltrates.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Imaging revealed relapsing bilateral ground-glass pulmonary infiltrates. Bone marrow showed vacuolated precursors and cytogenetic abnormalities. A somatic UBA1 mutation (NM_003334 exon3 c.121A>G p.M41V) was detected with high variant allele frequency in blood, marrow, and bronchoalveolar lavage cells.",
+  "correct_diagnosis": "VEXAS syndrome with early myelodysplastic features",
+  "differentials": [
+    "VEXAS syndrome with early myelodysplastic features",
+    "Chronic Pulmonary Infection",
+    "Myelodysplastic Syndrome",
+    "Autoimmune Scleritis",
+    "Chronic Inflammatory Demyelinating Polyneuropathy"
+  ],
+  "correct_ranking": [
+    "VEXAS syndrome with early myelodysplastic features",
+    "Chronic Pulmonary Infection",
+    "Myelodysplastic Syndrome",
+    "Autoimmune Scleritis",
+    "Chronic Inflammatory Demyelinating Polyneuropathy"
+  ]
+}

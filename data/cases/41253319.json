@@ -1,0 +1,23 @@
+{
+  "case_id": "41253319",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 54-year-old male presented with sudden collapse and chest pain.",
+  "history": "The patient was admitted to the neurosurgical department for brain infarction due to immobility. He developed deep vein thrombosis in the right superficial femoral vein and then suddenly collapsed. He was resuscitated and diagnosed with massive pulmonary embolism on pulmonary arterial angiography.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Pulmonary arterial angiography: massive pulmonary embolism. Other tests and results: not provided.",
+  "correct_diagnosis": "Massive pulmonary thromboembolism",
+  "differentials": [
+    "Massive pulmonary thromboembolism",
+    "Pulmonary embolism",
+    "Pulmonary infarction",
+    "Acute respiratory distress syndrome",
+    "Cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "Massive pulmonary thromboembolism",
+    "Pulmonary embolism",
+    "Pulmonary infarction",
+    "Acute respiratory distress syndrome",
+    "Cardiogenic shock"
+  ]
+}

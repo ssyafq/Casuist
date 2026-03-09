@@ -1,0 +1,23 @@
+{
+  "case_id": "38553729",
+  "specialty": "thyroid storm",
+  "chief_complaint": "Three young African patients, two females and one male, presented with thyrotoxicosis due to Graves' disease.",
+  "history": "The patients had a history of Graves' disease and presented with drug ineffectiveness, drug-induced agranulocytosis, and thyroid storm with multi-organ failure.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided, but the patients underwent plasmapheresis sessions.",
+  "correct_diagnosis": "Thyroid storm due to Graves' disease",
+  "differentials": [
+    "Thyroid storm due to Graves' disease",
+    "Toxic multinodular goiter",
+    "Thyroiditis",
+    "Factitious thyrotoxicosis",
+    "Struma ovarii"
+  ],
+  "correct_ranking": [
+    "Thyroid storm due to Graves' disease",
+    "Toxic multinodular goiter",
+    "Thyroiditis",
+    "Struma ovarii",
+    "Factitious thyrotoxicosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41500706",
+  "specialty": "stroke",
+  "chief_complaint": "A 77-year-old woman presented with diplopia following a ground-level fall.",
+  "history": "The patient initially had a National Institutes of Health Stroke Scale (NIHSS) score of 0 but later developed acute neurological symptoms with an NIHSS of 25. She was found to have a large posterior circulation ischaemic penumbra on CT angiography.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "CT angiography: large posterior circulation ischaemic penumbra, terminal basilar artery supplied primarily by a stenosed left Saltzman type I PTA.",
+  "correct_diagnosis": "Persistent Trigeminal Artery (PTA) causing acute ischaemic stroke",
+  "differentials": [
+    "Persistent Trigeminal Artery (PTA) causing acute ischaemic stroke",
+    "Basilar Artery Stenosis",
+    "Posterior Circulation Ischaemic Stroke",
+    "Vertebrobasilar Dissection",
+    "Cervical Carotid Artery Stenosis"
+  ],
+  "correct_ranking": [
+    "Persistent Trigeminal Artery (PTA) causing acute ischaemic stroke",
+    "Basilar Artery Stenosis",
+    "Posterior Circulation Ischaemic Stroke",
+    "Vertebrobasilar Dissection",
+    "Cervical Carotid Artery Stenosis"
+  ]
+}

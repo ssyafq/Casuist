@@ -1,0 +1,23 @@
+{
+  "case_id": "41204334",
+  "specialty": "chest pain",
+  "chief_complaint": "A 56-year-old Asian woman presented with acute chest pain following an intense emotional and physical altercation.",
+  "history": "History of hypertension and diabetes. Presented with acute chest pain following an intense emotional and physical altercation. Hemodynamically stable on admission. Minor ST-segment elevation in the anterior leads and modest troponin rise on electrocardiogram.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "Electrocardiogram: minor ST-segment elevation in the anterior leads. Troponin rise. Bedside echocardiography: apical akinesia. Coronary angiography: high-risk multivessel coronary artery disease, including significant left main disease.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease",
+  "differentials": [
+    "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Cardiac stress-induced cardiomyopathy",
+    "Hypertensive emergency"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Cardiac stress-induced cardiomyopathy",
+    "Hypertensive emergency"
+  ]
+}

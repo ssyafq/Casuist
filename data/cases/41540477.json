@@ -1,0 +1,23 @@
+{
+  "case_id": "41540477",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 35-year-old man presented with acute worsening of upper abdominal pain and dizziness.",
+  "history": "The patient had a 9-year history of HIV infection on antiretroviral therapy (ART) and intermittent epigastric pain over one year. He had no history of abdominal trauma, alcohol abuse, gallstones, or hypertriglyceridemia, and had never received didanosine or stavudine.",
+  "exam": "Pallor, hypotension, generalized abdominal tenderness with peritoneal signs, severe anemia, leukocytosis, and markedly elevated serum amylase and lipase levels.",
+  "labs": "Contrast-enhanced abdominal CT showed hemoperitoneum, irregular laceration and heterogeneous enhancement of the spleen, chronic pancreatitis with atrophic, calcified pancreas and dilated main pancreatic duct, and a pseudocyst in the pancreatic tail abutting the splenic hilum.",
+  "correct_diagnosis": "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst, and atraumatic splenic rupture",
+  "differentials": [
+    "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst, and atraumatic splenic rupture",
+    "Acute pancreatitis",
+    "Splenic rupture",
+    "Pancreatic tail pseudocyst",
+    "Chronic pancreatitis"
+  ],
+  "correct_ranking": [
+    "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst, and atraumatic splenic rupture",
+    "Acute pancreatitis",
+    "Splenic rupture",
+    "Pancreatic tail pseudocyst",
+    "Chronic pancreatitis"
+  ]
+}

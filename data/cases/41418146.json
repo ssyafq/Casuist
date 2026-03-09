@@ -1,0 +1,23 @@
+{
+  "case_id": "41418146",
+  "specialty": "seizure",
+  "chief_complaint": "A 3-day-old male infant presented with seizures.",
+  "history": "The infant was born at 38 weeks gestation via spontaneous vaginal delivery. He was initially well but developed seizures on the third day of life. The seizures were resistant to conventional antiepileptic medications. The infant's parents were first cousins, and there was a history of similar seizures in the family. The infant was started on pyridoxine, which led to a significant reduction in seizure frequency.",
+  "exam": "Vital signs: Temperature 37°C, Heart rate 140/min, Blood pressure 60/40 mmHg. Physical examination revealed a normal neurological examination.",
+  "labs": "ECG: Normal. Bloods: Normal. Genetic testing revealed pathogenic variations in the ALDH7A1 and PNPO genes.",
+  "correct_diagnosis": "Pyridoxine-dependent early onset seizures associated with rare gene mutations",
+  "differentials": [
+    "Pyridoxine-dependent early onset seizures associated with rare gene mutations",
+    "Benign familial neonatal seizures",
+    "Early infantile epileptic encephalopathy",
+    "Neonatal seizures due to hypoglycemia",
+    "Neonatal seizures due to hypocalcemia"
+  ],
+  "correct_ranking": [
+    "Pyridoxine-dependent early onset seizures associated with rare gene mutations",
+    "Benign familial neonatal seizures",
+    "Early infantile epileptic encephalopathy",
+    "Neonatal seizures due to hypoglycemia",
+    "Neonatal seizures due to hypocalcemia"
+  ]
+}

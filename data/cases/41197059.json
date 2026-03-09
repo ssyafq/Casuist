@@ -1,0 +1,23 @@
+{
+  "case_id": "41197059",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 34-year-old White woman presented with massive rectal bleeding 15 days after suction RBL of internal hemorrhoids.",
+  "history": "The patient underwent suction RBL of internal hemorrhoids 15 days prior to presentation. She was not taking anticoagulants, antiplatelets, or NSAIDs and had no history of bleeding disorders.",
+  "exam": "Flexible sigmoidoscopy revealed a 10-mm ulcer with a visible vessel at the previous banding site.",
+  "labs": "No specific lab results mentioned.",
+  "correct_diagnosis": "Delayed bleeding after rubber band ligation of internal hemorrhoids",
+  "differentials": [
+    "Delayed bleeding after rubber band ligation of internal hemorrhoids",
+    "Post-procedure bleeding due to anticoagulant use",
+    "Post-procedure bleeding due to antiplatelet use",
+    "Post-procedure bleeding due to NSAID use",
+    "Bleeding disorder"
+  ],
+  "correct_ranking": [
+    "Delayed bleeding after rubber band ligation of internal hemorrhoids",
+    "Post-procedure bleeding due to anticoagulant use",
+    "Post-procedure bleeding due to antiplatelet use",
+    "Post-procedure bleeding due to NSAID use",
+    "Bleeding disorder"
+  ]
+}

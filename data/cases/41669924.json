@@ -1,0 +1,23 @@
+{
+  "case_id": "41669924",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 45-year-old male patient presented with sudden onset of severe abdominal pain and melena.",
+  "history": "The patient underwent endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) 2 weeks prior to admission. He had no significant past medical history and was not taking any medications. He denied any history of trauma or recent travel.",
+  "exam": "Vital signs: blood pressure 90/60 mmHg, pulse 120 beats per minute, respiratory rate 24 breaths per minute, and oxygen saturation 92% on room air. Physical examination revealed a distended abdomen with tenderness in the left upper quadrant.",
+  "labs": "Laboratory results: hemoglobin 6.2 g/dL, hematocrit 19.2%, platelet count 150,000/μL, and coagulation studies were within normal limits. Imaging studies: CT angiography showed a 2.5 cm splenic artery aneurysm.",
+  "correct_diagnosis": "Splenic artery aneurysm following endoscopic ultrasound-guided fine-needle aspiration",
+  "differentials": [
+    "Splenic artery aneurysm following endoscopic ultrasound-guided fine-needle aspiration",
+    "Gastrointestinal stromal tumor (GIST)",
+    "Splenic infarction",
+    "Portal vein thrombosis",
+    "Gastrointestinal bleeding due to peptic ulcer disease"
+  ],
+  "correct_ranking": [
+    "Splenic artery aneurysm following endoscopic ultrasound-guided fine-needle aspiration",
+    "Gastrointestinal stromal tumor (GIST)",
+    "Splenic infarction",
+    "Portal vein thrombosis",
+    "Gastrointestinal bleeding due to peptic ulcer disease"
+  ]
+}

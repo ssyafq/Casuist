@@ -1,0 +1,23 @@
+{
+  "case_id": "41521307",
+  "specialty": "meningitis",
+  "chief_complaint": "A 34-year-old woman presented with progressive lower limb weakness and numbness.",
+  "history": "The patient's condition worsened despite prolonged anti-tuberculous treatment. She had no significant past medical history, and her medications included anti-tuberculous therapy.",
+  "exam": "Vital signs were not provided. Physical examination revealed progressive lower limb weakness and numbness.",
+  "labs": "Cerebrospinal fluid analysis revealed elevated protein (not quantified), decreased glucose (not quantified), and chloride levels (not quantified). MRI showed spinal meningeal enhancement, an intradural extramedullary mass compressing the spinal cord.",
+  "correct_diagnosis": "Spinal malignant peripheral nerve sheath tumor (MPNST)",
+  "differentials": [
+    "Spinal malignant peripheral nerve sheath tumor (MPNST)",
+    "Tuberculous myelitis",
+    "Spinal cord compression",
+    "Spinal meningitis",
+    "Spinal cord injury"
+  ],
+  "correct_ranking": [
+    "Spinal malignant peripheral nerve sheath tumor (MPNST)",
+    "Tuberculous myelitis",
+    "Spinal cord compression",
+    "Spinal meningitis",
+    "Spinal cord injury"
+  ]
+}

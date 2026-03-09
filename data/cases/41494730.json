@@ -1,0 +1,23 @@
+{
+  "case_id": "41494730",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 20-year-old woman presented with cyclical passage of blood per rectum coinciding with menstruation.",
+  "history": "The patient's symptoms began approximately 2 weeks after undergoing a dilatation and curettage procedure performed for second-trimester miscarriage. She had no significant past medical history and was not taking any medications.",
+  "exam": "Vital signs were within normal limits. Physical examination revealed a normal abdominal examination with no signs of peritonitis or pelvic mass.",
+  "labs": "MRI revealed a fistulous tract of 5 mm between the posterior uterine wall and anterior rectal wall.",
+  "correct_diagnosis": "Rectouterine fistula",
+  "differentials": [
+    "Rectouterine fistula",
+    "Rectovaginal fistula",
+    "Anal fissure",
+    "Hemorrhoids",
+    "Diverticulitis"
+  ],
+  "correct_ranking": [
+    "Rectouterine fistula",
+    "Rectovaginal fistula",
+    "Anal fissure",
+    "Hemorrhoids",
+    "Diverticulitis"
+  ]
+}

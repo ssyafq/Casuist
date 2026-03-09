@@ -1,0 +1,23 @@
+{
+  "case_id": "41087091",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 58-year-old male patient presented with multiple episodes of haematemesis and melaena over 3 days.",
+  "history": "Occlusion of the portal system in pancreatic cancer patients occurs due to tumour invasion or compression, leading to segmental portal hypertension and the formation of portosystemic collaterals or varices at gastro-oesophageal or ectopic sites. The patient had unresectable pancreatic cancer and experienced bleeding ectopic duodenal varices.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided. Other tests and their results: not provided.",
+  "correct_diagnosis": "Ectopic duodenal varices due to occlusion of the splenoportal confluence in unresectable pancreatic cancer",
+  "differentials": [
+    "Ectopic duodenal varices due to occlusion of the splenoportal confluence in unresectable pancreatic cancer",
+    "Gastrointestinal bleed due to peptic ulcer disease",
+    "Gastrointestinal bleed due to oesophageal varices",
+    "Gastrointestinal bleed due to gastric cancer",
+    "Gastrointestinal bleed due to portal vein thrombosis"
+  ],
+  "correct_ranking": [
+    "Ectopic duodenal varices due to occlusion of the splenoportal confluence in unresectable pancreatic cancer",
+    "Gastrointestinal bleed due to peptic ulcer disease",
+    "Gastrointestinal bleed due to oesophageal varices",
+    "Gastrointestinal bleed due to gastric cancer",
+    "Gastrointestinal bleed due to portal vein thrombosis"
+  ]
+}

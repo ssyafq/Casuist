@@ -1,0 +1,23 @@
+{
+  "case_id": "41571394",
+  "specialty": "COPD",
+  "chief_complaint": "A 70-year-old woman presented with left-sided mastitis unresponsive to treatment and persistent hypoxia.",
+  "history": "The patient had chronic obstructive pulmonary disease (COPD) and was taking cetirizine and indapamide. She had a history of mastitis and was experiencing persistent hypoxia despite clear chest imaging.",
+  "exam": "Vital signs: peripheral oxygen saturation 86%. Physical examination revealed left-sided mastitis.",
+  "labs": "Arterial blood gas analysis: elevated MetHb level of 26.5%. Genetic testing: homozygous pathogenic variant in cytochrome b5 reductase.",
+  "correct_diagnosis": "Congenital methaemoglobinaemia",
+  "differentials": [
+    "Congenital methaemoglobinaemia",
+    "Acquired methaemoglobinaemia due to cetirizine",
+    "Acquired methaemoglobinaemia due to indapamide",
+    "COPD exacerbation",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Congenital methaemoglobinaemia",
+    "COPD exacerbation",
+    "Acquired methaemoglobinaemia due to cetirizine",
+    "Acquired methaemoglobinaemia due to indapamide",
+    "Pneumonia"
+  ]
+}

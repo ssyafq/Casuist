@@ -1,0 +1,23 @@
+{
+  "case_id": "40291768",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 56-year-old female presents with tachycardia, hypertension, and bilateral enlarged parotid glands. She has a history of unspecified hyperthyroidism and a recent thyroid storm.",
+  "history": "The patient has a medical history of unspecified hyperthyroidism and was recently diagnosed with a thyroid storm. She was started on methimazole during a previous hospitalization. She complains of bilateral enlarged parotid glands.",
+  "exam": "The patient has tachycardia, hypertension, and bilateral enlarged parotid glands.",
+  "labs": "CT tomography of the neck revealed no calculi of the parotid glands but showed extensive fatty replacement, possibly related to methimazole use. Laboratory findings suggested Graves' disease with an acute thyroid storm.",
+  "correct_diagnosis": "Methimazole-induced parotitis",
+  "differentials": [
+    "Graves' disease",
+    "Viral parotitis",
+    "Methimazole-induced parotitis",
+    "Sjögren's syndrome",
+    "Obstructive parotitis"
+  ],
+  "correct_ranking": [
+    "Methimazole-induced parotitis",
+    "Graves' disease",
+    "Viral parotitis",
+    "Sjögren's syndrome",
+    "Obstructive parotitis"
+  ]
+}

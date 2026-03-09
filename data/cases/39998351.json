@@ -1,0 +1,23 @@
+{
+  "case_id": "39998351",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A postmenopausal woman presents with chest pain.",
+  "history": "The patient's clinical presentation is characterized by chest pain and a history of stressful events of a psychophysical nature.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "ECG changes, including the de Winter pattern, and an increase in biomarkers of myocardial necrosis.",
+  "correct_diagnosis": "Takotsubo syndrome",
+  "differentials": [
+    "Acute myocardial infarction",
+    "Takotsubo syndrome",
+    "Stable angina",
+    "Unstable angina",
+    "Myopericarditis"
+  ],
+  "correct_ranking": [
+    "Takotsubo syndrome",
+    "Acute myocardial infarction",
+    "Unstable angina",
+    "Stable angina",
+    "Myopericarditis"
+  ]
+}

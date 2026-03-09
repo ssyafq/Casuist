@@ -1,0 +1,23 @@
+{
+  "case_id": "40125768",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A post-partum patient presented with chest pain.",
+  "history": "The patient had a recent history of childbirth and presented with chest pain, new ECG changes, and elevated biomarkers.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "ECG showed ischemia, elevated troponin and NT pro BNP, elevated D-dimer levels, wall motion abnormalities on Echo, and a sac-like aneurysm of the left anterior descending artery (LAD) on chest computed tomography angiography.",
+  "correct_diagnosis": "Acute coronary syndrome with LAD aneurysm",
+  "differentials": [
+    "Pulmonary embolism",
+    "Acute coronary syndrome with LAD aneurysm",
+    "Myocardial infarction",
+    "Spontaneous coronary artery dissection",
+    "Peripartum cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome with LAD aneurysm",
+    "Myocardial infarction",
+    "Spontaneous coronary artery dissection",
+    "Peripartum cardiomyopathy",
+    "Pulmonary embolism"
+  ]
+}

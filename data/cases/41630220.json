@@ -1,0 +1,23 @@
+{
+  "case_id": "41630220",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 65-year-old female developed sudden shortness of breath and disturbed consciousness 1 day after hip replacement surgery for a left femoral neck fracture.",
+  "history": "The patient had a history of trauma and surgery. She was misdiagnosed as having an acute cerebral infarction.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "Cranial diffusion-weighted imaging revealed typical changes indicative of the '3-territory sign'; transthoracic echocardiography confirmed the presence of a patent foramen ovale (PFO); and the transcranial Doppler bubble test detected signals of fat embolism.",
+  "correct_diagnosis": "Cerebral fat embolism, pulmonary fat embolism, and patent foramen ovale (PFO)",
+  "differentials": [
+    "Cerebral fat embolism, pulmonary fat embolism, and patent foramen ovale (PFO)",
+    "Acute cerebral infarction",
+    "Pulmonary embolism",
+    "Fat embolism syndrome",
+    "Respiratory failure"
+  ],
+  "correct_ranking": [
+    "Cerebral fat embolism, pulmonary fat embolism, and patent foramen ovale (PFO)",
+    "Acute cerebral infarction",
+    "Pulmonary embolism",
+    "Fat embolism syndrome",
+    "Respiratory failure"
+  ]
+}

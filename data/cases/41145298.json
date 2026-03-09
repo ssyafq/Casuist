@@ -1,0 +1,23 @@
+{
+  "case_id": "41145298",
+  "specialty": "seizure",
+  "chief_complaint": "A 9-year-old Cane Corso, a male dog, presented with episodes of collapse, unconsciousness, urination, and opisthotonos, followed by myoclonic jerks.",
+  "history": "Two and a half months after transvenous pacemaker implantation, the dog experienced episodes of collapse, unconsciousness, urination, and opisthotonos, which turned into myoclonic jerks before regaining consciousness. These episodes were associated with periods of ventricular arrest due to a pacemaker malfunction.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG findings revealed periods of ventricular arrest due to pacemaker malfunction.",
+  "correct_diagnosis": "Convulsive syncope due to pacemaker malfunction",
+  "differentials": [
+    "Convulsive syncope due to pacemaker malfunction",
+    "Epileptic seizure",
+    "Cardiac arrhythmia",
+    "Hypoglycemia",
+    "Anaphylaxis"
+  ],
+  "correct_ranking": [
+    "Convulsive syncope due to pacemaker malfunction",
+    "Epileptic seizure",
+    "Cardiac arrhythmia",
+    "Hypoglycemia",
+    "Anaphylaxis"
+  ]
+}

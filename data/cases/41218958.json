@@ -1,0 +1,23 @@
+{
+  "case_id": "41218958",
+  "specialty": "seizure",
+  "chief_complaint": "A 3-month-old female infant presented with seizures.",
+  "history": "Familial hypomagnesaemia with secondary hypocalcaemia (HSH) is an autosomal recessive disease caused by mutations in the Transient Receptor Potential Melastatin 6 (TRPM6) gene. The patient presented with severe hypomagnesaemia and hypocalcaemia, and its most common clinical presentation is seizures in early infancy. The patient had undetectable calcitonin and normal parathyroid, thyroid hormones, and vitamin D levels. The patient was discharged on long-term oral magnesium (Mg) supplementation after a second admission.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Hypocalcaemia and hypomagnesaemia with undetectable calcitonin and normal parathyroid, thyroid hormones, and vitamin D levels.",
+  "correct_diagnosis": "Familial hypomagnesaemia with secondary hypocalcaemia (HSH) caused by a novel TRPM6 variant.",
+  "differentials": [
+    "Familial hypomagnesaemia with secondary hypocalcaemia (HSH) caused by a novel TRPM6 variant.",
+    "Hypocalcaemia of infancy",
+    "Congenital hypothyroidism",
+    "Vitamin D deficiency",
+    "Magnesium deficiency"
+  ],
+  "correct_ranking": [
+    "Familial hypomagnesaemia with secondary hypocalcaemia (HSH) caused by a novel TRPM6 variant.",
+    "Hypocalcaemia of infancy",
+    "Congenital hypothyroidism",
+    "Vitamin D deficiency",
+    "Magnesium deficiency"
+  ]
+}

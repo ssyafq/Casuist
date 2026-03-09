@@ -1,0 +1,23 @@
+{
+  "case_id": "41275101",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 63-year-old male with hypertension and diabetes mellitus presented with non-ST elevation myocardial infarction (NSTEMI).",
+  "history": "Percutaneous coronary intervention (PCI) of left main (LM) bifurcation lesions carries a high risk of complications, including stent entrapment. A 63-year-old male with hypertension and diabetes mellitus presented with NSTEMI. PCI was performed using the T and small protrusion (TAP) technique for a 1,1,1 Medina-classified an LM bifurcation lesion.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: non-ST elevation myocardial infarction (NSTEMI). Bloods: hypertension and diabetes mellitus. Imaging: PCI of left main (LM) bifurcation lesions.",
+  "correct_diagnosis": "Stent entrapment in a previously stented left main coronary artery",
+  "differentials": [
+    "Stent entrapment in a previously stented left main coronary artery",
+    "Acute coronary syndrome",
+    "Cardiac tamponade",
+    "Myocardial infarction due to stent thrombosis",
+    "Cardiac arrest due to ventricular fibrillation"
+  ],
+  "correct_ranking": [
+    "Stent entrapment in a previously stented left main coronary artery",
+    "Acute coronary syndrome",
+    "Myocardial infarction due to stent thrombosis",
+    "Cardiac tamponade",
+    "Cardiac arrest due to ventricular fibrillation"
+  ]
+}

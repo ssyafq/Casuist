@@ -1,0 +1,23 @@
+{
+  "case_id": "41398892",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "Seven patients, aged 35-65, presented with sudden respiratory distress, hypotension, and loss of consciousness.",
+  "history": "Seven patients with pulmonary embolism-induced cardiac arrest (PE-CA) presented with sudden respiratory distress, hypotension, and loss of consciousness. These patients exhibited significant hemodynamic instability, requiring immediate intervention to restore circulatory support and address the underlying thrombotic burden. The patients had a history of recent surgery, trauma, or immobility, and were on anticoagulant therapy.",
+  "exam": "Vital signs: tachypnea, tachycardia, hypotension. Physical examination: decreased breath sounds, jugular venous distension.",
+  "labs": "Computed tomography pulmonary angiography: extensive pulmonary emboli. Echocardiography: right ventricular strain. ECG: sinus tachycardia, right bundle branch block.",
+  "correct_diagnosis": "Pulmonary embolism-induced cardiac arrest",
+  "differentials": [
+    "Pulmonary embolism-induced cardiac arrest",
+    "Acute coronary syndrome",
+    "Cardiogenic shock",
+    "Pneumonia",
+    "Severe asthma exacerbation"
+  ],
+  "correct_ranking": [
+    "Pulmonary embolism-induced cardiac arrest",
+    "Acute coronary syndrome",
+    "Cardiogenic shock",
+    "Pneumonia",
+    "Severe asthma exacerbation"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40725973",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A patient presented with severe acidosis and normal blood glucose levels following a traumatic brain injury.",
+  "history": "The patient was taking Sitagliptin, a DPP-4 inhibitor, and had a history of traumatic brain injury.",
+  "exam": "Severe acidosis (pH 7.16), low bicarbonate, and elevated anion gap",
+  "labs": "Low bicarbonate (2.8 mmol/L), elevated anion gap (24.9 mmol/L), and urinary ketones",
+  "correct_diagnosis": "Euglycemic DKA",
+  "differentials": [
+    "HHS",
+    "Euglycemic DKA",
+    "Alcoholic Ketoacidosis",
+    "Lactic Acidosis",
+    "Starvation Ketoacidosis"
+  ],
+  "correct_ranking": [
+    "Euglycemic DKA",
+    "Lactic Acidosis",
+    "Alcoholic Ketoacidosis",
+    "Starvation Ketoacidosis",
+    "HHS"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41609121",
+  "specialty": "stroke",
+  "chief_complaint": "A 68-year-old woman presented with acute dizziness and double vision.",
+  "history": "The patient experienced unprovoked, nonpositional dizziness and binocular double vision that improved with eye closure. She had no history of previous neurological disorders or stroke. Medications included none. Social history was unremarkable.",
+  "exam": "Vital signs: normal. Neurological examination showed right eye exotropia, left eye hypertropia, mild right eyelid ptosis, and impaired extraocular movements, especially in elevation and adduction.",
+  "labs": "Blood work and cerebrospinal fluid analysis were largely normal. Brain magnetic resonance imaging showed symmetric diffusion-weighted imaging brightening in the bilateral midbrain, suggesting an acute infarction.",
+  "correct_diagnosis": "Wall-eyed bilateral internuclear ophthalmoplegia (WEBINO)",
+  "differentials": [
+    "Wall-eyed bilateral internuclear ophthalmoplegia (WEBINO)",
+    "Bilateral midbrain infarction",
+    "Multiple sclerosis",
+    "Demyelinating disease",
+    "Stroke"
+  ],
+  "correct_ranking": [
+    "Wall-eyed bilateral internuclear ophthalmoplegia (WEBINO)",
+    "Bilateral midbrain infarction",
+    "Multiple sclerosis",
+    "Demyelinating disease",
+    "Stroke"
+  ]
+}

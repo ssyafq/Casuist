@@ -1,0 +1,23 @@
+{
+  "case_id": "41478762",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 71-year-old female presented with severe febrile neutropenia and mild thrombocytopenia.",
+  "history": "The patient has systemic lupus erythematosus and presented with M. pneumoniae pneumonia, which was complicated by severe neutropenia, mild thrombocytopenia, and erythema multiforme. Granulocyte autoantibodies were negative.",
+  "exam": "Vital signs: fever, unknown temperature. Physical examination findings: unknown.",
+  "labs": "Laboratory investigations: severe febrile neutropenia (0.2G/L), mild thrombocytopenia (75 G/L), erythema multiforme, granulocyte autoantibodies negative.",
+  "correct_diagnosis": "Mycoplasma pneumoniae pneumonia",
+  "differentials": [
+    "Mycoplasma pneumoniae pneumonia",
+    "Pneumocystis jirovecii pneumonia",
+    "Influenza pneumonia",
+    "Staphylococcus aureus pneumonia",
+    "Bacterial pneumonia (other)"
+  ],
+  "correct_ranking": [
+    "Mycoplasma pneumoniae pneumonia",
+    "Pneumocystis jirovecii pneumonia",
+    "Influenza pneumonia",
+    "Staphylococcus aureus pneumonia",
+    "Bacterial pneumonia (other)"
+  ]
+}

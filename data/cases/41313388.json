@@ -1,0 +1,23 @@
+{
+  "case_id": "41313388",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 36-year-old woman presented with hematemesis.",
+  "history": "The patient had an unremarkable medical history. She was admitted to the hospital due to hematemesis. Upper gastrointestinal endoscopy revealed F3 esophageal varices and F3 gastric varices with erosions, which were treated with endoscopic injection sclerotherapy with histoacryl. Contrast-enhanced computed tomography showed that the superior mesenteric vein and splenic vein converged and drained into the inferior vena cava, with no identifiable intrahepatic portal vein branches.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Upper gastrointestinal endoscopy revealed F3 esophageal varices and F3 gastric varices with erosions. Contrast-enhanced computed tomography showed that the superior mesenteric vein and splenic vein converged and drained into the inferior vena cava, with no identifiable intrahepatic portal vein branches. Additionally, collateral circulation and thrombosis in the superior mesenteric vein were identified.",
+  "correct_diagnosis": "Congenital absence of the portal vein",
+  "differentials": [
+    "Congenital absence of the portal vein",
+    "Portal vein thrombosis",
+    "Liver cirrhosis with portal hypertension",
+    "Gastrointestinal malignancy with variceal bleeding",
+    "Non-bleeding gastrointestinal ulcer"
+  ],
+  "correct_ranking": [
+    "Congenital absence of the portal vein",
+    "Portal vein thrombosis",
+    "Liver cirrhosis with portal hypertension",
+    "Gastrointestinal malignancy with variceal bleeding",
+    "Non-bleeding gastrointestinal ulcer"
+  ]
+}

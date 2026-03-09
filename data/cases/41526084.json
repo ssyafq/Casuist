@@ -1,0 +1,23 @@
+{
+  "case_id": "41526084",
+  "specialty": "seizure",
+  "chief_complaint": "A 19-year-old male presented with acute generalized tonic-clonic seizures.",
+  "history": "The patient had a history of recurrent urinary tract infections and epilepsy, accompanied by impaired academic performance and an intracardiac repair 8 years prior to presentation for a congenital cyanotic heart disease. He also had dysmorphic features on clinical examination.",
+  "exam": "Vital signs: normal. Physical examination revealed dysmorphic features.",
+  "labs": "ECG: normal. Blood tests: severe hypocalcaemia, hypoparathyroidism. Neuroimaging: normal. Genomic microarray analysis (GMA): 22q11.21 deletion.",
+  "correct_diagnosis": "22q11.2 deletion syndrome (22q11.2DS)",
+  "differentials": [
+    "22q11.2 deletion syndrome (22q11.2DS)",
+    "Hypoparathyroidism",
+    "Congenital cyanotic heart disease",
+    "Epilepsy",
+    "Urinary tract infection"
+  ],
+  "correct_ranking": [
+    "22q11.2 deletion syndrome (22q11.2DS)",
+    "Hypoparathyroidism",
+    "Congenital cyanotic heart disease",
+    "Epilepsy",
+    "Urinary tract infection"
+  ]
+}

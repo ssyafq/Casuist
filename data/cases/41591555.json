@@ -1,0 +1,23 @@
+{
+  "case_id": "41591555",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 55-year-old woman presented with hemoptysis two months post-elective cervical discectomy.",
+  "history": "Glanzmann Thrombasthenia (GT) is a congenital platelet disorder with a life-long bleeding tendency. The patient underwent elective cervical discectomy with a perioperative hemostatic regimen including recombinant Factor VIIa, platelet transfusions, and tranexamic acid.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "CT pulmonary angiography confirmed bilateral segmental and subsegmental PE with pulmonary infarctions. ECG and other blood tests are not mentioned.",
+  "correct_diagnosis": "Pulmonary thromboembolism",
+  "differentials": [
+    "Pulmonary thromboembolism",
+    "Pulmonary infarction",
+    "Hemoptysis due to GT",
+    "Pneumonia",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Pulmonary thromboembolism",
+    "Pulmonary infarction",
+    "Hemoptysis due to GT",
+    "Pneumonia",
+    "Cardiac arrhythmia"
+  ]
+}

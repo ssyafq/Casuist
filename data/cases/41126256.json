@@ -1,0 +1,23 @@
+{
+  "case_id": "41126256",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "44-year-old man presented with a 2-week history of cough, fever, nausea and vomiting, as well as significant weight loss.",
+  "history": "The patient was initially started on antibiotics and anticoagulation for cavitating lesions and acute pulmonary embolism. He underwent surgery including right upper lobectomy, wedge resection from the right lower lobe, and pulmonary endarterectomy.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "Investigations revealed cavitating lesions and acute pulmonary embolism.",
+  "correct_diagnosis": "Cavitary infarction following pulmonary embolism",
+  "differentials": [
+    "Cavitary infarction following pulmonary embolism",
+    "Acute pulmonary embolism",
+    "Pulmonary hypertension",
+    "Chronic thromboembolic pulmonary hypertension",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Cavitary infarction following pulmonary embolism",
+    "Acute pulmonary embolism",
+    "Pulmonary hypertension",
+    "Chronic thromboembolic pulmonary hypertension",
+    "Pneumonia"
+  ]
+}

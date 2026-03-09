@@ -1,0 +1,23 @@
+{
+  "case_id": "41194962",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 45-year-old female patient presents with a 2-day history of melena and hematemesis.",
+  "history": "The patient underwent a laparoscopic Roux-en-Y gastric bypass 6 months ago for obesity. She reports a 2-day history of melena and hematemesis. She has no history of gastrointestinal disorders or bleeding. She takes no medications. She has a history of smoking.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 18/min. Physical examination reveals a pale appearance and a soft, non-tender abdomen.",
+  "labs": "Complete Blood Count (CBC): Hb 8.5 g/dL, MCV 85 fL. Upper GI endoscopy: active bleeding from a small bowel diverticulum in the biliopancreatic limb.",
+  "correct_diagnosis": "Active bleeding from a small bowel diverticulum in the biliopancreatic limb",
+  "differentials": [
+    "Active bleeding from a small bowel diverticulum in the biliopancreatic limb",
+    "Gastrointestinal bleed due to ulcers",
+    "Gastrointestinal bleed due to varices",
+    "Gastrointestinal bleed due to gastritis",
+    "Gastrointestinal bleed due to Mallory-Weiss tear"
+  ],
+  "correct_ranking": [
+    "Active bleeding from a small bowel diverticulum in the biliopancreatic limb",
+    "Gastrointestinal bleed due to ulcers",
+    "Gastrointestinal bleed due to varices",
+    "Gastrointestinal bleed due to gastritis",
+    "Gastrointestinal bleed due to Mallory-Weiss tear"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41390454",
+  "specialty": "meningitis",
+  "chief_complaint": "A 30-year-old Iraqi woman presented with meningoencephalitis and acute motor axonal neuropathy.",
+  "history": "The patient presented with meningoencephalitis and acute motor axonal neuropathy. Initial investigations included a complete blood count, erythrocyte sedimentation rate, C-reactive protein, renal and liver function tests, and cerebrospinal fluid analysis. Serological tests confirmed the presence of antinuclear antibodies, rheumatoid factor, and antibodies against SS-A and SS-B, consistent with Sjogren's syndrome.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Initial investigations included: complete blood count, erythrocyte sedimentation rate (normal), C-reactive protein (elevated), renal and liver function tests (normal), cerebrospinal fluid analysis (showing hyperintense lesions in the brainstem and periventricular regions), brain magnetic resonance imaging (showing hyperintense lesions in the brainstem and periventricular regions), magnetic resonance venography (ruling out venous thrombosis), and aquaporin 4 antibody screening test (positive).",
+  "correct_diagnosis": "Primary Sjogren's syndrome with meningoencephalitis",
+  "differentials": [
+    "Primary Sjogren's syndrome with meningoencephalitis",
+    "Neuromyelitis optica",
+    "Bickerstaff encephalitis",
+    "Acute motor axonal neuropathy",
+    "Meningitis (bacterial)"
+  ],
+  "correct_ranking": [
+    "Primary Sjogren's syndrome with meningoencephalitis",
+    "Neuromyelitis optica",
+    "Bickerstaff encephalitis",
+    "Acute motor axonal neuropathy",
+    "Meningitis (bacterial)"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41557218",
+  "specialty": "stroke",
+  "chief_complaint": "A 35-year-old Caucasian woman with a history of Trisomy 21 presented with sudden onset of left-sided weakness and speech difficulties.",
+  "history": "The patient had a history of recurrent ischemic strokes since the age of 20. She had been experiencing transient episodes of weakness and numbness in her left arm and leg over the past year. She had no significant past medical history, and her medications included aspirin and warfarin. She had a history of smoking and occasional alcohol consumption.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 16/min. Physical examination revealed left-sided weakness and dysarthria.",
+  "labs": "ECG: normal. Bloods: normal. MRI brain: Moyamoya syndrome with bilateral middle cerebral artery stenosis and persistent trigeminal artery. MRA: confirmed Moyamoya syndrome with bilateral middle cerebral artery stenosis and persistent trigeminal artery.",
+  "correct_diagnosis": "Moyamoya syndrome with persistent trigeminal artery",
+  "differentials": [
+    "Moyamoya syndrome with persistent trigeminal artery",
+    "Cervicocephalic arterial dissection",
+    "Carotid artery stenosis",
+    "Cardioembolic stroke",
+    "Hemorrhagic stroke"
+  ],
+  "correct_ranking": [
+    "Moyamoya syndrome with persistent trigeminal artery",
+    "Cervicocephalic arterial dissection",
+    "Carotid artery stenosis",
+    "Cardioembolic stroke",
+    "Hemorrhagic stroke"
+  ]
+}

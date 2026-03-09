@@ -1,0 +1,23 @@
+{
+  "case_id": "41551825",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "41-year-old female with a 26-year history of refractory ulcerative colitis presenting with rectal bleeding.",
+  "history": "Ulcerative colitis (UC) is a chronic and debilitating inflammatory bowel disease. The patient has a 26-year history of refractory UC, developed steroid dependence, and never achieved complete remission on conventional and advanced therapies. She began treatment with oral R-dihydrolipoic acid (RDLA), a lipid-soluble reducing agent with intracellular site of action, and experienced cessation of rectal bleeding within a week. She remained asymptomatic for three years until a highly stressful experience, when she noticed blood in her stool. RDLA was discontinued, and she began treatment with oral sodium thiosulfate pentahydrate (STS), a reducing agent with extracellular site of action.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Stool calprotectin normal.",
+  "correct_diagnosis": "Ulcerative colitis",
+  "differentials": [
+    "Ulcerative colitis",
+    "Ischemic colitis",
+    "Diverticulitis",
+    "Infectious colitis",
+    "Gastrointestinal angiodysplasia"
+  ],
+  "correct_ranking": [
+    "Ulcerative colitis",
+    "Ischemic colitis",
+    "Diverticulitis",
+    "Infectious colitis",
+    "Gastrointestinal angiodysplasia"
+  ]
+}

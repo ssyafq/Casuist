@@ -1,0 +1,23 @@
+{
+  "case_id": "41685454",
+  "specialty": "COPD",
+  "chief_complaint": "A 68-year-old woman with chronic obstructive pulmonary disease (COPD) and emphysema presents with persistent lung cavities following severe community-acquired pneumonia.",
+  "history": "The patient developed persistent lung cavities following severe community-acquired pneumonia. She subsequently received repeated courses of prednisolone due to clinical suspicion of an organising process, suspected recurrence thereof, and COPD exacerbations. She developed chronic cavitary pulmonary aspergillosis, confirmed by imaging and microbiology.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Imaging: lung cavities on chest X-ray and CT scan. Microbiology: Aspergillus fumigatus confirmed by culture. Bloods: Aspergillus fumigatus IgG normalised with treatment.",
+  "correct_diagnosis": "Chronic cavitary pulmonary aspergillosis",
+  "differentials": [
+    "Chronic cavitary pulmonary aspergillosis",
+    "Necrotising pneumonia",
+    "Bronchiectasis",
+    "COPD exacerbation",
+    "Lung abscess"
+  ],
+  "correct_ranking": [
+    "Chronic cavitary pulmonary aspergillosis",
+    "Necrotising pneumonia",
+    "Bronchiectasis",
+    "COPD exacerbation",
+    "Lung abscess"
+  ]
+}

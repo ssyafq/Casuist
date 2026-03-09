@@ -1,0 +1,23 @@
+{
+  "case_id": "36049082",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 17-year-old adolescent with uncontrolled Graves' disease and thyrotoxicosis, scheduled for radical thyroidectomy.",
+  "history": "The patient has Graves' disease with uncontrolled clinical manifestations that did not respond to medical treatment. Hyperthyroidism is the increase in the synthesis and secretion of thyroid hormones. The patient's condition is rare but serious, and acute thyrotoxic crisis or thyroid storm is a concern.",
+  "exam": "No specific vital signs or physical examination findings are provided, but the patient has symptoms of thyrotoxicosis.",
+  "labs": "The patient scored 35 points on the Burch and Wartofsky Scale.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Graves' disease",
+    "Hyperthyroidism",
+    "Thyrotoxic crisis",
+    "Hypothyroidism"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Thyrotoxic crisis",
+    "Graves' disease",
+    "Hyperthyroidism",
+    "Hypothyroidism"
+  ]
+}

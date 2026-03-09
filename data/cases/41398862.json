@@ -1,0 +1,23 @@
+{
+  "case_id": "41398862",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 65-year-old woman was hospitalized at our facility after experiencing abdominal pain for half a day due to eating persimmons.",
+  "history": "The patient was hospitalized after experiencing abdominal pain for half a day due to eating persimmons. The diagnosis of phytobezoar-induced pancreatitis and gastric ulcers was confirmed by clinical examination.",
+  "exam": "Clinical examination confirmed the diagnosis of phytobezoar-induced pancreatitis and gastric ulcers.",
+  "labs": "Investigations included clinical examination, with no specific lab results mentioned.",
+  "correct_diagnosis": "Gastric phytobezoar, acute pancreatitis, and gastric ulcers",
+  "differentials": [
+    "Gastric phytobezoar, acute pancreatitis, and gastric ulcers",
+    "Gastric ulcers, acute pancreatitis, and gastric phytobezoar",
+    "Acute pancreatitis, gastric ulcers, and gastric phytobezoar",
+    "Gastric phytobezoar, gastric ulcers, and cholecystitis",
+    "Gastric ulcers, cholecystitis, and gastric phytobezoar"
+  ],
+  "correct_ranking": [
+    "Gastric phytobezoar, acute pancreatitis, and gastric ulcers",
+    "Gastric ulcers, acute pancreatitis, and gastric phytobezoar",
+    "Acute pancreatitis, gastric ulcers, and gastric phytobezoar",
+    "Gastric phytobezoar, gastric ulcers, and cholecystitis",
+    "Gastric ulcers, cholecystitis, and gastric phytobezoar"
+  ]
+}

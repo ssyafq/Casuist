@@ -1,0 +1,23 @@
+{
+  "case_id": "40641202",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 28-year-old woman presents with jaundice, chest discomfort, and a history of chronic diarrhea, weight loss, tremors, and exertional dyspnea.",
+  "history": "The patient has a history of thyrotoxicosis and has been on propylthiouracil and propranolol for two weeks. She also reports chronic diarrhea, weight loss, tremors, and exertional dyspnea.",
+  "exam": "Physical examination revealed jaundice, proptosis, a large goiter, and tremors.",
+  "labs": "Laboratory tests indicated elevated liver enzymes, hypokalemia, and markedly elevated thyroid hormones. ECG revealed total AV block.",
+  "correct_diagnosis": "Thyroid Storm",
+  "differentials": [
+    "Thyroid Storm",
+    "Graves' Disease",
+    "Hyperthyroidism",
+    "Thyrotoxic Crisis",
+    "Severe Hyperthyroidism"
+  ],
+  "correct_ranking": [
+    "Thyroid Storm",
+    "Thyrotoxic Crisis",
+    "Severe Hyperthyroidism",
+    "Hyperthyroidism",
+    "Graves' Disease"
+  ]
+}

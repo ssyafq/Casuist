@@ -1,0 +1,23 @@
+{
+  "case_id": "41378409",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 46-year-old lady presented with a history of Cor Pulmonale and an incidental finding of antiphospholipid antibody syndrome.",
+  "history": "The patient was diagnosed with antiphospholipid antibody syndrome (APS) and developed pulmonary hypertension and right heart failure. She had a history of prior pulmonary embolism. Antithrombotic therapy was the mainstay of treatment.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 20 bpm, SpO2 92% on room air. Physical examination revealed signs of right heart failure.",
+  "labs": "ECG: showing signs of right ventricular strain. Blood tests: positive for antiphospholipid antibodies. Imaging: echocardiogram showing pulmonary hypertension and right ventricular dysfunction.",
+  "correct_diagnosis": "Antiphospholipid antibody syndrome with pulmonary hypertension and right heart failure",
+  "differentials": [
+    "Antiphospholipid antibody syndrome with pulmonary hypertension and right heart failure",
+    "Pulmonary embolism",
+    "Cor Pulmonale",
+    "Pulmonary hypertension",
+    "Right heart failure"
+  ],
+  "correct_ranking": [
+    "Antiphospholipid antibody syndrome with pulmonary hypertension and right heart failure",
+    "Pulmonary embolism",
+    "Cor Pulmonale",
+    "Pulmonary hypertension",
+    "Right heart failure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41181162",
+  "specialty": "chest pain",
+  "chief_complaint": "A 50-year-old male presented with class III angina on exertion.",
+  "history": "The patient reported a 2-year history of progressive exertional chest pain, relieved by rest. He denied any history of hypertension, diabetes, or hyperlipidemia. He was on aspirin and simvastatin.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 80 bpm, RR 16/min. Physical examination revealed a normal cardiac examination.",
+  "labs": "ECG: normal. CCTA: demonstrated a type IV dual left anterior descending artery and a split right coronary artery.",
+  "correct_diagnosis": "Unique coexistence of dual left anterior descending artery and split right coronary artery",
+  "differentials": [
+    "Unique coexistence of dual left anterior descending artery and split right coronary artery",
+    "Left main coronary artery disease",
+    "Right coronary artery disease",
+    "Bicuspid aortic valve",
+    "Hypertrophic cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Unique coexistence of dual left anterior descending artery and split right coronary artery",
+    "Left main coronary artery disease",
+    "Right coronary artery disease",
+    "Bicuspid aortic valve",
+    "Hypertrophic cardiomyopathy"
+  ]
+}

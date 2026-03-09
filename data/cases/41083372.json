@@ -1,0 +1,23 @@
+{
+  "case_id": "41083372",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 60-year-old male patient with advanced myxoid liposarcoma presented with symptoms of diabetic ketoacidosis.",
+  "history": "The patient developed sintilimab-induced fulminant autoimmune diabetes mellitus associated with insulin resistance and metabolic disorders. He required the combined use of insulin, metformin, liraglutide, and dapagliflozin to reduce blood glucose due to erratic glycaemic excursions and high insulin requirements.",
+  "exam": "Vital signs: Blood pressure 120/80 mmHg, pulse 100 beats per minute, respiratory rate 24 breaths per minute, and temperature 37.5°C. Physical examination revealed no specific abnormalities.",
+  "labs": "Blood glucose 350 mg/dL, HbA1c 12.5%, insulin 0.5 μU/mL, C-peptide 0.2 ng/mL, ECG normal, and imaging studies showed no abnormalities.",
+  "correct_diagnosis": "Sintilimab-related fulminant autoimmune diabetes mellitus",
+  "differentials": [
+    "Sintilimab-related fulminant autoimmune diabetes mellitus",
+    "Diabetic ketoacidosis due to other causes",
+    "Insulin resistance syndrome",
+    "Type 2 diabetes mellitus",
+    "Pancreatitis-induced diabetes mellitus"
+  ],
+  "correct_ranking": [
+    "Sintilimab-related fulminant autoimmune diabetes mellitus",
+    "Diabetic ketoacidosis due to other causes",
+    "Insulin resistance syndrome",
+    "Type 2 diabetes mellitus",
+    "Pancreatitis-induced diabetes mellitus"
+  ]
+}

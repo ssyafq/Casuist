@@ -1,0 +1,23 @@
+{
+  "case_id": "37900066",
+  "specialty": "cardiology",
+  "chief_complaint": "A series of patients presented with complex cardiac pathology, including ventricular apical aneurysm, aortic prosthetic thrombosis, and cardiac malformation with transposition of great arteries.",
+  "history": "The patients had various cardiac conditions, with some having a history of coronary atherosclerosis. The cases were selected to demonstrate the contribution of cardiac computed tomography in the morphological and functional characterization of patients with complex cardiac pathology.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "Cardiac computed tomography examinations were performed, providing anatomical information about the cardiac structures and cardiac function.",
+  "correct_diagnosis": "Ventricular apical aneurysm",
+  "differentials": [
+    "Aortic prosthetic thrombosis",
+    "Cardiac malformation with transposition of great arteries",
+    "Ventricular apical aneurysm",
+    "Coronary atherosclerosis",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Ventricular apical aneurysm",
+    "Aortic prosthetic thrombosis",
+    "Cardiac malformation with transposition of great arteries",
+    "Coronary atherosclerosis",
+    "Myocardial infarction"
+  ]
+}

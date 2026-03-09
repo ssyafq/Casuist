@@ -1,0 +1,23 @@
+{
+  "case_id": "41535878",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 31-week preterm neonate (1620 g) from India developed severe respiratory distress at birth.",
+  "history": "The neonate was initially managed for congenital pneumonia with no response to antibiotics. There was a restriction of chest movements on the right side. The baby had severe respiratory acidosis and was kept on invasive ventilation. Normal antenatal scans and no prenatal imaging findings suggested primary pulmonary hypoplasia.",
+  "exam": "Chest asymmetry and mediastinal shift on imaging suggested hypoplasia. Severe respiratory distress, chest restriction on the right side, and severe respiratory acidosis.",
+  "labs": "Chest radiography showed a complete homogeneous lung opacity with an ipsilateral shift of the trachea. Chest computed tomography scan confirmed the diagnosis. Two-dimensional echocardiography and ultrasound of the whole abdomen were normal.",
+  "correct_diagnosis": "Primary pulmonary hypoplasia",
+  "differentials": [
+    "Primary pulmonary hypoplasia",
+    "Congenital pneumonia",
+    "Oligohydramnios",
+    "Intrathoracic space-occupying lesion",
+    "Respiratory failure"
+  ],
+  "correct_ranking": [
+    "Primary pulmonary hypoplasia",
+    "Congenital pneumonia",
+    "Oligohydramnios",
+    "Intrathoracic space-occupying lesion",
+    "Respiratory failure"
+  ]
+}

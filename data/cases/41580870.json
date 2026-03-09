@@ -1,0 +1,23 @@
+{
+  "case_id": "41580870",
+  "specialty": "pneumonia",
+  "chief_complaint": "Two infants, an 8-month-old male and a 6-month-old female, presented with fever, vomiting, and flu-like symptoms.",
+  "history": "Both infants had complications of severe acute malnutrition and were coinfected with coronavirus disease 2019. The diagnosis of coronavirus disease 2019 infection was delayed due to low index of suspicion, and lack of treatment for coronavirus disease 2019 exacerbated their likelihood of death.",
+  "exam": "Both patients developed severe respiratory distress which were not resolved with antibiotics and oxygen therapy.",
+  "labs": "ECG, bloods, and imaging results are not specified in the source.",
+  "correct_diagnosis": "Coronavirus disease 2019 with complications of severe acute malnutrition",
+  "differentials": [
+    "Coronavirus disease 2019 with complications of severe acute malnutrition",
+    "Pneumonia with complications of severe acute malnutrition",
+    "Respiratory Syncytial Virus (RSV) infection with complications of severe acute malnutrition",
+    "Bacterial pneumonia with complications of severe acute malnutrition",
+    "Severe acute malnutrition with secondary infection"
+  ],
+  "correct_ranking": [
+    "Coronavirus disease 2019 with complications of severe acute malnutrition",
+    "Pneumonia with complications of severe acute malnutrition",
+    "Respiratory Syncytial Virus (RSV) infection with complications of severe acute malnutrition",
+    "Bacterial pneumonia with complications of severe acute malnutrition",
+    "Severe acute malnutrition with secondary infection"
+  ]
+}

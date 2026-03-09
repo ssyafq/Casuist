@@ -1,0 +1,23 @@
+{
+  "case_id": "41493244",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 70-year-old female presented with a one-year history of diffuse blue-grey hyperpigmentation in a photodistributed pattern.",
+  "history": "The patient received her third COVID-19 booster vaccine eight months prior to onset. She had never undergone therapy with medications classically implicated in the condition. A punch biopsy of the left cheek demonstrated brown pigment deposition with both superficial perivascular and deep focal interstitial and perivascular distribution.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Extensive laboratory workup was unremarkable.",
+  "correct_diagnosis": "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination",
+  "differentials": [
+    "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination",
+    "Drug-induced Hyperpigmentation",
+    "Melasma",
+    "Post-inflammatory Hyperpigmentation",
+    "Vitiligo"
+  ],
+  "correct_ranking": [
+    "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination",
+    "Drug-induced Hyperpigmentation",
+    "Melasma",
+    "Post-inflammatory Hyperpigmentation",
+    "Vitiligo"
+  ]
+}

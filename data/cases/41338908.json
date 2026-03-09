@@ -1,0 +1,23 @@
+{
+  "case_id": "41338908",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 30-year-old male bodybuilder presented to the emergency department after a single-vehicle motorcycle accident with decreased movement and subcutaneous emphysema on the left side of the chest.",
+  "history": "Chest tube placement was performed in the left fifth intercostal space during which a wide complex tachycardia was observed, which resolved spontaneously. The ECG showed ST-segment elevation in precordial leads. The patient was admitted to the ICU due to persisting electrocardiographic signs of transmural ischemia in the vascular territory of the left anterior descending artery (LAD).",
+  "exam": "Vital signs and physical examination findings were not explicitly stated.",
+  "labs": "ECG: ST-segment elevation in precordial leads. Invasive coronary angiography: reduced flow in the LAD due to mechanical compression of the artery by the chest tube, which normalized after the drain was removed.",
+  "correct_diagnosis": "Iatrogenic ST-segment elevation myocardial infarction due to coronary artery compression by a chest tube",
+  "differentials": [
+    "Iatrogenic ST-segment elevation myocardial infarction due to coronary artery compression by a chest tube",
+    "Acute coronary syndrome due to atherosclerotic plaque rupture",
+    "Takotsubo cardiomyopathy",
+    "Cardiac tamponade",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Iatrogenic ST-segment elevation myocardial infarction due to coronary artery compression by a chest tube",
+    "Acute coronary syndrome due to atherosclerotic plaque rupture",
+    "Takotsubo cardiomyopathy",
+    "Cardiac tamponade",
+    "Pulmonary embolism"
+  ]
+}

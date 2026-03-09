@@ -1,0 +1,23 @@
+{
+  "case_id": "41381198",
+  "specialty": "seizure",
+  "chief_complaint": "A woman in her 20s presented with refractory seizures.",
+  "history": "The patient developed refractory seizures followed by fulminant hepatic failure after valproic acid exposure. Laboratory evaluation revealed low copper indices without evidence of Wilson disease, and neuroimaging demonstrated evolving posterior-predominant abnormalities.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Laboratory evaluation revealed low copper indices, neuroimaging demonstrated evolving posterior-predominant abnormalities, and liver biopsy showed acute hepatitis with microvesicular change and 'two-toned' hepatocytes. Rapid whole-genome sequencing identified compound-heterozygous POLG variants c.1399G>A p.(Ala467Thr) and c.2243G>C p.(Trp748Ser).",
+  "correct_diagnosis": "Juvenile/adult-onset POLG-related disease",
+  "differentials": [
+    "Juvenile/adult-onset POLG-related disease",
+    "Wilson disease",
+    "Valproate hepatotoxicity",
+    "Mitochondrial disorder",
+    "Refractory epilepsy"
+  ],
+  "correct_ranking": [
+    "Juvenile/adult-onset POLG-related disease",
+    "Wilson disease",
+    "Valproate hepatotoxicity",
+    "Mitochondrial disorder",
+    "Refractory epilepsy"
+  ]
+}

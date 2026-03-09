@@ -1,0 +1,23 @@
+{
+  "case_id": "36578885",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 31-year-old Indonesian female presented with complaints of watery stools, icteric sclerae, jaundice, coughing, and shortness of breath.",
+  "history": "The patient had a 2-year history of hyperthyroidism with elevated TSH receptor antibodies and was treated with propylthiouracil, with stable remission for a year prior to admission.",
+  "exam": "Physical examination showed a WHO performance score of 4, delirium, normal blood pressure, tachycardia, tachypnea, axillary temperature of 36.7 degrees C, icteric sclerae, jaundice, exophthalmos, a 3 cm palpable nodule on the right side of the neck, bilateral pulmonary rales, palpable liver, and enlarged spleen.",
+  "labs": "Laboratory tests showed thrombocytopenia, electrolyte imbalance, hypoalbuminemia, elevated transaminases, suppressed TSH level, elevated free thyroxine (FT4) level, and a positive SARS-CoV-2 PCR swab test.",
+  "correct_diagnosis": "Thyroid crisis induced by SARS-CoV-2 infection",
+  "differentials": [
+    "Sepsis",
+    "Thyroid crisis induced by SARS-CoV-2 infection",
+    "Disseminated intravascular coagulation (DIC)",
+    "Hyperthyroidism",
+    "SARS-CoV-2 pneumonia"
+  ],
+  "correct_ranking": [
+    "Thyroid crisis induced by SARS-CoV-2 infection",
+    "Sepsis",
+    "SARS-CoV-2 pneumonia",
+    "Disseminated intravascular coagulation (DIC)",
+    "Hyperthyroidism"
+  ]
+}

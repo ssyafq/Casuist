@@ -1,0 +1,23 @@
+{
+  "case_id": "41438754",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 59-year-old male patient presented with cardiogenic shock and fulminant myocarditis.",
+  "history": "The patient had been receiving nivolumab monotherapy for cancer treatment. He developed fever, dyspnea, and chest pain 77 days after the first administration. He was admitted to the hospital with symptoms of myocarditis, including elevated myocardial enzymes and BNP levels, arrhythmias, and a low left ventricular ejection fraction (LVEF) of 38.31%.",
+  "exam": "Vital signs: blood pressure 80/40 mmHg, heart rate 120 bpm, respiratory rate 30 bpm, oxygen saturation 88% on room air. Physical examination revealed bilateral lung crackles and a new holosystolic murmur.",
+  "labs": "ECG: new-onset atrial fibrillation. Bloods: elevated troponin (10 ng/mL), elevated BNP (500 pg/mL), low LVEF (38.31%). Imaging: echocardiogram showing reduced left ventricular function. Myocardial biopsy confirmed myocarditis.",
+  "correct_diagnosis": "Immune checkpoint inhibitor-associated myocarditis with cardiogenic shock",
+  "differentials": [
+    "Immune checkpoint inhibitor-associated myocarditis with cardiogenic shock",
+    "Acute coronary syndrome",
+    "Cardiotoxicity due to cancer treatment",
+    "Dilated cardiomyopathy",
+    "Takotsubo cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Immune checkpoint inhibitor-associated myocarditis with cardiogenic shock",
+    "Acute coronary syndrome",
+    "Cardiotoxicity due to cancer treatment",
+    "Dilated cardiomyopathy",
+    "Takotsubo cardiomyopathy"
+  ]
+}

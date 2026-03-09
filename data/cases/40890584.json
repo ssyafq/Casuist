@@ -1,0 +1,23 @@
+{
+  "case_id": "40890584",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 36-year-old male smoker presented with acute chest pain for 2 hours.",
+  "history": "The patient had initial ECG showing J-point depression with upsloping ST-segment depression of 1-5 mm in leads V2-V6, accompanied by tall T waves, characteristic of the de Winter sign. Additionally, there was approximately 2.5 mm ST-segment elevation in aVR and left anterior fascicular block (LAFB).",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: J-point depression with upsloping ST-segment depression of 1-5 mm in leads V2-V6, tall T waves, 2.5 mm ST-segment elevation in aVR, and left anterior fascicular block (LAFB).",
+  "correct_diagnosis": "Acute coronary syndrome (ACS) with complete LMCA occlusion",
+  "differentials": [
+    "Acute coronary syndrome (ACS) with complete LMCA occlusion",
+    "Acute coronary syndrome (ACS) with proximal LAD artery occlusion",
+    "Acute myocardial infarction (NSTEMI)",
+    "Acute myocardial infarction (STEMI)",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome (ACS) with complete LMCA occlusion",
+    "Acute coronary syndrome (ACS) with proximal LAD artery occlusion",
+    "Acute myocardial infarction (STEMI)",
+    "Acute myocardial infarction (NSTEMI)",
+    "Cardiac tamponade"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "36223974",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient with advanced non-small cell lung cancer presented with symptoms of thyroid storm 3 weeks after initiating combination therapy with nivolumab and ipilimumab.",
+  "history": "The patient had no history of thyroid disease but was positive for antithyroid antibodies and developed prominent hyperthyroidism with gastrointestinal symptoms and signs of heart failure after starting the combination immunotherapy.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided, but the patient was diagnosed with thyroid storm.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Hyperthyroidism",
+    "Thyroiditis",
+    "Adrenal crisis",
+    "Pheochromocytoma"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Hyperthyroidism",
+    "Thyroiditis",
+    "Adrenal crisis",
+    "Pheochromocytoma"
+  ]
+}

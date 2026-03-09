@@ -1,0 +1,23 @@
+{
+  "case_id": "41381351",
+  "specialty": "stroke",
+  "chief_complaint": "A 65-year-old male patient presented with sudden onset left hemiparesis and aphasia.",
+  "history": "Tandem large-vessel occlusion with simultaneous occlusion of the left internal carotid artery and the left middle cerebral artery. The patient underwent mechanical thrombectomy followed by acute extracranial carotid artery stent placement. During treatment, the stent retriever became entrapped within the struts of the newly placed carotid stent.",
+  "exam": "Vital signs: blood pressure 160/90 mmHg, pulse 90 bpm, oxygen saturation 98% on room air. Physical examination revealed left hemiparesis and aphasia.",
+  "labs": "ECG: normal sinus rhythm. Blood tests: normal complete blood count and basic metabolic panel. Imaging: CT angiogram showing tandem occlusion of the left internal carotid artery and the left middle cerebral artery.",
+  "correct_diagnosis": "Stent retriever entrapment after carotid stenting in tandem stroke",
+  "differentials": [
+    "Stent retriever entrapment after carotid stenting in tandem stroke",
+    "Carotid artery dissection",
+    "Intracranial atherosclerotic disease",
+    "Carotid artery stenosis",
+    "Intracranial hemorrhage"
+  ],
+  "correct_ranking": [
+    "Stent retriever entrapment after carotid stenting in tandem stroke",
+    "Carotid artery dissection",
+    "Intracranial atherosclerotic disease",
+    "Carotid artery stenosis",
+    "Intracranial hemorrhage"
+  ]
+}

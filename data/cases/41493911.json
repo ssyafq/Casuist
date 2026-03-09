@@ -1,0 +1,23 @@
+{
+  "case_id": "41493911",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 35-year-old man presented with 3 days of epigastric abdominal pain.",
+  "history": "A 35-year-old man with no known history of diabetes mellitus presented with 3 days of epigastric abdominal pain. He was treated with intravenous fluids, insulin infusion, and electrolyte replacement under a DKA protocol. He was placed on a fasting regimen (nil per os) and was monitored with serial metabolic panels and lipid assessments.",
+  "exam": "Vital signs: not available. Physical examination: epigastric abdominal pain.",
+  "labs": "Initial laboratory tests: DKA, severe hypertriglyceridemia (triglycerides 2464 mg/dL), no lipase elevation, no evidence of gallstones or alcohol-related pancreatitis.",
+  "correct_diagnosis": "Diabetic ketoacidosis (DKA) complicated by hypertriglyceridemia-induced mild pancreatitis",
+  "differentials": [
+    "Diabetic ketoacidosis (DKA) complicated by hypertriglyceridemia-induced mild pancreatitis",
+    "Type 2 diabetes mellitus",
+    "Acute pancreatitis",
+    "Hypertriglyceridemia",
+    "Gallstone pancreatitis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis (DKA) complicated by hypertriglyceridemia-induced mild pancreatitis",
+    "Type 2 diabetes mellitus",
+    "Acute pancreatitis",
+    "Hypertriglyceridemia",
+    "Gallstone pancreatitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41472540",
+  "specialty": "pneumonia",
+  "chief_complaint": "Seven patients, ages not specified, presented with respiratory irritation symptoms after occupational exposure to fluoride-containing gases.",
+  "history": "All patients had a clear history of occupational exposure to fluoride-containing gases. Early manifestations primarily consisted of respiratory irritation symptoms, with one critically-ill patient progressing to acute respiratory distress syndrome (ARDS) complicated by multiple organ failure within 24 h of exposure.",
+  "exam": "Vital signs not specified; physical examination findings not detailed.",
+  "labs": "Chest CT scans revealed characteristic acute lung injury changes. Case 7 exhibited elevated white blood cell counts, inflammatory markers, and significantly increased blood and urinary fluoride levels.",
+  "correct_diagnosis": "Acute Chemical Pneumonitis",
+  "differentials": [
+    "Acute Chemical Pneumonitis",
+    "Acute Respiratory Distress Syndrome (ARDS)",
+    "Multiple Organ Failure",
+    "Toxic Lung Injury",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Acute Chemical Pneumonitis",
+    "Acute Respiratory Distress Syndrome (ARDS)",
+    "Multiple Organ Failure",
+    "Toxic Lung Injury",
+    "Pneumonia"
+  ]
+}

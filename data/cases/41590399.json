@@ -1,0 +1,23 @@
+{
+  "case_id": "41590399",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 65-year-old male patient presented with a history of multifocal post-tracheostomy tracheoesophageal fistula (TEF) after mechanical ventilation for COVID-19.",
+  "history": "The patient had a history of COVID-19 pneumonia requiring mechanical ventilation, which led to the development of multifocal post-tracheostomy TEF. He underwent temporary endoscopic occlusion of the TEF using Amplatzer Septal Occluders.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Two Amplatzer Septal Occluders were implanted under endoscopic guidance for temporary occlusion of the TEF. TEF occlusion successfully eliminated aspiration and enabled radical repair after four months with minimal postoperative complications.",
+  "correct_diagnosis": "Tracheoesophageal fistula",
+  "differentials": [
+    "Tracheoesophageal fistula",
+    "Esophageal stricture",
+    "Pneumonia",
+    "Aspiration pneumonia",
+    "Tracheal stenosis"
+  ],
+  "correct_ranking": [
+    "Tracheoesophageal fistula",
+    "Esophageal stricture",
+    "Pneumonia",
+    "Aspiration pneumonia",
+    "Tracheal stenosis"
+  ]
+}

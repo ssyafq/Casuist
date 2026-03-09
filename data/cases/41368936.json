@@ -1,0 +1,23 @@
+{
+  "case_id": "41368936",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 27-year-old male patient presented with bilateral lower limb pain and dark brown urine after intense exercise.",
+  "history": "The patient had no history of cardiac diseases. He developed severe chest pain, sweating, nausea, and vomiting during treatment.",
+  "exam": "ECG was initially unremarkable but later indicated ST-T elevation in the V2, V3, V4, and V5 leads.",
+  "labs": "Abnormal creatine kinase levels, urine tests suggested rhabdomyolysis, and elevated myocardial enzymes suggested acute myocardial infarction (AMI).",
+  "correct_diagnosis": "Acute Myocardial Infarction (AMI)",
+  "differentials": [
+    "Acute Myocardial Infarction (AMI)",
+    "Rhabdomyolysis",
+    "Cardiac Arrhythmia",
+    "Acute Coronary Syndrome",
+    "Myocarditis"
+  ],
+  "correct_ranking": [
+    "Acute Myocardial Infarction (AMI)",
+    "Rhabdomyolysis",
+    "Acute Coronary Syndrome",
+    "Cardiac Arrhythmia",
+    "Myocarditis"
+  ]
+}

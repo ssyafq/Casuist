@@ -1,0 +1,23 @@
+{
+  "case_id": "41519563",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 44-year-old woman presented with a large pulmonary infarction.",
+  "history": "Sarcoidosis is a systemic, granulomatous disorder commonly affecting the lungs. The patient had pulmonary sarcoidosis with a large pulmonary infarction attributed to arterial stenosis resulting from sarcoidosis-associated fibrosing mediastinitis and compressive mediastinal adenopathy. The patient was treated with an extended course of prednisone and subsequently was transitioned to azathioprine.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG, bloods, imaging, and other tests results are not provided.",
+  "correct_diagnosis": "Arterial stenosis from sarcoidosis-associated adenopathy and fibrosing mediastinitis leading to pulmonary infarction",
+  "differentials": [
+    "Pulmonary embolism",
+    "Arterial stenosis from sarcoidosis-associated adenopathy and fibrosing mediastinitis leading to pulmonary infarction",
+    "Sarcoidosis-associated pulmonary fibrosis",
+    "Pulmonary hypertension",
+    "Pulmonary infarction due to pulmonary artery thrombosis"
+  ],
+  "correct_ranking": [
+    "Arterial stenosis from sarcoidosis-associated adenopathy and fibrosing mediastinitis leading to pulmonary infarction",
+    "Pulmonary embolism",
+    "Sarcoidosis-associated pulmonary fibrosis",
+    "Pulmonary hypertension",
+    "Pulmonary infarction due to pulmonary artery thrombosis"
+  ]
+}

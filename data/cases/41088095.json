@@ -1,0 +1,23 @@
+{
+  "case_id": "41088095",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 35-year-old pregnant woman presents with severe gestational hypertriglyceridemia, which can lead to life-threatening pancreatitis.",
+  "history": "The patient has a history of gestational diabetes and has been experiencing symptoms of hypertriglyceridemia, including abdominal pain and nausea. She has been managed by her obstetrician and endocrinologist, but her condition has worsened. She has not been taking any medications for her condition.",
+  "exam": "Vital signs: blood pressure 120/80 mmHg, pulse 100 beats per minute, temperature 37.0°C. Physical examination reveals abdominal tenderness and guarding.",
+  "labs": "Triglycerides: 45.20 mmol/L, ECG: normal, Blood glucose: 120 mg/dL, Liver function tests: mildly elevated.",
+  "correct_diagnosis": "Severe gestational hypertriglyceridemia",
+  "differentials": [
+    "Severe gestational hypertriglyceridemia",
+    "Acute pancreatitis",
+    "Gestational diabetes",
+    "Hyperlipidemia",
+    "Preeclampsia"
+  ],
+  "correct_ranking": [
+    "Severe gestational hypertriglyceridemia",
+    "Acute pancreatitis",
+    "Gestational diabetes",
+    "Hyperlipidemia",
+    "Preeclampsia"
+  ]
+}

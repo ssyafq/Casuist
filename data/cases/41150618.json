@@ -1,0 +1,23 @@
+{
+  "case_id": "41150618",
+  "specialty": "COPD",
+  "chief_complaint": "A 60-year-old male presented with chronic cough and weight loss.",
+  "history": "The patient has a history of severe chronic obstructive pulmonary disease (COPD), diabetes mellitus, and smoking. He presented with chronic cough and weight loss, prompting further investigation.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Imaging revealed a cavitary lesion in the left lung apex. Bronchoscopy and bronchoalveolar lavage (BAL) led to the identification of Purpureocillium lilacinum infection.",
+  "correct_diagnosis": "Purpureocillium lilacinum infection",
+  "differentials": [
+    "Purpureocillium lilacinum infection",
+    "Aspergillus fumigatus infection",
+    "Nocardia asteroides infection",
+    "Staphylococcus aureus pneumonia",
+    "Klebsiella pneumoniae pneumonia"
+  ],
+  "correct_ranking": [
+    "Purpureocillium lilacinum infection",
+    "Aspergillus fumigatus infection",
+    "Nocardia asteroides infection",
+    "Staphylococcus aureus pneumonia",
+    "Klebsiella pneumoniae pneumonia"
+  ]
+}

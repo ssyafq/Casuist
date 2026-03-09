@@ -1,0 +1,23 @@
+{
+  "case_id": "40156126",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 38-year-old male smoker presented with central chest pain radiating to the left shoulder.",
+  "history": "The patient has acute coronary syndrome with significant 3-vessel disease and underwent urgent CABG using bilateral internal mammary arteries as a Y-graft to the left anterior descending artery and the first diagonal branch. Additional grafts to the posterior descending artery and first obtuse marginal branch were performed using saphenous vein segments.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "ST-segment depression on electrocardiogram, elevated troponin, and coronary angiography revealed significant 3-vessel disease.",
+  "correct_diagnosis": "Acute coronary syndrome",
+  "differentials": [
+    "Myocardial infarction",
+    "Unstable angina",
+    "Acute coronary syndrome",
+    "Cardiomyopathy",
+    "Coronary artery disease"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Coronary artery disease",
+    "Cardiomyopathy"
+  ]
+}

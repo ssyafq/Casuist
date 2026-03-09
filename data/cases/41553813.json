@@ -1,0 +1,23 @@
+{
+  "case_id": "41553813",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "An 81-year-old man presented with progressive dyspnea.",
+  "history": "The patient had a history of metabolic syndrome, stable cardiac disease, and was diagnosed with high-grade urothelial carcinoma of the renal pelvis with pulmonary metastases. Two months after nephroureterectomy and during first-line carboplatin chemotherapy.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG showed ST-segment elevations suggestive of acute myocardial infarction. Urgent coronary angiography and laboratory markers excluded acute coronary syndrome. Echocardiography and cardiac MRI revealed a large myocardial metastasis infiltrating the right ventricle and interventricular septum.",
+  "correct_diagnosis": "Cardiac metastasis of urothelial carcinoma",
+  "differentials": [
+    "Cardiac metastasis of urothelial carcinoma",
+    "Acute coronary syndrome",
+    "Cardiomyopathy",
+    "Pericardial disease",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Cardiac metastasis of urothelial carcinoma",
+    "Acute coronary syndrome",
+    "Cardiomyopathy",
+    "Pericardial disease",
+    "Pulmonary embolism"
+  ]
+}

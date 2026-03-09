@@ -1,0 +1,23 @@
+{
+  "case_id": "41459905",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 45-year-old patient presents with upper abdominal discomfort for the past 3 days.",
+  "history": "The patient is a chronic alcoholic with a previous history of recurrent pancreatitis. Investigation revealed raised serum amylase and lipase levels.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Raised serum amylase and lipase levels. Computed tomography showing a well-defined intrasplenic lesion.",
+  "correct_diagnosis": "Splenic artery pseudoaneurysm",
+  "differentials": [
+    "Splenic artery pseudoaneurysm",
+    "Splenic abscess",
+    "Splenic infarct",
+    "Pancreatic pseudocyst",
+    "Splenic hematoma"
+  ],
+  "correct_ranking": [
+    "Splenic artery pseudoaneurysm",
+    "Splenic abscess",
+    "Splenic infarct",
+    "Pancreatic pseudocyst",
+    "Splenic hematoma"
+  ]
+}

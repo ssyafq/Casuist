@@ -1,0 +1,23 @@
+{
+  "case_id": "41459805",
+  "specialty": "seizure",
+  "chief_complaint": "A 30-year-old female patient with epilepsy continued to experience reading-induced focal seizures with preserved consciousness despite being on levetiracetam 3,000 mg/day.",
+  "history": "The patient had a history of reading-induced seizures, which were resistant to levetiracetam. She was administered intranasal seletracetam (SEL) to prevent reflex seizures.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Electroencephalogram (EEG) showed spike-frequency decline dose-dependently (3.1/min at placebo to 1.6/min after second dose), with reduced spike-propagation on magnetoencephalography (MEG).",
+  "correct_diagnosis": "Intranasal seletracetam (SEL) for prevention of reflex seizures",
+  "differentials": [
+    "Intranasal seletracetam (SEL) for prevention of reflex seizures",
+    "Levetiracetam-resistant epilepsy",
+    "Reading-induced focal seizures",
+    "Epilepsy with preserved consciousness",
+    "Status epilepticus"
+  ],
+  "correct_ranking": [
+    "Intranasal seletracetam (SEL) for prevention of reflex seizures",
+    "Levetiracetam-resistant epilepsy",
+    "Reading-induced focal seizures",
+    "Epilepsy with preserved consciousness",
+    "Status epilepticus"
+  ]
+}

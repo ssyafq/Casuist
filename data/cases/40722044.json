@@ -1,0 +1,23 @@
+{
+  "case_id": "40722044",
+  "specialty": "chest pain",
+  "chief_complaint": "A 47-year-old Han man presented with atypical chest pain and syncope.",
+  "history": "The patient had atypical chest pain and syncope. Cardiac tumors are relatively uncommon, with myxoma being the most prevalent. Atrial septal paraganglioma is a significantly rarer form of malignant cardiac tumor that secretes catecholamines.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "Imaging examination revealed a mass (3.6 cm x 2.9 cm) in the left atrium, initially suspected to be a myxoma.",
+  "correct_diagnosis": "Atrial septal paraganglioma",
+  "differentials": [
+    "Myxoma",
+    "Atrial septal paraganglioma",
+    "Thrombus",
+    "Metastatic tumor",
+    "Lipoma"
+  ],
+  "correct_ranking": [
+    "Atrial septal paraganglioma",
+    "Myxoma",
+    "Metastatic tumor",
+    "Thrombus",
+    "Lipoma"
+  ]
+}

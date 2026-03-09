@@ -1,0 +1,23 @@
+{
+  "case_id": "41091064",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 6-year-old boy presents with diffuse purpura, arthralgia, and acute abdominal pain.",
+  "history": "Henoch-Schonlein purpura (HSP) is a self-limiting disease that often follows a viral infection. The patient was treated with oral corticosteroids but showed no improvement. He then developed hematemesis and massive intestinal hemorrhage.",
+  "exam": "Vital signs: not provided. Physical examination findings: diffuse purpura, arthralgia, and acute abdominal pain.",
+  "labs": "Not provided.",
+  "correct_diagnosis": "Henoch-Schonlein purpura with severe gastrointestinal involvement",
+  "differentials": [
+    "Henoch-Schonlein purpura with severe gastrointestinal involvement",
+    "Inflammatory bowel disease",
+    "Gastrointestinal vasculitis",
+    "Gastrointestinal bleeding due to other cause",
+    "Gastrointestinal infection"
+  ],
+  "correct_ranking": [
+    "Henoch-Schonlein purpura with severe gastrointestinal involvement",
+    "Inflammatory bowel disease",
+    "Gastrointestinal vasculitis",
+    "Gastrointestinal bleeding due to other cause",
+    "Gastrointestinal infection"
+  ]
+}

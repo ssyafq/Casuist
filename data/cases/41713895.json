@@ -1,0 +1,23 @@
+{
+  "case_id": "41713895",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 40-year-old female presented with nasal crusting, epistaxis, fever, weight loss, haemoptysis, bilateral pulmonary nodules, and a pancreatic tail mass.",
+  "history": "Granulomatosis with polyangiitis (GPA), a subtype of antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV), is a systemic inflammatory disease. The patient developed haematuria and proteinuria, and proteinase 3-ANCA testing and renal biopsy confirmed AAV. The patient had been treated with antitubercular therapy initially.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Pancreatic biopsy revealed caseating granulomatous inflammation. Renal biopsy confirmed AAV. Proteinase 3-ANCA testing was positive.",
+  "correct_diagnosis": "Granulomatosis with polyangiitis (GPA)",
+  "differentials": [
+    "Granulomatosis with polyangiitis (GPA)",
+    "Tuberculosis",
+    "Pancreatic cancer",
+    "Vasculitis",
+    "Pancreatitis"
+  ],
+  "correct_ranking": [
+    "Granulomatosis with polyangiitis (GPA)",
+    "Tuberculosis",
+    "Pancreatic cancer",
+    "Vasculitis",
+    "Pancreatitis"
+  ]
+}

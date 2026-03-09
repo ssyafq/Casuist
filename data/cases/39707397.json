@@ -1,0 +1,23 @@
+{
+  "case_id": "39707397",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A patient presented with severe cardiogenic shock, acute respiratory failure, and acute coronary syndrome in the context of a pheochromocytoma crisis.",
+  "history": "The patient had a rare condition known as pheochromocytoma, typically presenting with headache, high blood pressure, and sweating, and developed a crisis.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided.",
+  "correct_diagnosis": "Pheochromocytoma crisis",
+  "differentials": [
+    "Hypertensive emergency",
+    "Pheochromocytoma crisis",
+    "Acute myocardial infarction",
+    "Sepsis",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Pheochromocytoma crisis",
+    "Hypertensive emergency",
+    "Acute myocardial infarction",
+    "Sepsis",
+    "Pulmonary embolism"
+  ]
+}

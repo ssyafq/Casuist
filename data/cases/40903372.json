@@ -1,0 +1,23 @@
+{
+  "case_id": "40903372",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 55-year-old male patient presents with repeated acute coronary syndromes.",
+  "history": "Patient with classic cardiovascular risk factors under treatment and apparently well controlled, with good adherence to the treatment, but with repeated acute coronary syndromes. Undiagnosed sleep apnoea-hypopnoea syndrome and atherogenic dyslipidaemia were identified.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 70 bpm, RR 16/min. Physical examination: unremarkable.",
+  "labs": "ECG: ST-segment elevation myocardial infarction. Bloods: elevated lipoprotein (a).",
+  "correct_diagnosis": "Undiagnosed sleep apnoea-hypopnoea syndrome",
+  "differentials": [
+    "Undiagnosed sleep apnoea-hypopnoea syndrome",
+    "Atherogenic dyslipidaemia",
+    "Residual hypertension",
+    "Elevated lipoprotein (a)",
+    "Uncontrolled diabetes"
+  ],
+  "correct_ranking": [
+    "Undiagnosed sleep apnoea-hypopnoea syndrome",
+    "Atherogenic dyslipidaemia",
+    "Residual hypertension",
+    "Elevated lipoprotein (a)",
+    "Uncontrolled diabetes"
+  ]
+}

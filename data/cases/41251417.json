@@ -1,0 +1,23 @@
+{
+  "case_id": "41251417",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 66-year-old male patient presented to the outpatient clinic with worsening dyspnea.",
+  "history": "The patient had a conduction system pacing (CSP) pacemaker, implanted after a pace-and-ablate strategy for persistent, poorly rate-controlled atrial fibrillation. He presented with worsening dyspnea.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Laboratory findings and ECG were indicative of an anterolateral ST-segment elevation myocardial infarction (STEMI). Coronary angiography showed occlusion of a large diagonal branch.",
+  "correct_diagnosis": "Anterolateral ST-segment elevation myocardial infarction (STEMI)",
+  "differentials": [
+    "Anterolateral ST-segment elevation myocardial infarction (STEMI)",
+    "Acute coronary syndrome",
+    "Cardiac tamponade",
+    "Atrial fibrillation exacerbation",
+    "Pacemaker malfunction"
+  ],
+  "correct_ranking": [
+    "Anterolateral ST-segment elevation myocardial infarction (STEMI)",
+    "Acute coronary syndrome",
+    "Cardiac tamponade",
+    "Atrial fibrillation exacerbation",
+    "Pacemaker malfunction"
+  ]
+}

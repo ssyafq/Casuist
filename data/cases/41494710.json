@@ -1,0 +1,23 @@
+{
+  "case_id": "41494710",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 12-year-old boy presented with severe upper gastrointestinal bleeding, acute haematemesis, and hypovolaemic shock.",
+  "history": "The patient initially presented with hip pain, fever, vomiting, and diarrhoea. He was treated with NSAIDs for suspected reactive coxitis and later diagnosed with pyomyositis. His history included anxiety disorder treated with SSRIs. He had elevated inflammatory markers, joint infection with Staphylococcus aureus, and a history of short-term NSAIDs and ongoing SSRI therapy.",
+  "exam": "Elevated inflammatory markers, joint infection with Staphylococcus aureus, and acute haematemesis leading to hypovolaemic shock.",
+  "labs": "Emergency gastroscopy identified a Dieulafoy's lesion. Blood transfusions and supportive therapy were administered.",
+  "correct_diagnosis": "Dieulafoy's lesion",
+  "differentials": [
+    "Dieulafoy's lesion",
+    "Gastrointestinal varices",
+    "Peptic ulcer disease",
+    "Gastrointestinal malignancy",
+    "Gastrointestinal infection"
+  ],
+  "correct_ranking": [
+    "Dieulafoy's lesion",
+    "Gastrointestinal varices",
+    "Peptic ulcer disease",
+    "Gastrointestinal malignancy",
+    "Gastrointestinal infection"
+  ]
+}

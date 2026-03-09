@@ -1,0 +1,23 @@
+{
+  "case_id": "41650051",
+  "specialty": "pneumonia",
+  "chief_complaint": "An 82-year-old female presented with a 2-year history of chronic cough and an acute exacerbation.",
+  "history": "The patient had a 2-year history of chronic cough and an acute exacerbation. The patient's symptoms worsened over time.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Initial diagnosis was severe pneumonia. Definitive diagnosis of lipoid pneumonia was confirmed by computed tomography-guided lung biopsy, which revealed lipid-laden macrophages.",
+  "correct_diagnosis": "Lipoid pneumonia",
+  "differentials": [
+    "Lipoid pneumonia",
+    "Severe pneumonia",
+    "Chronic obstructive pulmonary disease (COPD)",
+    "Pneumothorax",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Lipoid pneumonia",
+    "Severe pneumonia",
+    "Chronic obstructive pulmonary disease (COPD)",
+    "Pneumothorax",
+    "Pulmonary embolism"
+  ]
+}

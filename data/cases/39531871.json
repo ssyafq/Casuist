@@ -1,0 +1,23 @@
+{
+  "case_id": "39531871",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 72-year-old man presents with chest pain.",
+  "history": "The patient has chest pain, with an initial presentation suggestive of acute coronary syndrome. His past history and other details are not provided.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "ECG showed ST-segment elevation, AI-assisted ECG analysis suggested acute coronary syndrome, but angiography revealed patent coronary arteries. Further investigation found a pneumothorax.",
+  "correct_diagnosis": "Pneumothorax",
+  "differentials": [
+    "Acute Coronary Syndrome",
+    "Pulmonary Embolism",
+    "Pneumothorax",
+    "Aortic Dissection",
+    "Pericarditis"
+  ],
+  "correct_ranking": [
+    "Pneumothorax",
+    "Acute Coronary Syndrome",
+    "Pulmonary Embolism",
+    "Aortic Dissection",
+    "Pericarditis"
+  ]
+}

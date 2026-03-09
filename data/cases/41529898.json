@@ -1,0 +1,23 @@
+{
+  "case_id": "41529898",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 28-year-old female was admitted with low oxygen saturation despite oxygen supplementation.",
+  "history": "A previously healthy female was admitted following inpatient antibiotic treatment for a lower respiratory tract infection. Since admission, her pulse oximetry revealed low oxygen saturation despite oxygen supplementation. Suspicion of methaemoglobinaemia was raised.",
+  "exam": "Vital signs: pulse oximetry revealed low oxygen saturation, oxygen pressure in arterial blood remained normal.",
+  "labs": "Methaemoglobinaemia reduction test (Brewer's test) became positive and was confirmed with a blood methaemoglobin assay value of 18.19%. High-performance liquid chromatography excluded the presence of haemoglobin-M.",
+  "correct_diagnosis": "Methaemoglobinaemia as a rare complication of Mycoplasma pneumoniae pneumonia",
+  "differentials": [
+    "Methaemoglobinaemia as a rare complication of Mycoplasma pneumoniae pneumonia",
+    "Carbon monoxide poisoning",
+    "Sickle cell disease",
+    "Methemoglobinemia due to local anesthetics",
+    "Methemoglobinemia due to certain medications"
+  ],
+  "correct_ranking": [
+    "Methaemoglobinaemia as a rare complication of Mycoplasma pneumoniae pneumonia",
+    "Carbon monoxide poisoning",
+    "Sickle cell disease",
+    "Methemoglobinemia due to local anesthetics",
+    "Methemoglobinemia due to certain medications"
+  ]
+}

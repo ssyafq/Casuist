@@ -1,0 +1,23 @@
+{
+  "case_id": "41526922",
+  "specialty": "stroke",
+  "chief_complaint": "A 48-year-old man presented with acute focal deficits following a short prodrome of headache and fever.",
+  "history": "A 48-year-old man with well-controlled HIV presented with acute focal deficits following a short prodrome of headache and fever. He had no conventional vascular risk factors.",
+  "exam": "Neurological examination revealed right-sided weakness (MRC grade 2/5) and NIHSS score of 11.",
+  "labs": "Initial laboratory testing and CT imaging were unrevealing. MRI suggested a vasculitic process, and cerebrospinal fluid studies confirmed neurosyphilis.",
+  "correct_diagnosis": "Meningovascular neurosyphilis",
+  "differentials": [
+    "Meningovascular neurosyphilis",
+    "Vasculitis",
+    "HIV-related stroke",
+    "Cryptococcal meningitis",
+    "Tuberculous meningitis"
+  ],
+  "correct_ranking": [
+    "Meningovascular neurosyphilis",
+    "Vasculitis",
+    "HIV-related stroke",
+    "Cryptococcal meningitis",
+    "Tuberculous meningitis"
+  ]
+}

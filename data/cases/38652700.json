@@ -1,0 +1,23 @@
+{
+  "case_id": "38652700",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 23-year-old male patient presented with unconsciousness and fever after consuming excessive amounts of alcohol. He was found to have hyperthermia, tachycardia, seizures, coma, and hypoglycemia.",
+  "history": "The patient had no previous history of abnormal thyroid function. He was admitted to the hospital's emergency department after being found unconscious on a roadside.",
+  "exam": "Hyperthermia (40.8 degrees C), nodal tachycardia (180 beats/min), seizures, coma",
+  "labs": "Severe thyroid dysfunction (T3 = 6.67 nmol/L, T4 = 252.00 nmol/L, free T3 = 29.20 pmol/L, free T4 = 65.30 pmol/L, and TSH = 0.001 muIU/mL), hypoglycemia (2.18 mmol/L), multiple computed tomography scans revealed brain abnormalities, magnetic resonance imaging revealed bilateral frontal lobe lesions",
+  "correct_diagnosis": "Thyroid storm with metabolic encephalopathy",
+  "differentials": [
+    "Thyroid storm with metabolic encephalopathy",
+    "Alcoholic encephalopathy",
+    "Hypoglycemic encephalopathy",
+    "Septic encephalopathy",
+    "Heat stroke with encephalopathy"
+  ],
+  "correct_ranking": [
+    "Thyroid storm with metabolic encephalopathy",
+    "Hypoglycemic encephalopathy",
+    "Alcoholic encephalopathy",
+    "Septic encephalopathy",
+    "Heat stroke with encephalopathy"
+  ]
+}

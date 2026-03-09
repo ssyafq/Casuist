@@ -1,0 +1,23 @@
+{
+  "case_id": "41287176",
+  "specialty": "COPD",
+  "chief_complaint": "A 65-year-old male patient presented with chronic dyspnea and a history of trauma to the left hemidiaphragm.",
+  "history": "The patient had been treated according to COPD management standards without clinical improvement. He had a history of trauma to the left hemidiaphragm and had been experiencing chronic dyspnea. He had been on bronchodilator therapy and oxygen support without any improvement.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 24/min. Physical examination revealed decreased lung sounds on the left side.",
+  "labs": "Ultrasound assessment of diaphragmatic thickness and mobility: decreased mobility of the left hemidiaphragm. Computed Tomography: diaphragmatic palsy. Spirometry: normal lung function.",
+  "correct_diagnosis": "Diaphragmatic palsy",
+  "differentials": [
+    "Diaphragmatic palsy",
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Pneumonia",
+    "Pulmonary Embolism",
+    "Cardiac Failure"
+  ],
+  "correct_ranking": [
+    "Diaphragmatic palsy",
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Pneumonia",
+    "Pulmonary Embolism",
+    "Cardiac Failure"
+  ]
+}

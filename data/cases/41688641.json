@@ -1,0 +1,23 @@
+{
+  "case_id": "41688641",
+  "specialty": "seizure",
+  "chief_complaint": "A 1-year-old girl presented with seizures and a right-sided scalp swelling.",
+  "history": "The child had a previous head injury at 2 months old, which resulted in a growing skull fracture (GSF). The GSF presented with seizures and a right-sided scalp swelling.",
+  "exam": "Vital signs were not provided. Physical examination revealed a right-sided scalp swelling.",
+  "labs": "Imaging studies (not specified) revealed a GSF. Other investigations were not mentioned.",
+  "correct_diagnosis": "Growing Skull Fracture (GSF)",
+  "differentials": [
+    "Growing Skull Fracture (GSF)",
+    "Epidural Hematoma",
+    "Subdural Hematoma",
+    "Meningitis",
+    "Cerebral Contusion"
+  ],
+  "correct_ranking": [
+    "Growing Skull Fracture (GSF)",
+    "Epidural Hematoma",
+    "Subdural Hematoma",
+    "Meningitis",
+    "Cerebral Contusion"
+  ]
+}

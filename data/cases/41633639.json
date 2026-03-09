@@ -1,0 +1,23 @@
+{
+  "case_id": "41633639",
+  "specialty": "stroke",
+  "chief_complaint": "A 14-year-old female presented with a 12-day history of right-sided weakness and speech difficulties.",
+  "history": "Cerebral infarction secondary to ECMO is a commonly reported complication in the pediatric population. The patient developed a right middle cerebral artery (MCA) acute ischemic stroke (AIS) 12 days after veno-arterial ECMO (VA-ECMO) decannulation.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed right-sided weakness and dysarthria.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: MRI showing a right MCA infarct. Other tests: none.",
+  "correct_diagnosis": "Right middle cerebral artery (MCA) acute ischemic stroke (AIS) secondary to ECMO",
+  "differentials": [
+    "Right middle cerebral artery (MCA) acute ischemic stroke (AIS) secondary to ECMO",
+    "Cerebral vasculitis",
+    "Migraine with aura",
+    "Reversible cerebral vasoconstriction syndrome",
+    "Cryptogenic stroke"
+  ],
+  "correct_ranking": [
+    "Right middle cerebral artery (MCA) acute ischemic stroke (AIS) secondary to ECMO",
+    "Cerebral vasculitis",
+    "Migraine with aura",
+    "Reversible cerebral vasoconstriction syndrome",
+    "Cryptogenic stroke"
+  ]
+}

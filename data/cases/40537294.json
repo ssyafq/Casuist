@@ -1,0 +1,23 @@
+{
+  "case_id": "40537294",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A woman in her 50s presents with dehydration, fatigue, respiratory distress, and severe metabolic acidosis.",
+  "history": "The patient has a 15-year history of type 2 diabetes and chronic heart failure. She had been taking metformin and sodium-glucose cotransporter 2 (SGLT2) inhibitors. She recently experienced dehydration and fluid restriction due to working in hot conditions.",
+  "exam": "The patient showed signs of dehydration, fatigue, respiratory distress, hypotension, tachypnea, and hypothermia.",
+  "labs": "Severe metabolic acidosis, lactic acidosis, acute renal failure, hypoglycemia, and elevated beta-hydroxybutyrate level.",
+  "correct_diagnosis": "Concurrent Metformin-Associated Lactic Acidosis and Euglycemic Diabetic Ketoacidosis",
+  "differentials": [
+    "Ketoacidosis",
+    "Lactic Acidosis",
+    "Concurrent Metformin-Associated Lactic Acidosis and Euglycemic Diabetic Ketoacidosis",
+    "Diabetic Hyperosmolar Hyperglycemic State",
+    "Alcoholic Ketoacidosis"
+  ],
+  "correct_ranking": [
+    "Concurrent Metformin-Associated Lactic Acidosis and Euglycemic Diabetic Ketoacidosis",
+    "Lactic Acidosis",
+    "Ketoacidosis",
+    "Diabetic Hyperosmolar Hyperglycemic State",
+    "Alcoholic Ketoacidosis"
+  ]
+}

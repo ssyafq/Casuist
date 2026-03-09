@@ -1,0 +1,23 @@
+{
+  "case_id": "41592878",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 10-year-old male patient presents with recurrent episodes of acute pancreatitis.",
+  "history": "The patient has experienced multiple episodes of abdominal pain and vomiting over the past year. Genetic analysis revealed heterozygous mutations in the CFTR gene (p.Ala72Thr and p.Leu1156Phe).",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20 breaths/min. Physical examination reveals abdominal tenderness and guarding.",
+  "labs": "Elevated salivary-type amylase levels (3.5 times the upper limit of normal), normal lipase levels. Genetic analysis: heterozygous mutations in the CFTR gene (p.Ala72Thr and p.Leu1156Phe).",
+  "correct_diagnosis": "Acute recurrent pancreatitis due to partial CFTR dysfunction",
+  "differentials": [
+    "Acute recurrent pancreatitis due to partial CFTR dysfunction",
+    "Cystic fibrosis",
+    "Pancreatitis due to gallstones",
+    "Pancreatitis due to alcohol use",
+    "Pancreatitis due to hypertriglyceridemia"
+  ],
+  "correct_ranking": [
+    "Acute recurrent pancreatitis due to partial CFTR dysfunction",
+    "Cystic fibrosis",
+    "Pancreatitis due to gallstones",
+    "Pancreatitis due to alcohol use",
+    "Pancreatitis due to hypertriglyceridemia"
+  ]
+}

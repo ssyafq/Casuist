@@ -1,0 +1,23 @@
+{
+  "case_id": "40518345",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 23-year-old male presented with weakness starting in his legs that progressed to generalized weakness and body aches.",
+  "history": "The patient had no past medical history and presented to the emergency department via EMS. Initial concerns were for Guillain-Barre or a tickborne illness.",
+  "exam": "No specific physical examination findings are provided, but the patient developed ventricular tachycardia that degenerated into ventricular fibrillation.",
+  "labs": "No specific laboratory results are provided, but the patient had recurrent ventricular arrhythmias and was profoundly hypoxic.",
+  "correct_diagnosis": "Thyrotoxic hypokalemic periodic paralysis",
+  "differentials": [
+    "Guillain-Barre",
+    "Thyroid storm",
+    "Tickborne illness",
+    "Thyrotoxic hypokalemic periodic paralysis",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Thyrotoxic hypokalemic periodic paralysis",
+    "Thyroid storm",
+    "Cardiac arrhythmia",
+    "Guillain-Barre",
+    "Tickborne illness"
+  ]
+}

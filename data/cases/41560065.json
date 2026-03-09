@@ -1,0 +1,23 @@
+{
+  "case_id": "41560065",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 56-year-old man presented with recurrent melena.",
+  "history": "The patient has a history of recurrent melena. He underwent an esophagogastroduodenoscopy which revealed large fundic gastric varices without esophageal varices. Cross-sectional imaging identified a wandering spleen displaced into the pelvic cavity with venous congestion but no evidence of liver disease. He had a previous endoscopic cyanoacrylate injection for hemostasis, but it provided only temporary relief.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG, bloods, imaging: Esophagogastroduodenoscopy revealed large fundic gastric varices without esophageal varices. Cross-sectional imaging identified a wandering spleen displaced into the pelvic cavity with venous congestion but no evidence of liver disease.",
+  "correct_diagnosis": "Wandering spleen with splenic vein torsion and sinistral portal hypertension",
+  "differentials": [
+    "Wandering spleen with splenic vein torsion and sinistral portal hypertension",
+    "Gastric varices due to liver cirrhosis",
+    "Gastric varices due to portal vein thrombosis",
+    "Gastric varices due to splenic vein thrombosis",
+    "Gastric varices due to non-steroidal anti-inflammatory drug (NSAID) use"
+  ],
+  "correct_ranking": [
+    "Wandering spleen with splenic vein torsion and sinistral portal hypertension",
+    "Gastric varices due to liver cirrhosis",
+    "Gastric varices due to portal vein thrombosis",
+    "Gastric varices due to splenic vein thrombosis",
+    "Gastric varices due to non-steroidal anti-inflammatory drug (NSAID) use"
+  ]
+}

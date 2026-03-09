@@ -1,0 +1,23 @@
+{
+  "case_id": "35370958",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 25-year-old man with recurrent diabetic ketoacidosis (DKA) presented with tachycardia and disturbance of consciousness.",
+  "history": "The patient had a history of recurrent DKA and was frequently brought to the emergency room with similar symptoms. Despite DKA treatment, his tachycardia and disturbance of consciousness did not improve.",
+  "exam": "The patient had a Burch-Wartofsky Point Scale score of 80 points.",
+  "labs": "No specific lab results are mentioned, but the patient was diagnosed based on the Japan Thyroid Association criteria.",
+  "correct_diagnosis": "Thyroid Storm (TS) coexisting with Diabetic Ketoacidosis (DKA)",
+  "differentials": [
+    "Diabetic Ketoacidosis (DKA) alone",
+    "Thyroid Storm (TS) coexisting with Diabetic Ketoacidosis (DKA)",
+    "Hyperthyroidism",
+    "Sepsis",
+    "Adrenal Crisis"
+  ],
+  "correct_ranking": [
+    "Thyroid Storm (TS) coexisting with Diabetic Ketoacidosis (DKA)",
+    "Diabetic Ketoacidosis (DKA) alone",
+    "Hyperthyroidism",
+    "Sepsis",
+    "Adrenal Crisis"
+  ]
+}

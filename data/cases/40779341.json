@@ -1,0 +1,23 @@
+{
+  "case_id": "40779341",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 76-year-old man presented with diabetic ketoacidosis and a thrombotic complication.",
+  "history": "The patient had no prior history of diabetes and presented with symptoms of DKA, which is characterized by insulin deficiency leading to hyperglycemia, ketosis, and metabolic acidosis.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided, but the patient had hyperglycemia and was in a pro-thrombotic state.",
+  "correct_diagnosis": "Diabetic Ketoacidosis with thrombotic complication",
+  "differentials": [
+    "Hypovolemic shock",
+    "Diabetic Ketoacidosis with thrombotic complication",
+    "Severe dehydration",
+    "Lactic acidosis",
+    "Hyperosmolar hyperglycemic state"
+  ],
+  "correct_ranking": [
+    "Diabetic Ketoacidosis with thrombotic complication",
+    "Hyperosmolar hyperglycemic state",
+    "Lactic acidosis",
+    "Hypovolemic shock",
+    "Severe dehydration"
+  ]
+}

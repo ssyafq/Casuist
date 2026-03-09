@@ -1,0 +1,23 @@
+{
+  "case_id": "41621009",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 65-year-old male patient presented with severe anemia-induced type 2 myocardial infarction.",
+  "history": "The patient had significant prior atherosclerotic coronary disease and experienced acute bleeding, which led to severe anemia. He had extensive ST depression on ECG.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm. Physical examination revealed no specific findings.",
+  "labs": "ECG: extensive ST depression. Blood tests: hemoglobin <80 g/L, high sensitivity troponin T and creatine kinase levels slightly elevated.",
+  "correct_diagnosis": "Severe anemia-induced type 2 myocardial infarction",
+  "differentials": [
+    "Severe anemia-induced type 2 myocardial infarction",
+    "Acute coronary syndrome",
+    "Cardiogenic shock",
+    "Plaque rupture myocardial infarction",
+    "Takotsubo cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Severe anemia-induced type 2 myocardial infarction",
+    "Acute coronary syndrome",
+    "Cardiogenic shock",
+    "Plaque rupture myocardial infarction",
+    "Takotsubo cardiomyopathy"
+  ]
+}

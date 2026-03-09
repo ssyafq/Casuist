@@ -1,0 +1,23 @@
+{
+  "case_id": "41606745",
+  "specialty": "COPD",
+  "chief_complaint": "A 76-year-old mainland Chinese man presents with progressive hoarseness.",
+  "history": "The patient has chronic obstructive pulmonary disease (COPD) and initially presented with hoarseness, likely due to recurrent laryngeal nerve involvement. Contrast-enhanced chest computed tomography revealed a mass in the left hilar and upper mediastinal regions, suggestive of lung carcinoma. The patient was treated with intravenous amphotericin B followed by oral isavuconazole, resulting in marked lesion regression and symptomatic improvement after 6 months of antifungal therapy.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Computed tomography-guided mediastinal biopsy confirmed the presence of nonseptate, ribbon-like hyphae, consistent with mucormycosis. Contrast-enhanced chest computed tomography revealed a mass in the left hilar and upper mediastinal regions.",
+  "correct_diagnosis": "Primary mediastinal mucormycosis",
+  "differentials": [
+    "Primary mediastinal mucormycosis",
+    "Lymphoma",
+    "Thymoma",
+    "Lung carcinoma",
+    "Recurrent laryngeal nerve palsy"
+  ],
+  "correct_ranking": [
+    "Primary mediastinal mucormycosis",
+    "Lymphoma",
+    "Thymoma",
+    "Lung carcinoma",
+    "Recurrent laryngeal nerve palsy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41103187",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 38-year-old female presenting with thyroid storm and encephalopathy, characterized by impaired consciousness, seizures, and leukopenia.",
+  "history": "The patient has a history of Graves' disease and was admitted with a Burch-Wartofsky score of 70. Due to contraindications for antithyroid drugs (ATD), she was treated with double filtration plasmapheresis (DFPP).",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the report.",
+  "labs": "ECG, bloods, imaging, and other tests: Burch-Wartofsky score of 70, leukopenia (1.82 x 10^9/L), anti-thyrotropin receptor antibodies (TRAb > 40-29.8 IU/L), thyroid hormones (FT4 88.7-19.7 pmol/L).",
+  "correct_diagnosis": "Thyroid storm with encephalopathy",
+  "differentials": [
+    "Thyroid storm with encephalopathy",
+    "Thyrotoxic crisis",
+    "Graves' disease",
+    "Thyroid storm",
+    "Thyrotoxicosis"
+  ],
+  "correct_ranking": [
+    "Thyroid storm with encephalopathy",
+    "Thyrotoxic crisis",
+    "Graves' disease",
+    "Thyroid storm",
+    "Thyrotoxicosis"
+  ]
+}

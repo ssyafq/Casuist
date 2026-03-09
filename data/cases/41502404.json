@@ -1,0 +1,23 @@
+{
+  "case_id": "41502404",
+  "specialty": "pneumonia",
+  "chief_complaint": "An 80-year-old female patient presented with a severe SARS-CoV-2 infection.",
+  "history": "The patient was diagnosed with dermatomyositis in 2014 and initially managed with methotrexate (MTX). In March 2022, the patient experienced a severe SARS-CoV-2 infection with significant pulmonary involvement, necessitating discontinuation of MTX.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Multiple evaluations confirmed sustained negativization of autoantibodies, while persistent capillaroscopic abnormalities suggested ongoing subclinical disease activity.",
+  "correct_diagnosis": "Immunomodulatory effects of SARS-CoV-2 on autoimmune diseases",
+  "differentials": [
+    "Immunomodulatory effects of SARS-CoV-2 on autoimmune diseases",
+    "Dermatomyositis",
+    "Pneumonia due to SARS-CoV-2",
+    "Autoimmune disease exacerbation",
+    "Pulmonary involvement in SARS-CoV-2 infection"
+  ],
+  "correct_ranking": [
+    "Immunomodulatory effects of SARS-CoV-2 on autoimmune diseases",
+    "Dermatomyositis",
+    "Pneumonia due to SARS-CoV-2",
+    "Autoimmune disease exacerbation",
+    "Pulmonary involvement in SARS-CoV-2 infection"
+  ]
+}

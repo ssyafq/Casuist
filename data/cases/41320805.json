@@ -1,0 +1,23 @@
+{
+  "case_id": "41320805",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "7-year-old girl presents with Epstein-Barr Virus-Positive Diffuse Large B-Cell Lymphoma after kidney transplantation.",
+  "history": "Patient has Schimke Immuno-Osseous Dysplasia, a rare autosomal recessive multisystem disorder. She underwent kidney transplantation at 7 years old and developed post-transplant lymphoproliferative disorder. She received rituximab therapy and reduced-intensity immunosuppression.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided. Epstein-Barr virus-positive diffuse large B-cell lymphoma confirmed.",
+  "correct_diagnosis": "Epstein-Barr Virus-Positive Diffuse Large B-Cell Lymphoma",
+  "differentials": [
+    "Epstein-Barr Virus-Positive Diffuse Large B-Cell Lymphoma",
+    "Post-Transplant Lymphoproliferative Disorder",
+    "Schimke Immuno-Osseous Dysplasia",
+    "Kidney Transplant Rejection",
+    "Immunosuppression-Related Infection"
+  ],
+  "correct_ranking": [
+    "Epstein-Barr Virus-Positive Diffuse Large B-Cell Lymphoma",
+    "Post-Transplant Lymphoproliferative Disorder",
+    "Schimke Immuno-Osseous Dysplasia",
+    "Kidney Transplant Rejection",
+    "Immunosuppression-Related Infection"
+  ]
+}

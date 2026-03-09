@@ -1,0 +1,23 @@
+{
+  "case_id": "41605554",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 65-year-old male patient with hepatocellular carcinoma presented with severe shortness of breath and acute hypoxic respiratory failure.",
+  "history": "Immune checkpoint inhibitor (ICI) pneumonitis is a potentially life-threatening immune-related adverse event associated with ICI therapy. The patient was on durvalumab and tremelimumab. Standard treatment involves discontinuation of ICIs and initiation of corticosteroids. However, the patient was treated with upfront pulse-dose corticosteroids and intravenous immunoglobulin (IVIG) combination.",
+  "exam": "Vital signs: tachypnea, tachycardia, and hypoxia. Physical examination revealed bilateral lung crackles.",
+  "labs": "Investigations: Chest X-ray showed bilateral infiltrates. Blood tests revealed elevated inflammatory markers. Pulmonary function tests showed significant impairment.",
+  "correct_diagnosis": "Immune checkpoint inhibitor pneumonitis",
+  "differentials": [
+    "Immune checkpoint inhibitor pneumonitis",
+    "Pneumocystis jirovecii pneumonia",
+    "Bacterial pneumonia",
+    "Viral pneumonia",
+    "Acute respiratory distress syndrome"
+  ],
+  "correct_ranking": [
+    "Immune checkpoint inhibitor pneumonitis",
+    "Pneumocystis jirovecii pneumonia",
+    "Bacterial pneumonia",
+    "Viral pneumonia",
+    "Acute respiratory distress syndrome"
+  ]
+}

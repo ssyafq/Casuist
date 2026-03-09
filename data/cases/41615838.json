@@ -1,0 +1,23 @@
+{
+  "case_id": "41615838",
+  "specialty": "meningitis",
+  "chief_complaint": "A 45.5-year-old male presented with headache after traveling to Italy.",
+  "history": "The patient had clinical signs of meningitis, including headache, and reported insect bites. He underwent lumbar puncture and serological testing.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Lumbar puncture confirmed the diagnosis in three cases, and IgM/IgG serology confirmed infection in all cases. TOSV detection by polymerase chain reaction in serum was possible in one patient, with nucleic acid sequencing identifying a lineage B strain.",
+  "correct_diagnosis": "Imported aseptic meningitis due to Toscana virus infection",
+  "differentials": [
+    "Imported aseptic meningitis due to Toscana virus infection",
+    "Bacterial meningitis",
+    "Viral meningitis (non-Toscana)",
+    "Fungal meningitis",
+    "Parasitic meningitis"
+  ],
+  "correct_ranking": [
+    "Imported aseptic meningitis due to Toscana virus infection",
+    "Bacterial meningitis",
+    "Viral meningitis (non-Toscana)",
+    "Fungal meningitis",
+    "Parasitic meningitis"
+  ]
+}

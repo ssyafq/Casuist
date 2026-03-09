@@ -1,0 +1,23 @@
+{
+  "case_id": "41505815",
+  "specialty": "meningitis",
+  "chief_complaint": "A 69-year-old male presented with a two-year history of progressive urinary retention, urgency, and frequency.",
+  "history": "The patient had a two-year history of progressive urinary retention, urgency, and frequency. Initial management for benign prostatic hyperplasia was ineffective. He subsequently developed fever, headache, and dizziness. He had a history of untreated testicular tuberculosis and pulmonary nodules on CT.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Cerebrospinal fluid (CSF) analysis revealed lymphocytic pleocytosis and elevated protein. CSF culture, Xpert MTB/RIF, and metagenomic next-generation sequencing (mNGS) were negative. MRI showed a prostatic nodule.",
+  "correct_diagnosis": "Possible tuberculous meningitis",
+  "differentials": [
+    "Possible tuberculous meningitis",
+    "Benign prostatic hyperplasia",
+    "Spinal cord injury",
+    "Prostatic tuberculosis",
+    "Disseminated tuberculosis"
+  ],
+  "correct_ranking": [
+    "Possible tuberculous meningitis",
+    "Prostatic tuberculosis",
+    "Disseminated tuberculosis",
+    "Benign prostatic hyperplasia",
+    "Spinal cord injury"
+  ]
+}

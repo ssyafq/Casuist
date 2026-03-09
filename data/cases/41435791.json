@@ -1,0 +1,23 @@
+{
+  "case_id": "41435791",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 45-year-old female patient presented with typical chest pain associated with electrocardiogram in favor of persistent ST segment elevation (STEMI).",
+  "history": "The patient's history revealed a rare secretory neuroendocrine tumor of the adrenal medulla, pheochromocytoma, diagnosed based on elevated adrenaline and noradrenaline levels. Cross-sectional imaging highlighted the tumor. The patient's cardiovascular complications included rhythm disturbances, hypotension, shock, acute coronary syndromes, transient ischemic attacks, and cerebrovascular accidents.",
+  "exam": "Vital signs included a blood pressure of 120/80 mmHg and a heart rate of 80 beats per minute. Physical examination revealed no significant abnormalities.",
+  "labs": "Investigations included an electrocardiogram in favor of persistent ST segment elevation (STEMI), elevation of cardiac necrosis markers, and a coronary angiography revealing an anomalous origin of the right coronary artery and a pheochromocytoma.",
+  "correct_diagnosis": "MINOCA revealing an anomalous origin of right coronary artery and a pheochromocytoma",
+  "differentials": [
+    "MINOCA revealing an anomalous origin of right coronary artery and a pheochromocytoma",
+    "Takotsubo cardiomyopathy",
+    "Myocarditis",
+    "Catecholamine-induced cardiomyopathy",
+    "Anomalous origin of coronary artery"
+  ],
+  "correct_ranking": [
+    "MINOCA revealing an anomalous origin of right coronary artery and a pheochromocytoma",
+    "Takotsubo cardiomyopathy",
+    "Myocarditis",
+    "Catecholamine-induced cardiomyopathy",
+    "Anomalous origin of coronary artery"
+  ]
+}

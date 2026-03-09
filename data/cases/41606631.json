@@ -1,0 +1,23 @@
+{
+  "case_id": "41606631",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 38-year-old Greek male developed severe symptoms, including hematological stress, after his first and only mRNA SARS-CoV-2 vaccination.",
+  "history": "The patient has a beta-zero thalassemia trait and a history of regular taurine intake (500 mg/day) for years, which helped control lactate and ferritin levels. He developed lactic acidosis and hyperferritinemia after vaccination, with lactate levels > 4 mmol/ml and ferritin levels > 820 ng/ml. Urine tests showed organic acid and plasma metabolite levels indicative of mitochondrial dysfunction.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Lactate levels > 4 mmol/ml, ferritin levels > 820 ng/ml, and urine tests showing organic acid and plasma metabolite levels indicative of mitochondrial dysfunction.",
+  "correct_diagnosis": "Lactic acidosis and hyperferritinemia after mRNA SARS-CoV-2 vaccination in a patient with beta-zero thalassemia trait",
+  "differentials": [
+    "Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS)",
+    "Lactic acidosis and hyperferritinemia after mRNA SARS-CoV-2 vaccination in a patient with beta-zero thalassemia trait",
+    "Vitamin B12 deficiency",
+    "Iron overload",
+    "Mitochondrial dysfunction"
+  ],
+  "correct_ranking": [
+    "Lactic acidosis and hyperferritinemia after mRNA SARS-CoV-2 vaccination in a patient with beta-zero thalassemia trait",
+    "Mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes (MELAS)",
+    "Mitochondrial dysfunction",
+    "Vitamin B12 deficiency",
+    "Iron overload"
+  ]
+}

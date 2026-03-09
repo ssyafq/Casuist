@@ -1,0 +1,23 @@
+{
+  "case_id": "41147241",
+  "specialty": "cardiology",
+  "chief_complaint": "A 16-year-old male from a rural African region presented with a 2-week history of progressive shortness of breath and fatigue.",
+  "history": "The patient had no significant past medical history and was not on any medications. He had a history of mild hypertension, which was not well-controlled. He was a non-smoker and had no history of substance abuse. He had been experiencing symptoms of heart failure for 2 weeks, including shortness of breath, fatigue, and swelling in his legs.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 120 bpm, RR 24 bpm, O2 sat 92% on room air. Physical examination revealed a loud S3 gallop, bilateral lower limb edema, and a grade 2/6 pansystolic murmur at the apex.",
+  "labs": "ECG: Normal sinus rhythm with left ventricular hypertrophy. Bloods: Elevated troponin T (0.5 ng/mL), normal creatinine kinase. Echocardiogram: Left ventricular ejection fraction (LVEF) 30%, left ventricular hypertrophy, and a large pericardial effusion.",
+  "correct_diagnosis": "Restrictive cardiomyopathy due to Fabry disease",
+  "differentials": [
+    "Restrictive cardiomyopathy due to Fabry disease",
+    "Dilated cardiomyopathy",
+    "Hypertrophic cardiomyopathy",
+    "Coronary artery disease",
+    "Pericardial effusion"
+  ],
+  "correct_ranking": [
+    "Restrictive cardiomyopathy due to Fabry disease",
+    "Dilated cardiomyopathy",
+    "Hypertrophic cardiomyopathy",
+    "Coronary artery disease",
+    "Pericardial effusion"
+  ]
+}

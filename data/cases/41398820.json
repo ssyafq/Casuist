@@ -1,0 +1,23 @@
+{
+  "case_id": "41398820",
+  "specialty": "stroke",
+  "chief_complaint": "Four children, aged between unknown and 6 years, presented with symptoms of Mycoplasma pneumoniae pneumonia (MPP) and cerebral watershed infarction.",
+  "history": "The children were admitted to Hebei Children's Hospital between January 2018 and January 2024. They developed cerebral infarction during the acute stage of MPP. Cerebral magnetic resonance imaging revealed cerebral watershed infarction in all 4 children. Cases 1 and 4 tested positive for MP-PCR in their cerebrospinal fluid. Cases 2 and 3 underwent fibrebronchoscopy under basic anesthesia and developed hemiplegia postoperatively.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the source.",
+  "labs": "Cerebral magnetic resonance imaging revealed cerebral watershed infarction in all 4 children. Thrombi were detected in other arteries in Cases 1 and 4. MP-PCR was positive in the cerebrospinal fluid of Cases 1 and 4. Fibrebronchoscopy was performed on Cases 2 and 3.",
+  "correct_diagnosis": "Mycoplasma pneumoniae pneumonia with cerebral watershed infarction",
+  "differentials": [
+    "Mycoplasma pneumoniae pneumonia with cerebral watershed infarction",
+    "Cerebral vasculitis",
+    "Hypercoagulability",
+    "Hypoperfusion",
+    "Cerebral embolism"
+  ],
+  "correct_ranking": [
+    "Mycoplasma pneumoniae pneumonia with cerebral watershed infarction",
+    "Cerebral vasculitis",
+    "Hypercoagulability",
+    "Hypoperfusion",
+    "Cerebral embolism"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40670106",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 58-year-old woman with impaired consciousness and significant abdominal distension. She was found to have diabetic ketoacidosis associated with urinary retention.",
+  "history": "The patient has schizophrenia and was taking olanzapine. She was transported to the hospital by ambulance due to impaired consciousness.",
+  "exam": "Significant abdominal distension",
+  "labs": "Diabetic ketoacidosis confirmed",
+  "correct_diagnosis": "Olanzapine-induced Diabetic Ketoacidosis with Urinary Retention",
+  "differentials": [
+    "Urinary Tract Infection",
+    "Olanzapine-induced Diabetic Ketoacidosis with Urinary Retention",
+    "Acute Kidney Injury",
+    "Sepsis",
+    "Dehydration"
+  ],
+  "correct_ranking": [
+    "Olanzapine-induced Diabetic Ketoacidosis with Urinary Retention",
+    "Urinary Tract Infection",
+    "Dehydration",
+    "Acute Kidney Injury",
+    "Sepsis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40729104",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 32-year-old man presented to the ED following loss of consciousness. He was newly diagnosed with type 1 diabetes mellitus.",
+  "history": "The patient had a new diagnosis of type 1 diabetes mellitus and presented with loss of consciousness, putting him in a high-risk physiologic state due to diabetic ketoacidosis.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided, but radiologic progression of the disease correlated well with the patient's clinical picture.",
+  "correct_diagnosis": "Acute invasive fungal sinusitis",
+  "differentials": [
+    "Mucormycosis",
+    "Aspergillosis",
+    "Acute invasive fungal sinusitis",
+    "Bacterial sinusitis",
+    "Fungal ball sinusitis"
+  ],
+  "correct_ranking": [
+    "Acute invasive fungal sinusitis",
+    "Mucormycosis",
+    "Aspergillosis",
+    "Bacterial sinusitis",
+    "Fungal ball sinusitis"
+  ]
+}

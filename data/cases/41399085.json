@@ -1,0 +1,23 @@
+{
+  "case_id": "41399085",
+  "specialty": "meningitis",
+  "chief_complaint": "A 30-year-old female patient presented with fever, headache, and left-sided limb numbness.",
+  "history": "The patient had a history of systemic lupus erythematosus (SLE) and was maintained on glucocorticoids and cyclosporine. Despite adjustments to the immunosuppressive regimen, her condition continued to deteriorate, manifesting as impaired consciousness and meningeal signs.",
+  "exam": "Vital signs: fever, neck stiffness. Physical examination: left-sided limb numbness.",
+  "labs": "Blood culture: Listeria monocytogenes. Cerebrospinal fluid (CSF) analysis via next-generation sequencing (NGS): varicella-zoster virus (VZV).",
+  "correct_diagnosis": "Central nervous system (CNS) mixed infection",
+  "differentials": [
+    "Central nervous system (CNS) mixed infection",
+    "Neuropsychiatric systemic lupus erythematosus (NPSLE)",
+    "Listeria monocytogenes meningitis",
+    "Varicella-zoster virus (VZV) encephalitis",
+    "CNS vasculitis"
+  ],
+  "correct_ranking": [
+    "Central nervous system (CNS) mixed infection",
+    "Neuropsychiatric systemic lupus erythematosus (NPSLE)",
+    "Listeria monocytogenes meningitis",
+    "Varicella-zoster virus (VZV) encephalitis",
+    "CNS vasculitis"
+  ]
+}

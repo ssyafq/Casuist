@@ -1,0 +1,23 @@
+{
+  "case_id": "41543107",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 30-year-old woman presented with shortness of breath and swelling in her legs.",
+  "history": "She had been using a mercury-containing whitening cream for several months. She had no history of lung or kidney disease, but had been experiencing fatigue and hair loss. She had no known allergies or sensitivities.",
+  "exam": "Vital signs: BP 120/80, HR 100, RR 24, O2 sat 92%. Physical examination revealed bilateral lower extremity edema and decreased breath sounds.",
+  "labs": "Chest enhancement CT: pulmonary embolism. Laboratory tests: nephrotic syndrome, hypothyroidism. Blood and urine were positive for mercury.",
+  "correct_diagnosis": "Hidden mercury poisoning",
+  "differentials": [
+    "Hidden mercury poisoning",
+    "Pulmonary embolism",
+    "Nephrotic syndrome",
+    "Hypothyroidism",
+    "Mercury toxicity"
+  ],
+  "correct_ranking": [
+    "Hidden mercury poisoning",
+    "Pulmonary embolism",
+    "Nephrotic syndrome",
+    "Hypothyroidism",
+    "Mercury toxicity"
+  ]
+}

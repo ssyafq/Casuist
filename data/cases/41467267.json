@@ -1,0 +1,23 @@
+{
+  "case_id": "41467267",
+  "specialty": "stroke",
+  "chief_complaint": "A 50-year-old woman presented with acute left limb weakness and slurred speech.",
+  "history": "The patient has a history of hyperthyroidism and paroxysmal atrial fibrillation without regular treatment. She presented with acute symptoms 78 minutes after onset.",
+  "exam": "Vital signs: not provided. Physical examination revealed left limb weakness and slurred speech.",
+  "labs": "ECG: AF with a rapid ventricular rate of 165 beats per minute. Chest radiography: cardiomegaly with bilateral pleural effusion. Laboratory tests: elevated free thyroxine, triiodothyronine, antithyroid-stimulating hormone (TSH) receptor antibody, and reduced TSH content. Echocardiography: global left ventricular hypokinesia.",
+  "correct_diagnosis": "Thyroid storm with cardioembolic stroke",
+  "differentials": [
+    "Thyroid storm with cardioembolic stroke",
+    "Cardioembolic stroke",
+    "Thyroid crisis",
+    "Hyperthyroidism with atrial fibrillation",
+    "Acute left limb weakness"
+  ],
+  "correct_ranking": [
+    "Thyroid storm with cardioembolic stroke",
+    "Cardioembolic stroke",
+    "Thyroid crisis",
+    "Hyperthyroidism with atrial fibrillation",
+    "Acute left limb weakness"
+  ]
+}

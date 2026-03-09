@@ -1,0 +1,23 @@
+{
+  "case_id": "41405412",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 78-year-old male presented with an 11-hour history of chest tightness.",
+  "history": "Acute occlusive myocardial infarction (OMI) complicated by ventricular pre-excitation. The patient had a reduction in the extent of localized ventricular pre-excitation accompanied by secondary ST-T segment abnormalities in leads V1-V3.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Emergency coronary angiography revealed occlusion of the left anterior descending artery.",
+  "correct_diagnosis": "Acute occlusive myocardial infarction of the left anterior descending artery",
+  "differentials": [
+    "Acute occlusive myocardial infarction of the left anterior descending artery",
+    "Ventricular pre-excitation",
+    "Acute coronary syndrome",
+    "Myocardial infarction due to right coronary artery occlusion",
+    "Acute myocardial infarction due to occlusion of the circumflex artery"
+  ],
+  "correct_ranking": [
+    "Acute occlusive myocardial infarction of the left anterior descending artery",
+    "Ventricular pre-excitation",
+    "Acute coronary syndrome",
+    "Myocardial infarction due to right coronary artery occlusion",
+    "Acute myocardial infarction due to occlusion of the circumflex artery"
+  ]
+}

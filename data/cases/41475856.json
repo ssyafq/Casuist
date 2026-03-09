@@ -1,0 +1,23 @@
+{
+  "case_id": "41475856",
+  "specialty": "COPD",
+  "chief_complaint": "A 40-year-old male patient presented with progressively worsening respiratory symptoms.",
+  "history": "The patient had a known history of COPD and foreign body (FB) aspiration in adults is uncommon and often overlooked, particularly without a clear history of aspiration. Bilateral airway obstruction due to aspirated dentures is exceptionally rare and may mimic chronic obstructive pulmonary disease (COPD), resulting in diagnostic delay.",
+  "exam": "Vital signs and physical examination findings are not specified.",
+  "labs": "Imaging revealed radio-opaque FBs in the bilateral mainstem bronchi.",
+  "correct_diagnosis": "Bilateral mainstem bronchial obstruction by aspirated dentures",
+  "differentials": [
+    "Bilateral mainstem bronchial obstruction by aspirated dentures",
+    "Chronic obstructive pulmonary disease (COPD)",
+    "Pneumonia",
+    "Pulmonary embolism",
+    "Cardiac asthma"
+  ],
+  "correct_ranking": [
+    "Bilateral mainstem bronchial obstruction by aspirated dentures",
+    "Chronic obstructive pulmonary disease (COPD)",
+    "Pneumonia",
+    "Pulmonary embolism",
+    "Cardiac asthma"
+  ]
+}

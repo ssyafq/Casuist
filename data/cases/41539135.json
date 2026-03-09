@@ -1,0 +1,23 @@
+{
+  "case_id": "41539135",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 46-year-old female presenting with persistent cognitive, affective, and physical symptoms after SARS-CoV-2 infection.",
+  "history": "The patient has a history of post-COVID-19 condition (PCC) with persistent cognitive, affective, and physical symptoms. She completed a 6-week immersive virtual reality (VR)-based cognitive intervention.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Neuropsychological and psychological assessments occurred at baseline, after VR intervention (2-month follow-up), and at 5-month follow-up.",
+  "correct_diagnosis": "Post-COVID-19 condition (PCC)",
+  "differentials": [
+    "Post-COVID-19 condition (PCC)",
+    "Anxiety disorder",
+    "Depression",
+    "Cognitive impairment",
+    "Respiratory failure"
+  ],
+  "correct_ranking": [
+    "Post-COVID-19 condition (PCC)",
+    "Anxiety disorder",
+    "Depression",
+    "Cognitive impairment",
+    "Respiratory failure"
+  ]
+}

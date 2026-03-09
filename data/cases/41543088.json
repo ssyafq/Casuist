@@ -1,0 +1,23 @@
+{
+  "case_id": "41543088",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 3-year-old female patient presents with nausea, fever, and pallor.",
+  "history": "The patient has a history of iron deficiency anemia and recurrent pneumonia. Clinical symptoms include nausea, fever, and pallor. Initial evaluations indicated moderate anemia (HGB 73 g/L) and signs of infection, with imaging revealing diffuse ground-glass opacities.",
+  "exam": "Vital signs: fever, tachycardia. Physical examination: pallor.",
+  "labs": "Hemoglobin (HGB): 73 g/L, imaging: diffuse ground-glass opacities.",
+  "correct_diagnosis": "Idiopathic Pulmonary Hemosiderosis (IPH)",
+  "differentials": [
+    "Idiopathic Pulmonary Hemosiderosis (IPH)",
+    "Bronchiolitis",
+    "Pneumonia",
+    "Cystic Fibrosis",
+    "Bronchitis"
+  ],
+  "correct_ranking": [
+    "Idiopathic Pulmonary Hemosiderosis (IPH)",
+    "Bronchiolitis",
+    "Pneumonia",
+    "Cystic Fibrosis",
+    "Bronchitis"
+  ]
+}

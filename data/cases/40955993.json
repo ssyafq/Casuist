@@ -1,0 +1,23 @@
+{
+  "case_id": "40955993",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "60-year-old female presenting with severe generalized body aches, fatigue, and marked weakness in the proximal muscles of her limbs.",
+  "history": "Patient with a background of coronary artery disease and acute coronary syndrome, who underwent percutaneous coronary intervention and stenting 2 months prior. She was on high-intensity statin (atorvastatin 80 mg daily) and other guideline-recommended drugs.",
+  "exam": "Vital signs: not provided. Physical examination: marked weakness in the proximal muscles of her limbs.",
+  "labs": "Creatine phosphokinase level: 36,210 units/L. Renal parameters: not provided.",
+  "correct_diagnosis": "Statin-induced rhabdomyolysis",
+  "differentials": [
+    "Statin-induced rhabdomyolysis",
+    "Acute renal failure",
+    "Myopathy",
+    "Muscle strain",
+    "Electrolyte imbalance"
+  ],
+  "correct_ranking": [
+    "Statin-induced rhabdomyolysis",
+    "Acute renal failure",
+    "Myopathy",
+    "Muscle strain",
+    "Electrolyte imbalance"
+  ]
+}

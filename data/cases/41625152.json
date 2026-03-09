@@ -1,0 +1,23 @@
+{
+  "case_id": "41625152",
+  "specialty": "meningitis",
+  "chief_complaint": "A 67-year-old female patient presented with fever, vomiting, and impaired consciousness.",
+  "history": "The patient has a history of diabetes mellitus for over ten years. She presented with fever, vomiting, and impaired consciousness. CSF analysis showed significantly elevated cell count, elevated neutrophil percentage, and increased lactate dehydrogenase (LDH) levels.",
+  "exam": "Vital signs: fever, vomiting, impaired consciousness. Physical examination findings: not specified.",
+  "labs": "CSF analysis: significantly elevated cell count, elevated neutrophil percentage, and increased lactate dehydrogenase (LDH) levels. tNGS result of CSF: Streptococcus pyogenes and EBV coinfection. dPCR of peripheral blood: presence of Streptococcus species. Blood tests: sepsis, septic shock.",
+  "correct_diagnosis": "Intracranial infection, sepsis, and septic shock due to Streptococcus pyogenes and EBV coinfection",
+  "differentials": [
+    "Intracranial infection, sepsis, and septic shock due to Streptococcus pyogenes and EBV coinfection",
+    "Bacterial meningitis",
+    "Viral encephalitis",
+    "Fungal meningitis",
+    "Septic shock"
+  ],
+  "correct_ranking": [
+    "Intracranial infection, sepsis, and septic shock due to Streptococcus pyogenes and EBV coinfection",
+    "Bacterial meningitis",
+    "Viral encephalitis",
+    "Fungal meningitis",
+    "Septic shock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41475847",
+  "specialty": "pancreatitis",
+  "chief_complaint": "Three paediatric patients, aged 10, 12, and 14, presented with melena and pancreatitis.",
+  "history": "Hemosuccus pancreaticus is an exceedingly rare aetiology of gastrointestinal haemorrhage in the paediatric population. The diagnosis is challenging due to its uncommon occurrence and the concealed nature of the bleeding source, which is frequently overlooked during endoscopic examination.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "CT angiography identified haemorrhage originating from pseudoaneurysms of the left gastric, right gastric and splenic arteries.",
+  "correct_diagnosis": "Hemosuccus pancreaticus",
+  "differentials": [
+    "Hemosuccus pancreaticus",
+    "Gastrointestinal varices",
+    "Duodenal ulcer",
+    "Pancreatitis",
+    "Gastrointestinal lymphoma"
+  ],
+  "correct_ranking": [
+    "Hemosuccus pancreaticus",
+    "Gastrointestinal varices",
+    "Duodenal ulcer",
+    "Pancreatitis",
+    "Gastrointestinal lymphoma"
+  ]
+}

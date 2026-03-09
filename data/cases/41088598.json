@@ -1,0 +1,23 @@
+{
+  "case_id": "41088598",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 57-year-old male patient presented with acute coronary syndrome.",
+  "history": "The patient underwent emergency percutaneous coronary intervention surgery and was prescribed ticagrelor (90 mg twice daily) and atorvastatin (40 mg once daily). Three days after treatment initiation, he developed significantly elevated creatine kinase and myoglobin levels, and acute renal failure.",
+  "exam": "Vital signs: not available. Physical examination findings: not available.",
+  "labs": "Elevated creatine kinase, creatinine, and myoglobin levels.",
+  "correct_diagnosis": "Rhabdomyolysis",
+  "differentials": [
+    "Rhabdomyolysis",
+    "Acute renal failure",
+    "Myocardial infarction",
+    "Statin-induced myalgia",
+    "Ticagrelor-induced bleeding"
+  ],
+  "correct_ranking": [
+    "Rhabdomyolysis",
+    "Acute renal failure",
+    "Myocardial infarction",
+    "Statin-induced myalgia",
+    "Ticagrelor-induced bleeding"
+  ]
+}

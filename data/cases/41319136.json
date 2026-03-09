@@ -1,0 +1,23 @@
+{
+  "case_id": "41319136",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 60-year-old man presented with non-ST elevation myocardial infarction.",
+  "history": "The patient underwent emergency revascularization for a severely calcified lesion in the left circumflex artery. Despite initial stent implantation, intravascular ultrasound demonstrated stent underexpansion.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG showed signs of non-ST elevation myocardial infarction. Blood tests and imaging results were not provided.",
+  "correct_diagnosis": "Stent underexpansion in a severely calcified lesion",
+  "differentials": [
+    "Stent underexpansion in a severely calcified lesion",
+    "Stent thrombosis",
+    "Restenosis",
+    "Myocardial infarction due to coronary artery disease",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Stent underexpansion in a severely calcified lesion",
+    "Stent thrombosis",
+    "Restenosis",
+    "Myocardial infarction due to coronary artery disease",
+    "Cardiac arrhythmia"
+  ]
+}

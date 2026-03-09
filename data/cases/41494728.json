@@ -1,0 +1,23 @@
+{
+  "case_id": "41494728",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 70-year-old man presented with an acute right frontal intracerebral haemorrhage and an acute segmental pulmonary embolism.",
+  "history": "The patient had a history of cerebral amyloid angiopathy and presented to the emergency department with an acute right frontal intracerebral haemorrhage secondary to cerebral amyloid angiopathy. He also had an acute segmental pulmonary embolism. During hospitalisation, the patient developed a large expansile thrombus extending inferior from the IVC filter to the right popliteal vein.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: IVC filter and large expansile thrombus extending inferior from the IVC filter to the right popliteal vein. Other tests and their results: not provided.",
+  "correct_diagnosis": "Inferior vena cava thrombus with comorbid intracranial haemorrhage and cerebral amyloid angiopathy",
+  "differentials": [
+    "Inferior vena cava thrombus with comorbid intracranial haemorrhage and cerebral amyloid angiopathy",
+    "Pulmonary embolism",
+    "Intracranial haemorrhage",
+    "Cerebral amyloid angiopathy",
+    "Deep vein thrombosis"
+  ],
+  "correct_ranking": [
+    "Inferior vena cava thrombus with comorbid intracranial haemorrhage and cerebral amyloid angiopathy",
+    "Pulmonary embolism",
+    "Intracranial haemorrhage",
+    "Cerebral amyloid angiopathy",
+    "Deep vein thrombosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40276910",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 32-year-old woman presents with fever and palpitations.",
+  "history": "The patient has a history of Graves' disease on methimazole therapy and was diagnosed with COVID-19 infection a week ago.",
+  "exam": "She was febrile and tachycardic with fine tremors on examination.",
+  "labs": "Serum thyroid-stimulating hormone levels are <0.01 microIU/ml, with elevated T4 and T3, and agranulocytosis. Burch-Wartofsky Point Scale score was 60 points.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Sepsis",
+    "Graves' disease",
+    "COVID-19 infection",
+    "Agranulocytosis"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Graves' disease",
+    "COVID-19 infection",
+    "Sepsis",
+    "Agranulocytosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41659868",
+  "specialty": "meningitis",
+  "chief_complaint": "A 34-year-old woman presented with progressive quadriparesis, bilateral ptosis, and facial palsy developing over one month.",
+  "history": "Neuropsychiatric systemic lupus erythematosus (NPSLE) manifesting as Guillain-Barre syndrome (GBS) is exceptionally rare. The patient had marked B-cell dysregulation with elevated immunoglobulin G, positive antinuclear antibodies, anti-double-stranded DNA antibodies, anti-ribosomal P antibodies, and hypocomplementemia. She had inadequate response to intravenous immunoglobulin monotherapy.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Laboratory investigations revealed: immunoglobulin G (24.30 g/L), antinuclear antibodies (1:320), anti-double-stranded DNA antibodies (128 IU/ml), anti-ribosomal P antibodies (450 AU/ml), hypocomplementemia (C3 1.10 g/L, C4 0.28 g/L), cerebrospinal fluid analysis (protein 1314 mg/L, cells 1x10(6)/L), and nerve conduction studies (acute inflammatory demyelinating polyradiculoneuropathy).",
+  "correct_diagnosis": "Guillain-Barre syndrome in neuropsychiatric lupus",
+  "differentials": [
+    "Guillain-Barre syndrome in neuropsychiatric lupus",
+    "Acute inflammatory demyelinating polyradiculoneuropathy",
+    "Neuropsychiatric systemic lupus erythematosus",
+    "Chronic inflammatory demyelinating polyneuropathy",
+    "Myasthenia gravis"
+  ],
+  "correct_ranking": [
+    "Guillain-Barre syndrome in neuropsychiatric lupus",
+    "Acute inflammatory demyelinating polyradiculoneuropathy",
+    "Neuropsychiatric systemic lupus erythematosus",
+    "Chronic inflammatory demyelinating polyneuropathy",
+    "Myasthenia gravis"
+  ]
+}

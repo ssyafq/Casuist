@@ -1,0 +1,23 @@
+{
+  "case_id": "41520703",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 65-year-old male patient presents with a history of myocardial infarction.",
+  "history": "The patient has a history of hypertension, dyslipidaemia, and type 2 diabetes mellitus. He has a body mass index of >/=27kg/m(2) and established atherosclerotic disease. He is currently not on any medications.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 80 bpm, RR 20 breaths/min. Physical examination reveals a more atherogenic lipid profile.",
+  "labs": "ECG: normal. Bloods: elevated LDL cholesterol, decreased HDL cholesterol. Imaging: not mentioned.",
+  "correct_diagnosis": "Potential benefit from semaglutide in patients with metabolic syndrome",
+  "differentials": [
+    "Potential benefit from semaglutide in patients with metabolic syndrome",
+    "Type 2 diabetes mellitus",
+    "Atherosclerotic cardiovascular disease",
+    "Metabolic syndrome",
+    "Hypertension"
+  ],
+  "correct_ranking": [
+    "Potential benefit from semaglutide in patients with metabolic syndrome",
+    "Type 2 diabetes mellitus",
+    "Atherosclerotic cardiovascular disease",
+    "Metabolic syndrome",
+    "Hypertension"
+  ]
+}

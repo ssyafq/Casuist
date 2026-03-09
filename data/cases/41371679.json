@@ -1,0 +1,23 @@
+{
+  "case_id": "41371679",
+  "specialty": "stroke",
+  "chief_complaint": "A 57-year-old male presented with recurrent cerebral infarctions over one year.",
+  "history": "The patient had a family history of multiple stroke episodes starting in his late 50s. Brain MRI FLAIR showed diffuse hyperintensities in the deep white matter, suggesting cerebral small vessel disease (CSVD). Susceptibility-weighted imaging (SWI) revealed dot-like lesions along the surface of the midbrain ('Chocolate Chip Sign').",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Mutational analysis of the HTRA1 gene disclosed a heterozygous missense variant (NM_002775.4:c.754G>A, p.Ala252Thr). Brain MRI FLAIR and SWI findings.",
+  "correct_diagnosis": "HTRA1-related cerebral small vessel disease",
+  "differentials": [
+    "HTRA1-related cerebral small vessel disease",
+    "Cerebral amyloid angiopathy",
+    "CADASIL",
+    "Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy",
+    "Non-atherosclerotic vasculopathy"
+  ],
+  "correct_ranking": [
+    "HTRA1-related cerebral small vessel disease",
+    "Cerebral amyloid angiopathy",
+    "CADASIL",
+    "Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy",
+    "Non-atherosclerotic vasculopathy"
+  ]
+}

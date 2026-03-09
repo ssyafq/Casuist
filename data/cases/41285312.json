@@ -1,0 +1,23 @@
+{
+  "case_id": "41285312",
+  "specialty": "meningitis",
+  "chief_complaint": "A 53-year-old African-American male veteran presented with cough, blood-stained phlegm, hemoptysis, and headache.",
+  "history": "The patient had a history of staying in Arizona, USA. Chronic pulmonary coccidioidomycosis was suspected based on multiple pulmonary cavity lesions on CT and relevant exposure history. The diagnosis was confirmed by serological antibody tests (coccidioidomycosis IgG, positive; coccidioidomycosis IgM, negative).",
+  "exam": "Vital signs and physical examination findings are not explicitly mentioned.",
+  "labs": "Computed Tomography (CT): multiple pulmonary cavity lesions; Cerebrospinal Fluid (CSF) analysis: slight increase in cell count with positive IgG, negative IgM, and negative polymerase chain reaction results; Serological antibody tests: coccidioidomycosis IgG, positive; coccidioidomycosis IgM, negative.",
+  "correct_diagnosis": "Chronic pulmonary coccidioidomycosis complicated with meningitis",
+  "differentials": [
+    "Chronic pulmonary coccidioidomycosis complicated with meningitis",
+    "Cryptococcal meningitis",
+    "Aspergillus meningitis",
+    "Histoplasma meningitis",
+    "Mucormycosis meningitis"
+  ],
+  "correct_ranking": [
+    "Chronic pulmonary coccidioidomycosis complicated with meningitis",
+    "Cryptococcal meningitis",
+    "Aspergillus meningitis",
+    "Histoplasma meningitis",
+    "Mucormycosis meningitis"
+  ]
+}

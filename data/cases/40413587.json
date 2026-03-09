@@ -1,0 +1,23 @@
+{
+  "case_id": "40413587",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 35-year-old man with poorly controlled diabetes mellitus and a strong family history of diabetes.",
+  "history": "The patient was diagnosed with type 1 diabetes mellitus at the age of 16 after hospitalization due to diabetic ketoacidosis and positive glutamic acid decarboxylase (GAD) antibodies. He has a strong family history of diabetes and prediabetes. Genetic testing was conducted for monogenic diabetes, which revealed a heterozygote Glucokinase (GCK) gene mutation, indicative of maturity-onset diabetes of the young (MODY) type 2.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Positive glutamic acid decarboxylase (GAD) antibodies, heterozygote Glucokinase (GCK) gene mutation on exome panel.",
+  "correct_diagnosis": "Type 1 Diabetes Mellitus with Monogenic Diabetes (MODY 2)",
+  "differentials": [
+    "Type 1 Diabetes Mellitus",
+    "Type 2 Diabetes Mellitus",
+    "MODY 2",
+    "Latent Autoimmune Diabetes in Adults (LADA)",
+    "Type 1 Diabetes Mellitus with Monogenic Diabetes (MODY 2)"
+  ],
+  "correct_ranking": [
+    "Type 1 Diabetes Mellitus with Monogenic Diabetes (MODY 2)",
+    "Type 1 Diabetes Mellitus",
+    "MODY 2",
+    "Latent Autoimmune Diabetes in Adults (LADA)",
+    "Type 2 Diabetes Mellitus"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41357187",
+  "specialty": "stroke",
+  "chief_complaint": "A 9-year-old male patient presented with dizziness, vomiting for one day, and consciousness impairment for half a day.",
+  "history": "The patient had recurrent bilateral lower limb rashes and asthma attacks over the past year. He was admitted to the Rheumatology Department of Anhui Provincial Children's Hospital for evaluation.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated.",
+  "labs": "Blood tests revealed elevated eosinophil levels and IgE antibodies, while bone marrow cytology showed increased eosinophil counts. Brain MRI demonstrated cerebral infarction, herniation, and suspected thrombosis, with skin biopsy confirming vasculitis characteristics.",
+  "correct_diagnosis": "Eosinophilic granulomatosis with polyangiitis (EGPA)",
+  "differentials": [
+    "Eosinophilic granulomatosis with polyangiitis (EGPA)",
+    "Asthma exacerbation",
+    "Central nervous system vasculitis",
+    "Cerebral vasculitis",
+    "Migraine"
+  ],
+  "correct_ranking": [
+    "Eosinophilic granulomatosis with polyangiitis (EGPA)",
+    "Asthma exacerbation",
+    "Central nervous system vasculitis",
+    "Cerebral vasculitis",
+    "Migraine"
+  ]
+}

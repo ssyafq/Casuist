@@ -1,0 +1,23 @@
+{
+  "case_id": "41475873",
+  "specialty": "meningitis",
+  "chief_complaint": "A middle-aged man presented with altered sensorium and signs of meningitis.",
+  "history": "Bacterial meningitis is a serious neurological condition with high morbidity and mortality, especially in immunocompromised patients. The patient, with poorly controlled diabetes mellitus, was initially treated with intravenous ceftriaxone, which led to clinical improvement. However, he later developed cranial nerve deficits, prompting further imaging.",
+  "exam": "Vital signs and physical examination findings not specified.",
+  "labs": "Cerebrospinal fluid and blood cultures confirmed K. pneumoniae as the causative organism.",
+  "correct_diagnosis": "Skull base osteomyelitis following Klebsiella pneumoniae meningitis",
+  "differentials": [
+    "Skull base osteomyelitis following Klebsiella pneumoniae meningitis",
+    "Meningitis due to Streptococcus pneumoniae",
+    "Meningitis due to Neisseria meningitidis",
+    "Cranial nerve deficits due to diabetes mellitus",
+    "Central nervous system infection due to E. coli"
+  ],
+  "correct_ranking": [
+    "Skull base osteomyelitis following Klebsiella pneumoniae meningitis",
+    "Meningitis due to Streptococcus pneumoniae",
+    "Meningitis due to Neisseria meningitidis",
+    "Cranial nerve deficits due to diabetes mellitus",
+    "Central nervous system infection due to E. coli"
+  ]
+}

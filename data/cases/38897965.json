@@ -1,0 +1,23 @@
+{
+  "case_id": "38897965",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 50-year-old male patient presented with hypotonia and sensory disturbances gradually spreading from the lower extremities to the entire body.",
+  "history": "The patient was diagnosed with Guillain-Barre syndrome (GBS) and newly discovered hyperthyroidism. During the treatment course, the patient developed hospital-acquired pneumonia, acting as a trigger factor for a thyroid storm.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Guillain-Barre syndrome",
+    "Thyroid storm",
+    "Hospital-acquired pneumonia",
+    "Hyperthyroidism",
+    "Sepsis"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Hyperthyroidism",
+    "Guillain-Barre syndrome",
+    "Hospital-acquired pneumonia",
+    "Sepsis"
+  ]
+}

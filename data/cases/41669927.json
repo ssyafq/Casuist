@@ -1,0 +1,23 @@
+{
+  "case_id": "41669927",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 45-year-old male patient presented with recurrent episodes of pancreatitis.",
+  "history": "The patient had a 2-year history of recurrent pancreatitis, with multiple hospital admissions for acute pancreatitis. He had no significant past medical history, and his family history was unremarkable. He was not taking any medications and had no known allergies. He was a non-smoker and had a moderate alcohol intake.",
+  "exam": "Vital signs were within normal limits. Physical examination revealed no abnormalities.",
+  "labs": "Laboratory investigations showed elevated serum amylase and lipase levels during episodes of pancreatitis. Imaging studies, including CT scans, revealed a rare intraluminal duodenal 'windsock' diverticulum.",
+  "correct_diagnosis": "Intraluminal duodenal 'windsock' diverticulum",
+  "differentials": [
+    "Intraluminal duodenal 'windsock' diverticulum",
+    "Duodenal ulcer",
+    "Pancreatic ductal stones",
+    "Chronic pancreatitis",
+    "Gallstones"
+  ],
+  "correct_ranking": [
+    "Intraluminal duodenal 'windsock' diverticulum",
+    "Duodenal ulcer",
+    "Pancreatic ductal stones",
+    "Chronic pancreatitis",
+    "Gallstones"
+  ]
+}

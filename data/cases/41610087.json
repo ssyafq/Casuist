@@ -1,0 +1,23 @@
+{
+  "case_id": "41610087",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 64-year-old woman presented with symptoms of heart failure and worsening dyspnea.",
+  "history": "The patient had a history of stage IV squamous cell carcinoma of the right lung and had undergone chemotherapy with carboplatin, paclitaxel, and pembrolizumab 2 weeks prior to presentation.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Electrocardiography (EKG) revealed right bundle branch block with ST elevations. Troponin peaked at 424 ng/L, and proBNP 865 pg/mL. Transthoracic echocardiogram (TTE) showed left ventricle ejection fraction (LVEF) of 35% to 39% along with akinesis of all the mid- to apical left ventricle (LV) wall segments.",
+  "correct_diagnosis": "Takotsubo Syndrome Triggered by Immune Checkpoint Inhibitor-Induced Pneumonitis",
+  "differentials": [
+    "Takotsubo Syndrome Triggered by Immune Checkpoint Inhibitor-Induced Pneumonitis",
+    "Immune Checkpoint Inhibitor-Induced Myocarditis",
+    "Cardiomyopathy",
+    "Pneumonitis",
+    "Heart Failure"
+  ],
+  "correct_ranking": [
+    "Takotsubo Syndrome Triggered by Immune Checkpoint Inhibitor-Induced Pneumonitis",
+    "Immune Checkpoint Inhibitor-Induced Myocarditis",
+    "Cardiomyopathy",
+    "Pneumonitis",
+    "Heart Failure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41719224",
+  "specialty": "seizure",
+  "chief_complaint": "A 76-year-old man presented with refractory generalized seizures that progressed to nonconvulsive status epilepticus after elective revision cranioplasty.",
+  "history": "The patient underwent revision titanium cranioplasty due to symptomatic subsidence of a previously implanted acrylic plate. He had no prior history of seizures, and his medical history was unremarkable. He was not taking any antiepileptic medications.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed generalized tonic-clonic seizures.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: CT scan of the head showed a titanium cranioplasty plate in place. Other tests: EEG showed generalized seizure activity.",
+  "correct_diagnosis": "Refractory Status Epilepticus after Elective Revision Cranioplasty",
+  "differentials": [
+    "Refractory Status Epilepticus after Elective Revision Cranioplasty",
+    "Focal Brain Injury",
+    "Alterations in Transmantle Pressure",
+    "Use of Negative-Pressure Drains",
+    "Postoperative Seizure Disorder"
+  ],
+  "correct_ranking": [
+    "Refractory Status Epilepticus after Elective Revision Cranioplasty",
+    "Focal Brain Injury",
+    "Alterations in Transmantle Pressure",
+    "Use of Negative-Pressure Drains",
+    "Postoperative Seizure Disorder"
+  ]
+}

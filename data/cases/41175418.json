@@ -1,0 +1,23 @@
+{
+  "case_id": "41175418",
+  "specialty": "seizure",
+  "chief_complaint": "A 75-year-old male patient presented with recurrent ischemic attacks during hospitalization.",
+  "history": "The patient had a history of ischemic stroke and carotid web, which led to recurrent ischemic attacks. He underwent carotid artery stenting, but developed status epilepticus postoperatively. The patient had no significant past medical history, and was not taking any medications.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 18/min. Physical examination revealed no focal neurological deficits.",
+  "labs": "ECG: normal sinus rhythm. Bloods: normal electrolytes, normal liver function tests. Imaging: repeated magnetic resonance imaging revealed an enlarged infarction in the territory of the anterior cerebral artery.",
+  "correct_diagnosis": "Status epilepticus secondary to stroke",
+  "differentials": [
+    "Status epilepticus secondary to stroke",
+    "Postoperative seizures",
+    "Carotid web-induced ischemic stroke",
+    "Anterior cerebral artery infarction",
+    "Recurrent ischemic attacks"
+  ],
+  "correct_ranking": [
+    "Status epilepticus secondary to stroke",
+    "Postoperative seizures",
+    "Carotid web-induced ischemic stroke",
+    "Anterior cerebral artery infarction",
+    "Recurrent ischemic attacks"
+  ]
+}

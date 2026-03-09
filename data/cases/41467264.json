@@ -1,0 +1,23 @@
+{
+  "case_id": "41467264",
+  "specialty": "stroke",
+  "chief_complaint": "A 60-year-old man presented with vertigo, vomiting, slurred speech, and hearing loss on one side.",
+  "history": "The patient's condition quickly worsened, resulting in left-sided hemiplegia, dysphagia, and ataxia. He had a history of vertigo and vomiting. He was on anticoagulant treatment.",
+  "exam": "Vital signs: not mentioned. Physical examination findings: left-sided hemiplegia, dysphagia, and ataxia.",
+  "labs": "Imaging revealed a basilar artery dissecting aneurysm (BADA) with a mural thrombus, compressing the brainstem. Follow-up imaging showed new strokes.",
+  "correct_diagnosis": "Basilar artery dissecting aneurysm with ischemic stroke",
+  "differentials": [
+    "Basilar artery dissecting aneurysm with ischemic stroke",
+    "Vertebrobasilar stroke",
+    "Cerebral vasculitis",
+    "Cerebral amyloid angiopathy",
+    "Migraine with aura"
+  ],
+  "correct_ranking": [
+    "Basilar artery dissecting aneurysm with ischemic stroke",
+    "Vertebrobasilar stroke",
+    "Cerebral vasculitis",
+    "Cerebral amyloid angiopathy",
+    "Migraine with aura"
+  ]
+}

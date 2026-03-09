@@ -1,0 +1,23 @@
+{
+  "case_id": "41299705",
+  "specialty": "meningitis",
+  "chief_complaint": "A 37-year-old Italian female presents with a 3-day history of progressive worsening lower back pain radiating to bilateral posterior lower limbs and soles paresthesia.",
+  "history": "The patient has a 10-year history of vegetarianism and a 2-year history of pap smear-diagnosed Human Papillomavirus (HPV)-associated low-grade squamous intraepithelial dysplasia. She was admitted for worsening lower back pain and paresthesia.",
+  "exam": "Physical examination shows bilateral positive Lasegue sign, bilateral pain upon palpation of 4/4 Valleix's points, and absence of ankle reflexes, otherwise intact.",
+  "labs": "Initial blood laboratory investigations reveal mild leukocytosis (10.92 G/L) with normal C-reactive protein (CRP), folate, and cobalamin. Cerebrospinal fluid (CSF) analysis shows 441 white blood cells/mm(3), elevated protein (1.073 g/L), and positive Pandy reaction. HHV-7 was detected via CSF polymerase chain reaction (PCR); other bacterial and viral pathogens were negative.",
+  "correct_diagnosis": "Human herpesvirus 7 induced aseptic meningitis",
+  "differentials": [
+    "Human herpesvirus 7 induced aseptic meningitis",
+    "Herpes simplex virus encephalitis",
+    "Enterovirus meningitis",
+    "Bacterial meningitis",
+    "Multiple sclerosis exacerbation"
+  ],
+  "correct_ranking": [
+    "Human herpesvirus 7 induced aseptic meningitis",
+    "Herpes simplex virus encephalitis",
+    "Enterovirus meningitis",
+    "Bacterial meningitis",
+    "Multiple sclerosis exacerbation"
+  ]
+}

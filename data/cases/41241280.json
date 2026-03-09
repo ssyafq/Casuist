@@ -1,0 +1,23 @@
+{
+  "case_id": "41241280",
+  "specialty": "meningitis",
+  "chief_complaint": "A 70-year-old man presented with intermittent fever.",
+  "history": "The patient had a history of liver transplantation and splenectomy for hepatitis C virus-related cirrhosis, with long-term immunosuppression. He was on intermittent fever for an unknown duration.",
+  "exam": "Vital signs: fever. Physical examination findings: not specified.",
+  "labs": "Blood cultures grew Campylobacter fetus, and cerebrospinal fluid (CSF) cultures confirmed it. ECG, other imaging, and other tests not mentioned.",
+  "correct_diagnosis": "Campylobacter fetus meningitis",
+  "differentials": [
+    "Campylobacter fetus meningitis",
+    "Neisseria meningitidis meningitis",
+    "Streptococcus pneumoniae meningitis",
+    "Haemophilus influenzae meningitis",
+    "Listeria monocytogenes meningitis"
+  ],
+  "correct_ranking": [
+    "Campylobacter fetus meningitis",
+    "Neisseria meningitidis meningitis",
+    "Streptococcus pneumoniae meningitis",
+    "Haemophilus influenzae meningitis",
+    "Listeria monocytogenes meningitis"
+  ]
+}

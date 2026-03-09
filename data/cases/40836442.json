@@ -1,0 +1,23 @@
+{
+  "case_id": "40836442",
+  "specialty": "chest pain",
+  "chief_complaint": "A 14-year-old girl presented with sudden onset of acute chest pain and vomiting shortly after school.",
+  "history": "She had a history of occasional chest pain, but prior cardiac evaluations had been normal. She had been fasting during Ramadan.",
+  "exam": "Vital signs and physical examination findings are not provided in the case report.",
+  "labs": "ECG and other investigations are not mentioned in the case report.",
+  "correct_diagnosis": "Obstructive coronary ostial thromboemboli",
+  "differentials": [
+    "Obstructive coronary ostial thromboemboli",
+    "Infective endocarditis",
+    "Nonbacterial thrombotic endocarditis",
+    "Thromboembolus formation",
+    "Cardiac tumors"
+  ],
+  "correct_ranking": [
+    "Obstructive coronary ostial thromboemboli",
+    "Infective endocarditis",
+    "Nonbacterial thrombotic endocarditis",
+    "Thromboembolus formation",
+    "Cardiac tumors"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41475857",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 45-year-old female presented with acute worsening low back pain radiating bilaterally and new right leg swelling.",
+  "history": "Low back pain is among the most common clinical presentations worldwide, with most cases attributed to musculoskeletal or degenerative causes. Vascular pathology, however, is often overlooked in the differential. She had chronic spinal disease and May-Thurner syndrome.",
+  "exam": "Clinical suspicion prompted urgent vascular evaluation.",
+  "labs": "Acute deep vein thrombosis of the right femoral and popliteal veins and extensive pulmonary emboli were revealed.",
+  "correct_diagnosis": "Deep vein thrombosis and pulmonary embolism",
+  "differentials": [
+    "Deep vein thrombosis and pulmonary embolism",
+    "Spinal stenosis",
+    "Degenerative disc disease",
+    "May-Thurner syndrome",
+    "Musculoskeletal strain"
+  ],
+  "correct_ranking": [
+    "Deep vein thrombosis and pulmonary embolism",
+    "May-Thurner syndrome",
+    "Spinal stenosis",
+    "Degenerative disc disease",
+    "Musculoskeletal strain"
+  ]
+}

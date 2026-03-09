@@ -1,0 +1,23 @@
+{
+  "case_id": "41535058",
+  "specialty": "stroke",
+  "chief_complaint": "A 50-year-old male presented with acute weakness after accidentally ingesting hydrogen peroxide.",
+  "history": "The patient initially experienced retrosternal burning immediately after intake and developed acute weakness a few hours later. He had no past medical history and was not taking any medications. His social history was unremarkable.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed weakness in the left upper and lower limbs.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: multiple cerebral infarcts caused by air emboli on neuroimaging.",
+  "correct_diagnosis": "Cerebral air embolism due to hydrogen peroxide poisoning",
+  "differentials": [
+    "Cerebral air embolism due to hydrogen peroxide poisoning",
+    "Cerebral vasculitis",
+    "Stroke due to cardiac embolism",
+    "Cerebral hemorrhage",
+    "Migraine with aura"
+  ],
+  "correct_ranking": [
+    "Cerebral air embolism due to hydrogen peroxide poisoning",
+    "Cerebral vasculitis",
+    "Stroke due to cardiac embolism",
+    "Cerebral hemorrhage",
+    "Migraine with aura"
+  ]
+}

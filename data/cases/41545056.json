@@ -1,0 +1,23 @@
+{
+  "case_id": "41545056",
+  "specialty": "meningitis",
+  "chief_complaint": "A 30-year-old man presents with a history of perinatally acquired HIV, complicated by incomplete adherence, multidrug-resistant HIV, and opportunistic infections.",
+  "history": "The patient has a history of perinatally acquired HIV, complicated by incomplete adherence, multidrug-resistant HIV, and opportunistic infections. He was initially treated with antifungal and antimycobacterials with oral antiretroviral therapy (ART), but persistent high HIV viral load prompted initiation of long-acting injectable ART (LAI-ART) with cabotegravir and rilpivirine combined with adjunct oral nucleoside reverse transcriptase inhibitor therapy (emtricitabine/tenofovir).",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "HIV viral load: >100,000 copies/mL. CD4 cell count: 209 cells/microL/18.7%. Resistance testing: high-level resistance to emtricitabine and intermediate resistance to rilpivirine.",
+  "correct_diagnosis": "Cryptococcal meningitis",
+  "differentials": [
+    "Cryptococcal meningitis",
+    "Mycobacterium avium intracellulare",
+    "HIV-related immune reconstitution inflammatory syndrome",
+    "Toxoplasmosis",
+    "Pneumocystis jirovecii pneumonia"
+  ],
+  "correct_ranking": [
+    "Cryptococcal meningitis",
+    "Mycobacterium avium intracellulare",
+    "HIV-related immune reconstitution inflammatory syndrome",
+    "Toxoplasmosis",
+    "Pneumocystis jirovecii pneumonia"
+  ]
+}

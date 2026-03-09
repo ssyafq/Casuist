@@ -1,0 +1,23 @@
+{
+  "case_id": "41428813",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 67-year-old man presented with a rare presentation of pancreatic ductal adenocarcinoma (PDAC) encapsulated by IgG4-related autoimmune pancreatitis (AIP).",
+  "history": "A 67-year-old man with IgG4-AIP underwent two 18 F-FAPI-42 PET/CT visualizations. The first PET/CT showed diffuse and intense FAPI uptake in the pancreas. PET/CT follow-up after a period of glucocorticoid treatment suggested focal and intense FAPI uptake along the pancreatic body.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "18 F-FAPI-42 PET/CT scans showing diffuse and intense FAPI uptake in the pancreas, and focal and intense FAPI uptake along the pancreatic body after glucocorticoid treatment.",
+  "correct_diagnosis": "Pancreatic ductal adenocarcinoma (PDAC) encapsulated by IgG4-related autoimmune pancreatitis (AIP)",
+  "differentials": [
+    "Pancreatic ductal adenocarcinoma (PDAC) encapsulated by IgG4-related autoimmune pancreatitis (AIP)",
+    "Pancreatic ductal adenocarcinoma (PDAC)",
+    "IgG4-related autoimmune pancreatitis (AIP)",
+    "Pancreatic neuroendocrine tumor",
+    "Chronic pancreatitis"
+  ],
+  "correct_ranking": [
+    "Pancreatic ductal adenocarcinoma (PDAC) encapsulated by IgG4-related autoimmune pancreatitis (AIP)",
+    "Pancreatic ductal adenocarcinoma (PDAC)",
+    "IgG4-related autoimmune pancreatitis (AIP)",
+    "Pancreatic neuroendocrine tumor",
+    "Chronic pancreatitis"
+  ]
+}

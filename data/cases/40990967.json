@@ -1,0 +1,23 @@
+{
+  "case_id": "40990967",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 2-month-old male infant presented with severe diabetic ketoacidosis.",
+  "history": "The infant was born to a consanguineous marriage and presented to the Pediatric Intensive Care Unit (PICU) with severe hyperglycemia, pH 6.984, and ketones in urine. Genomic sequencing analyses detected a novel homozygous missense variation in the Exon 11 of the EIF2AK3 gene.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Genomic DNA sequencing analyses: novel homozygous missense variation in the Exon 11 of the EIF2AK3 gene (p.Gly602Val). Blood glucose: severe hyperglycemia. pH: 6.984. Ketones in urine: present.",
+  "correct_diagnosis": "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene",
+  "differentials": [
+    "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene",
+    "Neonatal diabetes mellitus",
+    "Congenital hyperinsulinism",
+    "Pancreatic agenesis",
+    "Congenital hypothyroidism"
+  ],
+  "correct_ranking": [
+    "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene",
+    "Neonatal diabetes mellitus",
+    "Congenital hyperinsulinism",
+    "Pancreatic agenesis",
+    "Congenital hypothyroidism"
+  ]
+}

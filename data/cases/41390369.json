@@ -1,0 +1,23 @@
+{
+  "case_id": "41390369",
+  "specialty": "meningitis",
+  "chief_complaint": "A 46-year-old man presented with a community-acquired urinary tract infection (CA-UTI) that rapidly progressed to bilateral sensorineural deafness and meningitis.",
+  "history": "The patient had previously undiagnosed diabetes mellitus. The CA-UTI rapidly progressed to bilateral sensorineural deafness and meningitis. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) identified K. pneumoniae harboring hypervirulence genes rmpA and iucA.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Blood, urine, and CSF cultures yielded an ESBL-negative, pansensitive hvKP strain. Brain MRI revealed septic emboli, consistent with hematogenous dissemination.",
+  "correct_diagnosis": "urinary tract infection (CA-UTI) that rapidly progressed to bilateral sensorineural deafness and meningitis caused by hypervirulent Klebsiella pneumoniae",
+  "differentials": [
+    "urinary tract infection (CA-UTI) that rapidly progressed to bilateral sensorineural deafness and meningitis caused by hypervirulent Klebsiella pneumoniae",
+    "community-acquired meningitis",
+    "bilateral sensorineural deafness",
+    "diabetic ketoacidosis",
+    "septicemia"
+  ],
+  "correct_ranking": [
+    "urinary tract infection (CA-UTI) that rapidly progressed to bilateral sensorineural deafness and meningitis caused by hypervirulent Klebsiella pneumoniae",
+    "community-acquired meningitis",
+    "bilateral sensorineural deafness",
+    "diabetic ketoacidosis",
+    "septicemia"
+  ]
+}

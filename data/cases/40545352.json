@@ -1,0 +1,23 @@
+{
+  "case_id": "40545352",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 23-year-old female student presented with consciousness disturbance caused by diabetic ketoacidosis on the 4th day after COVID-19 infection.",
+  "history": "The patient was admitted to a local hospital and subsequently transferred to our hospital due to respiratory failure, acute renal failure, and DIC. She had developed COVID-19 infection 4 days prior to admission.",
+  "exam": "The patient remained hypoactive despite intensive treatment.",
+  "labs": "Brain MRI revealed multiple microbleeds spreading to the subcortical white matter, internal capsule, splenium of the corpus callosum, and brainstem. The WAIS-IV score suggested general attention deficit disorder and mild impairment of working memory and processing speed.",
+  "correct_diagnosis": "COVID-19 infection with brain microbleeds",
+  "differentials": [
+    "Encephalitis",
+    "COVID-19 infection with brain microbleeds",
+    "Cerebral vasculitis",
+    "Diabetic ketoacidosis with cerebral edema",
+    "Hypoxic-ischemic encephalopathy"
+  ],
+  "correct_ranking": [
+    "COVID-19 infection with brain microbleeds",
+    "Hypoxic-ischemic encephalopathy",
+    "Cerebral vasculitis",
+    "Encephalitis",
+    "Diabetic ketoacidosis with cerebral edema"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41148216",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 6-year-old boy presented with lethargy, vomiting, and bradycardia. A 10-year-old boy presented with acute abdominal pain.",
+  "history": "Hepatitis A is usually a self-limiting infection in children, commonly presenting with jaundice. However, rare extra-hepatic manifestations may complicate the course, including cardiac and pancreatic involvement. Two paediatric cases of hepatitis A virus (HAV) infection with such atypical presentations are reported.",
+  "exam": "Bilateral pleural effusion was noted in the 6-year-old boy. Imaging findings consistent with pancreatitis were found in the 10-year-old boy.",
+  "labs": "Electrocardiogram revealed complete heart block progressing to Mobitz type I block in the 6-year-old boy. Elevated pancreatic enzymes were found in the 10-year-old boy.",
+  "correct_diagnosis": "Hepatitis A virus (HAV) infection with pancreatitis",
+  "differentials": [
+    "Hepatitis A virus (HAV) infection with pancreatitis",
+    "Pancreatitis due to other viral infections",
+    "Pancreatitis due to other causes",
+    "Cardiac involvement due to HAV infection",
+    "Other viral infections"
+  ],
+  "correct_ranking": [
+    "Hepatitis A virus (HAV) infection with pancreatitis",
+    "Pancreatitis due to other viral infections",
+    "Pancreatitis due to other causes",
+    "Cardiac involvement due to HAV infection",
+    "Other viral infections"
+  ]
+}

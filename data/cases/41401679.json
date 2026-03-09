@@ -1,0 +1,23 @@
+{
+  "case_id": "41401679",
+  "specialty": "meningitis",
+  "chief_complaint": "An 85-year-old patient hospitalized for influenza-associated pneumonia developed a sudden febrile coma.",
+  "history": "The patient was hospitalized for influenza-associated pneumonia. A sudden febrile coma developed, creating a complex diagnostic challenge. A bacterial co-infection was considered due to the patient's age and comorbidities.",
+  "exam": "Vital signs: febrile coma. Physical examination findings: not specified.",
+  "labs": "Cerebrospinal fluid analysis and multiplex PCR revealed Listeria monocytogenes.",
+  "correct_diagnosis": "Listeria meningoencephalitis",
+  "differentials": [
+    "Listeria meningoencephalitis",
+    "Bacterial meningitis",
+    "Viral encephalitis",
+    "Stroke",
+    "Seizure disorder"
+  ],
+  "correct_ranking": [
+    "Listeria meningoencephalitis",
+    "Bacterial meningitis",
+    "Viral encephalitis",
+    "Stroke",
+    "Seizure disorder"
+  ]
+}

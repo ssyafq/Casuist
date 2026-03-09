@@ -1,0 +1,23 @@
+{
+  "case_id": "41705616",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 45-year-old male patient presented with chest pain and shortness of breath.",
+  "history": "The patient has a history of hypertension and hyperlipidemia. He has been experiencing chest pain and shortness of breath for the past 2 hours. He has no history of smoking or previous cardiac events.",
+  "exam": "Vital signs: BP 160/90 mmHg, HR 120 bpm, RR 24/min. Physical examination revealed a tender and displaced apex beat.",
+  "labs": "ECG: ST-segment elevation in leads II, III, and aVF. Bloods: Troponin 10 ng/mL, CK-MB 50 ng/mL. Imaging: Echocardiogram showing a large anterior wall myocardial infarction.",
+  "correct_diagnosis": "Acute Myocardial Infarction due to Coronary Artery Disease",
+  "differentials": [
+    "Acute Myocardial Infarction due to Coronary Artery Disease",
+    "Acute Myocardial Infarction due to Cardiac Amyloidosis",
+    "Acute Myocardial Infarction due to Hypertrophic Cardiomyopathy",
+    "Acute Myocardial Infarction due to Takotsubo Cardiomyopathy",
+    "Acute Myocardial Infarction due to Pulmonary Embolism"
+  ],
+  "correct_ranking": [
+    "Acute Myocardial Infarction due to Coronary Artery Disease",
+    "Acute Myocardial Infarction due to Cardiac Amyloidosis",
+    "Acute Myocardial Infarction due to Hypertrophic Cardiomyopathy",
+    "Acute Myocardial Infarction due to Takotsubo Cardiomyopathy",
+    "Acute Myocardial Infarction due to Pulmonary Embolism"
+  ]
+}

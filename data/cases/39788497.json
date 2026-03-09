@@ -1,0 +1,23 @@
+{
+  "case_id": "39788497",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient presented with hyperthyroidism crisis and complex pancytopenia.",
+  "history": "The patient had secondary hyperthyroidism and was treated with methimazole, which caused pancytopenia and agranulocytosis, and had a history of systemic lupus erythematosus.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided, but the patient had pancytopenia and agranulocytosis.",
+  "correct_diagnosis": "Hyperthyroidism crisis with pancytopenia",
+  "differentials": [
+    "Thyroid storm",
+    "Pancytopenia",
+    "Agranulocytosis",
+    "Hyperthyroidism crisis with pancytopenia",
+    "Systemic lupus erythematosus"
+  ],
+  "correct_ranking": [
+    "Hyperthyroidism crisis with pancytopenia",
+    "Thyroid storm",
+    "Agranulocytosis",
+    "Pancytopenia",
+    "Systemic lupus erythematosus"
+  ]
+}

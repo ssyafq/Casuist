@@ -1,0 +1,23 @@
+{
+  "case_id": "40737919",
+  "specialty": "chest pain",
+  "chief_complaint": "A 74-year-old female patient presented with angina pectoris and left bundle branch block syndrome.",
+  "history": "The patient exhibited classic features of rate-dependent LBBB accompanied by angina pectoris. Comprehensive diagnostic evaluations revealed no evidence of obstructive coronary artery disease.",
+  "exam": "No specific physical examination findings are provided in the case report.",
+  "labs": "ECG showed left bundle branch block, but no other specific laboratory or imaging results are provided.",
+  "correct_diagnosis": "Painful left bundle branch block syndrome",
+  "differentials": [
+    "Painful left bundle branch block syndrome",
+    "Obstructive coronary artery disease",
+    "Cardiomyopathy",
+    "Myocardial bridging",
+    "Hypertrophic cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Painful left bundle branch block syndrome",
+    "Obstructive coronary artery disease",
+    "Cardiomyopathy",
+    "Myocardial bridging",
+    "Hypertrophic cardiomyopathy"
+  ]
+}

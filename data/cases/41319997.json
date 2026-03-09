@@ -1,0 +1,23 @@
+{
+  "case_id": "41319997",
+  "specialty": "meningitis",
+  "chief_complaint": "A 9-year-old male patient presented with fever, symptoms of a viral upper respiratory infection, and tachycardia.",
+  "history": "The patient had a history of otitis media that, if left undiagnosed or untreated, can lead to meningitis. He presented with fever, symptoms of a viral upper respiratory infection, and tachycardia. His physical examination was remarkable for muscle hypotonia, asymmetrical pupils, and incomprehensible speech.",
+  "exam": "Vital signs: tachycardia. Physical examination: muscle hypotonia, asymmetrical pupils, incomprehensible speech.",
+  "labs": "Laboratory testing and imaging confirmed Streptococcus pneumoniae meningitis, acute mastoiditis, and hydrocephalus.",
+  "correct_diagnosis": "Streptococcus pneumoniae meningitis",
+  "differentials": [
+    "Streptococcus pneumoniae meningitis",
+    "Acute mastoiditis",
+    "Hydrocephalus",
+    "Viral upper respiratory infection",
+    "Bacterial meningitis"
+  ],
+  "correct_ranking": [
+    "Streptococcus pneumoniae meningitis",
+    "Acute mastoiditis",
+    "Hydrocephalus",
+    "Viral upper respiratory infection",
+    "Bacterial meningitis"
+  ]
+}

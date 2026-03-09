@@ -1,0 +1,23 @@
+{
+  "case_id": "41526077",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 30-year-old male patient presented with jaundice, abdominal pain, and gastrointestinal symptoms following the initiation of ofatumumab for multiple sclerosis.",
+  "history": "The patient had newly diagnosed multiple sclerosis and initially responded well to high-dose corticosteroids. He was started on ofatumumab as disease-modifying therapy. Baseline laboratory investigations, viral screening, and autoantibody testing were normal. He developed symptoms within days of the first injection.",
+  "exam": "Vital signs: not specified. Physical examination findings: jaundice, abdominal pain, and gastrointestinal symptoms.",
+  "labs": "Laboratory studies revealed severe hepatocellular injury with hyperbilirubinemia, coagulopathy, elevated pancreatic enzymes, and positive anti-smooth muscle antibodies. Imaging demonstrated gallstone disease, which later progressed to acute calculous cholecystitis and severe necrotising pancreatitis.",
+  "correct_diagnosis": "Autoimmune hepatitis and necrotising pancreatitis following ofatumumab",
+  "differentials": [
+    "Autoimmune hepatitis and necrotising pancreatitis following ofatumumab",
+    "Acute pancreatitis",
+    "Autoimmune hepatitis",
+    "Necrotising pancreatitis",
+    "Gallstone disease"
+  ],
+  "correct_ranking": [
+    "Autoimmune hepatitis and necrotising pancreatitis following ofatumumab",
+    "Autoimmune hepatitis",
+    "Necrotising pancreatitis",
+    "Acute pancreatitis",
+    "Gallstone disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40818960",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 59-year-old Han female patient presented with generalized abdominal pain without obvious cause for 3 days.",
+  "history": "The patient was admitted to the hospital for abdominal pain. Initial imaging revealed a left ureteral stone and hydronephrosis, prompting ureteral stent placement. Despite antispasmodics, analgesics, and stent insertion, her pain persisted. The patient had a history of diabetes.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the case report.",
+  "labs": "Laboratory tests confirmed diabetic ketoacidosis. Initial imaging revealed a left ureteral stone and hydronephrosis.",
+  "correct_diagnosis": "Diabetic ketoacidosis",
+  "differentials": [
+    "Diabetic ketoacidosis",
+    "Ureteral stones",
+    "Abdominal pain caused by ketoacidosis",
+    "Abdominal pain caused by ureteral stones",
+    "Hydronephrosis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis",
+    "Ureteral stones",
+    "Abdominal pain caused by ketoacidosis",
+    "Abdominal pain caused by ureteral stones",
+    "Hydronephrosis"
+  ]
+}

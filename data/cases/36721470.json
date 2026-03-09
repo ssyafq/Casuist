@@ -1,0 +1,23 @@
+{
+  "case_id": "36721470",
+  "specialty": "cardiology",
+  "chief_complaint": "A 63-year-old patient presents with atrial fibrillation, with a predominance of women.",
+  "history": "The patient has a history of high blood pressure, with heart failure being the most frequent circumstance of discovery. The patient's atrial fibrillation is persistent in 52.24% of cases and valvular AF accounts for 31%.",
+  "exam": "Left ventricular systolic function was impaired in 55.7%, and the left atrium was dilated in 70.83%.",
+  "labs": "ECG confirmed atrial fibrillation, with 24.4% of patients having high blood pressure. CHA2DS2VASC score was >/= 2 in patients who received anticoagulation with LMWH and oral VKA.",
+  "correct_diagnosis": "Atrial Fibrillation",
+  "differentials": [
+    "Atrial Fibrillation",
+    "Heart Failure",
+    "Ischemic Stroke",
+    "Valvular Heart Disease",
+    "Hypertension"
+  ],
+  "correct_ranking": [
+    "Atrial Fibrillation",
+    "Heart Failure",
+    "Valvular Heart Disease",
+    "Ischemic Stroke",
+    "Hypertension"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41296295",
+  "specialty": "seizure",
+  "chief_complaint": "A 30-year-old male presented with abdominal pain and seizures.",
+  "history": "Acute intermittent porphyria (AIP) is a neurovisceral disease with multisystemic clinical manifestations. The patient presented with abdominal pain, seizures, hyponatremia, rhabdomyolysis, mild elevation of pancreatic and liver enzymes, mild renal dysfunction, and reversible biochemical hyperthyroidism. He had a history of passage of dark urine.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: hyponatremia, rhabdomyolysis, mild elevation of pancreatic and liver enzymes, mild renal dysfunction, and reversible biochemical hyperthyroidism. Imaging: not provided. Other tests: not provided.",
+  "correct_diagnosis": "Acute Intermittent Porphyria (AIP)",
+  "differentials": [
+    "Acute Intermittent Porphyria (AIP)",
+    "Hepatic Encephalopathy",
+    "Renal Failure",
+    "Rhabdomyolysis",
+    "Hypothyroidism"
+  ],
+  "correct_ranking": [
+    "Acute Intermittent Porphyria (AIP)",
+    "Hepatic Encephalopathy",
+    "Renal Failure",
+    "Rhabdomyolysis",
+    "Hypothyroidism"
+  ]
+}

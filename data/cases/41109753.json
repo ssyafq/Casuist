@@ -1,0 +1,23 @@
+{
+  "case_id": "41109753",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 49-year-old man presented with severe dyspnea and left-sided fluidothorax.",
+  "history": "The patient underwent pancreatoduodenectomy with pancreato-gastrostomy for chronic pancreatitis in 2018. Two years later, he developed a pancreaticopleural fistula, which failed conservative treatment. Total pancreatectomy with islet autotransplantation was performed to treat the fistula.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Pleuracentesis confirmed high amylase activity in pleural effusion. CT scan confirmed pancreaticopleural fistula. Islet autotransplantation was successful, with no need for insulin replacement therapy two years post-procedure.",
+  "correct_diagnosis": "Pancreaticopleural fistula",
+  "differentials": [
+    "Pancreaticopleural fistula",
+    "Chronic pancreatitis",
+    "Pancreatic cancer",
+    "Pancreatic pseudocyst",
+    "Gastrointestinal fistula"
+  ],
+  "correct_ranking": [
+    "Pancreaticopleural fistula",
+    "Chronic pancreatitis",
+    "Pancreatic cancer",
+    "Pancreatic pseudocyst",
+    "Gastrointestinal fistula"
+  ]
+}

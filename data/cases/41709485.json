@@ -1,0 +1,23 @@
+{
+  "case_id": "41709485",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 45-year-old male presented with chest pain and dyspnea.",
+  "history": "Severe hypertriglyceridemia can increase the risk of acute pancreatitis, but also clinically significant hyperviscosity syndrome. The patient had no clinical or radiographic evidence of pancreatitis. He was successfully treated with therapeutic plasma exchange (TPE).",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min. Physical examination revealed signs of hyperviscosity syndrome, including neurologic and visual manifestations.",
+  "labs": "ECG: ST-segment elevation in leads II, III, and aVF. Bloods: Triglycerides 9000 mg/dL, WBC 18,000 cells/μL, platelets 200,000 cells/μL. Imaging: No evidence of pancreatitis on abdominal CT.",
+  "correct_diagnosis": "Hypertriglyceridemia-induced hyperviscosity syndrome",
+  "differentials": [
+    "Hypertriglyceridemia-induced hyperviscosity syndrome",
+    "Acute pancreatitis",
+    "Myocardial infarction due to coronary artery disease",
+    "Pulmonary embolism",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Hypertriglyceridemia-induced hyperviscosity syndrome",
+    "Acute pancreatitis",
+    "Myocardial infarction due to coronary artery disease",
+    "Pulmonary embolism",
+    "Cardiac tamponade"
+  ]
+}

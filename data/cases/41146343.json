@@ -1,0 +1,23 @@
+{
+  "case_id": "41146343",
+  "specialty": "seizure",
+  "chief_complaint": "A 26-year-old Japanese woman presented with seizures after taking 2000 mg of lamotrigine.",
+  "history": "The patient experienced cardiac arrest and was diagnosed with fatal arrhythmia and seizures due to lamotrigine overdose. She was administered sodium bicarbonate and activated carbon, but seizures persisted. Fosphenytoin was administered, which temporarily ceased seizures. Subsequent seizures were controlled with levetiracetam, fat emulsion, and thiopental.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated.",
+  "labs": "Lamotrigine blood concentration upon admission was 48.68 mug/mL. The half-life of lamotrigine in the blood was 17.51 hours.",
+  "correct_diagnosis": "Lamotrigine overdose",
+  "differentials": [
+    "Lamotrigine overdose",
+    "Cardiac arrest due to other cause",
+    "Seizure disorder",
+    "Toxicity from other medication",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Lamotrigine overdose",
+    "Cardiac arrest due to other cause",
+    "Seizure disorder",
+    "Toxicity from other medication",
+    "Cardiac arrhythmia"
+  ]
+}

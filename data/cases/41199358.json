@@ -1,0 +1,23 @@
+{
+  "case_id": "41199358",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 69-year-old Eastern European female patient presented with hemorrhagic shock secondary to ileal gastrointestinal bleeding, occurring concurrently with multiple cerebral vascular infarctions.",
+  "history": "The patient was diagnosed with eosinophilic granulomatosis with polyangiitis exhibiting extensive multisystem involvement. Her case included a rare documented instance of hemorrhagic shock secondary to ileal gastrointestinal bleeding, occurring concurrently with multiple cerebral vascular infarctions. This condition is characterized by a small vessel vasculitis with the propensity to have a myriad of presentations due to the targeting of several different organ systems.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Investigations: not provided.",
+  "correct_diagnosis": "Eosinophilic granulomatosis with polyangiitis",
+  "differentials": [
+    "Eosinophilic granulomatosis with polyangiitis",
+    "Gastrointestinal vasculitis",
+    "Neurological vasculitis",
+    "Gastrointestinal cancer",
+    "Vasculitis due to medication side effect"
+  ],
+  "correct_ranking": [
+    "Eosinophilic granulomatosis with polyangiitis",
+    "Gastrointestinal vasculitis",
+    "Neurological vasculitis",
+    "Gastrointestinal cancer",
+    "Vasculitis due to medication side effect"
+  ]
+}

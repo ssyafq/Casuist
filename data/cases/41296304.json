@@ -1,0 +1,23 @@
+{
+  "case_id": "41296304",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 35-year-old female patient with type 1 diabetes mellitus presented with abdominal pain and vomiting.",
+  "history": "The patient developed diabetic ketoacidosis (DKA) that was exacerbated by acute pancreatitis and severe hypertriglyceridemia. She had a history of type 1 diabetes mellitus and was notable for xanthomas. Laboratory tests showed extremely high triglyceride levels and milky plasma. The patient received IV insulin treatment and lipid-lowering medications.",
+  "exam": "Vital signs: not provided. Physical examination notable for xanthomas.",
+  "labs": "Laboratory tests: extremely high triglyceride levels, milky plasma, biochemical evidence of DKA.",
+  "correct_diagnosis": "Type IV Familial Hyperlipidemia",
+  "differentials": [
+    "Type IV Familial Hyperlipidemia",
+    "Acute Pancreatitis",
+    "Diabetic Ketoacidosis",
+    "Hypertriglyceridemia",
+    "Type 1 Diabetes Mellitus"
+  ],
+  "correct_ranking": [
+    "Type IV Familial Hyperlipidemia",
+    "Acute Pancreatitis",
+    "Diabetic Ketoacidosis",
+    "Hypertriglyceridemia",
+    "Type 1 Diabetes Mellitus"
+  ]
+}

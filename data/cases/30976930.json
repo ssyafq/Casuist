@@ -1,0 +1,23 @@
+{
+  "case_id": "30976930",
+  "specialty": "cardiology",
+  "chief_complaint": "A 56-year-old woman presented with symptoms allegedly consistent with acute coronary syndrome.",
+  "history": "The patient was initially misdiagnosed, but further evaluation revealed a complex clinical picture suggestive of an autoimmune disease with cardiac involvement.",
+  "exam": "Not specified",
+  "labs": "Not specified, but implied to include tests that helped differentiate the correct diagnosis from other possibilities like acute coronary syndrome",
+  "correct_diagnosis": "Antisynthetase syndrome with myocarditis",
+  "differentials": [
+    "Acute Coronary Syndrome",
+    "Myocarditis",
+    "Dilated Cardiomyopathy",
+    "Antisynthetase syndrome with myocarditis",
+    "Pericarditis"
+  ],
+  "correct_ranking": [
+    "Antisynthetase syndrome with myocarditis",
+    "Myocarditis",
+    "Acute Coronary Syndrome",
+    "Dilated Cardiomyopathy",
+    "Pericarditis"
+  ]
+}

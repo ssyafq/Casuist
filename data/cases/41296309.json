@@ -1,0 +1,23 @@
+{
+  "case_id": "41296309",
+  "specialty": "meningitis",
+  "chief_complaint": "A 17-year-old male presented with persistent fever and headache without focal neurological deficits.",
+  "history": "The patient had an extensive infectious workup that was inconclusive. He was initially treated with empirical antibiotics without clinical improvement. A repeat cerebrospinal fluid (CSF) analysis demonstrated worsening pleocytosis, prompting an expanded autoimmune and neuroinflammatory panel.",
+  "exam": "Vital signs: pyrexia. Physical examination: headache.",
+  "labs": "Cerebrospinal fluid (CSF) analysis: mild pleocytosis. MOG-IgG antibodies detected in both serum and CSF.",
+  "correct_diagnosis": "Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD)",
+  "differentials": [
+    "Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD)",
+    "Acute disseminated encephalomyelitis (ADEM)",
+    "Optic neuritis",
+    "Meningitis due to bacterial infection",
+    "Meningitis due to viral infection"
+  ],
+  "correct_ranking": [
+    "Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD)",
+    "Acute disseminated encephalomyelitis (ADEM)",
+    "Optic neuritis",
+    "Meningitis due to bacterial infection",
+    "Meningitis due to viral infection"
+  ]
+}

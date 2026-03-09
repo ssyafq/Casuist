@@ -1,0 +1,23 @@
+{
+  "case_id": "39229652",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 49-year-old man presented to the emergency department with epigastric pain and nausea.",
+  "history": "The patient presented with epigastric pain and nausea. Six hours later, he experienced severe chest pain. There is no mention of past medical history, medications, or social history.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Initial electrocardiogram was normal, but a repeat electrocardiogram 6 hours later demonstrated inferior ST-segment elevation. Troponin I levels peaked at 1.2 ng/ml. Coronary angiography revealed angiographic stenosis in the left circumflex territory which resolved with intracoronary nitroglycerin administration.",
+  "correct_diagnosis": "Acute coronary syndrome due to coronary vasospasm",
+  "differentials": [
+    "Myocardial infarction",
+    "Unstable angina",
+    "Acute coronary syndrome due to coronary vasospasm",
+    "Cardiac contusion",
+    "Aortic dissection"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome due to coronary vasospasm",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Cardiac contusion",
+    "Aortic dissection"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41526080",
+  "specialty": "meningitis",
+  "chief_complaint": "A 60-year-old immunocompromised patient presented with acute-on-chronic back pain following minor trauma, accompanied by worsening right-sided weakness, paraesthesias, progressive gait impairment, and hyperreflexia.",
+  "history": "The patient's spouse reported months of increasing forgetfulness. The patient had no prior cognitive nor cranial nerve deficits. The patient was treated for an arachnoid cyst via laminoplasty, and the thickened cyst wall was sent for pathological evaluation.",
+  "exam": "Vital signs: not provided. Physical examination revealed worsening right-sided weakness, paraesthesias, progressive gait impairment, and hyperreflexia concerning for compressive myelopathy.",
+  "labs": "Imaging revealed a thoracic arachnoid cyst. Pathology identified yeast consistent with cryptococcus. A subsequent lumbar puncture confirmed the diagnosis.",
+  "correct_diagnosis": "Cryptococcal meningitis",
+  "differentials": [
+    "Cryptococcal meningitis",
+    "Arachnoid cyst with compressive myelopathy",
+    "Tuberculous meningitis",
+    "Herpes simplex encephalitis",
+    "Malignant meningioma"
+  ],
+  "correct_ranking": [
+    "Cryptococcal meningitis",
+    "Arachnoid cyst with compressive myelopathy",
+    "Tuberculous meningitis",
+    "Herpes simplex encephalitis",
+    "Malignant meningioma"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40955977",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 45-year-old woman presented with electrocardiographic abnormalities after a suicide attempt with partial hanging.",
+  "history": "The patient survived a suicide attempt with partial hanging and presented with electrocardiographic (ECG) abnormalities that mimicked acute coronary syndrome (ACS). She exhibited ST-segment abnormalities and QT interval prolongation, all of which resolved within 1 month.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG showed ST-segment abnormalities and QT interval prolongation. Other investigations were not mentioned.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy",
+  "differentials": [
+    "Takotsubo cardiomyopathy",
+    "Acute coronary syndrome",
+    "Stress-induced cardiomyopathy",
+    "Myocardial infarction",
+    "Cardiac arrhythmia"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy",
+    "Acute coronary syndrome",
+    "Stress-induced cardiomyopathy",
+    "Myocardial infarction",
+    "Cardiac arrhythmia"
+  ]
+}

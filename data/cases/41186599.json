@@ -1,0 +1,23 @@
+{
+  "case_id": "41186599",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 45-year-old male presented with a 2-day history of melena and hematemesis.",
+  "history": "The patient reported a 2-week history of abdominal pain and weight loss. He had a history of iron deficiency anemia and was taking iron supplements. He had traveled to a rural area 6 months ago. He denied any history of gastrointestinal bleeding or other significant medical conditions.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 20/min. Physical examination revealed a pale complexion and a palpable spleen.",
+  "labs": "Hemoglobin 8.5 g/dL, MCV 65 fL, MCH 20.5 pg, platelet count 150,000/μL. Stool examination revealed hookworm eggs.",
+  "correct_diagnosis": "Hookworm infestation causing gastrointestinal bleeding",
+  "differentials": [
+    "Hookworm infestation causing gastrointestinal bleeding",
+    "Peptic ulcer disease",
+    "Gastroesophageal reflux disease",
+    "Mallory-Weiss tear",
+    "Variceal bleeding"
+  ],
+  "correct_ranking": [
+    "Hookworm infestation causing gastrointestinal bleeding",
+    "Peptic ulcer disease",
+    "Gastroesophageal reflux disease",
+    "Mallory-Weiss tear",
+    "Variceal bleeding"
+  ]
+}

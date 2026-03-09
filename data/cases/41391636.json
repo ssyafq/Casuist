@@ -1,0 +1,23 @@
+{
+  "case_id": "41391636",
+  "specialty": "meningitis",
+  "chief_complaint": "An 85-year-old Japanese male presented with urinary incontinence, gait disturbance, and cognitive decline.",
+  "history": "The patient had a history of diabetes, hyperlipidemia, and a pulmonary vein isolation procedure for atrial fibrillation. He was diagnosed with normal-pressure hydrocephalus (NPH) and underwent lumbar-peritoneal shunt surgery. Postoperatively, he developed pneumonia followed by an intra-abdominal abscess and bacterial meningitis.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Corynebacterium striatum was isolated from both cerebrospinal fluid (CSF) and intraperitoneal abscess. Blood cultures and other investigations were not mentioned.",
+  "correct_diagnosis": "Lumbar-peritoneal shunt-associated meningitis and peritoneal abscess due to Corynebacterium striatum",
+  "differentials": [
+    "Lumbar-peritoneal shunt-associated meningitis and peritoneal abscess due to Corynebacterium striatum",
+    "Bacterial meningitis due to unknown cause",
+    "Intra-abdominal abscess due to Corynebacterium striatum",
+    "Normal-pressure hydrocephalus (NPH)",
+    "Septic shock due to Corynebacterium striatum"
+  ],
+  "correct_ranking": [
+    "Lumbar-peritoneal shunt-associated meningitis and peritoneal abscess due to Corynebacterium striatum",
+    "Bacterial meningitis due to unknown cause",
+    "Intra-abdominal abscess due to Corynebacterium striatum",
+    "Normal-pressure hydrocephalus (NPH)",
+    "Septic shock due to Corynebacterium striatum"
+  ]
+}

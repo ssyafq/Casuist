@@ -1,0 +1,23 @@
+{
+  "case_id": "41372871",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 32.5-year-old woman (median age) with a history of sclerotherapy for varicose vein treatment presented with chronic thromboembolic pulmonary disease (CTEPD).",
+  "history": "The patient underwent sclerotherapy for varicose vein treatment and was later referred for pulmonary endarterectomy (PEA) with a preoperative diagnosis of CTEPD. Histopathological examination confirmed the presence of sclerotherapy-related foreign material.",
+  "exam": "Vital signs: not provided. Physical examination findings: segmental or lobar perfusion defects and vascular obstruction consistent with organized embolic material.",
+  "labs": "Preoperative mean pulmonary artery pressure (mPAP) was 24.3 +/- 7.4 mmHg, and mean pulmonary vascular resistance (mPVR) was 219.3 +/- 104.6 dyn.s/cm(-)(5). Postoperative hemodynamic improvement was observed, with mPAP reduced to 16.3 +/- 1.5 and mean PVR to 119.3 +/- 45.8 dyn.s/cm(-)(5).",
+  "correct_diagnosis": "Sclerotherapy embolism causing chronic thromboembolic pulmonary disease",
+  "differentials": [
+    "Sclerotherapy embolism causing chronic thromboembolic pulmonary disease",
+    "Chronic thromboembolic pulmonary hypertension",
+    "Pulmonary artery obstruction due to thromboembolic events",
+    "Pulmonary artery obstruction due to non-thrombotic etiologies",
+    "Idiopathic pulmonary artery obstruction"
+  ],
+  "correct_ranking": [
+    "Sclerotherapy embolism causing chronic thromboembolic pulmonary disease",
+    "Chronic thromboembolic pulmonary hypertension",
+    "Pulmonary artery obstruction due to thromboembolic events",
+    "Pulmonary artery obstruction due to non-thrombotic etiologies",
+    "Idiopathic pulmonary artery obstruction"
+  ]
+}

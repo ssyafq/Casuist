@@ -1,0 +1,23 @@
+{
+  "case_id": "41365773",
+  "specialty": "stroke",
+  "chief_complaint": "A 50-year-old man presented with left-sided weakness, numbness, and ataxia.",
+  "history": "A man in his 50s, normally fit and well, had an ischaemic thalamic stroke confirmed on MRI. Admission BP was 254/150 mm Hg. All tests for secondary hypertension were normal. He had a history of consuming eight cans of energy drink daily, each containing 160 mg caffeine.",
+  "exam": "Admission BP was 254/150 mm Hg. He had left-sided weakness, numbness, and ataxia.",
+  "labs": "MRI confirmed an ischaemic thalamic stroke. BP normalised after cessation of energy drink consumption.",
+  "correct_diagnosis": "Caffeine-induced hypertension",
+  "differentials": [
+    "Caffeine-induced hypertension",
+    "Essential hypertension",
+    "Secondary hypertension",
+    "Ischaemic stroke",
+    "Post-stroke hypertension"
+  ],
+  "correct_ranking": [
+    "Caffeine-induced hypertension",
+    "Essential hypertension",
+    "Secondary hypertension",
+    "Ischaemic stroke",
+    "Post-stroke hypertension"
+  ]
+}

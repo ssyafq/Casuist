@@ -1,0 +1,23 @@
+{
+  "case_id": "39520782",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 49-year-old male patient presented with an acute coronary syndrome without ST elevation.",
+  "history": "The patient had no medical history. He was incidentally diagnosed with two congenital complex coronary artery abnormalities (CAA) during the management of his acute coronary syndrome.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "The coronary angiogram showed an acute atheromatous occlusion of the right coronary artery (RCA) treated by a drug-eluting stent. Transcatheter angiograms and coronary computed tomography (CT) revealed an ectopic RCA arising from the left cuspid with an inter-arterial course, and a second left anterior descending artery emerging from the RCA with a retro-pulmonary course.",
+  "correct_diagnosis": "Acute coronary syndrome due to atheromatous disease",
+  "differentials": [
+    "Acute coronary syndrome due to atheromatous disease",
+    "Myocardial infarction due to congenital coronary artery anomalies",
+    "Spontaneous coronary artery dissection",
+    "Coronary artery spasm",
+    "Cardiac sarcoidosis"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome due to atheromatous disease",
+    "Myocardial infarction due to congenital coronary artery anomalies",
+    "Spontaneous coronary artery dissection",
+    "Coronary artery spasm",
+    "Cardiac sarcoidosis"
+  ]
+}

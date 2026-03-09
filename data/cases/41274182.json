@@ -1,0 +1,23 @@
+{
+  "case_id": "41274182",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 75-year-old man presented with shoulder pain and weakness of the upper and lower extremities, worse on the right.",
+  "history": "The patient has a history of hypertension, gout, type 2 diabetes, ileostomy from diverticulitis, and surgery one month prior for an intra-abdominal abscess. He initially presented with symptoms concerning for a stroke or acute coronary syndrome.",
+  "exam": "Vital signs and physical examination findings included lateralizing extremity weakness.",
+  "labs": "ECG: anteroseptal and inferior ST segment elevations. Other investigations: electrolyte panel, renal function tests, and imaging studies (not specified).",
+  "correct_diagnosis": "Hyperkalemia",
+  "differentials": [
+    "Hyperkalemia",
+    "Acute Coronary Syndrome",
+    "Stroke",
+    "Intra-abdominal Abscess Complication",
+    "Electrolyte Imbalance"
+  ],
+  "correct_ranking": [
+    "Hyperkalemia",
+    "Acute Coronary Syndrome",
+    "Stroke",
+    "Intra-abdominal Abscess Complication",
+    "Electrolyte Imbalance"
+  ]
+}

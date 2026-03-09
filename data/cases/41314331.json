@@ -1,0 +1,23 @@
+{
+  "case_id": "41314331",
+  "specialty": "meningitis",
+  "chief_complaint": "A 16-year-old immunocompetent female from Vietnam presents with acute meningoencephalitis of unknown origin.",
+  "history": "Hepatitis B virus (HBV) infection remains a major global health burden, particularly in low- and middle-income countries (LMICs). Although primarily hepatotropic, HBV has occasionally been linked to extrahepatic and neurological manifestations. The patient presented with acute meningoencephalitis of unknown origin.",
+  "exam": "No specific physical examination findings are mentioned.",
+  "labs": "Conventional microbiological and molecular tests were negative. Retrospective next-generation sequencing of cerebrospinal fluid revealed HBV genotype B2, with a viral load of 3.2 x 10^4 copies/mL confirmed by quantitative PCR and a positive hepatitis B surface antigen result.",
+  "correct_diagnosis": "Hepatitis B virus-associated meningoencephalitis",
+  "differentials": [
+    "Hepatitis B virus-associated meningoencephalitis",
+    "Herpes simplex virus encephalitis",
+    "Enteroviral meningitis",
+    "Cryptococcal meningitis",
+    "Tuberculous meningitis"
+  ],
+  "correct_ranking": [
+    "Hepatitis B virus-associated meningoencephalitis",
+    "Herpes simplex virus encephalitis",
+    "Enteroviral meningitis",
+    "Cryptococcal meningitis",
+    "Tuberculous meningitis"
+  ]
+}

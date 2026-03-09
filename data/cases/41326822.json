@@ -1,0 +1,23 @@
+{
+  "case_id": "41326822",
+  "specialty": "meningitis",
+  "chief_complaint": "A 14-year-old boy presented with a severe bacterial central nervous system infection.",
+  "history": "The patient developed bacterial meningitis, ventriculitis, and communicating hydrocephalus despite broad-spectrum intravenous antibiotics and ventricular drainage. He had a systemic Streptococcus intermedius infection.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG, bloods, imaging, and other tests results are not provided.",
+  "correct_diagnosis": "Bacterial meningitis with ventriculitis and communicating hydrocephalus",
+  "differentials": [
+    "Bacterial meningitis with ventriculitis and communicating hydrocephalus",
+    "Streptococcus intermedius infection",
+    "Ventricular catheter obstruction",
+    "Recurrent hydrocephalus",
+    "Impaired cerebrospinal fluid (CSF) dynamics"
+  ],
+  "correct_ranking": [
+    "Bacterial meningitis with ventriculitis and communicating hydrocephalus",
+    "Streptococcus intermedius infection",
+    "Ventricular catheter obstruction",
+    "Recurrent hydrocephalus",
+    "Impaired cerebrospinal fluid (CSF) dynamics"
+  ]
+}

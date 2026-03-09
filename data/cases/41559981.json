@@ -1,0 +1,23 @@
+{
+  "case_id": "41559981",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 45-year-old man presented with recurrent black stools and vomiting blood.",
+  "history": "The patient had a history of recurrent black stools and vomiting blood. Initially diagnosed with gastritis, his condition worsened despite treatment, leading to severe bleeding.",
+  "exam": "Vital signs: Not recorded. Physical examination: Not recorded.",
+  "labs": "Imaging showed a suspected stomach hematoma, but the cause was a pancreatic pseudocyst eroding the stomach wall and a gastric artery.",
+  "correct_diagnosis": "Pancreatic pseudocyst causing gastric erosion and bleeding",
+  "differentials": [
+    "Pancreatic pseudocyst causing gastric erosion and bleeding",
+    "Gastric ulcer",
+    "Gastritis",
+    "Duodenal ulcer",
+    "Stomach cancer"
+  ],
+  "correct_ranking": [
+    "Pancreatic pseudocyst causing gastric erosion and bleeding",
+    "Gastric ulcer",
+    "Gastritis",
+    "Duodenal ulcer",
+    "Stomach cancer"
+  ]
+}

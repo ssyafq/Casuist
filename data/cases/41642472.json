@@ -1,0 +1,23 @@
+{
+  "case_id": "41642472",
+  "specialty": "nephrology",
+  "chief_complaint": "A 55-year-old woman presents with relapse of nephrotic syndrome.",
+  "history": "The patient has a history of breast cancer treated with tamoxifen and was diagnosed with minimal change nephrotic syndrome (MCNS) by renal biopsy. She achieved remission with prednisolone 50 mg/day, but relapsed approximately 12 days after starting sulfamethoxazole-trimethoprim (ST) therapy for Pneumocystis jirovecii pneumonia prophylaxis.",
+  "exam": "Generalized erythema and signs of nephrotic syndrome.",
+  "labs": "Renal biopsy confirmed MCNS, and drug-induced lymphocyte stimulation tests for ST, atorvastatin, and esomeprazole were negative.",
+  "correct_diagnosis": "Drug-induced relapse of minimal change nephrotic syndrome",
+  "differentials": [
+    "Drug-induced relapse of minimal change nephrotic syndrome",
+    "Pneumocystis jirovecii pneumonia",
+    "Tamoxifen-induced nephrotic syndrome",
+    "Atorvastatin-induced nephrotic syndrome",
+    "Esomeprazole-induced nephrotic syndrome"
+  ],
+  "correct_ranking": [
+    "Drug-induced relapse of minimal change nephrotic syndrome",
+    "Pneumocystis jirovecii pneumonia",
+    "Tamoxifen-induced nephrotic syndrome",
+    "Atorvastatin-induced nephrotic syndrome",
+    "Esomeprazole-induced nephrotic syndrome"
+  ]
+}

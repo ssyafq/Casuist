@@ -1,0 +1,23 @@
+{
+  "case_id": "41678422",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 67-year-old Bahraini man presented with confusion and rapid neurological decline.",
+  "history": "The patient had type 2 diabetes, hypertension, and a prior hemi-colectomy. He presented with acute febrile encephalopathy and a positive SARS-CoV-2 test result. Despite high-dose intravenous methylprednisolone, his condition worsened.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "MRI scan demonstrated symmetrical hemorrhagic lesions in the bilateral thalami, pons, and periventricular white matter. Follow-up brain MRI scan showed marked lesion regression.",
+  "correct_diagnosis": "Acute Hemorrhagic Necrotizing Encephalopathy (AHNE)",
+  "differentials": [
+    "Acute Hemorrhagic Necrotizing Encephalopathy (AHNE)",
+    "Herpes Encephalitis",
+    "Cerebral Vasculitis",
+    "Meningoencephalitis",
+    "Reversible Cerebral Vasoconstriction Syndrome"
+  ],
+  "correct_ranking": [
+    "Acute Hemorrhagic Necrotizing Encephalopathy (AHNE)",
+    "Herpes Encephalitis",
+    "Cerebral Vasculitis",
+    "Meningoencephalitis",
+    "Reversible Cerebral Vasoconstriction Syndrome"
+  ]
+}

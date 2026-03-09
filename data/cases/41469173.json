@@ -1,0 +1,23 @@
+{
+  "case_id": "41469173",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 65-year-old male presented with gastrointestinal bleeding.",
+  "history": "Gastrointestinal metastases from primary lung adenocarcinoma are rare. The patient was asymptomatic until presenting in an advanced stage. A duodenal ulcer was found to be a metastatic lesion from primary lung adenocarcinoma.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Imaging studies: duodenal ulcer identified as a metastatic lesion from primary lung adenocarcinoma. Immunochemistry used to differentiate between primary gastrointestinal cancer and lung cancer metastasis.",
+  "correct_diagnosis": "Duodenal metastases from lung adenocarcinoma causing gastrointestinal bleeding",
+  "differentials": [
+    "Duodenal metastases from lung adenocarcinoma causing gastrointestinal bleeding",
+    "Duodenal ulcer",
+    "Gastrointestinal stromal tumor",
+    "Pancreatic cancer",
+    "Peptic ulcer disease"
+  ],
+  "correct_ranking": [
+    "Duodenal metastases from lung adenocarcinoma causing gastrointestinal bleeding",
+    "Duodenal ulcer",
+    "Gastrointestinal stromal tumor",
+    "Pancreatic cancer",
+    "Peptic ulcer disease"
+  ]
+}

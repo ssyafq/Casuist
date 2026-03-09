@@ -1,0 +1,23 @@
+{
+  "case_id": "41573537",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 79-year-old male patient presents with persistent upper abdominal pain of unknown cause and recurrent pleural effusion.",
+  "history": "The patient has a history of unknown cause abdominal pain and recurrent pleural effusion. He has positive serum antinuclear antibodies and persistently positive IgG4. He was diagnosed with IgG4-related disease (IgG4-RD) and autoimmune pancreatitis (AIP) according to the International Consensus Diagnostic Criteria for Autoimmune Pancreatitis. Additionally, he was diagnosed with monoclonal gammopathy of undetermined significance (MGUS) based on serum protein electrophoresis and immunofixation electrophoresis results.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Serum protein electrophoresis: M protein 2.34 g/L. Immunofixation electrophoresis: IgG-lambda-type M protein. Bone marrow smear and biopsy: consistent with MGUS. Three-dimensional imaging reconstruction: mild pancreatic swelling and blurred peripancreatic fat planes.",
+  "correct_diagnosis": "IgG4-RD-related autoimmune pancreatitis combined with monoclonal gammopathy of undetermined significance",
+  "differentials": [
+    "IgG4-RD-related autoimmune pancreatitis combined with monoclonal gammopathy of undetermined significance",
+    "Autoimmune pancreatitis",
+    "Monoclonal gammopathy of undetermined significance",
+    "Chronic pancreatitis",
+    "Pancreatic cancer"
+  ],
+  "correct_ranking": [
+    "IgG4-RD-related autoimmune pancreatitis combined with monoclonal gammopathy of undetermined significance",
+    "Autoimmune pancreatitis",
+    "Monoclonal gammopathy of undetermined significance",
+    "Chronic pancreatitis",
+    "Pancreatic cancer"
+  ]
+}

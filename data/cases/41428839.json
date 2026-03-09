@@ -1,0 +1,23 @@
+{
+  "case_id": "41428839",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 75-year-old male patient presents with shortness of breath and chest pain 10 days after a myocardial infarction.",
+  "history": "The patient had a history of hypertension, hyperlipidemia, and smoking. He underwent a percutaneous coronary intervention (PCI) 10 days ago. He has been experiencing shortness of breath and chest pain since then. He has been on aspirin, atorvastatin, and metoprolol.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min. Physical examination reveals a new holosystolic murmur best heard at the left lower sternal border.",
+  "labs": "ECG: new Q-waves in leads V2-V5. Troponin: elevated. Echocardiogram: ventricular septal defect with a shunt.",
+  "correct_diagnosis": "Ventricular Septal Rupture Secondary to Late-Presenting Myocardial Infarction",
+  "differentials": [
+    "Ventricular Septal Rupture Secondary to Late-Presenting Myocardial Infarction",
+    "Free-Wall Rupture Secondary to Myocardial Infarction",
+    "Papillary Muscle Rupture Secondary to Myocardial Infarction",
+    "Acute Heart Failure",
+    "Cardiogenic Shock"
+  ],
+  "correct_ranking": [
+    "Ventricular Septal Rupture Secondary to Late-Presenting Myocardial Infarction",
+    "Free-Wall Rupture Secondary to Myocardial Infarction",
+    "Papillary Muscle Rupture Secondary to Myocardial Infarction",
+    "Acute Heart Failure",
+    "Cardiogenic Shock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41272807",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 56-year-old Chinese female patient presented with recurrent acute necrotizing pancreatitis lasting for 4 weeks.",
+  "history": "The patient had a history of hypercalcemia-associated acute pancreatitis 3 years earlier. She presented with hypercalcemic crisis (serum calcium 4.49 mmol/L) and markedly elevated parathyroid hormone (2491 pg/mL). A left parathyroid adenoma was identified, implying primary hyperparathyroidism.",
+  "exam": "On admission, she was afebrile with normal inflammatory markers.",
+  "labs": "Computed tomography revealed walled-off pancreatic necrosis without signs of infection. Laboratory tests showed a hypercalcemic crisis (serum calcium 4.49 mmol/L) and markedly elevated parathyroid hormone (2491 pg/mL). Neck computed tomography and ultrasound identified a left parathyroid adenoma (33 x 21 x 23 mm).",
+  "correct_diagnosis": "Primary hyperparathyroidism",
+  "differentials": [
+    "Primary hyperparathyroidism",
+    "Hypercalcemia",
+    "Acute necrotizing pancreatitis",
+    "Walled-off pancreatic necrosis",
+    "Infected necrosis"
+  ],
+  "correct_ranking": [
+    "Primary hyperparathyroidism",
+    "Hypercalcemia",
+    "Acute necrotizing pancreatitis",
+    "Walled-off pancreatic necrosis",
+    "Infected necrosis"
+  ]
+}

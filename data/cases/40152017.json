@@ -1,0 +1,23 @@
+{
+  "case_id": "40152017",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A patient presented with headache as the primary symptom of myocardial infarction. The age and sex of the patient are not specified.",
+  "history": "The patient had a history of cardiovascular risk factors and presented with exertion-induced headaches. Two cases are described, one with an occluded obtuse marginal artery and another with a chronic total occlusion of the left anterior descending artery, which was successfully revascularised.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "ECG and further imaging were performed, but specific results are not provided.",
+  "correct_diagnosis": "Ischaemic Heart Disease",
+  "differentials": [
+    "Migraine",
+    "Tension Headache",
+    "Ischaemic Heart Disease",
+    "Cervicogenic Headache",
+    "Temporal Arteritis"
+  ],
+  "correct_ranking": [
+    "Ischaemic Heart Disease",
+    "Migraine",
+    "Tension Headache",
+    "Cervicogenic Headache",
+    "Temporal Arteritis"
+  ]
+}

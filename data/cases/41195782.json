@@ -1,0 +1,23 @@
+{
+  "case_id": "41195782",
+  "specialty": "seizure",
+  "chief_complaint": "A 4-year-old female child presented with recurrent epileptic seizures.",
+  "history": "The patient presented with recurrent epileptic seizures and findings of abnormal synchronous discharges on electroencephalograms. She underwent whole exome sequencing (WES) with her parents to identify potential genetic variants. The patient exhibited normal intelligence, which differed with the clinical features reported in other studies involving the same variant.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Whole exome sequencing (WES) revealed a heterozygous variant (NM_001105243: c.695A>G) in PCDH19, confirmed by Sanger sequencing. Electroencephalograms showed abnormal synchronous discharges.",
+  "correct_diagnosis": "PCDH19-female limited epilepsy",
+  "differentials": [
+    "PCDH19-female limited epilepsy",
+    "Developmental and epileptic encephalopathy 9 (DEE9)",
+    "Epileptic encephalopathy",
+    "Genetic epilepsy",
+    "Infantile spasms"
+  ],
+  "correct_ranking": [
+    "PCDH19-female limited epilepsy",
+    "Developmental and epileptic encephalopathy 9 (DEE9)",
+    "Epileptic encephalopathy",
+    "Genetic epilepsy",
+    "Infantile spasms"
+  ]
+}

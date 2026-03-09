@@ -1,0 +1,23 @@
+{
+  "case_id": "41609122",
+  "specialty": "stroke",
+  "chief_complaint": "A 26-year-old man presented with audio-visual hallucinations, transient uncontrolled movements of his left upper extremities, and right-sided headache.",
+  "history": "The patient had no neurological or psychological history. He presented with audio-visual hallucinations, transient uncontrolled movements of his left upper extremity, and right-sided headache. Physical examination was nonfocal, and he demonstrated normal awareness, orientation, and motor function.",
+  "exam": "Vital signs and physical examination findings were within normal limits, with the exception of nonfocal examination and transient uncontrolled movements of his left upper extremity.",
+  "labs": "CT angiography, CT venography (CTV) of the head, and magnetic resonance imaging of the brain were suggestive of multiple intracranial malformations versus neoplasm. Digital subtraction angiography demonstrated nonocclusive thrombi in several right posterior temporal cortical veins and a nonocclusive thrombus in the right sigmoid sinus.",
+  "correct_diagnosis": "Cerebral Venous Sinus Thrombosis (CVST)",
+  "differentials": [
+    "Cerebral Venous Sinus Thrombosis (CVST)",
+    "Migraine with Aura",
+    "Temporal Lobe Epilepsy",
+    "Arteriovenous Malformation (AVM)",
+    "Intracranial Neoplasm"
+  ],
+  "correct_ranking": [
+    "Cerebral Venous Sinus Thrombosis (CVST)",
+    "Migraine with Aura",
+    "Temporal Lobe Epilepsy",
+    "Arteriovenous Malformation (AVM)",
+    "Intracranial Neoplasm"
+  ]
+}

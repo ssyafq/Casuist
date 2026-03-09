@@ -1,0 +1,23 @@
+{
+  "case_id": "40722050",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 72-year-old woman presented with chest pain and was diagnosed with non-ST elevation myocardial infarction (MI).",
+  "history": "The patient had a large coronary artery fistula, which is an abnormal vascular connection that allows blood to drain from another vessel or heart chamber, potentially leading to angina and heart failure.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "Coronary angiography revealed severe coronary stenosis and a large fistula.",
+  "correct_diagnosis": "Coronary artery fistula",
+  "differentials": [
+    "Coronary artery fistula",
+    "Myocardial infarction",
+    "Heart failure",
+    "Angina",
+    "Coronary artery aneurysm"
+  ],
+  "correct_ranking": [
+    "Coronary artery fistula",
+    "Myocardial infarction",
+    "Angina",
+    "Heart failure",
+    "Coronary artery aneurysm"
+  ]
+}

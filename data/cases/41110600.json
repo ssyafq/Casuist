@@ -1,0 +1,23 @@
+{
+  "case_id": "41110600",
+  "specialty": "seizure",
+  "chief_complaint": "Two female patients, referred for ictal event monitoring, presented with seizure activity.",
+  "history": "Both patients had a history of drug-resistant epilepsy, with a third of people with epilepsy not achieving seizure control despite antiseizure medications. They were referred for ictal single-photon emission computed tomography (SPECT) imaging in a low-resource African setting.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Ictal EEG, ictal SPECT, and magnetic resonance imaging (MRI) co-registration were performed. Ictal SPECT was acquired during a triggered seizure on a Mediso AnyScan S Dual-head SPECT scanner using standard clinical brain SPECT protocols.",
+  "correct_diagnosis": "Multi-focal ictal focus with hyper-perfusion",
+  "differentials": [
+    "Multi-focal ictal focus with hyper-perfusion",
+    "Left hemisphere rhythmic slow discharge",
+    "Right occipital lobe hyper-perfusion",
+    "Left frontal cortex hyper-perfusion",
+    "Unclear ictal discharge"
+  ],
+  "correct_ranking": [
+    "Multi-focal ictal focus with hyper-perfusion",
+    "Left hemisphere rhythmic slow discharge",
+    "Right occipital lobe hyper-perfusion",
+    "Left frontal cortex hyper-perfusion",
+    "Unclear ictal discharge"
+  ]
+}

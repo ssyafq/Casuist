@@ -1,0 +1,23 @@
+{
+  "case_id": "41574441",
+  "specialty": "chest pain",
+  "chief_complaint": "A 32-year-old man presented with acute chest pain and repeated vomiting following dinner.",
+  "history": "The patient had a history of ulcerative colitis (UC) and reported a sensation of food impaction 2 hours after symptom onset. He presented to the emergency department with acute chest pain and repeated vomiting.",
+  "exam": "Examination revealed subcutaneous emphysema and abdominal tenderness. Vital signs were not provided.",
+  "labs": "Imaging with oral contrast-enhanced computed tomography revealed pneumomediastinum, pneumoperitoneum, and a distal esophageal perforation.",
+  "correct_diagnosis": "Boerhaave's syndrome",
+  "differentials": [
+    "Boerhaave's syndrome",
+    "Esophageal rupture",
+    "Pneumomediastinum",
+    "Pneumoperitoneum",
+    "Acute pancreatitis"
+  ],
+  "correct_ranking": [
+    "Boerhaave's syndrome",
+    "Esophageal rupture",
+    "Pneumomediastinum",
+    "Pneumoperitoneum",
+    "Acute pancreatitis"
+  ]
+}

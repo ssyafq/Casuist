@@ -1,0 +1,23 @@
+{
+  "case_id": "41576848",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 4-year-old girl presented with persistent fever, abdominal pain, and vomiting.",
+  "history": "The patient was treated with corticosteroids and broad-spectrum antibiotics, but her condition rapidly deteriorated, resulting in cardiogenic shock and death from cardiac arrest. There was no history of autoimmune or inflammatory disease.",
+  "exam": "Cardiac evaluation revealed a mild pericardial effusion with preserved systolic function.",
+  "labs": "Histopathological examination and immunohistochemical analysis of the cardiac muscle (in particular in the right ventricle) showed CD68 positivity highlighting the presence of a diffuse infiltrate of histiocytes. CD3, CD4, CD8, and CD20 staining showed only scarce lymphocyte representation.",
+  "correct_diagnosis": "Histiocytic myocarditis",
+  "differentials": [
+    "Histiocytic myocarditis",
+    "Lymphocytic myocarditis",
+    "Eosinophilic myocarditis",
+    "Cardiac sarcoidosis",
+    "Cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Histiocytic myocarditis",
+    "Lymphocytic myocarditis",
+    "Eosinophilic myocarditis",
+    "Cardiac sarcoidosis",
+    "Cardiomyopathy"
+  ]
+}

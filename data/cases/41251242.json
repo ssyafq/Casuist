@@ -1,0 +1,23 @@
+{
+  "case_id": "41251242",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 71-year-old woman presented with sudden swelling of the tongue one hour after taking acetylsalicylic acid.",
+  "history": "The patient had a history of acute coronary syndrome and was administered acetylsalicylic acid. She had no known allergies and no previous history of angioedema. The symptoms resolved after treatment with glucocorticoid and an antihistamine.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 80 bpm, RR 20 bpm. Physical examination revealed unilateral tongue swelling.",
+  "labs": "ECG: normal. Blood tests: normal. Imaging: not performed.",
+  "correct_diagnosis": "Acetylsalicylic acid-induced unilateral tongue angioedema",
+  "differentials": [
+    "Acetylsalicylic acid-induced unilateral tongue angioedema",
+    "Hereditary angioedema",
+    "Angiotensin-converting enzyme inhibitor-induced angioedema",
+    "Cold urticaria",
+    "Idiopathic angioedema"
+  ],
+  "correct_ranking": [
+    "Acetylsalicylic acid-induced unilateral tongue angioedema",
+    "Hereditary angioedema",
+    "Angiotensin-converting enzyme inhibitor-induced angioedema",
+    "Cold urticaria",
+    "Idiopathic angioedema"
+  ]
+}

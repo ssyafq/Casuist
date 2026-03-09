@@ -1,0 +1,23 @@
+{
+  "case_id": "41617364",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 30-year-old woman presented with nausea, vomiting, and palpitations progressing to cardiogenic shock.",
+  "history": "The patient had a history of non-specific symptoms, including nausea, vomiting, and palpitations. She was previously healthy and had no known medical conditions. She was not on any medications. Her social history was unremarkable.",
+  "exam": "Vital signs: blood pressure 80/40 mmHg, heart rate 120 bpm, respiratory rate 24 breaths/min. Physical examination revealed severely impaired biventricular function.",
+  "labs": "ECG: showing signs of cardiogenic shock. Blood tests: elevated troponin levels, normal electrolytes. Imaging: echocardiogram showing severely impaired biventricular function. Other tests: catecholamine levels were elevated.",
+  "correct_diagnosis": "Pheochromocytoma-induced Takotsubo syndrome",
+  "differentials": [
+    "Pheochromocytoma-induced Takotsubo syndrome",
+    "Takotsubo syndrome",
+    "Cardiogenic shock due to myocardial infarction",
+    "Cardiac tamponade",
+    "Severe anaphylaxis"
+  ],
+  "correct_ranking": [
+    "Pheochromocytoma-induced Takotsubo syndrome",
+    "Takotsubo syndrome",
+    "Cardiogenic shock due to myocardial infarction",
+    "Cardiac tamponade",
+    "Severe anaphylaxis"
+  ]
+}

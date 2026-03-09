@@ -1,0 +1,23 @@
+{
+  "case_id": "31802644",
+  "specialty": "cardiology",
+  "chief_complaint": "A patient, whose age and sex are not specified, presented with symptoms leading to a diagnosis of end-stage arrhythmogenic right ventricular cardiomyopathy (ARVC) necessitating heart transplantation.",
+  "history": "The patient was diagnosed with ARVC fulfilling the task force criteria and underwent successful heart transplantation. Years later, the patient developed similar symptoms and morphofunctional changes of the heart, prompting a re-evaluation of the primary diagnosis.",
+  "exam": "Not specified",
+  "labs": "Not specified, but the patient had findings consistent with ARVC and later developed symptoms and changes suggestive of cardiac sarcoidosis after heart transplantation.",
+  "correct_diagnosis": "Cardiac sarcoidosis",
+  "differentials": [
+    "Hypertrophic cardiomyopathy",
+    "Dilated cardiomyopathy",
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Cardiac sarcoidosis",
+    "Arrhythmogenic cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Cardiac sarcoidosis",
+    "Arrhythmogenic right ventricular cardiomyopathy",
+    "Arrhythmogenic cardiomyopathy",
+    "Dilated cardiomyopathy",
+    "Hypertrophic cardiomyopathy"
+  ]
+}

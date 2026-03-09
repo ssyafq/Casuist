@@ -1,0 +1,23 @@
+{
+  "case_id": "41547912",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 56-year-old man of South Asian/Pakistani descent with a history of diabetes mellitus and hypertension presented with post-coronavirus disease pneumonia and an anterior abdominal wall lesion.",
+  "history": "The patient was diagnosed with post-coronavirus disease pneumonia and had an anterior abdominal wall lesion that did not resolve after treatment for cutaneous mucormycosis. He had a history of diabetes mellitus and hypertension, and was administered liposomal amphotericin B intravenously and underwent surgical wound debridement.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the case report.",
+  "labs": "Histopathology confirmed cutaneous mucormycosis, and polymerase chain reaction testing confirmed cytomegalovirus reactivation.",
+  "correct_diagnosis": "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection",
+  "differentials": [
+    "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection",
+    "Post-coronavirus disease pneumonia",
+    "Cutaneous mucormycosis",
+    "Cytomegalovirus infection",
+    "Sepsis"
+  ],
+  "correct_ranking": [
+    "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection",
+    "Post-coronavirus disease pneumonia",
+    "Cutaneous mucormycosis",
+    "Cytomegalovirus infection",
+    "Sepsis"
+  ]
+}

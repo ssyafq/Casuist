@@ -1,0 +1,23 @@
+{
+  "case_id": "41711775",
+  "specialty": "pneumonia",
+  "chief_complaint": "Seven patients, aged 30-60 years, presented with profound sensorineural hearing loss.",
+  "history": "All patients had a history of COVID-19 infection. They experienced severe acute respiratory symptoms, followed by sudden onset of hearing loss. Brief clinical histories and audiological tests were performed. The current condition of the patients was also considered.",
+  "exam": "Vital signs were within normal limits. Physical examination revealed no abnormalities.",
+  "labs": "Audiological tests showed profound sensorineural hearing loss. COVID-19 symptoms and clinical evaluation were consistent with COVID-19 infection.",
+  "correct_diagnosis": "COVID-19 infection with sensorineural hearing loss",
+  "differentials": [
+    "COVID-19 infection with sensorineural hearing loss",
+    "Viral meningitis",
+    "Ototoxicity due to medication",
+    "Acoustic neuroma",
+    "Meniere's disease"
+  ],
+  "correct_ranking": [
+    "COVID-19 infection with sensorineural hearing loss",
+    "Viral meningitis",
+    "Ototoxicity due to medication",
+    "Acoustic neuroma",
+    "Meniere's disease"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41332121",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 62-year-old male presented with acute non-ST-elevation myocardial infarction.",
+  "history": "The patient underwent successful drug-eluting stent implantation, but developed catastrophic in-stent thrombosis and cardiac rupture within one hour post-procedure, concurrent with a mild COVID-19 infection. He had a history of acute coronary syndrome and was diagnosed with COVID-19 infection.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided. Other tests and their results: not provided.",
+  "correct_diagnosis": "In-stent thrombosis",
+  "differentials": [
+    "In-stent thrombosis",
+    "Acute coronary syndrome",
+    "COVID-19 infection",
+    "Cardiac rupture",
+    "Refractory cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "In-stent thrombosis",
+    "Acute coronary syndrome",
+    "COVID-19 infection",
+    "Cardiac rupture",
+    "Refractory cardiogenic shock"
+  ]
+}

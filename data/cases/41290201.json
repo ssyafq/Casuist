@@ -1,0 +1,23 @@
+{
+  "case_id": "41290201",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 30-year-old male presented with sudden-onset dyspnea.",
+  "history": "The patient was diagnosed with mixed connective tissue disease, an autoimmune disorder characterized by the presence of various abnormal autoantibodies and systemic involvement. He had no prior history of pulmonary thromboembolism but had experienced systemic symptoms. He was not on anticoagulant therapy.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm, RR 24/min. Physical examination revealed bilateral lung crackles and tachypnea.",
+  "labs": "Computed tomography angiography (CTA) confirmed a pulmonary thromboembolism. ECG showed no abnormalities. Blood tests revealed elevated inflammatory markers and positive autoantibodies consistent with mixed connective tissue disease.",
+  "correct_diagnosis": "Pulmonary thromboembolism as an atypical manifestation of mixed connective tissue disease",
+  "differentials": [
+    "Pulmonary thromboembolism as an atypical manifestation of mixed connective tissue disease",
+    "Pulmonary hypertension",
+    "Interstitial fibrosis",
+    "Pleurisy",
+    "Acute respiratory distress syndrome"
+  ],
+  "correct_ranking": [
+    "Pulmonary thromboembolism as an atypical manifestation of mixed connective tissue disease",
+    "Pulmonary hypertension",
+    "Interstitial fibrosis",
+    "Pleurisy",
+    "Acute respiratory distress syndrome"
+  ]
+}

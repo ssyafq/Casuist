@@ -1,0 +1,23 @@
+{
+  "case_id": "40023209",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A patient presented with symptoms of acute coronary syndrome, specifically a total proximal 'wrap-around' LAD artery in-stent occlusion.",
+  "history": "The patient suffered a total proximal 'wrap-around' LAD artery in-stent occlusion manifesting the de Winter ECG pattern, which is a STEMI equivalent. The patient's history is significant for previous coronary artery disease and stent placement.",
+  "exam": "No specific physical examination findings are provided, but the patient's ECG showed junctional upsloping ST-segment depression followed by tall, symmetrical T waves in the precordial leads, known as the de Winter pattern.",
+  "labs": "ECG showed the de Winter pattern, which is characterized by junctional upsloping ST-segment depression followed by tall, symmetrical T waves in the precordial leads.",
+  "correct_diagnosis": "Acute coronary syndrome without ST-segment elevation (de Winter pattern)",
+  "differentials": [
+    "Unstable angina",
+    "Non-ST-segment elevation myocardial infarction (NSTEMI)",
+    "Acute coronary syndrome without ST-segment elevation (de Winter pattern)",
+    "ST-segment elevation myocardial infarction (STEMI)",
+    "Variant angina"
+  ],
+  "correct_ranking": [
+    "Acute coronary syndrome without ST-segment elevation (de Winter pattern)",
+    "Non-ST-segment elevation myocardial infarction (NSTEMI)",
+    "Unstable angina",
+    "ST-segment elevation myocardial infarction (STEMI)",
+    "Variant angina"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41512442",
+  "specialty": "seizure",
+  "chief_complaint": "An older woman presented to the emergency department after an unwitnessed loss of consciousness, with persistent altered mental status.",
+  "history": "An older woman without seizure history presented to the emergency department after an unwitnessed loss of consciousness, with persistent altered mental status. She had been taking long-term vonoprazan, a potassium-competitive acid blocker (P-CAB).",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Initial tests showed profound hypomagnesemia (0.6 mg/dL) with low ionized calcium; lactate declined rapidly. Urine showed low magnesium with a fractional excretion of magnesium (FEMg) ≤2.8 %. Perfusion MRI with arterial spin labeling (ASL) showed right-hemispheric hyperperfusion, while conventional sequences showed only a chronic cerebellar infarct. Initial inpatient electroencephalogram showed diffuse low-amplitude slowing without definite epileptiform discharges; by Day 5 the background was more organized. On Day 8, single-photon emission computed tomography (SPECT) showed reduced perfusion in the previously hyperperfused region. QTc peaked at 603 ms and shortened as electrolytes normalized.",
+  "correct_diagnosis": "Vonoprazan-associated hypomagnesemia",
+  "differentials": [
+    "Vonoprazan-associated hypomagnesemia",
+    "Postictal state",
+    "Cerebellar infarct",
+    "Epilepsy",
+    "Hypocalcemia"
+  ],
+  "correct_ranking": [
+    "Vonoprazan-associated hypomagnesemia",
+    "Postictal state",
+    "Cerebellar infarct",
+    "Epilepsy",
+    "Hypocalcemia"
+  ]
+}

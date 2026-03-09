@@ -1,0 +1,23 @@
+{
+  "case_id": "41442699",
+  "specialty": "stroke",
+  "chief_complaint": "A 72-year-old male presented with chronic stroke symptoms, specifically hemiparesis of the upper arm.",
+  "history": "The patient underwent a 20-day virtual reality exergaming program using a commercially available bundle of supplies, including a head-mounted display and adaptive software. The program aimed to improve hemiparetic arm function.",
+  "exam": "Vital signs and physical examination findings were not provided. However, the patient's upper-arm function was assessed using the Wolf Motor Function Test (WMFT) and Disabilities of the Arm, Shoulder, and Hand Questionnaire (DASH).",
+  "labs": "No laboratory tests were mentioned in the case report.",
+  "correct_diagnosis": "Poststroke hemiparesis",
+  "differentials": [
+    "Poststroke hemiparesis",
+    "Upper limb spasticity",
+    "Stroke-related cognitive impairment",
+    "Musculoskeletal disorder",
+    "Neurological disorder"
+  ],
+  "correct_ranking": [
+    "Poststroke hemiparesis",
+    "Upper limb spasticity",
+    "Stroke-related cognitive impairment",
+    "Musculoskeletal disorder",
+    "Neurological disorder"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41276147",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 67-year-old female on chronic hydroxychloroquine therapy presented with progressive conduction abnormalities.",
+  "history": "The patient developed progressive conduction abnormalities culminating in cardiogenic shock and sudden death. Initial stabilization with isolated atrial pacing was achieved, but the patient ultimately succumbed to the condition. Chronic hydroxychloroquine therapy was the only relevant medication.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the source.",
+  "labs": "Autopsy revealed extensive sinoatrial and atrioventricular nodal lysosomal toxicity and fibrosis confirming irreversible conduction injury. ECG findings are not explicitly stated in the source.",
+  "correct_diagnosis": "Progressive conduction system disease in hydroxychloroquine cardiotoxicity",
+  "differentials": [
+    "Progressive conduction system disease in hydroxychloroquine cardiotoxicity",
+    "Atrial fibrillation with rapid ventricular response",
+    "Atrioventricular block",
+    "Cardiogenic shock",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Progressive conduction system disease in hydroxychloroquine cardiotoxicity",
+    "Atrial fibrillation with rapid ventricular response",
+    "Atrioventricular block",
+    "Cardiogenic shock",
+    "Myocardial infarction"
+  ]
+}

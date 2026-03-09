@@ -1,0 +1,23 @@
+{
+  "case_id": "41404688",
+  "specialty": "COPD",
+  "chief_complaint": "66-year-old female patient admitted to the University Hospital in Cracow due to an acute exacerbation of chronic obstructive pulmonary disease (COPD) triggered by human metapneumovirus infection.",
+  "history": "Chronic Obstructive Pulmonary Disease (COPD) is characterized by persistent respiratory symptoms and airflow limitation. Acute exacerbations significantly impair lung function and increase the risk of hospitalization and mortality. The patient was admitted to the hospital due to an acute exacerbation triggered by human metapneumovirus infection.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "FEV(1) 30% pre-rehabilitation, improved post-rehabilitation values; Borg scale decreased from 5 to 2; six-minute walk test +80 meters with no exertional desaturation; inflammatory markers returned to normal.",
+  "correct_diagnosis": "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+  "differentials": [
+    "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+    "Pneumonia",
+    "Acute bronchitis",
+    "Asthma exacerbation",
+    "Cardiac failure"
+  ],
+  "correct_ranking": [
+    "Acute exacerbation of chronic obstructive pulmonary disease (COPD)",
+    "Pneumonia",
+    "Acute bronchitis",
+    "Asthma exacerbation",
+    "Cardiac failure"
+  ]
+}

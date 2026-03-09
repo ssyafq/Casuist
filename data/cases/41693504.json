@@ -1,0 +1,23 @@
+{
+  "case_id": "41693504",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 65-year-old woman presented with sudden onset of chest pain and shortness of breath.",
+  "history": "She had been on pembrolizumab for metastatic melanoma for 6 months. Two weeks prior to admission, she developed a dry cough and worsening shortness of breath. She denied fever, chills, or sputum production. She had a history of hypertension and hyperlipidemia. She was a non-smoker and had no history of lung disease.",
+  "exam": "Vital signs: Temperature 36.5°C, Blood pressure 120/80 mmHg, Pulse 110 bpm, Respiratory rate 24/min. Physical examination revealed a diffuse crackles in the bilateral lung fields.",
+  "labs": "ECG: ST-segment elevation in leads II, III, and aVF. Blood tests: Elevated troponin (0.5 ng/mL), normal white blood cell count. Chest CT: Bilateral ground-glass opacities and interstitial markings. Pulmonary function tests: Normal.",
+  "correct_diagnosis": "Takotsubo Syndrome triggered by Immune Checkpoint Inhibitor-induced Pneumonitis",
+  "differentials": [
+    "Takotsubo Syndrome triggered by Immune Checkpoint Inhibitor-induced Pneumonitis",
+    "Pneumonitis due to pembrolizumab",
+    "Cardiac Tamponade",
+    "Acute Respiratory Distress Syndrome (ARDS)",
+    "Pneumothorax"
+  ],
+  "correct_ranking": [
+    "Takotsubo Syndrome triggered by Immune Checkpoint Inhibitor-induced Pneumonitis",
+    "Pneumonitis due to pembrolizumab",
+    "Cardiac Tamponade",
+    "Acute Respiratory Distress Syndrome (ARDS)",
+    "Pneumothorax"
+  ]
+}

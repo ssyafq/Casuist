@@ -1,0 +1,23 @@
+{
+  "case_id": "39757588",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A young male presents with acute neurological symptoms and signs of hyperthyroidism.",
+  "history": "The patient has no prior history of thyroid disease. Thyrotoxicosis is associated with a hypercoagulable state, increasing the risk of thrombotic events like CVST.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided, but the patient is diagnosed with deep cerebral venous sinus thrombosis (CVST).",
+  "correct_diagnosis": "Cerebral Venous Sinus Thrombosis (CVST) complicated by Thyroid Storm",
+  "differentials": [
+    "Thyroid Storm",
+    "Cerebral Venous Sinus Thrombosis (CVST) complicated by Thyroid Storm",
+    "Hyperthyroidism",
+    "Thrombotic Event",
+    "Neurological Disorder"
+  ],
+  "correct_ranking": [
+    "Cerebral Venous Sinus Thrombosis (CVST) complicated by Thyroid Storm",
+    "Thyroid Storm",
+    "Hyperthyroidism",
+    "Thrombotic Event",
+    "Neurological Disorder"
+  ]
+}

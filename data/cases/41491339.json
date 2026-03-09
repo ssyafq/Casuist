@@ -1,0 +1,23 @@
+{
+  "case_id": "41491339",
+  "specialty": "stroke",
+  "chief_complaint": "A 70-year-old Chinese woman presented with an acute stroke and incidental finding of a likely large meningioma with surrounding vasogenic edema.",
+  "history": "The patient was clinically stable and undergoing inpatient rehabilitation in the general ward setting. She was started on a tapering dose of dexamethasone for the meningioma. Shortly after, lactic acidosis was discovered on the basis of low bicarbonate.",
+  "exam": "The patient remained asymptomatic and clinically well throughout this period.",
+  "labs": "Type B lactic acidosis, low bicarbonate, dexamethasone was the likely cause of the elevated lactate.",
+  "correct_diagnosis": "Dexamethasone-associated lactic acidosis",
+  "differentials": [
+    "Dexamethasone-associated lactic acidosis",
+    "Type B lactic acidosis due to other medications",
+    "Type A lactic acidosis due to tissue hypoperfusion",
+    "Meningioma-associated vasogenic edema",
+    "Acute stroke"
+  ],
+  "correct_ranking": [
+    "Dexamethasone-associated lactic acidosis",
+    "Type B lactic acidosis due to other medications",
+    "Type A lactic acidosis due to tissue hypoperfusion",
+    "Meningioma-associated vasogenic edema",
+    "Acute stroke"
+  ]
+}

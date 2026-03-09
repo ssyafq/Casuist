@@ -1,0 +1,23 @@
+{
+  "case_id": "41350669",
+  "specialty": "COPD",
+  "chief_complaint": "Six male patients, aged 63-89 years, with a history of smoking, presented with persistent cough, sputum, and exertional dyspnea.",
+  "history": "All patients had a history of chronic obstructive pulmonary disease (COPD) and were diagnosed with allergic bronchopulmonary aspergillosis (ABPA). They presented with persistent or recurrent respiratory symptoms, higher blood eosinophils, and bronchiectasis on chest CT.",
+  "exam": "Vital signs were not provided. Physical examination findings were not described.",
+  "labs": "Blood total IgE was markedly elevated (1230-2951 KU/L), and all tested positive for A. fumigatus-specific IgE. Blood eosinophil count was 90-1610 cells/microl. CT revealed bronchiectasis (predominantly lower lobes) and emphysema in all cases.",
+  "correct_diagnosis": "Allergic bronchopulmonary aspergillosis (ABPA) in patients with chronic obstructive pulmonary disease (COPD)",
+  "differentials": [
+    "Allergic bronchopulmonary aspergillosis (ABPA) in patients with chronic obstructive pulmonary disease (COPD)",
+    "Chronic obstructive pulmonary disease (COPD) exacerbation",
+    "Asthma",
+    "Bronchiectasis",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Allergic bronchopulmonary aspergillosis (ABPA) in patients with chronic obstructive pulmonary disease (COPD)",
+    "Chronic obstructive pulmonary disease (COPD) exacerbation",
+    "Asthma",
+    "Bronchiectasis",
+    "Pneumonia"
+  ]
+}

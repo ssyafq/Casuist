@@ -1,0 +1,23 @@
+{
+  "case_id": "41110954",
+  "specialty": "seizure",
+  "chief_complaint": "A 77-year-old woman presented with a 3-week history of recurrent falls.",
+  "history": "The patient experienced sudden unilateral knee buckling due to faciobrachio-crural dystonic seizures (FBCDS) while standing, leading to multiple contusions on her face and extremities. Brain MRI showed no abnormalities. Serum testing revealed positive leucine-rich glioma-inactivated 1 (LGI1) antibodies, confirming the diagnosis of LGI1 antibody-positive encephalitis.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Brain MRI: no abnormalities; Serum testing: positive LGI1 antibodies.",
+  "correct_diagnosis": "LGI1 antibody-positive encephalitis",
+  "differentials": [
+    "LGI1 antibody-positive encephalitis",
+    "Other seizure disorders",
+    "Neurodegenerative disease",
+    "Vascular dementia",
+    "Normal pressure hydrocephalus"
+  ],
+  "correct_ranking": [
+    "LGI1 antibody-positive encephalitis",
+    "Other seizure disorders",
+    "Neurodegenerative disease",
+    "Vascular dementia",
+    "Normal pressure hydrocephalus"
+  ]
+}

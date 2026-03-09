@@ -1,0 +1,23 @@
+{
+  "case_id": "35647853",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A young woman presents with symptoms of thyroid storm and chest pain.",
+  "history": "The patient developed spontaneous coronary artery dissection (SCAD) during a thyroid storm (TS). SCAD is a rare cause of acute coronary syndromes and is life-threatening. The etiology of SCAD appears to be poorly understood.",
+  "exam": "No specific physical examination findings are reported.",
+  "labs": "High levels of circulating thyroid hormones and elevated troponin are noted.",
+  "correct_diagnosis": "Spontaneous coronary artery dissection (SCAD) in the context of thyroid storm",
+  "differentials": [
+    "Myocardial infarction",
+    "Spontaneous coronary artery dissection (SCAD) in the context of thyroid storm",
+    "Aortic dissection",
+    "Pulmonary embolism",
+    "Takotsubo cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Spontaneous coronary artery dissection (SCAD) in the context of thyroid storm",
+    "Myocardial infarction",
+    "Takotsubo cardiomyopathy",
+    "Aortic dissection",
+    "Pulmonary embolism"
+  ]
+}

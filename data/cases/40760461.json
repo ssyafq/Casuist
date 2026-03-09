@@ -1,0 +1,23 @@
+{
+  "case_id": "40760461",
+  "specialty": "chest pain",
+  "chief_complaint": "A 66-year-old Mexican male patient presented with intermittent chest pain, shortness of breath, and neurological symptoms.",
+  "history": "The patient has a family history significant for hereditary amyloidosis. He presented with intermittent chest pain, shortness of breath, and neurological symptoms such as numbness.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "An echocardiogram showed an ejection fraction of 55-60% with grade 2 diastolic dysfunction. A technetium pyrophosphate scan was used to make the diagnosis of transthyretin amyloidosis, and genetic testing showed a p.G67A pathogenic mutation in the transthyretin (TTR) gene.",
+  "correct_diagnosis": "Transthyretin Amyloidosis",
+  "differentials": [
+    "Hypertrophic Cardiomyopathy",
+    "Transthyretin Amyloidosis",
+    "Cardiac Sarcoidosis",
+    "Amyloid Light-chain Amyloidosis",
+    "Aortic Stenosis"
+  ],
+  "correct_ranking": [
+    "Transthyretin Amyloidosis",
+    "Amyloid Light-chain Amyloidosis",
+    "Hypertrophic Cardiomyopathy",
+    "Cardiac Sarcoidosis",
+    "Aortic Stenosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41591985",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 64.33-year-old man (9 men and 3 women) with ST-segment elevation myocardial infarction (STEMI) who had just returned to continuous spontaneous circulation via cardiopulmonary resuscitation (CPR)",
+  "history": "The patient had a history of STEMI with anterior wall elevation on electrocardiography (ECG), and CPR was performed for an unknown duration. The patient received thrombolytic therapy at 3 hospitals between April 2007 and February 2021.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG showed anterior wall elevation in 66.7% and inferior wall elevation in 33.3% of patients. CPR duration was associated with a higher incidence of rib fractures but not bleeding complications.",
+  "correct_diagnosis": "ST-segment elevation myocardial infarction (STEMI) with return of spontaneous circulation",
+  "differentials": [
+    "ST-segment elevation myocardial infarction (STEMI) with return of spontaneous circulation",
+    "Acute coronary syndrome",
+    "Cardiac arrest",
+    "Myocardial infarction with non-ST elevation",
+    "Cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "ST-segment elevation myocardial infarction (STEMI) with return of spontaneous circulation",
+    "Acute coronary syndrome",
+    "Cardiac arrest",
+    "Myocardial infarction with non-ST elevation",
+    "Cardiogenic shock"
+  ]
+}

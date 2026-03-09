@@ -1,0 +1,23 @@
+{
+  "case_id": "41390443",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 56-year-old Hispanic male presented with coronavirus disease 2019 pneumonia.",
+  "history": "The patient had coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema. He was not intubated. The patient also developed a pulmonary embolism.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided. The patient was treated with vacuum-assisted closure therapy and systemic anticoagulation therapy.",
+  "correct_diagnosis": "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema complicated by pulmonary embolism",
+  "differentials": [
+    "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema complicated by pulmonary embolism",
+    "Spontaneous pneumomediastinum",
+    "Pneumothorax",
+    "Subcutaneous emphysema",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema complicated by pulmonary embolism",
+    "Spontaneous pneumomediastinum",
+    "Pneumothorax",
+    "Subcutaneous emphysema",
+    "Pulmonary embolism"
+  ]
+}

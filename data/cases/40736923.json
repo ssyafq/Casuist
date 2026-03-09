@@ -1,0 +1,23 @@
+{
+  "case_id": "40736923",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "An 8-year-old castrated male Miniature Poodle presented with polyuria, polydipsia, and urinary incontinence.",
+  "history": "The dog was referred after 12 days of prednisolone administration (0.25 mg/kg q12h) for otitis externa. There is no other past medical history mentioned.",
+  "exam": "An abnormal heart rhythm was detected on cardiac auscultation without any associated clinical signs.",
+  "labs": "ECG revealed a Mobitz Type II second-degree atrioventricular (AV) block. Blood analysis showed hyperglycaemia (> 500 mg/dL), elevated fructosamine (361 micromol/L), and beta-hydroxybutyric acid concentrations (5.4 mmol/L).",
+  "correct_diagnosis": "Diabetic ketoacidosis with second-degree atrioventricular block",
+  "differentials": [
+    "Hypoadrenocorticism",
+    "Diabetic ketoacidosis with second-degree atrioventricular block",
+    "Addison's disease",
+    "Insulinoma",
+    "Gastritis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis with second-degree atrioventricular block",
+    "Insulinoma",
+    "Hypoadrenocorticism",
+    "Addison's disease",
+    "Gastritis"
+  ]
+}

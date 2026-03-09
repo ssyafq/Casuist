@@ -1,0 +1,23 @@
+{
+  "case_id": "41312902",
+  "specialty": "chest pain",
+  "chief_complaint": "A 45-year-old female presented with anterior chest pain, cough, and polyarthritis.",
+  "history": "The patient reported a 2-week history of worsening anterior chest pain, accompanied by a cough and polyarthritis. She denied any recent trauma or infection. She had a history of relapsing polychondritis, for which she was on regular medication. She was a non-smoker and did not consume alcohol.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 20 bpm. Physical examination revealed tenderness over the costochondral cartilage and joints.",
+  "labs": "ECG: Normal. Bloods: ESR 80 mm/hr, CRP 120 mg/L. FDG-PET scan: Significant uptake in the costochondral cartilage, trachea, and joints.",
+  "correct_diagnosis": "Relapsing Polychondritis",
+  "differentials": [
+    "Relapsing Polychondritis",
+    "Sarcoidosis",
+    "Rheumatoid Arthritis",
+    "Giant Cell Arteritis",
+    "Infective Endocarditis"
+  ],
+  "correct_ranking": [
+    "Relapsing Polychondritis",
+    "Sarcoidosis",
+    "Rheumatoid Arthritis",
+    "Giant Cell Arteritis",
+    "Infective Endocarditis"
+  ]
+}

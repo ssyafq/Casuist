@@ -1,0 +1,23 @@
+{
+  "case_id": "41107050",
+  "specialty": "seizure",
+  "chief_complaint": "A 45-year-old male presented with a progressive movement disorder, long-standing seizures, and cognitive impairment.",
+  "history": "Choreo-acanthocytosis (hAc) is an autosomal-recessive, neurodegenerative disorder, often presenting as movement disorder, seizures, and behavioural changes. The patient presented with progressive movement disorder, long-standing seizures, and cognitive impairment. Neurological examination and neuroimaging revealed features suspicious for basal ganglia degeneration. Routine metabolic and infectious investigations were negative. Genetic testing identified a likely pathogenic VPS13A variant (c.799C>T, p.Arg267Ter).",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Routine metabolic and infectious investigations were negative. Genetic testing identified a likely pathogenic VPS13A variant (c.799C>T, p.Arg267Ter). Neuroimaging revealed features suspicious for basal ganglia degeneration.",
+  "correct_diagnosis": "Chorea and seizures in a patient with a rare VPS13A gene mutation and neuroacanthocytosis",
+  "differentials": [
+    "Chorea and seizures in a patient with a rare VPS13A gene mutation and neuroacanthocytosis",
+    "Huntington's disease",
+    "Wilson's disease",
+    "Progressive supranuclear palsy",
+    "Multiple system atrophy"
+  ],
+  "correct_ranking": [
+    "Chorea and seizures in a patient with a rare VPS13A gene mutation and neuroacanthocytosis",
+    "Huntington's disease",
+    "Wilson's disease",
+    "Progressive supranuclear palsy",
+    "Multiple system atrophy"
+  ]
+}

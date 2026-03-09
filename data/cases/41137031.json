@@ -1,0 +1,23 @@
+{
+  "case_id": "41137031",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 45-year-old female patient presented with sudden onset shortness of breath and chest pain.",
+  "history": "The patient had a history of chronic thromboembolic pulmonary hypertension (CTEPH) and developed a massive acute-on-chronic pulmonary thromboembolism leading to cardiogenic shock. She was not a candidate for immediate definitive treatment with pulmonary endarterectomy (PEA) due to her critical condition.",
+  "exam": "Vital signs: BP 80/40 mmHg, HR 120 bpm, RR 30 breaths/min. Physical examination revealed signs of cardiogenic shock.",
+  "labs": "ECG: showing signs of right heart strain. Bloods: elevated troponin, D-dimer positive. Imaging: CT pulmonary angiogram showing massive pulmonary embolism.",
+  "correct_diagnosis": "Massive acute-on-chronic pulmonary thromboembolism",
+  "differentials": [
+    "Massive acute-on-chronic pulmonary thromboembolism",
+    "Acute respiratory distress syndrome (ARDS)",
+    "Cardiogenic shock due to myocardial infarction",
+    "Pulmonary embolism with right heart strain",
+    "Acute exacerbation of chronic obstructive pulmonary disease (COPD)"
+  ],
+  "correct_ranking": [
+    "Massive acute-on-chronic pulmonary thromboembolism",
+    "Acute respiratory distress syndrome (ARDS)",
+    "Cardiogenic shock due to myocardial infarction",
+    "Pulmonary embolism with right heart strain",
+    "Acute exacerbation of chronic obstructive pulmonary disease (COPD)"
+  ]
+}

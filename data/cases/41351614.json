@@ -1,0 +1,23 @@
+{
+  "case_id": "41351614",
+  "specialty": "chest pain",
+  "chief_complaint": "A 17-year-old female presented with acute substernal chest pain radiating to the neck, accompanied by dyspnea and bilateral crepitus in the cervical region.",
+  "history": "The patient developed spontaneous pneumomediastinum (SPM) following excessive shouting at a concert. She had no underlying pulmonary disease and no history of similar episodes. The patient was advised to refrain from strenuous vocalization and air travel.",
+  "exam": "Physical examination revealed subcutaneous emphysema and a positive Hamman's sign. Vital signs were not provided.",
+  "labs": "Chest radiography confirmed pneumomediastinum and subcutaneous emphysema, while computed tomography excluded underlying bullous disease.",
+  "correct_diagnosis": "Spontaneous pneumomediastinum",
+  "differentials": [
+    "Spontaneous pneumomediastinum",
+    "Pulmonary embolism",
+    "Costochondritis",
+    "Pneumothorax",
+    "Esophageal rupture"
+  ],
+  "correct_ranking": [
+    "Spontaneous pneumomediastinum",
+    "Pulmonary embolism",
+    "Costochondritis",
+    "Pneumothorax",
+    "Esophageal rupture"
+  ]
+}

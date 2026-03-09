@@ -1,0 +1,23 @@
+{
+  "case_id": "41051221",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 45-year-old male patient with acute myeloid leukemia presented with symptoms of diabetic ketoacidosis.",
+  "history": "The patient had a history of type 1 diabetes mellitus and was admitted with acute myeloid leukemia. He had been experiencing symptoms of diabetic ketoacidosis, including polyuria, polydipsia, and abdominal pain. He had been treated with insulin and had been experiencing episodes of hyperglycemia.",
+  "exam": "Vital signs: temperature 37.5°C, heart rate 110 beats per minute, blood pressure 120/80 mmHg, respiratory rate 24 breaths per minute. Physical examination revealed dry mucous membranes, decreased skin turgor, and abdominal tenderness.",
+  "labs": "Laboratory tests: blood gas: pH 7.25, pCO2 28 mmHg, pO2 95 mmHg, lactate 1.2 mmol/L; core laboratory instruments: lactate 2.5 mmol/L, beta-hydroxybutyrate 3.5 mmol/L.",
+  "correct_diagnosis": "Diabetic ketoacidosis with falsely low lactate due to beta-hydroxybutyrate interference",
+  "differentials": [
+    "Diabetic ketoacidosis with falsely low lactate due to beta-hydroxybutyrate interference",
+    "Hyperchloremic metabolic acidosis",
+    "Lactic acidosis",
+    "Ketosis",
+    "Acute kidney injury"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis with falsely low lactate due to beta-hydroxybutyrate interference",
+    "Hyperchloremic metabolic acidosis",
+    "Lactic acidosis",
+    "Ketosis",
+    "Acute kidney injury"
+  ]
+}

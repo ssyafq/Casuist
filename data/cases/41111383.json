@@ -1,0 +1,23 @@
+{
+  "case_id": "41111383",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 61-year-old male with prostate cancer developed swelling and pain in his right lower limb, with localized warmth and worsening symptoms upon activity, one week after discharge from robotic-assisted laparoscopic radical prostatectomy.",
+  "history": "The patient underwent RALRP for prostate cancer (pT3N0M0) and was initially managed symptomatically for a suspected pelvic lymphocyst. However, three weeks later, he returned with persistent right lower limb edema and new-onset dyspnea.",
+  "exam": "Vital signs: temperature 37.2°C, blood pressure 120/80 mmHg, pulse 90 bpm, respiratory rate 20 breaths/min. Physical examination revealed localized warmth and swelling in the right lower limb.",
+  "labs": "Further evaluation confirmed a secondary PE due to the lymphocyst. The patient showed significant improvement after a comprehensive treatment strategy, including anticoagulation, thrombolysis, and inferior vena cava filter placement.",
+  "correct_diagnosis": "Pulmonary Embolism secondary to lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy",
+  "differentials": [
+    "Pulmonary Embolism secondary to lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy",
+    "Deep Vein Thrombosis",
+    "Pelvic Lymphocyst",
+    "Prostate Cancer Recurrence",
+    "Postoperative Complication"
+  ],
+  "correct_ranking": [
+    "Pulmonary Embolism secondary to lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy",
+    "Deep Vein Thrombosis",
+    "Pelvic Lymphocyst",
+    "Prostate Cancer Recurrence",
+    "Postoperative Complication"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41218884",
+  "specialty": "COPD",
+  "chief_complaint": "A 67-year-old male presented with a 5-day history of cough with sputum and a 2-day history of fever.",
+  "history": "The patient had undergone bilateral lung transplantation for chronic obstructive pulmonary disease 11 months prior. He was admitted with rapidly progressive bilateral diffuse 'ground glass' opacities on chest CT. Despite anti-infective therapy and methylprednisolone pulse therapy, his condition deteriorated.",
+  "exam": "Vital signs and physical examination findings were not explicitly stated.",
+  "labs": "Computed tomography (CT) of the chest revealed rapidly progressive bilateral diffuse 'ground glass' opacities. Bedside cryobiopsy pathology confirmed organizing pneumonia diagnosis. Comprehensive treatment included methylprednisolone, tacrolimus for immunosuppression, and prophylactic anti-infectives.",
+  "correct_diagnosis": "Organizing pneumonia",
+  "differentials": [
+    "Organizing pneumonia",
+    "Acute rejection",
+    "Chronic rejection",
+    "Bacterial pneumonia",
+    "Fungal pneumonia"
+  ],
+  "correct_ranking": [
+    "Organizing pneumonia",
+    "Acute rejection",
+    "Chronic rejection",
+    "Bacterial pneumonia",
+    "Fungal pneumonia"
+  ]
+}

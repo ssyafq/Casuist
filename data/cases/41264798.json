@@ -1,0 +1,23 @@
+{
+  "case_id": "41264798",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "An 81-year-old male presented with persistent substernal crushing pain.",
+  "history": "The patient had a history of refractory hypertension, low BMI, and a smoking history. He presented with elevated cardiac biomarkers, leading to an initial diagnosis of acute coronary syndrome (ACS).",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG: not specified; Bloods: elevated cardiac biomarkers, d-dimer level within normal limits; Imaging: coronary angiography revealed no obstructive disease but a hazy appearance in the left anterior descending artery; IVUS interrogation of the left main ostium identified a fibrous plaque with a widened hypoechoic space extending toward the aorta; Aortic computed tomography angiography (CTA) visualized the dissection flap.",
+  "correct_diagnosis": "Aortic Root Dissection",
+  "differentials": [
+    "Aortic Root Dissection",
+    "Acute Myocardial Infarction",
+    "Acute Coronary Syndrome",
+    "Aortic Dissection Involving the Coronary Arteries",
+    "Takotsubo Cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Aortic Root Dissection",
+    "Acute Myocardial Infarction",
+    "Acute Coronary Syndrome",
+    "Aortic Dissection Involving the Coronary Arteries",
+    "Takotsubo Cardiomyopathy"
+  ]
+}

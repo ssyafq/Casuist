@@ -1,0 +1,23 @@
+{
+  "case_id": "41153046",
+  "specialty": "chest pain",
+  "chief_complaint": "A 58-year-old White Swiss male presented with pleuritic, position-dependent chest pain, dyspnea, and transient left-arm paresthesia.",
+  "history": "The patient presented with pleuritic, position-dependent chest pain, dyspnea, and transient left-arm paresthesia. Initial workup showed mildly elevated troponins (38 ng/l) and left-sided pleural effusion on X-ray.",
+  "exam": "Vital signs: not available. Physical examination findings: pleuritic, position-dependent chest pain, dyspnea, and transient left-arm paresthesia.",
+  "labs": "ECG: not available. Bloods: mildly elevated troponins (38 ng/l). Imaging: left-sided pleural effusion on X-ray, ovoid epipericardial fat lobule with surrounding edematous infiltration on computed tomography.",
+  "correct_diagnosis": "Epipericardial fat necrosis",
+  "differentials": [
+    "Epipericardial fat necrosis",
+    "Pulmonary embolism",
+    "Acute coronary syndrome",
+    "Pericarditis",
+    "Pneumonia"
+  ],
+  "correct_ranking": [
+    "Epipericardial fat necrosis",
+    "Pulmonary embolism",
+    "Acute coronary syndrome",
+    "Pericarditis",
+    "Pneumonia"
+  ]
+}

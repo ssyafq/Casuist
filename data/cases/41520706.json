@@ -1,0 +1,23 @@
+{
+  "case_id": "41520706",
+  "specialty": "stroke",
+  "chief_complaint": "Three patients, 2 males and 1 female, aged 45, 52, and 58, respectively, presented with focal neurological symptoms after receiving holocranial radiotherapy.",
+  "history": "The patients developed focal neurological symptoms after a variable latency period following holocranial radiotherapy for brain tumours. Other possible aetiologies were ruled out.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Demographic, clinical, analytical and neuroimaging variables were collected, but specific results were not provided.",
+  "correct_diagnosis": "SMART syndrome",
+  "differentials": [
+    "SMART syndrome",
+    "Posterior Reversible Encephalopathy Syndrome (PRES)",
+    "Migraine with aura",
+    "Cerebral vasculitis",
+    "Stroke"
+  ],
+  "correct_ranking": [
+    "SMART syndrome",
+    "Posterior Reversible Encephalopathy Syndrome (PRES)",
+    "Migraine with aura",
+    "Cerebral vasculitis",
+    "Stroke"
+  ]
+}

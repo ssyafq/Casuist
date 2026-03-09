@@ -1,0 +1,23 @@
+{
+  "case_id": "41500707",
+  "specialty": "stroke",
+  "chief_complaint": "An 80-year-old man presented with left hemiparesis.",
+  "history": "The patient was found to have right internal carotid artery occlusion. Mechanical thrombectomy was successfully performed. An implantable loop recorder implanted 3 years ago showed no episodes of atrial fibrillation (AF) prior to admission. A paroxysmal episode of AF was detected during hospitalisation but did not recur during the following 6 months. Extensive diagnostic evaluation revealed no alternative sources of embolism.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: paroxysmal episode of AF detected during hospitalisation. Autopsy: extensive fibrosis of the left atrium and patchy subendocardial transthyretin-type amyloid deposits, consistent with atrial cardiomyopathy.",
+  "correct_diagnosis": "Atrial cardiomyopathy as a potential embolic source in large vessel occlusion",
+  "differentials": [
+    "Atrial cardiomyopathy as a potential embolic source in large vessel occlusion",
+    "Large vessel atherosclerosis",
+    "Paroxysmal atrial fibrillation",
+    "Cardiac amyloidosis",
+    "Cardiac embolism from unknown source"
+  ],
+  "correct_ranking": [
+    "Atrial cardiomyopathy as a potential embolic source in large vessel occlusion",
+    "Large vessel atherosclerosis",
+    "Paroxysmal atrial fibrillation",
+    "Cardiac amyloidosis",
+    "Cardiac embolism from unknown source"
+  ]
+}

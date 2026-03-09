@@ -1,0 +1,23 @@
+{
+  "case_id": "41046171",
+  "specialty": "COPD",
+  "chief_complaint": "A 57-year-old male former smoker with advanced COPD and severe upper-lobe predominant emphysema, referred for lung transplantation.",
+  "history": "The patient had disabling dyspnea (mMRC 3), a BODE index of 6, and major pulmonary function impairment (FEV(1) 31% predicted; residual volume 329% predicted).",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG, bloods, imaging, and other tests not provided. Pulmonary function tests showed FEV(1) 31% predicted, residual volume 329% predicted.",
+  "correct_diagnosis": "Severe upper-lobe predominant emphysema",
+  "differentials": [
+    "Severe upper-lobe predominant emphysema",
+    "Chronic obstructive pulmonary disease (COPD)",
+    "Pulmonary hyperinflation",
+    "Lung transplantation candidate",
+    "Pulmonary function impairment"
+  ],
+  "correct_ranking": [
+    "Severe upper-lobe predominant emphysema",
+    "Chronic obstructive pulmonary disease (COPD)",
+    "Pulmonary hyperinflation",
+    "Lung transplantation candidate",
+    "Pulmonary function impairment"
+  ]
+}

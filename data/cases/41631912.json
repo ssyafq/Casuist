@@ -1,0 +1,23 @@
+{
+  "case_id": "41631912",
+  "specialty": "stroke",
+  "chief_complaint": "A 75-year-old male patient presents with sudden onset of left-sided weakness and difficulty speaking.",
+  "history": "The patient has a history of atrial fibrillation, hypertension, and hyperlipidemia. He has been taking warfarin for the past 5 years. He underwent coronary artery bypass grafting 2 years ago. He has a family history of stroke and has been a smoker for 30 pack-years.",
+  "exam": "Vital signs: BP 160/90 mmHg, HR 110 bpm, RR 20/min. Physical examination reveals left-sided weakness, facial drooping, and difficulty speaking.",
+  "labs": "ECG: atrial fibrillation with rapid ventricular response. Bloods: INR 2.5, creatinine 1.2 mg/dL, cholesterol 250 mg/dL. Imaging: non-contrast CT head shows acute ischemic stroke in the left middle cerebral artery territory.",
+  "correct_diagnosis": "Cardioembolic stroke due to atrial fibrillation",
+  "differentials": [
+    "Cardioembolic stroke due to atrial fibrillation",
+    "Large artery atherosclerotic stroke",
+    "Small vessel occlusive stroke",
+    "Cardiac surgery-related stroke",
+    "Patent foramen ovale-related stroke"
+  ],
+  "correct_ranking": [
+    "Cardioembolic stroke due to atrial fibrillation",
+    "Large artery atherosclerotic stroke",
+    "Small vessel occlusive stroke",
+    "Cardiac surgery-related stroke",
+    "Patent foramen ovale-related stroke"
+  ]
+}

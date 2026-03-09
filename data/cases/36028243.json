@@ -1,0 +1,23 @@
+{
+  "case_id": "36028243",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient presented with symptoms of thyroid storm after discontinuation of antithyroid drugs, and later developed mild chest discomfort and jaw pain.",
+  "history": "The patient had been taking antithyroid drugs, which were discontinued, leading to thyroid storm. After 48 hours of management, the patient's condition stabilised, but persistent mild chest discomfort and new-onset jaw pain were noted.",
+  "exam": "The patient had sinus tachycardia on admission, with stabilised sensorium and haemodynamics after initial management.",
+  "labs": "ECG showed sinus tachycardia initially, and serial ECGs revealed biphasic T waves in V2-V3 suggestive of Wellens' syndrome type A. Coronary catheterisation revealed 80% stenosis of proximal LAD.",
+  "correct_diagnosis": "Impending myocardial ischaemia due to Wellens' syndrome",
+  "differentials": [
+    "Thyroid storm",
+    "Impending myocardial ischaemia due to Wellens' syndrome",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Unstable angina"
+  ],
+  "correct_ranking": [
+    "Impending myocardial ischaemia due to Wellens' syndrome",
+    "Acute coronary syndrome",
+    "Myocardial infarction",
+    "Unstable angina",
+    "Thyroid storm"
+  ]
+}

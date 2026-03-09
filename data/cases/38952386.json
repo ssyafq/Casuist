@@ -1,0 +1,23 @@
+{
+  "case_id": "38952386",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 20-year-old male patient presented with symptoms of diabetic ketoacidosis and progressive exacerbation of thyroid storm.",
+  "history": "The patient had a history of type 1 diabetes mellitus and hyperthyroidism, and was admitted with symptoms of DKA and TS.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided.",
+  "correct_diagnosis": "Diabetic ketoacidosis and thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Diabetic ketoacidosis",
+    "Hyperthyroid crisis",
+    "Septic shock",
+    "Diabetic ketoacidosis and thyroid storm"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis and thyroid storm",
+    "Thyroid storm",
+    "Diabetic ketoacidosis",
+    "Hyperthyroid crisis",
+    "Septic shock"
+  ]
+}

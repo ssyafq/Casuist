@@ -1,0 +1,23 @@
+{
+  "case_id": "41637261",
+  "specialty": "stroke",
+  "chief_complaint": "An 86-year-old man presents with non-fluent aphasia of the mixed type and acquired apraxia of speech after an ischemic stroke in the left hemisphere.",
+  "history": "The patient was diagnosed with an ischemic stroke in the left hemisphere, resulting in non-fluent aphasia of the mixed type, accompanied by acquired apraxia of speech. He has four years of formal education.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: ischemic stroke in the left hemisphere. Montreal-Toulouse Language Assessment Battery - Brief Version and Naming and Visual Recognition Test results: improvements noted in word naming and verbal word comprehension, reduction in linguistic errors such as paraphasias.",
+  "correct_diagnosis": "Non-fluent aphasia of the mixed type with acquired apraxia of speech after ischemic stroke in the left hemisphere",
+  "differentials": [
+    "Non-fluent aphasia of the mixed type with acquired apraxia of speech after ischemic stroke in the left hemisphere",
+    "Anomic aphasia after ischemic stroke in the right hemisphere",
+    "Global aphasia after ischemic stroke in the left hemisphere",
+    "Transcortical motor aphasia after ischemic stroke in the left hemisphere",
+    "Primary progressive aphasia"
+  ],
+  "correct_ranking": [
+    "Non-fluent aphasia of the mixed type with acquired apraxia of speech after ischemic stroke in the left hemisphere",
+    "Global aphasia after ischemic stroke in the left hemisphere",
+    "Transcortical motor aphasia after ischemic stroke in the left hemisphere",
+    "Anomic aphasia after ischemic stroke in the right hemisphere",
+    "Primary progressive aphasia"
+  ]
+}

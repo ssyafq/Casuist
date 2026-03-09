@@ -1,0 +1,23 @@
+{
+  "case_id": "41073099",
+  "specialty": "chest pain",
+  "chief_complaint": "A 15-year-old female presents with a 1-month history of exertional chest pain and presyncope.",
+  "history": "The patient has a 1-month history of exertional chest pain and presyncope. She was found to have an anomalous right coronary artery originating from the left coronary cusp with interarterial and intramural course to the right atrioventricular groove associated with a bicuspid valve and mild-moderate dilation of the ascending aorta.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 100 bpm. Physical examination: normal S1 and S2 heart sounds, with a grade 2/6 systolic ejection murmur.",
+  "labs": "ECG: normal sinus rhythm with ST-segment depression in leads II, III, and aVF. Bloods: normal electrolytes and troponin levels. Imaging: echocardiogram showing a bicuspid aortic valve and mild-moderate dilation of the ascending aorta.",
+  "correct_diagnosis": "Anomalous origin of right coronary artery with interarterial and intramural course associated with bicuspid aortic valve and dilation of ascending aorta.",
+  "differentials": [
+    "Anomalous origin of right coronary artery with interarterial and intramural course associated with bicuspid aortic valve and dilation of ascending aorta.",
+    "Coronary artery dissection",
+    "Aortic stenosis",
+    "Coarctation of the aorta",
+    "Hypertrophic cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Anomalous origin of right coronary artery with interarterial and intramural course associated with bicuspid aortic valve and dilation of ascending aorta.",
+    "Coronary artery dissection",
+    "Aortic stenosis",
+    "Coarctation of the aorta",
+    "Hypertrophic cardiomyopathy"
+  ]
+}

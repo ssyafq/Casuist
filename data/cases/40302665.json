@@ -1,0 +1,23 @@
+{
+  "case_id": "40302665",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A postpartum woman presented with vomiting, fever, irregular abdominal pain, and a diagnosis of intrauterine death.",
+  "history": "The patient had no prior history of thyroid disease. She presented with unexplained symptoms such as tachycardia, fever, diarrhea, sweating, and altered consciousness.",
+  "exam": "Persistent tachycardia, fever, and multi-organ failure.",
+  "labs": "Elevated thyroid hormone levels, diagnosed with thyroid storm based on the scoring system of Burch-Wartofsky and the Japanese Thyroid Association diagnostic criteria.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Pulmonary embolism",
+    "Sepsis",
+    "Thyroid storm",
+    "Cardiac arrhythmia",
+    "Postpartum hemorrhage"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Sepsis",
+    "Pulmonary embolism",
+    "Cardiac arrhythmia",
+    "Postpartum hemorrhage"
+  ]
+}

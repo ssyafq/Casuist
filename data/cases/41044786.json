@@ -1,0 +1,23 @@
+{
+  "case_id": "41044786",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "An 80-year-old male patient presents with severe gastrointestinal bleeding.",
+  "history": "The patient has a history of nonvalvular atrial fibrillation, coronary heart disease, and is a homozygous mutation carrier of the ABCB1 allele (rs1045642 C > T, rs1128503 C > T, rs2032582 G > T). He was developed severe gastrointestinal bleeding during administration of oral rivaroxaban combined with aspirin.",
+  "exam": "Vital signs: tachycardia, hypotension. Physical examination: abdominal tenderness, melena.",
+  "labs": "ECG: atrial fibrillation. Bloods: anemia, low hemoglobin. Imaging: not mentioned. Other tests: genetic testing for ABCB1 allele.",
+  "correct_diagnosis": "Severe gastrointestinal bleeding due to rivaroxaban and aspirin interaction, exacerbated by ABCB1 gene polymorphism.",
+  "differentials": [
+    "Severe gastrointestinal bleeding due to rivaroxaban and aspirin interaction, exacerbated by ABCB1 gene polymorphism.",
+    "Acute coronary syndrome",
+    "Hemorrhagic stroke",
+    "Gastrointestinal malignancy",
+    "Idiopathic thrombocytopenic purpura"
+  ],
+  "correct_ranking": [
+    "Severe gastrointestinal bleeding due to rivaroxaban and aspirin interaction, exacerbated by ABCB1 gene polymorphism.",
+    "Acute coronary syndrome",
+    "Hemorrhagic stroke",
+    "Gastrointestinal malignancy",
+    "Idiopathic thrombocytopenic purpura"
+  ]
+}

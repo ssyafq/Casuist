@@ -1,0 +1,23 @@
+{
+  "case_id": "41539899",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "Four patients (two pediatric, two adult) presented with cardiogenic shock requiring venoarterial extracorporeal membrane oxygenation (V-A ECMO).",
+  "history": "All patients were in cardiogenic shock necessitating V-A ECMO. Left ventricular distention was exacerbated by V-A ECMO, prompting the need for effective decompression strategies.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG, bloods, and imaging studies were not specified, but echocardiography was used to guide the procedure.",
+  "correct_diagnosis": "Left ventricular overload during V-A ECMO",
+  "differentials": [
+    "Left ventricular overload during V-A ECMO",
+    "Cardiogenic shock",
+    "Venoarterial extracorporeal membrane oxygenation (V-A ECMO) failure",
+    "Left ventricular dysfunction",
+    "Cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Left ventricular overload during V-A ECMO",
+    "Cardiogenic shock",
+    "Venoarterial extracorporeal membrane oxygenation (V-A ECMO) failure",
+    "Left ventricular dysfunction",
+    "Cardiac tamponade"
+  ]
+}

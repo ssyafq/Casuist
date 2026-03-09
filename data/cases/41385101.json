@@ -1,0 +1,23 @@
+{
+  "case_id": "41385101",
+  "specialty": "chest pain",
+  "chief_complaint": "A 3-year-old female presented with chronic anterior chest wall pain.",
+  "history": "The patient had a 3-year history of chronic anterior chest wall pain attributed to a bifid right fourth rib. Imaging confirmed the anomaly without associated soft tissue masses. She had transient symptom relief with lidocaine patches and intercostal nerve blocks.",
+  "exam": "Vital signs were within normal limits. Physical examination revealed tenderness over the right anterior chest wall.",
+  "labs": "Imaging studies: chest X-ray and CT scan confirmed the bifid right fourth rib. ECG and blood tests were normal.",
+  "correct_diagnosis": "Bifid rib causing intercostal neuralgia",
+  "differentials": [
+    "Bifid rib causing intercostal neuralgia",
+    "Costochondritis",
+    "Pulmonary embolism",
+    "Gastroesophageal reflux disease",
+    "Musculoskeletal chest wall pain"
+  ],
+  "correct_ranking": [
+    "Bifid rib causing intercostal neuralgia",
+    "Costochondritis",
+    "Musculoskeletal chest wall pain",
+    "Gastroesophageal reflux disease",
+    "Pulmonary embolism"
+  ]
+}

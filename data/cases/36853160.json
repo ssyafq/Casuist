@@ -1,0 +1,23 @@
+{
+  "case_id": "36853160",
+  "specialty": "cardiology",
+  "chief_complaint": "An 84-year-old patient presented with atherothrombotic ischemic stroke and later experienced an embolic ischemic stroke.",
+  "history": "The patient had severe left ventricular systolic dysfunction due to dilated cardiomyopathy and an implantable cardioverter-defibrillator in primary prevention. The patient was hospitalized for atherothrombotic ischemic stroke treated conservatively and later by carotid thromboendarterectomy for ulcerated plaque of the right internal carotid artery.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "The patient had an ulcerated plaque of the right internal carotid artery and thrombosis of the left atrial appendage without atrial fibrillation.",
+  "correct_diagnosis": "Ischemic stroke due to thrombosis of the left atrial appendage",
+  "differentials": [
+    "Cardioembolic stroke due to atrial fibrillation",
+    "Ischemic stroke due to thrombosis of the left atrial appendage",
+    "Atherothrombotic ischemic stroke",
+    "Lacunar stroke",
+    "Stroke due to carotid artery dissection"
+  ],
+  "correct_ranking": [
+    "Ischemic stroke due to thrombosis of the left atrial appendage",
+    "Atherothrombotic ischemic stroke",
+    "Cardioembolic stroke due to atrial fibrillation",
+    "Lacunar stroke",
+    "Stroke due to carotid artery dissection"
+  ]
+}

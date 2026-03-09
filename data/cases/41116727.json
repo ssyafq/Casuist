@@ -1,0 +1,23 @@
+{
+  "case_id": "41116727",
+  "specialty": "chest pain",
+  "chief_complaint": "A 30-year-old woman presents with recurrent chest pain.",
+  "history": "The patient has experienced recurrent chest pain over several years. High-sensitive cardiac troponins were persistently elevated, but ECG and imaging findings did not correlate with the symptoms. Extensive investigations were conducted to determine the cause of the elevated troponin levels.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 70 bpm. Physical examination revealed no abnormalities.",
+  "labs": "ECG: normal. Troponin I: persistently elevated over several years. Other investigations were conducted to rule out other causes of elevated troponin levels.",
+  "correct_diagnosis": "Macrotroponin I",
+  "differentials": [
+    "Macrotroponin I",
+    "Acute Coronary Syndrome",
+    "Myocarditis",
+    "Cardiac Amyloidosis",
+    "Panic Disorder"
+  ],
+  "correct_ranking": [
+    "Macrotroponin I",
+    "Acute Coronary Syndrome",
+    "Myocarditis",
+    "Cardiac Amyloidosis",
+    "Panic Disorder"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41549284",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 70-year-old Chinese male presented with hematemesis and melena.",
+  "history": "The patient was admitted to the department of gastroenterology with complaints of hematemesis and melena. He had a history of arterial embolization and presented with a rare, delayed complication of coil migration. There is no consensus on the treatment of gastrointestinal bleeding due to coil migration.",
+  "exam": "Vital signs and physical examination findings are not explicitly stated in the case report.",
+  "labs": "ECG, bloods, imaging, and other tests are not explicitly stated in the case report.",
+  "correct_diagnosis": "Gastrointestinal hemorrhage due to a fistula between a hepatic aneurysm and a duodenal bulb ulcer, precipitated by spring coil migration.",
+  "differentials": [
+    "Gastrointestinal hemorrhage due to a fistula between a hepatic aneurysm and a duodenal bulb ulcer, precipitated by spring coil migration.",
+    "Duodenal ulcer bleeding due to other causes",
+    "Gastrointestinal hemorrhage due to a hepatic aneurysm rupture",
+    "Gastrointestinal hemorrhage due to a duodenal bulb ulcer",
+    "Gastrointestinal hemorrhage due to a bleeding gastric ulcer"
+  ],
+  "correct_ranking": [
+    "Gastrointestinal hemorrhage due to a fistula between a hepatic aneurysm and a duodenal bulb ulcer, precipitated by spring coil migration.",
+    "Duodenal ulcer bleeding due to other causes",
+    "Gastrointestinal hemorrhage due to a hepatic aneurysm rupture",
+    "Gastrointestinal hemorrhage due to a duodenal bulb ulcer",
+    "Gastrointestinal hemorrhage due to a bleeding gastric ulcer"
+  ]
+}

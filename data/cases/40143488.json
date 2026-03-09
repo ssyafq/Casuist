@@ -1,0 +1,23 @@
+{
+  "case_id": "40143488",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A postpartum woman presents with symptoms of acute coronary syndrome three weeks after a Caesarean section.",
+  "history": "The patient is a postpartum woman who had a Caesarean section three weeks prior to presentation. She now presents with symptoms suggestive of acute coronary syndrome.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific laboratory or imaging results are provided, but the patient is diagnosed with spontaneous coronary artery dissection (SCAD).",
+  "correct_diagnosis": "Spontaneous coronary artery dissection (SCAD)",
+  "differentials": [
+    "Myocardial infarction",
+    "Spontaneous coronary artery dissection (SCAD)",
+    "Cardiac tamponade",
+    "Aortic dissection",
+    "Pulmonary embolism"
+  ],
+  "correct_ranking": [
+    "Spontaneous coronary artery dissection (SCAD)",
+    "Myocardial infarction",
+    "Aortic dissection",
+    "Pulmonary embolism",
+    "Cardiac tamponade"
+  ]
+}

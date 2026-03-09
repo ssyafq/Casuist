@@ -1,0 +1,23 @@
+{
+  "case_id": "41650082",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 35-year-old man presented with acute chest pain.",
+  "history": "The patient had no prior history of renal impairment, cardiovascular disease, or risk factors such as hypertension or diabetes. He was diagnosed with acute ST-segment elevation myocardial infarction (STEMI) and subsequently evaluated for membranous nephropathy (MN) with nephrotic-range proteinuria.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "12-lead electrocardiogram (ECG) demonstrated ST-segment elevation in leads II, III, and augmented vector foot, consistent with inferior-wall myocardial infarction. Emergency coronary angiography showed acute occlusion of the RCA. Blood tests revealed nephrotic-range proteinuria and hypoalbuminemia.",
+  "correct_diagnosis": "Coronary thrombosis secondary to a nephrotic syndrome-associated hypercoagulable state",
+  "differentials": [
+    "Coronary thrombosis secondary to a nephrotic syndrome-associated hypercoagulable state",
+    "Acute coronary occlusion due to rupture of an atherosclerotic plaque",
+    "Transient coronary embolic event",
+    "Acute myocardial infarction due to hypertension",
+    "Acute myocardial infarction due to diabetes"
+  ],
+  "correct_ranking": [
+    "Coronary thrombosis secondary to a nephrotic syndrome-associated hypercoagulable state",
+    "Acute coronary occlusion due to rupture of an atherosclerotic plaque",
+    "Transient coronary embolic event",
+    "Acute myocardial infarction due to hypertension",
+    "Acute myocardial infarction due to diabetes"
+  ]
+}

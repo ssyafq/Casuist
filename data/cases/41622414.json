@@ -1,0 +1,23 @@
+{
+  "case_id": "41622414",
+  "specialty": "diabetic ketoacidosis",
+  "chief_complaint": "A 35-year-old male with type 1 diabetes (T1D) presents with symptoms of hyperglycemia and ketosis.",
+  "history": "The patient has a history of poorly controlled T1D, with frequent episodes of hyperglycemia and ketosis. He relies on rapid-acting insulin analogs (RAA) and ultra-rapid-acting insulin analogs (URAA) for postprandial glycemic control. He has also experienced episodes of hypoglycemia and has concerns about insulin stacking. He is physically active and engages in regular exercise.",
+  "exam": "Vital signs: blood pressure 120/80 mmHg, pulse 100 beats per minute, respiratory rate 20 breaths per minute. Physical examination reveals no abnormalities.",
+  "labs": "Blood glucose: 350 mg/dL, ketones: 3+, ECG: normal.",
+  "correct_diagnosis": "Diabetic ketoacidosis (DKA)",
+  "differentials": [
+    "Diabetic ketoacidosis (DKA)",
+    "Hypoglycemia",
+    "Hyperglycemia",
+    "Insulin stacking",
+    "Ketosis"
+  ],
+  "correct_ranking": [
+    "Diabetic ketoacidosis (DKA)",
+    "Hypoglycemia",
+    "Hyperglycemia",
+    "Insulin stacking",
+    "Ketosis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41563636",
+  "specialty": "nephrology",
+  "chief_complaint": "A 70-year-old man presents with anorexia two weeks after receiving the third dose of the mRNA-1273 COVID-19 vaccine.",
+  "history": "The patient has a history of dyslipidemia. Two weeks after vaccination, he developed anorexia, followed by marked elevation of serum creatinine from 0.9 to 2.76 mg/dL, accompanied by proteinuria and elevated tubular injury markers. He also developed bilateral ocular pain and was diagnosed with bilateral uveitis.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Laboratory evaluation showed marked elevation of serum creatinine, proteinuria, and elevated tubular injury markers. Renal biopsy confirmed tubulointerstitial nephritis.",
+  "correct_diagnosis": "Tubulointerstitial nephritis with uveitis (TINU) syndrome",
+  "differentials": [
+    "Tubulointerstitial nephritis with uveitis (TINU) syndrome",
+    "Acute interstitial nephritis",
+    "Uveitis",
+    "Acute kidney injury",
+    "COVID-19 vaccine-induced renal impairment"
+  ],
+  "correct_ranking": [
+    "Tubulointerstitial nephritis with uveitis (TINU) syndrome",
+    "Acute interstitial nephritis",
+    "Uveitis",
+    "Acute kidney injury",
+    "COVID-19 vaccine-induced renal impairment"
+  ]
+}

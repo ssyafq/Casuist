@@ -1,0 +1,23 @@
+{
+  "case_id": "41436954",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 52-year-old man with AIDS presented with prolonged fever, cough, and weight loss.",
+  "history": "The patient had a CD4(+) count of 134 cells/muL and was diagnosed with AIDS. He presented with prolonged fever, cough, and weight loss. Peripheral blood smear revealed numerous yeast-like fungal structures. Blood culture grew Talaromyces marneffei, confirmed by ITS sequencing (GenBank accession number: PX499650).",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Blood culture: Talaromyces marneffei, confirmed by ITS sequencing (GenBank accession number: PX499650). Lipase: 1746.9 U/L, > 3 times the upper limit of normal.",
+  "correct_diagnosis": "Disseminated Talaromyces marneffei infection complicated by acute pancreatitis",
+  "differentials": [
+    "Disseminated Talaromyces marneffei infection complicated by acute pancreatitis",
+    "Acute pancreatitis due to other causes",
+    "HIV-related pancreatitis",
+    "Pancreatic cancer",
+    "Gallstone pancreatitis"
+  ],
+  "correct_ranking": [
+    "Disseminated Talaromyces marneffei infection complicated by acute pancreatitis",
+    "Acute pancreatitis due to other causes",
+    "HIV-related pancreatitis",
+    "Pancreatic cancer",
+    "Gallstone pancreatitis"
+  ]
+}

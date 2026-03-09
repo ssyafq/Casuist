@@ -1,0 +1,23 @@
+{
+  "case_id": "41713892",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 50-year-old woman presented to the emergency department with acute gastrointestinal bleeding.",
+  "history": "Gastrointestinal stromal tumours (GISTs) are rare mesenchymal neoplasms. The patient presented with a painless mass in the right lower abdomen and a large, lobulated mass in the left flank/iliac fossa measuring 15x16x8.5 cm on CT.",
+  "exam": "Physical examination revealed a painless mass in the right lower abdomen. Vital signs were not provided.",
+  "labs": "CT scan: large, lobulated mass in the left flank/iliac fossa measuring 15x16x8.5 cm. Exploratory laparotomy: tumour invading two segments of the small intestine. Histopathological evaluation: GIST (c-Kit and DOG1 positive).",
+  "correct_diagnosis": "Gastrointestinal stromal tumour (GIST)",
+  "differentials": [
+    "Gastrointestinal stromal tumour (GIST)",
+    "Gastrointestinal carcinoid tumour",
+    "Gastrointestinal leiomyoma",
+    "Gastrointestinal angiodysplasia",
+    "Meckel's diverticulum"
+  ],
+  "correct_ranking": [
+    "Gastrointestinal stromal tumour (GIST)",
+    "Gastrointestinal carcinoid tumour",
+    "Gastrointestinal leiomyoma",
+    "Gastrointestinal angiodysplasia",
+    "Meckel's diverticulum"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "37276964",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 26-year-old patient with symptoms suggestive of thyroid storm during total thyroidectomy.",
+  "history": "The patient has Friederich's ataxia and hypertrophic obstructive cardiomyopathy, and was undergoing total thyroidectomy due to persistent amiodarone-induced thyrotoxicosis despite high doses of antithyroid drugs and corticosteroids.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific investigation results are provided.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Hypertensive crisis",
+    "Cardiac arrhythmia",
+    "Anaphylaxis",
+    "Malignant hyperthermia"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Hypertensive crisis",
+    "Cardiac arrhythmia",
+    "Malignant hyperthermia",
+    "Anaphylaxis"
+  ]
+}

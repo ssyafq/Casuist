@@ -1,0 +1,23 @@
+{
+  "case_id": "41520705",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 75-year-old female patient with a history of chronic obstructive pulmonary disease (COPD) and hypertension was admitted to the hospital with symptoms of pneumonia.",
+  "history": "The patient's symptoms began 3 days prior to admission with cough, fever, and shortness of breath. She has a history of COPD and hypertension. She lives alone and has limited social support.",
+  "exam": "Vital signs: temperature 38.5°C, blood pressure 140/90 mmHg, pulse 110 bpm, respiratory rate 24 breaths/min. Physical examination revealed bilateral wheezing and crackles.",
+  "labs": "ECG: normal. Bloods: white cell count 18,000 cells/μL, C-reactive protein 120 mg/L. Imaging: chest X-ray showing bilateral infiltrates.",
+  "correct_diagnosis": "Pneumonia",
+  "differentials": [
+    "Pneumonia",
+    "Chronic obstructive pulmonary disease exacerbation",
+    "Cardiac failure",
+    "Pneumothorax",
+    "Sepsis"
+  ],
+  "correct_ranking": [
+    "Pneumonia",
+    "Chronic obstructive pulmonary disease exacerbation",
+    "Cardiac failure",
+    "Pneumothorax",
+    "Sepsis"
+  ]
+}

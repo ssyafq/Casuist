@@ -1,0 +1,23 @@
+{
+  "case_id": "41430978",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 15-year-old girl presented with severe liver injury and mononucleosis caused by Epstein-Barr virus infection.",
+  "history": "The patient developed severe liver injury and mononucleosis after methimazole treatment for Graves' disease, which eventually induced thyroid storm.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: not provided. Bloods: liver enzymes elevated. Imaging: not provided. Other tests: Epstein-Barr virus infection confirmed.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Graves' disease",
+    "Liver injury",
+    "Mononucleosis",
+    "Epstein-Barr virus infection"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Graves' disease",
+    "Liver injury",
+    "Mononucleosis",
+    "Epstein-Barr virus infection"
+  ]
+}

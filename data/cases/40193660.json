@@ -1,0 +1,23 @@
+{
+  "case_id": "40193660",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 71-year-old male presented with myalgia, anorexia, and anuria, along with intermittent chest pain for 1 month.",
+  "history": "The patient has a history of diabetes, chronic kidney disease (CKD) stage G3aA3, and chronic myelogenous leukemia. He reported progressive symptoms including decreased urine output and anuria.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Laboratory findings revealed acute kidney injury (serum creatinine: 12.14 mg/dL), extreme elevations in muscle enzymes (creatine kinase: 250,000 IU/L), and cardiac biomarkers (troponin-T: 543 ng/L). Thyroid function tests confirmed non-autoimmune hypothyroidism (TSH: 55.58 muIU/mL, free T4: 0.06 ng/dL).",
+  "correct_diagnosis": "Non-autoimmune hypothyroidism",
+  "differentials": [
+    "Acute coronary syndrome",
+    "Rhabdomyolysis",
+    "Myocarditis",
+    "Non-autoimmune hypothyroidism",
+    "Chronic kidney disease"
+  ],
+  "correct_ranking": [
+    "Non-autoimmune hypothyroidism",
+    "Rhabdomyolysis",
+    "Myocarditis",
+    "Acute coronary syndrome",
+    "Chronic kidney disease"
+  ]
+}

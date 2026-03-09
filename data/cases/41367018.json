@@ -1,0 +1,23 @@
+{
+  "case_id": "41367018",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 62-year-old female with recurrent polymorphic ventricular tachycardia/ventricular fibrillation following acute myocardial infarction.",
+  "history": "The patient developed recurrent polymorphic ventricular tachycardia/ventricular fibrillation refractory to antiarrhythmics (amiodarone/esmolol/lidocaine) and revascularization. She had a history of acute anterior wall myocardial infarction, Killip class II-III acute left heart failure, secondary hepatic dysfunction, hypertension, and type 2 diabetes mellitus.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "ECG: polymorphic ventricular tachycardia/ventricular fibrillation. Bloods: electrolyte correction. Imaging: not provided. Other tests: N-terminal B-type natriuretic peptide precursor (33,593-->9839 pg/mL), left ventricular ejection fraction (40%-->46%).",
+  "correct_diagnosis": "Atrial overdrive pacing in drug-refractory postinfarction electrical storm",
+  "differentials": [
+    "Atrial overdrive pacing in drug-refractory postinfarction electrical storm",
+    "Acute anterior wall myocardial infarction",
+    "Killip class II-III acute left heart failure",
+    "Secondary hepatic dysfunction",
+    "Type 2 diabetes mellitus"
+  ],
+  "correct_ranking": [
+    "Atrial overdrive pacing in drug-refractory postinfarction electrical storm",
+    "Acute anterior wall myocardial infarction",
+    "Killip class II-III acute left heart failure",
+    "Secondary hepatic dysfunction",
+    "Type 2 diabetes mellitus"
+  ]
+}

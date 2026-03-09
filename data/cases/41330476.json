@@ -1,0 +1,23 @@
+{
+  "case_id": "41330476",
+  "specialty": "meningitis",
+  "chief_complaint": "A 32-year-old man presented with pain in the left maxillary region, fever spikes, photophobia, and horizontal diplopia.",
+  "history": "The patient had a history of recent molar extraction, frequent alcohol intake, and cigarette smoking. He presented with symptoms of meningitis, including pain in the left maxillary region, fever spikes, photophobia, and horizontal diplopia.",
+  "exam": "Examination revealed left sixth cranial nerve palsy and positive jolt accentuation. Vital signs were not mentioned.",
+  "labs": "Laboratory tests revealed a systemic inflammatory response, and lumbar puncture confirmed neutrophilic meningitis with Fusobacterium nucleatum isolation. Magnetic resonance imaging revealed left cavernous sinus thrombosis.",
+  "correct_diagnosis": "Fusobacterium nucleatum meningitis complicated with cavernous sinus thrombosis",
+  "differentials": [
+    "Fusobacterium nucleatum meningitis complicated with cavernous sinus thrombosis",
+    "Streptococcus pneumoniae meningitis",
+    "Neisseria meningitidis meningitis",
+    "Haemophilus influenzae meningitis",
+    "Cryptococcal meningitis"
+  ],
+  "correct_ranking": [
+    "Fusobacterium nucleatum meningitis complicated with cavernous sinus thrombosis",
+    "Streptococcus pneumoniae meningitis",
+    "Neisseria meningitidis meningitis",
+    "Haemophilus influenzae meningitis",
+    "Cryptococcal meningitis"
+  ]
+}

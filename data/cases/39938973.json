@@ -1,0 +1,23 @@
+{
+  "case_id": "39938973",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A pregnant woman in her second trimester presents with severe hyperemesis and signs of thyroid storm.",
+  "history": "The patient has a history of thyroid disorders and experienced hyperemesis gravidarum and gestational transient thyrotoxicosis, which precipitated a thyroid storm.",
+  "exam": "The patient had maternal collapse, with findings consistent with cardiomyopathy.",
+  "labs": "Investigations revealed findings consistent with thyrotoxicosis and cardiomyopathy, but specific results are not provided.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Pregnancy-induced hypertension",
+    "Thyroid storm",
+    "Hyperemesis gravidarum",
+    "Gestational transient thyrotoxicosis",
+    "Cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Gestational transient thyrotoxicosis",
+    "Hyperemesis gravidarum",
+    "Cardiomyopathy",
+    "Pregnancy-induced hypertension"
+  ]
+}

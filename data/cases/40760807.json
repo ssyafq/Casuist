@@ -1,0 +1,23 @@
+{
+  "case_id": "40760807",
+  "specialty": "chest pain",
+  "chief_complaint": "A 75-year-old man with worsening angina despite optimal medical therapy.",
+  "history": "The patient had worsening angina despite optimal medical therapy and underwent PCI of the left anterior descending (LAD) artery. During the procedure, the patient suffered cardiac arrest after balloon rupture leading to severe coronary no-reflow.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "No specific investigations or results are provided, except that the patient underwent PCI and had a critically narrowed unprotected left main coronary artery.",
+  "correct_diagnosis": "Left main coronary artery stenosis",
+  "differentials": [
+    "Cardiac tamponade",
+    "Left main coronary artery stenosis",
+    "Pulmonary embolism",
+    "Aortic dissection",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Left main coronary artery stenosis",
+    "Myocardial infarction",
+    "Cardiac tamponade",
+    "Aortic dissection",
+    "Pulmonary embolism"
+  ]
+}

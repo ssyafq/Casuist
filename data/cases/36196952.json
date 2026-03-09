@@ -1,0 +1,23 @@
+{
+  "case_id": "36196952",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient presented with symptoms of thyroid storm, which is a life-threatening condition.",
+  "history": "Thyroid storm occurs when thyroid hormones are released causing a hyperadrenergic state. The most common cause of thyroid storm is thyrotoxicosis secondary to Graves disease. Alternatively, subacute thyroiditis (SAT) is usually a self-limited condition consisting of painful inflammation of thyroid gland, often associated with viral illness.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "No specific laboratory results are provided.",
+  "correct_diagnosis": "Thyroid storm caused by thyroiditis",
+  "differentials": [
+    "Thyroid storm caused by Graves disease",
+    "Thyroid storm caused by thyroiditis",
+    "Subacute thyroiditis",
+    "Graves disease",
+    "Toxic multinodular goiter"
+  ],
+  "correct_ranking": [
+    "Thyroid storm caused by thyroiditis",
+    "Thyroid storm caused by Graves disease",
+    "Subacute thyroiditis",
+    "Graves disease",
+    "Toxic multinodular goiter"
+  ]
+}

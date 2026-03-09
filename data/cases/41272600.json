@@ -1,0 +1,23 @@
+{
+  "case_id": "41272600",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 14-year-old boy presented with a two-day history of melena and one day of hematemesis.",
+  "history": "The patient had been diagnosed with acute lymphoblastic leukemia (ALL) five years prior and underwent three years of chemotherapy, during which he experienced recurrent drug-induced liver injury (DILI). He had a two-year period without long-term medication before developing severe gastrointestinal bleeding accompanied by severe normocytic normochromic anemia. Elevated liver enzymes and bilirubin levels were noted over the past two years, while laboratory tests ruled out viral hepatitis and autoimmune hepatitis.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Elevated liver enzymes and bilirubin levels, splenomegaly, and dilated portal vein and its tributaries on imaging studies, and a liver biopsy confirming cirrhosis.",
+  "correct_diagnosis": "Hepatic cirrhosis due to chronic drug-induced liver injury (DILI)",
+  "differentials": [
+    "Hepatic cirrhosis due to chronic drug-induced liver injury (DILI)",
+    "Viral hepatitis",
+    "Autoimmune hepatitis",
+    "Portal vein thrombosis",
+    "Gastrointestinal lymphoma"
+  ],
+  "correct_ranking": [
+    "Hepatic cirrhosis due to chronic drug-induced liver injury (DILI)",
+    "Viral hepatitis",
+    "Autoimmune hepatitis",
+    "Portal vein thrombosis",
+    "Gastrointestinal lymphoma"
+  ]
+}

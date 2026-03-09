@@ -1,0 +1,23 @@
+{
+  "case_id": "41238223",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 40-year-old man presented with severe abdominal pain that had progressed over 2 days.",
+  "history": "A man in his 40s of Middle Eastern descent presented with severe abdominal pain that had progressed over 2 days. He was diagnosed with acute necrotising pancreatitis, multifocal venous thromboembolism and acute kidney injury, requiring admission to the intensive care unit. After exclusion of common causes of pancreatitis, a systemic inflammatory or vasculitic process was suspected.",
+  "exam": "Vital signs and physical examination findings not explicitly stated.",
+  "labs": "ECG, bloods, imaging, and other tests not explicitly stated.",
+  "correct_diagnosis": "Acute necrotising pancreatitis in a patient with Behcet's disease",
+  "differentials": [
+    "Acute necrotising pancreatitis in a patient with Behcet's disease",
+    "Acute necrotising pancreatitis due to gallstones",
+    "Acute necrotising pancreatitis due to alcohol abuse",
+    "Multifocal venous thromboembolism",
+    "Acute kidney injury"
+  ],
+  "correct_ranking": [
+    "Acute necrotising pancreatitis in a patient with Behcet's disease",
+    "Multifocal venous thromboembolism",
+    "Acute kidney injury",
+    "Acute necrotising pancreatitis due to gallstones",
+    "Acute necrotising pancreatitis due to alcohol abuse"
+  ]
+}

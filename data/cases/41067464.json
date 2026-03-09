@@ -1,0 +1,23 @@
+{
+  "case_id": "41067464",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 6-year case series of patients with chronic thromboembolic pulmonary hypertension (CTEPH) undergoing lung transplantation (LTx) at the Alfred Hospital.",
+  "history": "The patients had CTEPH, a form of pulmonary vascular disease amenable to multimodal therapy. Pulmonary endarterectomy (PEA) is the cornerstone of CTEPH treatment for operable patients, but a significant proportion present with inoperable disease or residual postoperative pulmonary hypertension. LTx remains a lifesaving therapy for patients with end-stage right heart failure due to CTEPH.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "The most frequent finding on explant histology was arterial muscular hypertrophy due to thrombotic arteriopathy. Pre-transplant hemodynamic features and long-term outcomes post-LTx were discussed.",
+  "correct_diagnosis": "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+  "differentials": [
+    "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+    "Pulmonary arterial hypertension (PAH)",
+    "Pulmonary embolism (PE)",
+    "Cor pulmonale",
+    "Right heart failure"
+  ],
+  "correct_ranking": [
+    "Chronic thromboembolic pulmonary hypertension (CTEPH)",
+    "Pulmonary arterial hypertension (PAH)",
+    "Pulmonary embolism (PE)",
+    "Cor pulmonale",
+    "Right heart failure"
+  ]
+}

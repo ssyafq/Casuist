@@ -1,0 +1,23 @@
+{
+  "case_id": "41475876",
+  "specialty": "stroke",
+  "chief_complaint": "A 50-year-old woman presented with a left-sided weakness.",
+  "history": "The patient presented with a left lacunar infarct. She was incidentally found to have congenital absence of the ipsilateral internal carotid artery (ICA). No conventional vascular risk factors were identified.",
+  "exam": "Vital signs were within normal limits. Physical examination revealed a left-sided weakness.",
+  "labs": "Cerebral perfusion was preserved. Imaging confirmed the presence of a hypoplastic bony carotid canal, consistent with congenital origin.",
+  "correct_diagnosis": "Lacunar stroke with incidental congenital absence of the internal carotid artery",
+  "differentials": [
+    "Lacunar stroke with incidental congenital absence of the internal carotid artery",
+    "Lacunar stroke",
+    "Carotid artery dissection",
+    "Middle cerebral artery infarct",
+    "Vertebrobasilar stroke"
+  ],
+  "correct_ranking": [
+    "Lacunar stroke with incidental congenital absence of the internal carotid artery",
+    "Lacunar stroke",
+    "Carotid artery dissection",
+    "Middle cerebral artery infarct",
+    "Vertebrobasilar stroke"
+  ]
+}

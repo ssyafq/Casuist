@@ -1,0 +1,23 @@
+{
+  "case_id": "41371678",
+  "specialty": "meningitis",
+  "chief_complaint": "A 58-year-old male presented with shivering, headache, abnormal behavior, high fever, impaired consciousness, and neck stiffness.",
+  "history": "The patient was transported to the hospital due to his symptoms. Cerebrospinal fluid (CSF) tests revealed an increase in mononuclear cell count and positive Cryptococcal antigen tests in both serum and CSF samples. He was diagnosed with cryptococcal meningoencephalitis (CM). Antifungal therapy was partially effective, but severe neck pain and paralysis developed on the 17th day of hospitalization. Spinal MRI showed abnormal signal areas in the spinal cord, extending longitudinally from the C2 to Th3 level. Steroid pulse therapy was administered, followed by post-therapy with oral prednisolone.",
+  "exam": "Vital signs: high fever, impaired consciousness, neck stiffness. Physical examination findings: shivering, headache, abnormal behavior.",
+  "labs": "Cerebrospinal fluid (CSF) tests: increase in mononuclear cell count, positive Cryptococcal antigen tests in both serum and CSF samples. Spinal MRI: abnormal signal areas in the spinal cord, extending longitudinally from the C2 to Th3 level.",
+  "correct_diagnosis": "Cryptococcal meningoencephalitis (CM) with longitudinal extensive transverse myelitis",
+  "differentials": [
+    "Cryptococcal meningoencephalitis (CM) with longitudinal extensive transverse myelitis",
+    "Herpes simplex encephalitis",
+    "Tuberculous meningitis",
+    "Bacterial meningitis",
+    "Viral meningoencephalitis"
+  ],
+  "correct_ranking": [
+    "Cryptococcal meningoencephalitis (CM) with longitudinal extensive transverse myelitis",
+    "Herpes simplex encephalitis",
+    "Tuberculous meningitis",
+    "Bacterial meningitis",
+    "Viral meningoencephalitis"
+  ]
+}

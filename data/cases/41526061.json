@@ -1,0 +1,23 @@
+{
+  "case_id": "41526061",
+  "specialty": "stroke",
+  "chief_complaint": "A 70-year-old man presented with left-sided weakness.",
+  "history": "The patient had paroxysmal atrial fibrillation and developed acute upper limb ischaemia following intravenous thrombolysis (IVT) for acute ischaemic stroke. He was treated with alteplase, after which he experienced left arm ischaemia.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG: atrial fibrillation; Bloods: not provided; Imaging: left axillary artery occlusion and a left atrial appendage thrombus.",
+  "correct_diagnosis": "Thromboembolic complications following IVT",
+  "differentials": [
+    "Thromboembolic complications following IVT",
+    "Acute ischaemic stroke",
+    "Limb ischaemia",
+    "Atrial fibrillation",
+    "Axillary artery occlusion"
+  ],
+  "correct_ranking": [
+    "Thromboembolic complications following IVT",
+    "Acute ischaemic stroke",
+    "Limb ischaemia",
+    "Axillary artery occlusion",
+    "Atrial fibrillation"
+  ]
+}

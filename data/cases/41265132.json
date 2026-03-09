@@ -1,0 +1,23 @@
+{
+  "case_id": "41265132",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "61-year-old female with a history of coronary artery disease suffered a witnessed cardiac arrest while riding a city bus.",
+  "history": "Out-of-hospital cardiac arrest (OHCA) due to ST-elevation myocardial infarction (STEMI) requires immediate intervention to optimize survival and neurological outcomes. Rapid recognition and treatment are critical, especially in prehospital settings. A 61-year-old female with a history of coronary artery disease suffered a witnessed cardiac arrest while riding a city bus. Bystanders activated Emergency Medical Services (EMS), who promptly initiated cardiopulmonary resuscitation (CPR) and defibrillation, achieving return of spontaneous circulation (ROSC).",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG: ST-elevation myocardial infarction (STEMI).",
+  "correct_diagnosis": "ST-elevation myocardial infarction (STEMI)",
+  "differentials": [
+    "ST-elevation myocardial infarction (STEMI)",
+    "Non-ST-elevation myocardial infarction (NSTEMI)",
+    "Cardiac tamponade",
+    "Pulmonary embolism",
+    "Hypertrophic cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "ST-elevation myocardial infarction (STEMI)",
+    "Non-ST-elevation myocardial infarction (NSTEMI)",
+    "Cardiac tamponade",
+    "Pulmonary embolism",
+    "Hypertrophic cardiomyopathy"
+  ]
+}

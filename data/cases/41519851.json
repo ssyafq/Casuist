@@ -1,0 +1,23 @@
+{
+  "case_id": "41519851",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "71-year-old Asian male patient with gastric variceal bleeding",
+  "history": "Patient with cirrhosis presented with gastric variceal bleeding. He underwent endoscopic variceal obliteration using histoacryl (N-butyl cyanoacrylate) injection under intravenous anesthesia.",
+  "exam": "Delayed emergence from anesthesia, remained comatose",
+  "labs": "Laboratory and imaging examinations revealed multiple systemic embolization involving the brain, heart, spleen, and spinal cord, caused by cyanoacrylate",
+  "correct_diagnosis": "Multiple systemic embolization caused by cyanoacrylate",
+  "differentials": [
+    "Multiple systemic embolization caused by cyanoacrylate",
+    "Gastric variceal bleeding",
+    "Cirrhosis",
+    "Cardiac arrest",
+    "Anesthetic complication"
+  ],
+  "correct_ranking": [
+    "Multiple systemic embolization caused by cyanoacrylate",
+    "Gastric variceal bleeding",
+    "Cirrhosis",
+    "Cardiac arrest",
+    "Anesthetic complication"
+  ]
+}

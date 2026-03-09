@@ -1,0 +1,23 @@
+{
+  "case_id": "41178419",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 45-year-old male presented with sudden vision loss in both eyes.",
+  "history": "The patient had a 2-day history of severe abdominal pain, nausea, and vomiting. He also had a history of hypertension and was on lisinopril. He denied any recent trauma or eye problems. He had a 10-pack-year smoking history and consumed 2-3 beers daily. He had a 10-year history of hypertension and was on lisinopril.",
+  "exam": "Vital signs: BP 160/90 mmHg, HR 100 bpm, RR 20 bpm. Physical examination revealed abdominal tenderness and guarding. Fundoscopic examination showed Purtscher-like retinopathy in both eyes.",
+  "labs": "Laboratory investigations: Elevated pancreatic enzymes (amylase 500 U/L, lipase 1000 U/L), elevated creatinine (2.5 mg/dL), proteinuria (3+ on dipstick), and hematuria (2+ on dipstick). Renal biopsy revealed membranoproliferative glomerulonephritis (MPGN).",
+  "correct_diagnosis": "Acute pancreatitis with Purtscher-like retinopathy and membranoproliferative glomerulonephritis",
+  "differentials": [
+    "Acute pancreatitis with Purtscher-like retinopathy and membranoproliferative glomerulonephritis",
+    "Acute kidney injury with membranoproliferative glomerulonephritis and Purtscher-like retinopathy",
+    "Acute pancreatitis with acute kidney injury and Purtscher-like retinopathy",
+    "Membranoproliferative glomerulonephritis with Purtscher-like retinopathy and acute pancreatitis",
+    "Acute pancreatitis with Purtscher-like retinopathy"
+  ],
+  "correct_ranking": [
+    "Acute pancreatitis with Purtscher-like retinopathy and membranoproliferative glomerulonephritis",
+    "Acute pancreatitis with Purtscher-like retinopathy",
+    "Acute kidney injury with membranoproliferative glomerulonephritis and Purtscher-like retinopathy",
+    "Membranoproliferative glomerulonephritis with Purtscher-like retinopathy and acute pancreatitis",
+    "Acute pancreatitis"
+  ]
+}

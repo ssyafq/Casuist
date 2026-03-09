@@ -1,0 +1,23 @@
+{
+  "case_id": "41546309",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 55-year-old man presented with severe anemia due to hemorrhage.",
+  "history": "The patient was admitted to our hospital with severe anemia. The cause of anemia was hemorrhage due to the duodenal invasion of pancreatic cancer. Endoscopic hemostasis was not applicable and the effect of transarterial catheter embolization was temporary.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG, bloods, imaging, and other tests were not provided.",
+  "correct_diagnosis": "Hemorrhage due to duodenal invasion of pancreatic cancer",
+  "differentials": [
+    "Hemorrhage due to duodenal invasion of pancreatic cancer",
+    "Gastrointestinal bleed due to peptic ulcer disease",
+    "Hemorrhage due to gastric cancer",
+    "Hemorrhage due to splenic artery aneurysm",
+    "Hemorrhage due to esophageal varices"
+  ],
+  "correct_ranking": [
+    "Hemorrhage due to duodenal invasion of pancreatic cancer",
+    "Gastrointestinal bleed due to peptic ulcer disease",
+    "Hemorrhage due to gastric cancer",
+    "Hemorrhage due to splenic artery aneurysm",
+    "Hemorrhage due to esophageal varices"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41481891",
+  "specialty": "stroke",
+  "chief_complaint": "A 35-year-old female Nepali immigrant presented with sudden neurological deficits, including dizziness, pale appearance, diaphoresis, right-upper and bilateral-lower extremity paralysis, and impaired eye and mouth opening, 11 hours post-Cesarean delivery.",
+  "history": "The patient had no prior medical or psychiatric history. She developed sudden neurological deficits on postoperative Day 0 following an uncomplicated Cesarean delivery. Extensive workup was unremarkable. Neurological deficits resolved within hours after ammonia inhalant stimulation.",
+  "exam": "Vital signs: not provided. Physical examination findings: right-upper and bilateral-lower extremity paralysis with impaired eye and mouth opening.",
+  "labs": "Computed tomography head: unremarkable. Computed tomography angiography head/neck: unremarkable. Magnetic resonance imaging brain: unremarkable.",
+  "correct_diagnosis": "Postpartum Functional Neurologic Disorder",
+  "differentials": [
+    "Postpartum Functional Neurologic Disorder",
+    "Stroke",
+    "Catatonia",
+    "Dissociative State",
+    "Postpartum Psychosis"
+  ],
+  "correct_ranking": [
+    "Postpartum Functional Neurologic Disorder",
+    "Stroke",
+    "Catatonia",
+    "Dissociative State",
+    "Postpartum Psychosis"
+  ]
+}

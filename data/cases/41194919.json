@@ -1,0 +1,23 @@
+{
+  "case_id": "41194919",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 45-year-old male patient presented with widespread purpura as the main clinical manifestation, which emerged during treatment for Henoch-Schonlein purpura (HSP).",
+  "history": "The patient had a history of HSP, which was diagnosed based on widespread purpura. Abdominal pain emerged during treatment, and pancreatitis was initially diagnosed based on serum amylase findings and CT imaging features. However, acute esophageal necrosis was confirmed via gastroscopy, followed by a rapid deterioration in the patient's clinical status.",
+  "exam": "Vital signs: BP 90/60 mmHg, HR 120 bpm, RR 24 bpm. Physical examination revealed widespread purpura, abdominal tenderness, and signs of shock.",
+  "labs": "ECG: normal. Bloods: serum amylase 500 U/L, WBC 18,000 cells/mm^3, platelets 80,000 cells/mm^3. Imaging: CT scan of the abdomen showing pancreatitis and esophageal mucosal sloughing. Gastroscopy: acute esophageal necrosis.",
+  "correct_diagnosis": "Acute esophageal necrosis complicated by Henoch-Schonlein purpura",
+  "differentials": [
+    "Acute esophageal necrosis complicated by Henoch-Schonlein purpura",
+    "Pancreatitis",
+    "Disseminated intravascular coagulation (DIC)",
+    "Gastrointestinal bleeding",
+    "Esophageal mucosal sloughing"
+  ],
+  "correct_ranking": [
+    "Acute esophageal necrosis complicated by Henoch-Schonlein purpura",
+    "Pancreatitis",
+    "Disseminated intravascular coagulation (DIC)",
+    "Gastrointestinal bleeding",
+    "Esophageal mucosal sloughing"
+  ]
+}

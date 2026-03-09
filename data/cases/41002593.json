@@ -1,0 +1,23 @@
+{
+  "case_id": "41002593",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 70-year-old man presented with acute dyspnea and chest pain 7 months after initiation of olaparib therapy for metastatic castration-resistant prostate cancer.",
+  "history": "The patient had a history of metastatic castration-resistant prostate cancer (mCRPC) with a BRCA2 mutation. He was started on olaparib, a poly (ADP-ribose) polymerase (PARP) inhibitor. He developed acute dyspnea and chest pain 7 months after olaparib initiation.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Diagnostic evaluations included contrast-enhanced computed tomography and serum D-dimer level measurement. Imaging confirmed multiple pulmonary emboli; laboratory testing revealed markedly elevated D-dimer levels.",
+  "correct_diagnosis": "Pulmonary Embolism",
+  "differentials": [
+    "Pulmonary Embolism",
+    "Acute Coronary Syndrome",
+    "Pneumonia",
+    "Acute Respiratory Distress Syndrome",
+    "Cardiac Tamponade"
+  ],
+  "correct_ranking": [
+    "Pulmonary Embolism",
+    "Acute Coronary Syndrome",
+    "Pneumonia",
+    "Acute Respiratory Distress Syndrome",
+    "Cardiac Tamponade"
+  ]
+}

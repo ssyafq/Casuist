@@ -1,0 +1,23 @@
+{
+  "case_id": "41257589",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 47-year-old male patient presented to the emergency department with a chief complaint of fever, bloated stomach and vomiting for two days.",
+  "history": "The patient developed oliguria and tachypnea. He was treated with continuous renal replacement treatment and mechanical ventilation. The patient was found to have replicative EBV infection. He was also diagnosed with acute pancreatitis and acute kidney injury.",
+  "exam": "Vital signs: fever, tachypnea. Physical examination findings: bloated stomach, vomiting.",
+  "labs": "24-hour urine output: initially low, then increased to 10,100 mL. Hypernatremia. ESR: higher than at admission. Magnetic resonance imaging of pituitary: absence of posterior pituitary bright spot.",
+  "correct_diagnosis": "EBV-associated lymphocytic infundibulo-neurohypophysitis (LINH)",
+  "differentials": [
+    "EBV-associated lymphocytic infundibulo-neurohypophysitis (LINH)",
+    "Central diabetes insipidus",
+    "Acute pancreatitis",
+    "Acute kidney injury",
+    "Viral infection-related lymphocytic hypophysitis"
+  ],
+  "correct_ranking": [
+    "EBV-associated lymphocytic infundibulo-neurohypophysitis (LINH)",
+    "Central diabetes insipidus",
+    "Acute pancreatitis",
+    "Acute kidney injury",
+    "Viral infection-related lymphocytic hypophysitis"
+  ]
+}

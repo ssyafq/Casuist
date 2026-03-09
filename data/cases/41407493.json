@@ -1,0 +1,23 @@
+{
+  "case_id": "41407493",
+  "specialty": "chest pain",
+  "chief_complaint": "A 14-year-old male athlete experienced sudden sharp left-sided chest pain, dizziness, and palpitations during basketball practice.",
+  "history": "The patient had no significant medical history. His symptoms resolved spontaneously within minutes. Atrial fibrillation (AF) is a cardiac arrhythmia most prevalent in older age groups and with underlying structural heart disease, but it can occasionally present in younger, otherwise healthy individuals, particularly those involved in intense physical exertion.",
+  "exam": "Vital signs: tachycardia of 110 beats per minute. Physical examination findings: irregularly irregular rhythm.",
+  "labs": "12-lead ECG: irregularly irregular rhythm, baseline tachycardia of 110 beats per minute.",
+  "correct_diagnosis": "Atrial fibrillation",
+  "differentials": [
+    "Atrial fibrillation",
+    "Supraventricular tachycardia",
+    "Ventricular tachycardia",
+    "Panic attack",
+    "Costochondritis"
+  ],
+  "correct_ranking": [
+    "Atrial fibrillation",
+    "Supraventricular tachycardia",
+    "Ventricular tachycardia",
+    "Panic attack",
+    "Costochondritis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "39098030",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "A 59-year-old woman presented with vertigo. She had a history of acute coronary syndrome (ACS) 2 years previously.",
+  "history": "The patient had a history of ACS without obstructive coronary lesions. She presented with vertigo and was found to have a left cerebellar embolism. Review of previous echocardiograms revealed a mobile aortic valve tumor, suggesting papillary fibroelastoma (PFE), which was present at the time of the ACS event.",
+  "exam": "No specific physical examination findings are mentioned in the case report.",
+  "labs": "MRI revealed a left cerebellar embolism. TEE detected a mobile aortic valve tumor. At surgery, the PFE was found to be obstructing the right coronary artery (RCA) ostium.",
+  "correct_diagnosis": "Papillary Fibroelastoma of the Aortic Valve",
+  "differentials": [
+    "Acute Coronary Thrombosis",
+    "Papillary Fibroelastoma of the Aortic Valve",
+    "Cardiac Myxoma",
+    "Aortic Valve Stenosis",
+    "Coronary Artery Dissection"
+  ],
+  "correct_ranking": [
+    "Papillary Fibroelastoma of the Aortic Valve",
+    "Acute Coronary Thrombosis",
+    "Cardiac Myxoma",
+    "Aortic Valve Stenosis",
+    "Coronary Artery Dissection"
+  ]
+}

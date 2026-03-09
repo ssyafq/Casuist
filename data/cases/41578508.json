@@ -1,0 +1,23 @@
+{
+  "case_id": "41578508",
+  "specialty": "pancreatitis",
+  "chief_complaint": "A 44-year-old male patient presented with intermittent abdominal pain.",
+  "history": "The patient was diagnosed with squamous cell carcinoma of the right lower lung 21 months prior. He commenced treatment with cadonilimab plus anlotinib 22 days prior to presentation. He continued the immunotherapy and targeted treatment regimen despite experiencing intermittent abdominal pain and elevated amylase levels.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Laboratory tests revealed elevated amylase levels, and magnetic resonance imaging indicated pancreatic enlargement.",
+  "correct_diagnosis": "Grade 3 immune-related pancreatitis",
+  "differentials": [
+    "Grade 3 immune-related pancreatitis",
+    "Pancreatitis due to anlotinib",
+    "Pancreatitis due to cadonilimab",
+    "Autoimmune pancreatitis",
+    "Bacterial pancreatitis"
+  ],
+  "correct_ranking": [
+    "Grade 3 immune-related pancreatitis",
+    "Pancreatitis due to cadonilimab",
+    "Pancreatitis due to anlotinib",
+    "Autoimmune pancreatitis",
+    "Bacterial pancreatitis"
+  ]
+}

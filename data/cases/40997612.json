@@ -1,0 +1,23 @@
+{
+  "case_id": "40997612",
+  "specialty": "chest pain",
+  "chief_complaint": "A 45-year-old female experienced vasospastic angina (VSA) attacks.",
+  "history": "The patient had a clinical course of VSA attacks and histologically observed periarterial eosinophilic infiltration in the coronary arteries. The etiology of ECPA remains uncertain, but its pathogenesis may be attributed to an allergic reaction. The patient succumbed to a fatal exacerbation of VSA approximately six years after the first onset of symptoms.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ECG, blood tests, and imaging not provided.",
+  "correct_diagnosis": "Eosinophilic coronary periarteritis (ECPA)",
+  "differentials": [
+    "Eosinophilic coronary periarteritis (ECPA)",
+    "Spontaneous coronary artery dissection (SCAD)",
+    "Coronary artery disease",
+    "Cardiac sarcoidosis",
+    "Takotsubo cardiomyopathy"
+  ],
+  "correct_ranking": [
+    "Eosinophilic coronary periarteritis (ECPA)",
+    "Spontaneous coronary artery dissection (SCAD)",
+    "Coronary artery disease",
+    "Cardiac sarcoidosis",
+    "Takotsubo cardiomyopathy"
+  ]
+}

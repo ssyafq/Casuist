@@ -1,0 +1,23 @@
+{
+  "case_id": "41284088",
+  "specialty": "meningitis",
+  "chief_complaint": "An 11-year-old female child presented with episodes of high-grade fever, diaphoresis, tachycardia, and hypertension.",
+  "history": "The patient was diagnosed with tubercular meningitis (TBM) and underwent ventriculoperitoneal shunt surgery. She was stable post-operatively but developed symptoms of paroxysmal sympathetic hyperactivity (PSH) 3 days later.",
+  "exam": "Vital signs: high-grade fever, tachycardia (100%), tachypnea, dystonia, hyperthermia, hypertension, and diaphoresis. Physical examination findings: consistent with PSH.",
+  "labs": "PSH-Assessment Measure (PSH-AM) score: 26 (probable).",
+  "correct_diagnosis": "Paroxysmal sympathetic hyperactivity (PSH) secondary to tubercular meningitis (TBM)",
+  "differentials": [
+    "Paroxysmal sympathetic hyperactivity (PSH) secondary to tubercular meningitis (TBM)",
+    "Tubercular meningitis (TBM) with hydrocephalus",
+    "Traumatic brain injury with PSH",
+    "Encephalitis with PSH",
+    "Status epilepticus with PSH"
+  ],
+  "correct_ranking": [
+    "Paroxysmal sympathetic hyperactivity (PSH) secondary to tubercular meningitis (TBM)",
+    "Tubercular meningitis (TBM) with hydrocephalus",
+    "Traumatic brain injury with PSH",
+    "Encephalitis with PSH",
+    "Status epilepticus with PSH"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "40556009",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 44-year-old man presented with palpitations. He had a recent history of coronavirus disease of 2019 (COVID-19) infection.",
+  "history": "The patient had a recent history of COVID-19 infection, which may have exacerbated undiagnosed hyperthyroidism, leading to thyroid storm and cardiogenic shock. He was initially improved with V-A ECMO for 4 days, resulting in improved left ventricular ejection fraction (LVEF). Despite medical treatment for hyperthyroidism-associated tachycardia, uncontrolled tachycardia persisted. Ten days after weaning V-A ECMO, the patient suddenly developed pulmonary thromboembolism and hypoxia despite ongoing heparinization.",
+  "exam": "The patient had cardiogenic shock with a left ventricular ejection fraction (LVEF) of 13%, which improved to 30% after V-A ECMO support. He later developed refractory hypoxemia due to pulmonary thromboembolism.",
+  "labs": "The patient had a LVEF of 13% initially, which improved to 30% after V-A ECMO support and eventually to 52.5% after thyroidectomy.",
+  "correct_diagnosis": "Thyroid storm",
+  "differentials": [
+    "Thyroid storm",
+    "Pulmonary thromboembolism",
+    "Cardiogenic shock",
+    "Hyperthyroidism",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Thyroid storm",
+    "Cardiogenic shock",
+    "Hyperthyroidism",
+    "Pulmonary thromboembolism",
+    "Myocardial infarction"
+  ]
+}

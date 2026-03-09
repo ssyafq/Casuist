@@ -1,0 +1,23 @@
+{
+  "case_id": "41411604",
+  "specialty": "seizure",
+  "chief_complaint": "A 21-year-old male patient presents with recurrent episodes of lost consciousness.",
+  "history": "The patient has a history of recurrent episodes of lost consciousness that exhibited both features of seizure and syncope. Review of systems revealed stereotyped erectile dysfunction, characterized by unilateral penile tumescence (hemidystumescence) occurring peri-ictally. Neurologic workup revealed left temporal slowing on EEG.",
+  "exam": "Vital signs: normal. Physical examination: normal.",
+  "labs": "EEG: left temporal slowing. No other investigations mentioned.",
+  "correct_diagnosis": "Syncope secondary to autonomic seizures",
+  "differentials": [
+    "Syncope secondary to autonomic seizures",
+    "Focal epilepsy with penile hemidystumescence",
+    "Psychogenic pseudoseizures",
+    "Cardiac syncope",
+    "Hypoglycemia"
+  ],
+  "correct_ranking": [
+    "Syncope secondary to autonomic seizures",
+    "Focal epilepsy with penile hemidystumescence",
+    "Psychogenic pseudoseizures",
+    "Cardiac syncope",
+    "Hypoglycemia"
+  ]
+}

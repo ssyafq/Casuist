@@ -1,0 +1,23 @@
+{
+  "case_id": "36585054",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A patient presented with a giant peptic ulcer perforation caused by the physiological stress of a thyroid storm, necessitating emergent laparotomy.",
+  "history": "The patient developed duodenal ulcer perforation as a result of a thyroid storm caused by Graves' thyrotoxicosis, with severely deranged thyroid hormone levels and clinical features compatible with thyroid storm based on the Burch-Wartofsky Score.",
+  "exam": "Not specified",
+  "labs": "Severely deranged thyroid hormone levels, high anion-gap metabolic acidosis",
+  "correct_diagnosis": "Thyroid storm with giant peptic ulcer perforation",
+  "differentials": [
+    "Gastrointestinal perforation",
+    "Thyroid storm with giant peptic ulcer perforation",
+    "Sepsis",
+    "Graves' disease",
+    "Metabolic acidosis"
+  ],
+  "correct_ranking": [
+    "Thyroid storm with giant peptic ulcer perforation",
+    "Gastrointestinal perforation",
+    "Sepsis",
+    "Graves' disease",
+    "Metabolic acidosis"
+  ]
+}

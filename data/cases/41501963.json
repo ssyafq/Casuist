@@ -1,0 +1,23 @@
+{
+  "case_id": "41501963",
+  "specialty": "seizure",
+  "chief_complaint": "A 36-week male neonate presented with seizures, metabolic acidosis, and recurrent apnea.",
+  "history": "The infant was born to consanguineous parents with a history of preeclampsia and prior fetal demise. The mother had a history of preeclampsia and prior fetal demise. The infant was initially stabilized but developed symptoms of metabolic acidosis, recurrent apnea, and seizures. The infant's parents were consanguineous.",
+  "exam": "Vital signs: not provided. Physical examination findings: lethargy, hypotonia, and seizures.",
+  "labs": "Elevated glycine levels (2560 micromol/L), confirming nonketotic hyperglycinemia.",
+  "correct_diagnosis": "Nonketotic hyperglycinemia",
+  "differentials": [
+    "Nonketotic hyperglycinemia",
+    "Hypoxic-ischemic encephalopathy",
+    "Sepsis",
+    "Congenital infection",
+    "Metabolic disorder"
+  ],
+  "correct_ranking": [
+    "Nonketotic hyperglycinemia",
+    "Hypoxic-ischemic encephalopathy",
+    "Sepsis",
+    "Congenital infection",
+    "Metabolic disorder"
+  ]
+}

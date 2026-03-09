@@ -1,0 +1,23 @@
+{
+  "case_id": "41360495",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "An  elderly lady presented with exertional shortness of breath.",
+  "history": "The patient had a background of surgically treated uterine stromal sarcoma and deep venous thrombosis. She was in type 1 respiratory failure and hypoxia was inconsistent with her symptoms, fluctuating with her position, demonstrating platypnea-orthodeoxia.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "CT pulmonary angiography: normal. Repeat CT chest and abdomen: confirmed the presence of an extensive inferior vena cava thrombus extending from the right atrium to the left common iliac vein.",
+  "correct_diagnosis": "Inferior vena cava thrombosis",
+  "differentials": [
+    "Pulmonary embolism",
+    "Inferior vena cava thrombosis",
+    "Uterine sarcoma metastasis",
+    "Cardiac tamponade",
+    "Respiratory failure"
+  ],
+  "correct_ranking": [
+    "Inferior vena cava thrombosis",
+    "Pulmonary embolism",
+    "Uterine sarcoma metastasis",
+    "Cardiac tamponade",
+    "Respiratory failure"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41073096",
+  "specialty": "chest pain",
+  "chief_complaint": "A 30-year-old woman presents with a 2-month history of thoracic pain.",
+  "history": "The patient initially suspected costochondritis, but the pain was unresponsive to conservative management. Imaging revealed a paravertebral mass at the T6-T7 level. The differential diagnosis included malignancy, sarcoma, and tuberculosis (TB). A positive QuantiFERON-TB Gold test suggested TB exposure, before a biopsy confirmed spinal TB.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "ECG: not mentioned, Bloods: QuantiFERON-TB Gold test positive, Imaging: paravertebral mass at the T6-T7 level, confirmed spinal TB by biopsy.",
+  "correct_diagnosis": "Spinal tuberculosis",
+  "differentials": [
+    "Spinal tuberculosis",
+    "Malignancy",
+    "Sarcoma",
+    "Costochondritis",
+    "Pulmonary tuberculosis"
+  ],
+  "correct_ranking": [
+    "Spinal tuberculosis",
+    "Malignancy",
+    "Sarcoma",
+    "Costochondritis",
+    "Pulmonary tuberculosis"
+  ]
+}

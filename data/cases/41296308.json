@@ -1,0 +1,23 @@
+{
+  "case_id": "41296308",
+  "specialty": "seizure",
+  "chief_complaint": "A 29-year-old male presented with new-onset generalized tonic-clonic seizures and a 44-year-old woman presented with headache, tinnitus, polydipsia, and polyuria.",
+  "history": "Case 1: A 29-year-old male with new-onset generalized tonic-clonic seizures. Case 2: A 44-year-old woman with longstanding hypothyroidism, headache, tinnitus, polydipsia, and polyuria. Both patients had elevated serum IgG4 levels.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Case 1: Brain MRI revealed a left-sided, extra-axial dural-based enhancing lesion with vasogenic edema. Serum IgG4 was elevated (3.25 gm/dL). Whole body PET-CT ruled out systemic involvement. Case 2: Imaging revealed an enlarged pituitary with systemic FDG-avid lesions on PET-CT. Serum IgG4 was elevated (3.01 gm/L).",
+  "correct_diagnosis": "Intracranial IgG4-related disease",
+  "differentials": [
+    "Intracranial IgG4-related disease",
+    "Meningitis",
+    "Pachymeningitis",
+    "Hypophysitis",
+    "Pituitary adenoma"
+  ],
+  "correct_ranking": [
+    "Intracranial IgG4-related disease",
+    "Meningitis",
+    "Pachymeningitis",
+    "Hypophysitis",
+    "Pituitary adenoma"
+  ]
+}

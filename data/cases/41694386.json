@@ -1,0 +1,23 @@
+{
+  "case_id": "41694386",
+  "specialty": "meningitis",
+  "chief_complaint": "A 72-year-old woman presented with fever, rash, eosinophilia, and liver dysfunction.",
+  "history": "The patient initially presented with fever, rash, eosinophilia, and liver dysfunction following antibiotic exposure. She developed progressive cytopenias and neurological symptoms despite corticosteroid therapy.",
+  "exam": "Vital signs: fever, tachycardia, and tachypnea. Physical examination revealed a rash and signs of neurological dysfunction.",
+  "labs": "Laboratory investigations revealed eosinophilia, liver dysfunction, cytopenias, and evidence of hemophagocytic lymphohistiocytosis (HLH) and cryptococcal infection.",
+  "correct_diagnosis": "Severe DRESS syndrome with hemophagocytic lymphohistiocytosis and cryptococcal meningitis",
+  "differentials": [
+    "Severe DRESS syndrome with hemophagocytic lymphohistiocytosis and cryptococcal meningitis",
+    "Hemophagocytic lymphohistiocytosis",
+    "Cryptococcal meningitis",
+    "Drug-induced liver injury",
+    "Eosinophilic pneumonia"
+  ],
+  "correct_ranking": [
+    "Severe DRESS syndrome with hemophagocytic lymphohistiocytosis and cryptococcal meningitis",
+    "Hemophagocytic lymphohistiocytosis",
+    "Cryptococcal meningitis",
+    "Drug-induced liver injury",
+    "Eosinophilic pneumonia"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41239135",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 23-year-old woman presented with fulminant myocarditis leading to severe biventricular failure and cardiogenic shock.",
+  "history": "The patient had fulminant myocarditis that led to severe biventricular failure and cardiogenic shock. Despite high-dose inotropes and mechanical support with venoarterial extracorporeal membrane oxygenation plus and Impella CP, the patient's cardiac function did not recover. A large aortic thrombus was discovered and removed under deep hypothermic circulatory arrest.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "ECG and blood tests results were not provided. Chest computed tomography revealed a leftward ascending aorta.",
+  "correct_diagnosis": "Extracorporeal biventricular support through left mini-thoracotomy for fulminant myocarditis",
+  "differentials": [
+    "Extracorporeal biventricular support through left mini-thoracotomy for fulminant myocarditis",
+    "Venoarterial extracorporeal membrane oxygenation failure",
+    "Right heart failure",
+    "Aortic thrombosis",
+    "Cardiogenic shock"
+  ],
+  "correct_ranking": [
+    "Extracorporeal biventricular support through left mini-thoracotomy for fulminant myocarditis",
+    "Venoarterial extracorporeal membrane oxygenation failure",
+    "Right heart failure",
+    "Aortic thrombosis",
+    "Cardiogenic shock"
+  ]
+}

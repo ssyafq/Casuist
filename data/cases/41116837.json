@@ -1,0 +1,23 @@
+{
+  "case_id": "41116837",
+  "specialty": "chest pain",
+  "chief_complaint": "A 56-year-old man presented with progressive exertional chest pain.",
+  "history": "A 56-year-old man with known idiopathic hypereosinophilic syndrome (iHES) presented with progressive exertional chest pain. Secondary causes of eosinophilia were excluded, and no clinical or serological evidence of vasculitis or connective tissue disease was found.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "Coronary angiography revealed diffuse ectasia of all major epicardial coronary arteries, with a critical stenosis in the mid-right coronary artery. ECG and other blood tests results are not provided.",
+  "correct_diagnosis": "Idiopathic hypereosinophilic syndrome associated with multivessel coronary artery ectasia",
+  "differentials": [
+    "Idiopathic hypereosinophilic syndrome associated with multivessel coronary artery ectasia",
+    "Coronary artery disease",
+    "Vasculitis",
+    "Connective tissue disease",
+    "Myocardial infarction"
+  ],
+  "correct_ranking": [
+    "Idiopathic hypereosinophilic syndrome associated with multivessel coronary artery ectasia",
+    "Coronary artery disease",
+    "Vasculitis",
+    "Connective tissue disease",
+    "Myocardial infarction"
+  ]
+}

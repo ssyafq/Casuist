@@ -1,0 +1,23 @@
+{
+  "case_id": "41562268",
+  "specialty": "stroke",
+  "chief_complaint": "A 12-channel stimulation system was implanted in a  stroke survivor for walking. The participant had difficulty with stair climbing due to lack of stability and fear of falling.",
+  "history": "The participant had a stroke and underwent biweekly gait training with functional electrical stimulation (FES) that yielded locomotor improvements. Despite this, he limited his attempts at stair climbing to a step-to strategy with the paretic limb.",
+  "exam": "Vital signs: not provided. Physical examination findings: The participant displayed a marked improvement with FES during stair climbing, including increased hip/knee flexion, higher toe clearance, and the ability to use a step-over-step strategy.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided. Other tests: not provided.",
+  "correct_diagnosis": "Hemiplegia",
+  "differentials": [
+    "Hemiplegia",
+    "Stroke",
+    "Parkinson's disease",
+    "Multiple sclerosis",
+    "Spinal cord injury"
+  ],
+  "correct_ranking": [
+    "Hemiplegia",
+    "Stroke",
+    "Parkinson's disease",
+    "Multiple sclerosis",
+    "Spinal cord injury"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41692484",
+  "specialty": "neurology",
+  "chief_complaint": "A 25-year-old man presented with a severe traumatic brain injury following a car accident.",
+  "history": "The patient was transported to a medical level 1 trauma centre with a Glasgow Coma Scale score of 4. During rehabilitation, he regained speech, motor coordination, bilateral strength, with vision correction via prism lenses and learnt to compensate for short-term memory loss. However, he exhibited anxiety and depression that were not addressed during his recovery.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Not applicable.",
+  "correct_diagnosis": "Severe Traumatic Brain Injury",
+  "differentials": [
+    "Severe Traumatic Brain Injury",
+    "Anxiety Disorder",
+    "Depression",
+    "Post-Concussive Syndrome",
+    "Subdural Hematoma"
+  ],
+  "correct_ranking": [
+    "Severe Traumatic Brain Injury",
+    "Anxiety Disorder",
+    "Depression",
+    "Post-Concussive Syndrome",
+    "Subdural Hematoma"
+  ]
+}

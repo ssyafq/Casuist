@@ -1,0 +1,23 @@
+{
+  "case_id": "37074093",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 13-year-old girl presents with symptoms of thyroid storm and pancytopenia.",
+  "history": "The patient has a history of Graves' disease and was on antithyroid drug therapy. She developed symptoms similar to those of methimazole-induced pancytopenia, but close monitoring of CBC during fever suggested sepsis-induced pancytopenia with thyroid storm.",
+  "exam": "No specific vital signs or physical examination findings are provided.",
+  "labs": "Multiple normal complete blood counts (CBC) were monitored during fever.",
+  "correct_diagnosis": "Sepsis-induced pancytopenia with thyroid storm",
+  "differentials": [
+    "Methimazole-induced pancytopenia",
+    "Sepsis-induced pancytopenia with thyroid storm",
+    "Graves' disease",
+    "Thyroid crisis",
+    "Infectious pancytopenia"
+  ],
+  "correct_ranking": [
+    "Sepsis-induced pancytopenia with thyroid storm",
+    "Methimazole-induced pancytopenia",
+    "Infectious pancytopenia",
+    "Thyroid crisis",
+    "Graves' disease"
+  ]
+}

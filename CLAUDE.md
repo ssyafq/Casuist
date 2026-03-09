@@ -2,14 +2,14 @@
 
 Biomedical case-based learning platform. Students work through clinical cases with progressive reveal, get RAG-grounded AI feedback with PubMed citations, and receive scored results.
 
-## Current State (as of Feb 27, 2026)
+## Current State (as of Mar 7, 2026)
 
 - **CLI prototype:** Fully complete across all 5 pieces
 - **Raw files:** 660 in `data/raw/`
 - **Processed cases:** 616 (44 skipped — insufficient sections)
 - **ChromaDB chunks:** 949 chunks across 5 parent specialties
-- **Structured cases in `data/cases/`:** 3 (all cardiology — needs expansion)
-- **Specialty menu:** Working — shows all 5 specialties + Random at launch
+- **Structured cases in `data/cases/`:** 494 (AI-generated via `src/case_generator.py` using llama-3.1-8b-instant)
+- **Telegram bot:** Core case flow working — section reveal, diagnosis MCQ, inline keyboards
 - **Difficulty tagging:** NOT YET IMPLEMENTED
 
 ## Tech Stack
@@ -31,21 +31,22 @@ casuist/
 ├── .env                  # GROQ_API_KEY, NCBI_EMAIL, NCBI_API_KEY, TELEGRAM_BOT_TOKEN
 ├── src/
 │   ├── __init__.py
-│   ├── config.py         # SPECIALTY_MAP + resolve_specialty() helper
-│   ├── fetcher.py        # PubMed search + BioC full-text retrieval
-│   ├── processor.py      # BioC JSON parsing, section extraction, metadata
-│   ├── chunker.py        # Document chunking + ChromaDB indexing
-│   ├── rag.py            # LlamaIndex query engine + citation extraction
-│   ├── case_engine.py    # Interactive progressive case reveal loop + specialty menu
-│   ├── scoring.py        # MCQ scoring, efficiency tracking, score cards
-│   ├── bot.py            # Telegram bot (Weeks 7-8 — not yet built)
-│   └── models.py         # Dataclasses: CaseReport, CaseSection, ScoreCard
+│   ├── config.py             # SPECIALTY_MAP + resolve_specialty() helper
+│   ├── fetcher.py            # PubMed search + BioC full-text retrieval
+│   ├── processor.py          # BioC JSON parsing, section extraction, metadata
+│   ├── chunker.py            # Document chunking + ChromaDB indexing
+│   ├── rag.py                # LlamaIndex query engine + citation extraction
+│   ├── case_engine.py        # Interactive progressive case reveal loop + specialty menu
+│   ├── case_generator.py     # Batch AI case generation from data/processed/ → data/cases/
+│   ├── scoring.py            # MCQ scoring, efficiency tracking, score cards
+│   ├── bot.py                # Telegram bot — core case flow complete
+│   └── models.py             # Dataclasses: CaseReport, CaseSection, ScoreCard
 ├── data/
 │   ├── raw/              # Fetched BioC JSON files ({pmid}.json) — 660 files
 │   ├── processed/        # Structured case JSON files — 616 cases
 │   └── results/          # Student attempt results (results.json)
 ├── chroma_db/            # ChromaDB persistent storage (gitignored) — 949 chunks
-├── data/cases/           # Manually curated case files for case engine — 3 cases (cardiology only)
+├── data/cases/           # AI-generated case files — 494 cases (all 5 specialties)
 └── tests/
     ├── test_fetcher.py
     ├── test_processor.py
@@ -113,6 +114,9 @@ pip install -r requirements.txt
 # Run the CLI prototype
 python -m src.case_engine
 
+# Run the Telegram bot
+python -m src.bot
+
 # Run tests
 pytest tests/ -v
 
@@ -128,18 +132,26 @@ python -m src.chunker
 
 # Test RAG queries directly
 python -m src.rag --query "differential diagnoses for chest pain with elevated troponin"
+
+# Generate case JSONs from processed data (skips existing)
+python -m src.case_generator
+python -m src.case_generator --max 20   # test with small batch
 ```
 
 ## Build Sequence
 
-All 5 CLI pieces complete. Current phase is Weeks 7-8: Telegram Bot MVP.
+All 5 CLI pieces complete. Telegram bot core flow complete. Remaining bot pieces in progress.
 
 1. ✅ **Fetcher** → 660 raw JSONs in `data/raw/`
 2. ✅ **Processor + Chunker** → 616 processed cases, 949 chunks in ChromaDB
 3. ✅ **RAG Pipeline** → LlamaIndex + Groq + ChromaDB, citations working
 4. ✅ **Case Engine** → Full CLI loop with specialty menu
 5. ✅ **Scorer** → 4-component scoring, scorecard, results saved to `data/results.json`
-6. 🔲 **Telegram Bot** → Port CLI flow to `src/bot.py` using `python-telegram-bot` v21
+6. ✅ **Case Generator** → `src/case_generator.py` — 494 cases in `data/cases/`
+7. ✅ **Telegram Bot (core)** → Section reveal, diagnosis MCQ, inline keyboards, session state
+8. 🔲 **Bot: Specialty selection** — filter cases by specialty at /case start
+9. 🔲 **Bot: Ranking + Scoring** — ranking MCQ flow + 4-component score display
+10. 🔲 **Bot: RAG feedback** — post-diagnosis AI explanation with PubMed citations
 
 ## Scoring System (deterministic Python — no LLM)
 
@@ -190,7 +202,8 @@ Grade boundaries: A (90-100), B (75-89), C (60-74), D (<60)
 
 ## Immediate Next Priorities
 
-1. **Telegram Bot MVP** (`src/bot.py`) — port CLI flow using `python-telegram-bot` v21, in-memory state, deploy to Railway free tier
-2. **Expand `data/cases/`** — manually structure 7+ more cases across all 5 specialties (currently only 3 cardiology cases)
-3. **Difficulty classifier** — LLM classifier using Llama 3.1 8B, tag all cases, add difficulty selection menu after specialty menu
-4. **End-to-end test** — run 5 full cases across different specialties once cases/ is populateds
+1. **Bot: Specialty selection** — add specialty inline keyboard before case loads; filter `data/cases/` by `specialty` field
+2. **Bot: Ranking + Scoring** — after diagnosis MCQ, show ranking step then compute 4-component score using `src/scoring.py`
+3. **Bot: RAG feedback** — call `src/rag.py` after scoring to generate citation-grounded educational feedback
+4. **Difficulty classifier** — LLM classifier using Llama 3.1 8B, tag all cases, add difficulty filter to specialty menu
+5. **Deploy to Railway** — `src/bot.py` ready; configure env vars and push

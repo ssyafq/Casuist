@@ -1,0 +1,23 @@
+{
+  "case_id": "31105149",
+  "specialty": "cardiology",
+  "chief_complaint": "A 70-year-old woman presented with supraventricular tachycardia.",
+  "history": "The patient was admitted for treatment of supraventricular tachycardia. Ventriculoatrial conduction was revealed through programmed ventricular stimulation.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "Programmed ventricular stimulation revealed ventriculoatrial conduction; the coronary sinus ostium was the earliest atrial activation site. The fast-slow forms of atrioventricular nodal reentrant tachycardia were induced by ventricular extra-stimuli.",
+  "correct_diagnosis": "Atrioventricular Nodal Reentrant Tachycardia (AVNRT)",
+  "differentials": [
+    "Atrioventricular Nodal Reentrant Tachycardia (AVNRT)",
+    "Atrial Flutter",
+    "Orthodromic Atrioventricular Reentrant Tachycardia",
+    "Supraventricular Tachycardia",
+    "Junctional Tachycardia"
+  ],
+  "correct_ranking": [
+    "Atrioventricular Nodal Reentrant Tachycardia (AVNRT)",
+    "Supraventricular Tachycardia",
+    "Orthodromic Atrioventricular Reentrant Tachycardia",
+    "Atrial Flutter",
+    "Junctional Tachycardia"
+  ]
+}

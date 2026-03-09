@@ -1,0 +1,23 @@
+{
+  "case_id": "41661016",
+  "specialty": "stroke",
+  "chief_complaint": "39-year-old male patient with severe right-sided hemiparesis and complex motor aphasia in the late recovery phase of ischemic stroke.",
+  "history": "The patient presented with severe right-sided hemiparesis and complex motor aphasia in the late recovery phase of ischemic stroke. Alongside comprehensive physical rehabilitation and speech therapy sessions, the patient received several courses of intravenous Cerebrolysin at a dose of 20 ml (10 infusions).",
+  "exam": "Vital signs: not provided. Physical examination findings: severe right-sided hemiparesis and complex motor aphasia.",
+  "labs": "ECG: not provided. Bloods: not provided. Imaging: not provided. Other tests: Modified Rankin Scale (mRS), Barthel Index, Rivermead Mobility Index, Berg Balance Scale, Hauser Ambulation Index, 10-Meter Walk Test, Modified Ashworth Scale (MAS), the Wasserman Scale for aphasia, and neuropsychological testing results: significant positive dynamics.",
+  "correct_diagnosis": "Ischemic stroke with motor deficit and aphasia",
+  "differentials": [
+    "Ischemic stroke with motor deficit and aphasia",
+    "Hemorrhagic stroke",
+    "Traumatic brain injury",
+    "Cerebral vasculitis",
+    "Normal pressure hydrocephalus"
+  ],
+  "correct_ranking": [
+    "Ischemic stroke with motor deficit and aphasia",
+    "Hemorrhagic stroke",
+    "Traumatic brain injury",
+    "Cerebral vasculitis",
+    "Normal pressure hydrocephalus"
+  ]
+}

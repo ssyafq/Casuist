@@ -1,0 +1,23 @@
+{
+  "case_id": "37032084",
+  "specialty": "thyroid storm",
+  "chief_complaint": "An 85-year-old man presents with features of severe thyrotoxicosis.",
+  "history": "The patient had no prior history of thyroid disease. He was found to have severe thyrotoxicosis caused by painless subacute thyroiditis.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "The patient had no uptake of (99m)TcO(4) and was negative for thyroid-stimulating hormone receptor antibodies.",
+  "correct_diagnosis": "Painless destructive thyroiditis",
+  "differentials": [
+    "Graves' disease",
+    "Toxic multinodular goiter",
+    "Painless destructive thyroiditis",
+    "Thyroiditis",
+    "Subacute thyroiditis"
+  ],
+  "correct_ranking": [
+    "Painless destructive thyroiditis",
+    "Subacute thyroiditis",
+    "Thyroiditis",
+    "Graves' disease",
+    "Toxic multinodular goiter"
+  ]
+}

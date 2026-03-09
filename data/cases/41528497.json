@@ -1,0 +1,23 @@
+{
+  "case_id": "41528497",
+  "specialty": "stroke",
+  "chief_complaint": "A 23-year-old male patient presented with acute ischemic stroke.",
+  "history": "The patient had a familial history of early-onset stroke and demonstrated non-atherosclerotic vasculopathy on cerebral angiography. A comprehensive pedigree investigation uncovered a history of stroke among several family members.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Cerebral angiography showed non-atherosclerotic vasculopathy, MRI was performed, and clinical exome sequencing identified a heterozygous missense variation, c.1867 C> T (p.Thr623Met), in the KRIT1 gene.",
+  "correct_diagnosis": "KRIT1-related non-atherosclerotic vasculopathy",
+  "differentials": [
+    "KRIT1-related non-atherosclerotic vasculopathy",
+    "Cerebral cavernous malformation",
+    "Familial hypercholesterolemia",
+    "Carotid artery dissection",
+    "Cardioembolic stroke"
+  ],
+  "correct_ranking": [
+    "KRIT1-related non-atherosclerotic vasculopathy",
+    "Cerebral cavernous malformation",
+    "Familial hypercholesterolemia",
+    "Carotid artery dissection",
+    "Cardioembolic stroke"
+  ]
+}

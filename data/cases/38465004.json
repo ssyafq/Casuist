@@ -1,0 +1,23 @@
+{
+  "case_id": "38465004",
+  "specialty": "cardiology",
+  "chief_complaint": "Beginners in interventional cardiology procedures seeking to improve skills.",
+  "history": "Cardiology residents at the beginning of their training in interventional cardiology underwent a 4-hour training course on a high-fidelity simulator.",
+  "exam": "No specific physical examination findings mentioned.",
+  "labs": "Performance and competence scores improved significantly after the training course, with reduction in irradiation time and procedure time.",
+  "correct_diagnosis": "Simulation-based training effective for improving skills in interventional cardiology",
+  "differentials": [
+    "Simulation-based training effective for improving skills in interventional cardiology",
+    "Traditional training methods sufficient for interventional cardiology",
+    "On-the-job training ideal for interventional cardiology",
+    "Mentorship programs most effective for interventional cardiology",
+    "Self-study adequate for interventional cardiology skills"
+  ],
+  "correct_ranking": [
+    "Simulation-based training effective for improving skills in interventional cardiology",
+    "Mentorship programs most effective for interventional cardiology",
+    "On-the-job training ideal for interventional cardiology",
+    "Traditional training methods sufficient for interventional cardiology",
+    "Self-study adequate for interventional cardiology skills"
+  ]
+}

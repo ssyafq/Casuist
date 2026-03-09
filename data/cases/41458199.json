@@ -1,0 +1,23 @@
+{
+  "case_id": "41458199",
+  "specialty": "COPD",
+  "chief_complaint": "A 70-year-old male presented with gradually worsening shortness of breath over two months.",
+  "history": "The patient had a history of chronic obstructive pulmonary disease (COPD) and previously underwent endobronchial valve (EBV) removal due to pneumonia caused by long-term implantation of EBVs for bulla volume reduction after a left emphysematous bulla rupture and subsequent pneumothorax.",
+  "exam": "Vital signs and physical examination findings were not provided.",
+  "labs": "Chest radiography and computed tomography (CT) showed a giant emphysematous bulla (GEB) compressing 60% of the right lung volume, with the largest part filling the entire cross-section of the right lower lung.",
+  "correct_diagnosis": "Giant Emphysematous Bulla",
+  "differentials": [
+    "Giant Emphysematous Bulla",
+    "Pneumothorax",
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Pneumonia",
+    "Bulla Rupture"
+  ],
+  "correct_ranking": [
+    "Giant Emphysematous Bulla",
+    "Pneumothorax",
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Pneumonia",
+    "Bulla Rupture"
+  ]
+}

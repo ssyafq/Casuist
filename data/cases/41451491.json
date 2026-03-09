@@ -1,0 +1,23 @@
+{
+  "case_id": "41451491",
+  "specialty": "seizure",
+  "chief_complaint": "A 4-year-and-8-month-old male presented with delayed language and motor development, accompanied by autistic behaviors.",
+  "history": "The proband's younger brother was 2 years and 7 months old at the time of consultation, mainly presented with delayed language and motor development, accompanied by short stature. The proband's mother mainly presents with limited language expression and poor interpersonal interaction; the proband's maternal grandmother mainly presents with soliloquizing behavior.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Whole-exome sequencing (WES) showed a heterozygous mutation c.214C>T (p.Arg72Cys) in the WASF1 gene. Sanger sequencing confirmed that the proband's younger brother, mother, and maternal grandmother had harbored the same variant.",
+  "correct_diagnosis": "Neurodevelopmental disorder with absent language and variable seizures (NEDALVS) due to variant of WASF1 gene",
+  "differentials": [
+    "Neurodevelopmental disorder with absent language and variable seizures (NEDALVS) due to variant of WASF1 gene",
+    "Autistic Disorder",
+    "Epilepsy",
+    "Developmental Delay",
+    "Intellectual Disability"
+  ],
+  "correct_ranking": [
+    "Neurodevelopmental disorder with absent language and variable seizures (NEDALVS) due to variant of WASF1 gene",
+    "Autistic Disorder",
+    "Epilepsy",
+    "Developmental Delay",
+    "Intellectual Disability"
+  ]
+}

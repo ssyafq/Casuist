@@ -1,0 +1,23 @@
+{
+  "case_id": "41340799",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 65-year-old male patient presented with sudden onset of dyspnea and chest pain.",
+  "history": "The patient had a history of lung cancer, which was initially asymptomatic. He had no history of cardiovascular disease or bleeding disorders. He was on no regular medications and had a social history of smoking.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 110 bpm, RR 24/min. Physical examination revealed bilateral lung crackles and a pericardial friction rub.",
+  "labs": "ECG: sinus tachycardia with low voltage QRS complexes. Bloods: D-dimer elevated, troponin slightly elevated. Imaging: CT pulmonary angiogram showing a large pulmonary embolism, echocardiogram showing cardiac tamponade.",
+  "correct_diagnosis": "Simultaneous pulmonary embolism and cardiac tamponade due to lung cancer",
+  "differentials": [
+    "Simultaneous pulmonary embolism and cardiac tamponade due to lung cancer",
+    "Malignant pericardial effusion with cardiac tamponade",
+    "Pulmonary embolism due to deep vein thrombosis",
+    "Cardiac tamponade due to pericardial metastases",
+    "Acute coronary syndrome with cardiac tamponade"
+  ],
+  "correct_ranking": [
+    "Simultaneous pulmonary embolism and cardiac tamponade due to lung cancer",
+    "Malignant pericardial effusion with cardiac tamponade",
+    "Pulmonary embolism due to deep vein thrombosis",
+    "Cardiac tamponade due to pericardial metastases",
+    "Acute coronary syndrome with cardiac tamponade"
+  ]
+}

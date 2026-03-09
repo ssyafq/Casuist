@@ -1,0 +1,23 @@
+{
+  "case_id": "41692453",
+  "specialty": "hematology",
+  "chief_complaint": "A 65-year-old man with myelodysplastic syndrome and monoclonal gammopathy of undetermined significance developed acquired pure red cell aplasia 2 weeks after receiving the BNT162b2 mRNA COVID-19 vaccine.",
+  "history": "The patient developed acquired pure red cell aplasia (aPRCA) 2 weeks after receiving the BNT162b2 mRNA coronavirus disease 2019 vaccine, with Epstein-Barr virus DNA detected at the onset. The patient did not respond to immunosuppressive therapy and required red blood cell transfusion every one to two weeks.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Epstein-Barr virus DNA detected, red blood cell count significantly reduced.",
+  "correct_diagnosis": "Acquired Pure Red Cell Aplasia Following BNT162b2 mRNA COVID-19 Vaccination",
+  "differentials": [
+    "Acquired Pure Red Cell Aplasia Following BNT162b2 mRNA COVID-19 Vaccination",
+    "Myelodysplastic Syndrome",
+    "Monoclonal Gammopathy of Undetermined Significance",
+    "Epstein-Barr Virus Infection",
+    "Immune Thrombocytopenia"
+  ],
+  "correct_ranking": [
+    "Acquired Pure Red Cell Aplasia Following BNT162b2 mRNA COVID-19 Vaccination",
+    "Myelodysplastic Syndrome",
+    "Monoclonal Gammopathy of Undetermined Significance",
+    "Epstein-Barr Virus Infection",
+    "Immune Thrombocytopenia"
+  ]
+}

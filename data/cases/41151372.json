@@ -1,0 +1,23 @@
+{
+  "case_id": "41151372",
+  "specialty": "pulmonary embolism",
+  "chief_complaint": "A 56-year-old woman presented with acute dyspnea and leg pain.",
+  "history": "The patient had bullous pemphigoid treated with rituximab. No predisposing factors such as recent surgery, immobilization, or malignancy were identified. The temporal relationship with rituximab infusion suggested a possible causal link.",
+  "exam": "Clinical evaluation and imaging confirmed the diagnosis of DVT and PE. No other significant findings were noted.",
+  "labs": "ECG, bloods, and imaging studies confirmed the diagnosis of DVT and PE.",
+  "correct_diagnosis": "Pulmonary Embolism",
+  "differentials": [
+    "Pulmonary Embolism",
+    "Deep Vein Thrombosis",
+    "Rituximab-Induced Thrombocytopenia",
+    "Autoimmune Hemolytic Anemia",
+    "Cardiac Arrhythmia"
+  ],
+  "correct_ranking": [
+    "Pulmonary Embolism",
+    "Deep Vein Thrombosis",
+    "Rituximab-Induced Thrombocytopenia",
+    "Autoimmune Hemolytic Anemia",
+    "Cardiac Arrhythmia"
+  ]
+}

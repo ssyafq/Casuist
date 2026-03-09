@@ -1,0 +1,23 @@
+{
+  "case_id": "41479888",
+  "specialty": "pneumonia",
+  "chief_complaint": "A 75-year-old female with respiratory failure and diffuse ground-glass opacities.",
+  "history": "Osimertinib-induced severe lymphocytopenia created a profound immunodeficiency state, facilitating opportunistic infections and progressive fibrotic lung disease. The patient developed respiratory failure with diffuse ground-glass opacities and profound lymphocytopenia (ALC 0.48x10(9)/L). Overreliance on BAL-NGS detection of Mycobacterium avium complex delayed diagnosis of cytomegalovirus pneumonia. Guideline-discordant erlotinib rechallenge accelerated lymphocyte depletion.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "ALC 0.48x10(9)/L, CD4(+) lymphocytopenia (0.16x10(9)/L), BAL-NGS detection of Mycobacterium avium complex, high-grade CMV viremia, ganciclovir-induced virologic clearance.",
+  "correct_diagnosis": "Lymphocyte dynamics as the central mediator in osimertinib-induced CD4(+) T-cell depletion, fulminant cytomegalovirus pneumonitis, and progressive pulmonary fibrosis",
+  "differentials": [
+    "Lymphocyte dynamics as the central mediator in osimertinib-induced CD4(+) T-cell depletion, fulminant cytomegalovirus pneumonitis, and progressive pulmonary fibrosis",
+    "Osimertinib-induced severe lymphocytopenia",
+    "Cytomegalovirus pneumonia",
+    "Progressive pulmonary fibrosis",
+    "Mycobacterium avium complex infection"
+  ],
+  "correct_ranking": [
+    "Lymphocyte dynamics as the central mediator in osimertinib-induced CD4(+) T-cell depletion, fulminant cytomegalovirus pneumonitis, and progressive pulmonary fibrosis",
+    "Cytomegalovirus pneumonia",
+    "Osimertinib-induced severe lymphocytopenia",
+    "Progressive pulmonary fibrosis",
+    "Mycobacterium avium complex infection"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41514395",
+  "specialty": "myocardial infarction",
+  "chief_complaint": "A 51-year-old male patient presented with a near-fatal diffuse alveolar haemorrhage and an acute myocardial infarction.",
+  "history": "The patient had severe eosinophilic asthma, peripheral blood eosinophilia, and ear, nose, and throat involvement. He was treated with benralizumab (30 mg every 8 weeks) and oral corticosteroids. During tapering of corticosteroids, he developed diffuse alveolar haemorrhage as a manifestation of overt vasculitis.",
+  "exam": "Vital signs: not provided. Physical examination findings: not provided.",
+  "labs": "Elevated troponin T levels, diffuse alveolar haemorrhage, and occlusion of the left anterior descending (LAD) artery.",
+  "correct_diagnosis": "Eosinophilic granulomatosis with polyangiitis (EGPA) with acute myocardial infarction",
+  "differentials": [
+    "Eosinophilic granulomatosis with polyangiitis (EGPA) with acute myocardial infarction",
+    "Acute myocardial infarction due to coronary artery disease",
+    "Diffuse alveolar haemorrhage due to vasculitis",
+    "Severe eosinophilic asthma exacerbation",
+    "Benralizumab-induced vasculitis"
+  ],
+  "correct_ranking": [
+    "Eosinophilic granulomatosis with polyangiitis (EGPA) with acute myocardial infarction",
+    "Acute myocardial infarction due to coronary artery disease",
+    "Diffuse alveolar haemorrhage due to vasculitis",
+    "Severe eosinophilic asthma exacerbation",
+    "Benralizumab-induced vasculitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "41431798",
+  "specialty": "seizure",
+  "chief_complaint": "An 8-year-old male presents with progressive myoclonus, epilepsy, and severe neurological impairment.",
+  "history": "The patient developed early myoclonic jerks and tonic seizures, accompanied by cognitive impairment and global developmental delay. Family history revealed similar neurological challenges in siblings. Genetic testing confirmed a homozygous missense pathogenic variant in the cystatin B (CSTB) gene.",
+  "exam": "Vital signs: not provided. Physical examination: not provided.",
+  "labs": "Genetic testing: homozygous missense pathogenic variant in the cystatin B (CSTB) gene.",
+  "correct_diagnosis": "Infantile-Onset Unverricht-Lundborg Disease",
+  "differentials": [
+    "Infantile-Onset Unverricht-Lundborg Disease",
+    "Myoclonic Epilepsy with Ragged-Red Fibers",
+    "Lafora Disease",
+    "Progressive Myoclonus Epilepsy with Mitochondrial DNA Deletions",
+    "Epilepsy with Myoclonic-Atonic Seizures"
+  ],
+  "correct_ranking": [
+    "Infantile-Onset Unverricht-Lundborg Disease",
+    "Myoclonic Epilepsy with Ragged-Red Fibers",
+    "Lafora Disease",
+    "Progressive Myoclonus Epilepsy with Mitochondrial DNA Deletions",
+    "Epilepsy with Myoclonic-Atonic Seizures"
+  ]
+}

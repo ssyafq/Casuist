@@ -1,0 +1,23 @@
+{
+  "case_id": "41308343",
+  "specialty": "COPD",
+  "chief_complaint": "A 76-year-old man presented with persistent pneumothorax and subcutaneous emphysema after left upper lobe bronchoscopic lung volume reduction.",
+  "history": "A 76-year-old man with severe emphysema underwent bronchoscopic lung volume reduction (BLVR) with endobronchial valves (EBVs). He developed persistent pneumothorax and subcutaneous emphysema post-procedure.",
+  "exam": "Vital signs: stable. Physical examination: subcutaneous emphysema and persistent pneumothorax.",
+  "labs": "ECG: normal. Bloods: normal. Imaging: chest X-ray showing persistent pneumothorax and subcutaneous emphysema.",
+  "correct_diagnosis": "Persistent pneumothorax after bronchoscopic lung volume reduction",
+  "differentials": [
+    "Persistent pneumothorax after bronchoscopic lung volume reduction",
+    "Collateral ventilation",
+    "Pneumothorax due to other cause",
+    "Subcutaneous emphysema",
+    "Emphysema exacerbation"
+  ],
+  "correct_ranking": [
+    "Persistent pneumothorax after bronchoscopic lung volume reduction",
+    "Collateral ventilation",
+    "Pneumothorax due to other cause",
+    "Subcutaneous emphysema",
+    "Emphysema exacerbation"
+  ]
+}

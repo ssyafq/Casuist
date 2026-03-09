@@ -1,0 +1,23 @@
+{
+  "case_id": "40960285",
+  "specialty": "chest pain",
+  "chief_complaint": "A 54-year-old male presented with acute chest pain.",
+  "history": "The patient had a history of triple-vessel coronary artery bypass grafting (CABG) 6 months prior, with a left internal mammary artery (LIMA) graft to the left anterior descending artery. He developed acute chest pain and elevated troponin levels. He had no significant past medical history and was not on any medications.",
+  "exam": "Vital signs: BP 120/80 mmHg, HR 90 bpm, RR 20 bpm. Physical examination revealed diffuse ST-segment changes on electrocardiogram.",
+  "labs": "Electrocardiogram: diffuse ST-segment changes. Troponin levels: elevated. Emergent angiography: patent grafts, critical 90% stenosis of the left subclavian artery proximal to the LIMA origin.",
+  "correct_diagnosis": "Coronary-Subclavian Steal Syndrome",
+  "differentials": [
+    "Coronary-Subclavian Steal Syndrome",
+    "Acute Coronary Syndrome",
+    "Aortic Dissection",
+    "Pulmonary Embolism",
+    "Myocardial Infarction"
+  ],
+  "correct_ranking": [
+    "Coronary-Subclavian Steal Syndrome",
+    "Acute Coronary Syndrome",
+    "Aortic Dissection",
+    "Pulmonary Embolism",
+    "Myocardial Infarction"
+  ]
+}

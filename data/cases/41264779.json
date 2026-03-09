@@ -1,0 +1,23 @@
+{
+  "case_id": "41264779",
+  "specialty": "acute coronary syndrome",
+  "chief_complaint": "42-year-old woman presented with acute coronary syndrome and acute pulmonary edema.",
+  "history": "The patient presented with ST-segment elevation in aVR with reciprocal changes on electrocardiography and inferoposterior wall hypokinesia with reduced ejection fraction (40%) on echocardiography. She was urgently transferred for coronary angiography (CAG).",
+  "exam": "Vital signs: not available. Physical examination: not available.",
+  "labs": "Electrocardiography: ST-segment elevation in aVR with reciprocal changes. Echocardiography: inferoposterior wall hypokinesia with reduced ejection fraction (40%).",
+  "correct_diagnosis": "Acute Coronary Syndrome with Severe Peripheral Arterial Disease",
+  "differentials": [
+    "Acute Coronary Syndrome with Severe Peripheral Arterial Disease",
+    "Acute Pulmonary Edema",
+    "Inferoposterior Wall Myocardial Infarction",
+    "Reduced Ejection Fraction Cardiomyopathy",
+    "Acute Respiratory Distress Syndrome"
+  ],
+  "correct_ranking": [
+    "Acute Coronary Syndrome with Severe Peripheral Arterial Disease",
+    "Acute Pulmonary Edema",
+    "Inferoposterior Wall Myocardial Infarction",
+    "Reduced Ejection Fraction Cardiomyopathy",
+    "Acute Respiratory Distress Syndrome"
+  ]
+}

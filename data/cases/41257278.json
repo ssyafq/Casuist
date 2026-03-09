@@ -1,0 +1,23 @@
+{
+  "case_id": "41257278",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 22-year-old female patient presented with bloody stool.",
+  "history": "Gastrointestinal bleeding due to metastasis of an invasive mole to the small intestine is very rare. The patient presented with bloody stool and elevated human chorionic gonadotropin. The transvaginal gynecological ultrasound ruled out pregnancy. Upper gastrointestinal endoscopy and colonoscopy were performed, but no bleeding focus was detected. The contrast-enhanced computed tomography was unremarkable.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Human chorionic gonadotropin (elevated), capsule endoscopy (jejunal protuberant lesions with dark red blood clots), enteroscopic biopsy (trophoblastic cells).",
+  "correct_diagnosis": "Invasive mole metastasis to the small intestine",
+  "differentials": [
+    "Invasive mole metastasis to the small intestine",
+    "Small intestine cancer",
+    "Gastrointestinal stromal tumor",
+    "Inflammatory bowel disease",
+    "Angiodysplasia"
+  ],
+  "correct_ranking": [
+    "Invasive mole metastasis to the small intestine",
+    "Small intestine cancer",
+    "Gastrointestinal stromal tumor",
+    "Inflammatory bowel disease",
+    "Angiodysplasia"
+  ]
+}

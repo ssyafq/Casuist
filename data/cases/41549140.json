@@ -1,0 +1,23 @@
+{
+  "case_id": "41549140",
+  "specialty": "stroke",
+  "chief_complaint": "66-year-old woman presented with dizziness and speech impairment lasting 1 day.",
+  "history": "The patient initially presented with stroke-mimicking onset symptoms. MRI revealed subtle diffusion restriction at the corticomedullary junction. Initially, acute ischemic stroke was considered, and antiplatelet, cerebral circulation improvement, and neurotrophic therapies administered.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "MRI revealed subtle diffusion restriction at the corticomedullary junction. NOTCH2NLC gene testing revealed 104 GGC repeats in the 5'UTR region. Skin pathology demonstrated intranuclear inclusions.",
+  "correct_diagnosis": "Neuronal intranuclear inclusion disease (NIID)",
+  "differentials": [
+    "Neuronal intranuclear inclusion disease (NIID)",
+    "Acute ischemic stroke",
+    "Cerebral vasculitis",
+    "Multiple sclerosis",
+    "Normal pressure hydrocephalus"
+  ],
+  "correct_ranking": [
+    "Neuronal intranuclear inclusion disease (NIID)",
+    "Acute ischemic stroke",
+    "Cerebral vasculitis",
+    "Multiple sclerosis",
+    "Normal pressure hydrocephalus"
+  ]
+}

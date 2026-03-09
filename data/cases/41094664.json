@@ -1,0 +1,23 @@
+{
+  "case_id": "41094664",
+  "specialty": "gastrointestinal bleed",
+  "chief_complaint": "A 48-year-old Hispanic female patient presented with hematemesis, abdominal pain, and nausea.",
+  "history": "The patient had no known history of tuberous sclerosis. She presented with significant anemia and renal failure. Angiomyolipomas are often associated with tuberous sclerosis and are typically benign soft tissue tumors found incidentally on imaging. The main complication is retroperitoneal hemorrhagic rupture, leading to Wunderlich's syndrome.",
+  "exam": "Vital signs and physical examination findings not provided.",
+  "labs": "Significant anemia, renal failure, computed tomography imaging showing retroperitoneal hemorrhage from bilateral angiomyolipomas.",
+  "correct_diagnosis": "Wunderlich's syndrome caused by hemorrhage of renal angiomyolipomas",
+  "differentials": [
+    "Wunderlich's syndrome caused by hemorrhage of renal angiomyolipomas",
+    "Retroperitoneal hemorrhage",
+    "Tuberous sclerosis",
+    "Renal failure",
+    "Gastrointestinal bleed"
+  ],
+  "correct_ranking": [
+    "Wunderlich's syndrome caused by hemorrhage of renal angiomyolipomas",
+    "Retroperitoneal hemorrhage",
+    "Tuberous sclerosis",
+    "Renal failure",
+    "Gastrointestinal bleed"
+  ]
+}

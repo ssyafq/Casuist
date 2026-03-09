@@ -1,0 +1,23 @@
+{
+  "case_id": "35550326",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A woman in her 50s presented with intermittent chest tightness, dyspnoea, and vomiting for 4 days.",
+  "history": "The patient has a background of chronic obstructive pulmonary disease secondary to smoking.",
+  "exam": "No specific physical examination findings are provided.",
+  "labs": "Dynamic ischaemic ECG changes, elevation in high-sensitivity cardiac troponin T levels, and left ventriculography suggestive of mid-wall variant Takotsubo cardiomyopathy. Thyroid function tests consistent with hyperthyroidism, and elevated thyroid-stimulating hormone receptor antibody.",
+  "correct_diagnosis": "Takotsubo cardiomyopathy in the setting of thyroid storm",
+  "differentials": [
+    "Acute coronary syndrome",
+    "Thyroid storm",
+    "Graves' disease",
+    "Takotsubo cardiomyopathy in the setting of thyroid storm",
+    "Hyperthyroidism"
+  ],
+  "correct_ranking": [
+    "Takotsubo cardiomyopathy in the setting of thyroid storm",
+    "Thyroid storm",
+    "Graves' disease",
+    "Hyperthyroidism",
+    "Acute coronary syndrome"
+  ]
+}

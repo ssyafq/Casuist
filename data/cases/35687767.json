@@ -1,0 +1,23 @@
+{
+  "case_id": "35687767",
+  "specialty": "thyroid storm",
+  "chief_complaint": "A 41-year-old African lady presented with severe abdominal pain and vomiting for three weeks, associated with decreased appetite and weight loss.",
+  "history": "The patient had no past medical history. She presented with severe abdominal pain and vomiting for three weeks, associated with decreased appetite and weight loss.",
+  "exam": "No specific physical examination findings were reported.",
+  "labs": "High anion gap metabolic acidosis, positive ketones in the urine, high serum B-hydroxybutyrate, normal blood glucose readings, normal HbA1c, normal serum lactic acid, and normal salicylate levels. Thyroid functions test (TFT) confirmed primary hyperthyroidism.",
+  "correct_diagnosis": "Non-diabetic ketoacidosis secondary to primary hyperthyroidism",
+  "differentials": [
+    "Diabetic Ketoacidosis",
+    "Alcoholic Ketoacidosis",
+    "Non-diabetic ketoacidosis secondary to primary hyperthyroidism",
+    "Starvation Ketoacidosis",
+    "Salicylate-induced Ketoacidosis"
+  ],
+  "correct_ranking": [
+    "Non-diabetic ketoacidosis secondary to primary hyperthyroidism",
+    "Starvation Ketoacidosis",
+    "Alcoholic Ketoacidosis",
+    "Diabetic Ketoacidosis",
+    "Salicylate-induced Ketoacidosis"
+  ]
+}

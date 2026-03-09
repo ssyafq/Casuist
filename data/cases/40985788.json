@@ -1,0 +1,23 @@
+{
+  "case_id": "40985788",
+  "specialty": "chest pain",
+  "chief_complaint": "A 40-year-old woman presented to the emergency department with chest pain and pain in the joints of her hands and feet.",
+  "history": "The patient reported a 2-day history of worsening chest pain, described as a dull ache, and pain in the joints of her hands and feet. She denied any recent trauma or injury. She has a history of hypertension and hyperlipidemia. She takes lisinopril and atorvastatin. She has a family history of heart disease. She is a non-smoker and does not drink alcohol.",
+  "exam": "Vital signs: BP 140/90 mmHg, HR 90 bpm, RR 18/min, O2 sat 98% on room air. Physical examination revealed diffuse tenderness to palpation in the chest, hands, and feet. The patient had a 2+ pitting edema in both lower extremities.",
+  "labs": "ECG: normal sinus rhythm with ST-segment depression in leads II, III, and aVF. Blood work: elevated troponin levels (0.5 ng/mL), normal creatine kinase levels, and a mild anemia (Hb 10.5 g/dL). Imaging: normal chest X-ray, but a Doppler ultrasound of the lower extremities revealed bilateral deep vein thrombosis.",
+  "correct_diagnosis": "Acute Coronary Syndrome with Pulmonary Embolism",
+  "differentials": [
+    "Acute Coronary Syndrome with Pulmonary Embolism",
+    "Pulmonary Embolism",
+    "Acute Coronary Syndrome",
+    "Deep Vein Thrombosis",
+    "Myocardial Infarction"
+  ],
+  "correct_ranking": [
+    "Acute Coronary Syndrome with Pulmonary Embolism",
+    "Pulmonary Embolism",
+    "Acute Coronary Syndrome",
+    "Deep Vein Thrombosis",
+    "Myocardial Infarction"
+  ]
+}

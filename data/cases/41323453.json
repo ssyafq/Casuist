@@ -1,0 +1,23 @@
+{
+  "case_id": "41323453",
+  "specialty": "seizure",
+  "chief_complaint": "A 26-year-old male presents with new-onset seizures.",
+  "history": "The patient has a history of seizures. Neurocysticercosis (NCC) is a leading cause of acquired epilepsy and other neurological disturbances worldwide. Developmental venous anomaly (DVA) is the most common cerebral vascular malformation, typically asymptomatic and discovered incidentally.",
+  "exam": "Vital signs and physical examination findings are not provided.",
+  "labs": "MRI brain shows a DVA found adjacent to an NCC lesion. Serum cysticercosis antibody testing is positive.",
+  "correct_diagnosis": "Neurocysticercosis (NCC) with developmental venous anomaly (DVA)",
+  "differentials": [
+    "Neurocysticercosis (NCC) with developmental venous anomaly (DVA)",
+    "Epilepsy",
+    "Cerebral vascular malformation",
+    "Cerebral abscess",
+    "Meningitis"
+  ],
+  "correct_ranking": [
+    "Neurocysticercosis (NCC) with developmental venous anomaly (DVA)",
+    "Epilepsy",
+    "Cerebral vascular malformation",
+    "Cerebral abscess",
+    "Meningitis"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "30969319",
+  "specialty": "cardiology",
+  "chief_complaint": "A 55-year-old male presents with concerns about his cholesterol management.",
+  "history": "The patient has a history of hypertension and hyperlipidemia, and is a current smoker. He has a family history of premature cardiovascular disease. He is currently taking atorvastatin 20mg daily.",
+  "exam": "Vital signs are within normal limits. Physical examination is unremarkable.",
+  "labs": "Low-density lipoprotein cholesterol level is 190 mg/dL or greater.",
+  "correct_diagnosis": "Familial Hypercholesterolemia",
+  "differentials": [
+    "Hypertriglyceridemia",
+    "Familial Hypercholesterolemia",
+    "Combined Hyperlipidemia",
+    "Secondary Hypercholesterolemia",
+    "Isolated Elevated Low-Density Lipoprotein Cholesterol"
+  ],
+  "correct_ranking": [
+    "Familial Hypercholesterolemia",
+    "Combined Hyperlipidemia",
+    "Secondary Hypercholesterolemia",
+    "Isolated Elevated Low-Density Lipoprotein Cholesterol",
+    "Hypertriglyceridemia"
+  ]
+}
