@@ -2,8 +2,10 @@ import os
 import json
 import random
 import time
+import traceback
 from pathlib import Path
 from dotenv import load_dotenv
+from groq import Groq as GroqClient
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
@@ -162,6 +164,43 @@ def _build_ranking_keyboard(remaining: list[str]) -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(rows)
 
 
+def generate_feedback(case: dict, user_ranking: list[str], correct_ranking: list[str]) -> str:
+    """Call Groq directly to generate educational feedback after scoring."""
+    ranked_lines = "\n".join(
+        f"  #{i+1}: {dx}" for i, dx in enumerate(user_ranking)
+    )
+    correct_lines = "\n".join(
+        f"  #{i+1}: {dx}" for i, dx in enumerate(correct_ranking)
+    )
+    prompt = (
+        f"Case: {case.get('chief_complaint', '')}\n\n"
+        f"History: {case.get('history', '')}\n\n"
+        f"Exam: {case.get('exam', '')}\n\n"
+        f"Labs: {case.get('labs', '')}\n\n"
+        f"Correct diagnosis: {case.get('correct_diagnosis', '')}\n\n"
+        f"Student's ranking:\n{ranked_lines}\n\n"
+        f"Correct ranking:\n{correct_lines}\n\n"
+        "In under 250 words, explain: (1) why the correct diagnosis fits this case, "
+        "(2) which clinical clues were most important, "
+        "(3) why the top differentials were plausible but less likely. "
+        "Be concise and educational. Do not invent citations or PMIDs."
+    )
+    try:
+        client = GroqClient(api_key=os.getenv("GROQ_API_KEY"))
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+            max_tokens=400,
+        )
+        result = response.choices[0].message.content.strip()
+        print(f"[generate_feedback] response:\n{result}\n")
+        return result
+    except Exception as e:
+        traceback.print_exc()
+        return f"Feedback unavailable: {e}"
+
+
 def _build_scorecard(score: dict, user_ranking: list[str], correct_ranking: list[str]) -> str:
     ordinals = ["#1", "#2", "#3", "#4", "#5"]
     lines = [f"📊 *Case Complete!*\n\n*Score: {score['total']}/100 — Grade {score['grade']}*\n"]
@@ -243,6 +282,11 @@ async def dx_callback(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
         await query.message.reply_text(
             scorecard + DISCLAIMER,
             reply_markup=new_case_keyboard,
+            parse_mode="Markdown",
+        )
+        feedback = generate_feedback(session["case"], session["user_ranking"], correct_ranking)
+        await query.message.reply_text(
+            f"🧠 *Clinical Reasoning Feedback*\n\n{feedback}",
             parse_mode="Markdown",
         )
         user_sessions.pop(user_id, None)

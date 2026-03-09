@@ -2,15 +2,16 @@
 
 Biomedical case-based learning platform. Students work through clinical cases with progressive reveal, get RAG-grounded AI feedback with PubMed citations, and receive scored results.
 
-## Current State (as of Mar 7, 2026)
+## Current State (as of Mar 9, 2026)
 
 - **CLI prototype:** Fully complete across all 5 pieces
 - **Raw files:** 660 in `data/raw/`
 - **Processed cases:** 616 (44 skipped — insufficient sections)
 - **ChromaDB chunks:** 949 chunks across 5 parent specialties
 - **Structured cases in `data/cases/`:** 494 (AI-generated via `src/case_generator.py` using llama-3.1-8b-instant)
-- **Telegram bot:** Core case flow working — section reveal, diagnosis MCQ, inline keyboards
+- **Telegram bot:** Live on Railway — full case flow end to end (specialty selection, section reveal, sequential ranking, 4-component scoring)
 - **Difficulty tagging:** NOT YET IMPLEMENTED
+- **RAG feedback:** NOT YET INTEGRATED into bot
 
 ## Tech Stack
 
@@ -20,7 +21,7 @@ Biomedical case-based learning platform. Students work through clinical cases wi
 - HuggingFace `BAAI/bge-small-en-v1.5` for local embeddings (free, no API key)
 - ChromaDB (PersistentClient, local file storage) for vector store
 - Biopython for PubMed/NCBI API access
-- `python-telegram-bot` v21 — next interface milestone (Weeks 7-8)
+- `python-telegram-bot` v21 — deployed on Railway
 
 ## Project Structure
 
@@ -140,7 +141,7 @@ python -m src.case_generator --max 20   # test with small batch
 
 ## Build Sequence
 
-All 5 CLI pieces complete. Telegram bot core flow complete. Remaining bot pieces in progress.
+All 5 CLI pieces complete. Telegram bot (Piece 2) complete and live on Railway.
 
 1. ✅ **Fetcher** → 660 raw JSONs in `data/raw/`
 2. ✅ **Processor + Chunker** → 616 processed cases, 949 chunks in ChromaDB
@@ -148,10 +149,11 @@ All 5 CLI pieces complete. Telegram bot core flow complete. Remaining bot pieces
 4. ✅ **Case Engine** → Full CLI loop with specialty menu
 5. ✅ **Scorer** → 4-component scoring, scorecard, results saved to `data/results.json`
 6. ✅ **Case Generator** → `src/case_generator.py` — 494 cases in `data/cases/`
-7. ✅ **Telegram Bot (core)** → Section reveal, diagnosis MCQ, inline keyboards, session state
-8. 🔲 **Bot: Specialty selection** — filter cases by specialty at /case start
-9. 🔲 **Bot: Ranking + Scoring** — ranking MCQ flow + 4-component score display
-10. 🔲 **Bot: RAG feedback** — post-diagnosis AI explanation with PubMed citations
+7. ✅ **Telegram Bot (Piece 2)** → Live on Railway — specialty selection, section reveal, sequential ranking, 4-component score display
+   - Fix 1: Random case selection with seen-case tracking (no repeats until all seen)
+   - Fix 2: Specialty selection keyboard before case loads; filters by specialty field
+   - Fix 3+4: Sequential ranking flow (#1→#5) + `scoring.py` integration
+8. 🔲 **Bot: RAG feedback** (Piece 3) — post-scoring AI explanation with PubMed citations
 
 ## Scoring System (deterministic Python — no LLM)
 
@@ -202,8 +204,6 @@ Grade boundaries: A (90-100), B (75-89), C (60-74), D (<60)
 
 ## Immediate Next Priorities
 
-1. **Bot: Specialty selection** — add specialty inline keyboard before case loads; filter `data/cases/` by `specialty` field
-2. **Bot: Ranking + Scoring** — after diagnosis MCQ, show ranking step then compute 4-component score using `src/scoring.py`
-3. **Bot: RAG feedback** — call `src/rag.py` after scoring to generate citation-grounded educational feedback
-4. **Difficulty classifier** — LLM classifier using Llama 3.1 8B, tag all cases, add difficulty filter to specialty menu
-5. **Deploy to Railway** — `src/bot.py` ready; configure env vars and push
+1. **Bot: RAG feedback (Piece 3)** — after scoring, call `src/rag.py` to generate citation-grounded educational feedback using Llama 3.3 70B; every response must include `[PMID: xxxxxxxx]` citations
+2. **Difficulty classifier** — LLM classifier using Llama 3.1 8B, tag all 494 cases, add difficulty filter to specialty menu
+3. **Persist results** — call `scoring.save_result()` after each completed case to write to `data/results.json`
