@@ -1,6 +1,7 @@
 'use client'
 
 import Navbar from '@/components/Navbar'
+import Link from 'next/link'
 
 export default function LandingPage() {
   return (
@@ -24,12 +25,12 @@ export default function LandingPage() {
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-6">
-                  <button className="flex min-w-[180px] cursor-pointer items-center justify-center rounded-xl h-16 px-10 bg-primary hover:bg-primary-dark text-white text-lg font-bold transition-all shadow-xl shadow-primary/25">
+                  <Link href="/specialties" className="flex min-w-[180px] cursor-pointer items-center justify-center rounded-xl h-16 px-10 bg-primary hover:bg-primary-dark text-white text-lg font-bold transition-all shadow-xl shadow-primary/25">
                     Try a Case
-                  </button>
-                  <button className="flex min-w-[180px] cursor-pointer items-center justify-center rounded-xl h-16 px-10 border-2 border-neutral-gray hover:border-primary text-text-main text-lg font-bold transition-all">
+                  </Link>
+                  <Link href="/specialties" className="flex min-w-[180px] cursor-pointer items-center justify-center rounded-xl h-16 px-10 border-2 border-neutral-gray hover:border-primary text-text-main text-lg font-bold transition-all">
                     See How It Works
-                  </button>
+                  </Link>
                 </div>
                 <div className="flex flex-col gap-2 pt-10 border-t border-neutral-gray">
                   <div className="flex items-center gap-3 text-slate-500 text-base font-medium">
