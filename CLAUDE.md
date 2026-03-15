@@ -1,209 +1,170 @@
 # Casuist
 
-Biomedical case-based learning platform. Students work through clinical cases with progressive reveal, get RAG-grounded AI feedback with PubMed citations, and receive scored results.
+Biomedical case-based learning platform — "LeetCode for medical students." Users pick a medical specialty, work through real PubMed case reports with progressive reveal, rank differential diagnoses, and receive RAG-grounded AI feedback with citations and a scored result.
 
-## Current State (as of Mar 9, 2026)
+## Current State (March 2026)
 
-- **CLI prototype:** Fully complete across all 5 pieces
-- **Raw files:** 660 in `data/raw/`
-- **Processed cases:** 616 (44 skipped — insufficient sections)
-- **ChromaDB chunks:** 949 chunks across 5 parent specialties
-- **Structured cases in `data/cases/`:** 494 (AI-generated via `src/case_generator.py` using llama-3.1-8b-instant)
-- **Telegram bot:** Live on Railway — full case flow end to end (specialty selection, section reveal, sequential ranking, 4-component scoring)
-- **Difficulty tagging:** NOT YET IMPLEMENTED
-- **RAG feedback:** NOT YET INTEGRATED into bot
-
-## Tech Stack
-
-- Python 3.10+ with venv (no conda, no poetry — just venv + pip)
-- LlamaIndex for RAG orchestration
-- Groq API — Llama 3.3 70B for clinical reasoning, Llama 3.1 8B for classification tasks
-- HuggingFace `BAAI/bge-small-en-v1.5` for local embeddings (free, no API key)
-- ChromaDB (PersistentClient, local file storage) for vector store
-- Biopython for PubMed/NCBI API access
-- `python-telegram-bot` v21 — deployed on Railway
+- ✅ CLI prototype — fully complete (all 5 pieces)
+- ✅ Telegram bot — fully complete (all 4 pieces), live on Railway
+- 🔄 Web UI — in progress (Next.js scaffolded, 4 pages rendering at localhost:3000, navigation wiring next)
+- 📋 FastAPI backend — not yet started (comes after navigation is wired)
 
 ## Project Structure
 
 ```
-casuist/
+Casuist/                          # Root — Python backend
 ├── CLAUDE.md
-├── requirements.txt
-├── .env                  # GROQ_API_KEY, NCBI_EMAIL, NCBI_API_KEY, TELEGRAM_BOT_TOKEN
+├── requirements-full.txt         # Full Python dependencies
+├── requirements-bot.txt          # Telegram bot dependencies
+├── Dockerfile                    # Railway deployment
+├── .env                          # GROQ_API_KEY, NCBI_EMAIL, NCBI_API_KEY, TELEGRAM_BOT_TOKEN
+├── bot.py                        # Telegram bot entry point
 ├── src/
 │   ├── __init__.py
-│   ├── config.py             # SPECIALTY_MAP + resolve_specialty() helper
-│   ├── fetcher.py            # PubMed search + BioC full-text retrieval
-│   ├── processor.py          # BioC JSON parsing, section extraction, metadata
-│   ├── chunker.py            # Document chunking + ChromaDB indexing
-│   ├── rag.py                # LlamaIndex query engine + citation extraction
-│   ├── case_engine.py        # Interactive progressive case reveal loop + specialty menu
-│   ├── case_generator.py     # Batch AI case generation from data/processed/ → data/cases/
-│   ├── scoring.py            # MCQ scoring, efficiency tracking, score cards
-│   ├── bot.py                # Telegram bot — core case flow complete
-│   └── models.py             # Dataclasses: CaseReport, CaseSection, ScoreCard
+│   ├── fetcher.py                # PubMed search + BioC full-text retrieval
+│   ├── processor.py              # BioC JSON parsing, section extraction, metadata
+│   ├── chunker.py                # Document chunking + ChromaDB indexing
+│   ├── rag.py                    # LlamaIndex query engine + citation extraction
+│   ├── case_engine.py            # CLI interactive case loop (reference implementation)
+│   ├── scorer.py                 # MCQ scoring, efficiency tracking, score cards
+│   ├── case_generator.py         # Batch case generation via Groq
+│   └── models.py                 # Dataclasses: CaseReport, CaseSection, ScoreCard
 ├── data/
-│   ├── raw/              # Fetched BioC JSON files ({pmid}.json) — 660 files
-│   ├── processed/        # Structured case JSON files — 616 cases
-│   └── results/          # Student attempt results (results.json)
-├── chroma_db/            # ChromaDB persistent storage (gitignored) — 949 chunks
-├── data/cases/           # AI-generated case files — 494 cases (all 5 specialties)
-└── tests/
-    ├── test_fetcher.py
-    ├── test_processor.py
-    ├── test_rag.py
-    └── test_scorer.py
+│   ├── raw/                      # Fetched BioC JSON files ({pmid}.json) — 660 files
+│   ├── processed/                # Structured case JSON files — 616 files
+│   ├── cases/                    # AI-generated structured cases — 607 files
+│   └── results/                  # Student attempt results (results.json)
+├── chroma_db/                    # ChromaDB persistent storage — 949 chunks, 5 specialties
+└── casuist-web/                  # Next.js frontend (SEPARATE from Python backend)
+    ├── src/
+    │   └── app/
+    │       ├── layout.tsx         # Root layout — DM Sans + DM Mono fonts
+    │       ├── globals.css        # Light mode only, #F8FAFC background
+    │       ├── page.tsx           # Landing page
+    │       ├── specialties/
+    │       │   └── page.tsx       # Specialty selection (5 specialty cards)
+    │       ├── case/
+    │       │   └── page.tsx       # Case view (two-panel: info left, actions right)
+    │       └── scorecard/
+    │           └── page.tsx       # Scorecard (score breakdown + AI feedback toggle)
+    └── src/components/
+        └── Navbar.tsx             # Shared navbar — used on all 4 pages
 ```
 
-## Specialty Taxonomy (Two-Level System)
+## Two Separate Apps — Important
 
-Fetching uses specific disease names, not parent specialty names. `SPECIALTY_MAP` in `src/config.py` handles the mapping.
+**Python backend** lives at `Casuist/` root. All Python work goes here.
+**Next.js frontend** lives at `Casuist/casuist-web/`. All frontend work goes here.
+Never mix them up. When doing frontend work, always `cd casuist-web` first.
 
-| Parent Specialty | Fetch Terms Used |
-|---|---|
-| Cardiology | cardiology, chest pain, myocardial infarction, acute coronary syndrome |
-| Respiratory | pneumonia, pulmonary embolism, COPD, chronic obstructive pulmonary disease |
-| Neurology | stroke, seizure, meningitis |
-| Endocrinology | diabetic ketoacidosis, thyroid storm |
-| Gastroenterology | pancreatitis, gastrointestinal hemorrhage, liver failure |
+## Tech Stack
 
-**Rule:** Always fetch by specific disease name, never by parent specialty name. `--specialty "respiratory"` returns 0 PMIDs. Use `--specialty "pneumonia"` instead.
+### Backend (Python)
+- Python 3.10+ with venv
+- LlamaIndex for RAG orchestration
+- Groq API — `llama-3.3-70b-versatile` for clinical reasoning, `llama-3.1-8b-instant` for batch/classification
+- HuggingFace `BAAI/bge-small-en-v1.5` for local embeddings (free, no API key)
+- ChromaDB (PersistentClient, local) for vector store
+- Biopython for PubMed/NCBI API access
+- python-telegram-bot for Telegram bot
+- Deployed on Railway via Dockerfile
 
-**To add a new disease:** Add one line to `SPECIALTY_MAP` in `src/config.py`:
-```python
-"new disease name": ("parent specialty", "subspecialty label"),
-```
+### Frontend (Next.js)
+- Next.js 14 with TypeScript
+- Tailwind CSS with custom medical blue palette
+- DM Sans + DM Mono (Google Fonts via next/font)
+- Lucide React for icons
+- No auth yet — not needed during development
 
-## Case JSON Schema
+## Data State
 
-Each file in `data/cases/` must have these exact fields:
+| Metric | Value |
+|--------|-------|
+| Raw case JSONs | 660 |
+| Processed cases | 616 |
+| ChromaDB chunks | 949 |
+| Specialties | 5 (Cardiology, Respiratory, Neurology, Gastroenterology, Endocrinology) |
+| AI-generated structured cases | 607 |
 
-```json
-{
-  "case_id": "unique_id",
-  "specialty": "cardiology",
-  "subspecialty": "myocardial infarction",
-  "difficulty": "medium",
-  "chief_complaint": "...",
-  "demographics": "...",
-  "history": "...",
-  "exam": "...",
-  "labs": "...",
-  "diagnosis": "...",
-  "differential_options": ["dx1", "dx2", "dx3", "dx4", "dx5"],
-  "correct_ranking": ["dx1", "dx3", "dx2", "dx5", "dx4"]
-}
-```
+## Design System (Frontend)
 
-**Note:** `difficulty` field is in schema but LLM classifier not yet implemented. Manually tag for now.
+| Role | Color |
+|------|-------|
+| Primary | `#2E86C1` |
+| Dark navy | `#1A5276` |
+| Background | `#F8FAFC` |
+| Cards | `#FFFFFF` |
+| Border | `#E2E8F0` |
+| Text | `#0F172A` |
+| Text secondary | `#64748B` |
 
-## Difficulty Rubric (defined, classifier not yet built)
+- **Light mode only** — no dark mode, no dark: Tailwind variants
+- **Fonts:** DM Sans (body/headings), DM Mono (labels, scores, IDs)
 
-| Level | Criteria |
-|---|---|
-| Easy | Classic textbook presentation, 1-2 obvious differentials, common diagnosis |
-| Medium | Atypical presentation OR multiple plausible differentials, requires investigation reasoning |
-| Hard | Rare diagnosis, misleading presentation, overlapping differentials, uncommon specialty knowledge |
-
-## Commands
+## Frontend Commands
 
 ```bash
-# Environment (Windows)
-python -m venv .venv && .venv\Scripts\activate
-pip install -r requirements.txt
-
-# Run the CLI prototype
-python -m src.case_engine
-
-# Run the Telegram bot
-python -m src.bot
-
-# Run tests
-pytest tests/ -v
-
-# Fetch cases — use DISEASE NAME not specialty name
-python -m src.fetcher --specialty "pneumonia" --max 50
-python -m src.fetcher --specialty "stroke" --max 50
-
-# Process all raw JSONs
-python -m src.processor
-
-# Chunk and index into ChromaDB (wipe and rebuild)
-python -m src.chunker
-
-# Test RAG queries directly
-python -m src.rag --query "differential diagnoses for chest pain with elevated troponin"
-
-# Generate case JSONs from processed data (skips existing)
-python -m src.case_generator
-python -m src.case_generator --max 20   # test with small batch
+cd casuist-web
+npm run dev       # Start dev server at localhost:3000
+npm run build     # Production build
+npm run lint      # Lint check
 ```
 
-## Build Sequence
+## Backend Commands
 
-All 5 CLI pieces complete. Telegram bot (Piece 2) complete and live on Railway.
+```bash
+# Activate venv
+source .venv/bin/activate  # Mac/Linux
+.venv\Scripts\activate     # Windows
 
-1. ✅ **Fetcher** → 660 raw JSONs in `data/raw/`
-2. ✅ **Processor + Chunker** → 616 processed cases, 949 chunks in ChromaDB
-3. ✅ **RAG Pipeline** → LlamaIndex + Groq + ChromaDB, citations working
-4. ✅ **Case Engine** → Full CLI loop with specialty menu
-5. ✅ **Scorer** → 4-component scoring, scorecard, results saved to `data/results.json`
-6. ✅ **Case Generator** → `src/case_generator.py` — 494 cases in `data/cases/`
-7. ✅ **Telegram Bot (Piece 2)** → Live on Railway — specialty selection, section reveal, sequential ranking, 4-component score display
-   - Fix 1: Random case selection with seen-case tracking (no repeats until all seen)
-   - Fix 2: Specialty selection keyboard before case loads; filters by specialty field
-   - Fix 3+4: Sequential ranking flow (#1→#5) + `scoring.py` integration
-8. 🔲 **Bot: RAG feedback** (Piece 3) — post-scoring AI explanation with PubMed citations
+# Run Telegram bot locally
+python bot.py
 
-## Scoring System (deterministic Python — no LLM)
+# Fetch cases from PubMed
+python -m src.fetcher --specialty cardiology --max 50
 
-Four components, 100 points total:
+# Process and index fetched cases
+python -m src.chunker --input data/raw/ --output data/processed/
 
-| Component | Points | Logic |
-|---|---|---|
-| Diagnosis Accuracy | 40 | Correct #1 = 40pts, correct in top 3 = 15pts, else 0 |
-| Ranking Quality | 30 | 6pts exact position, 3pts off-by-one, per differential |
-| Information Efficiency | 20 | 1 section viewed = 20pts, 2 = 15pts, 3 = 10pts, 0 = 5pts |
-| Speed Bonus | 10 | <3min = 10pts, <5min = 7pts, <8min = 4pts, else 0 |
+# Test RAG queries
+python -m src.rag --query "differential diagnoses for chest pain with elevated troponin"
 
-Grade boundaries: A (90-100), B (75-89), C (60-74), D (<60)
+# Run CLI case engine (reference implementation)
+python -m src.case_engine
+```
 
 ## Architecture Decisions
 
-- **Every AI response must include citations.** Format: `[PMID: 12345678]`. Never generate feedback without source references from retrieved nodes.
-- **Two-level specialty taxonomy.** `specialty` = parent (cardiology), `subspecialty` = disease (myocardial infarction). Both stamped on every chunk's metadata.
-- **Section-based chunking, not fixed-size.** Each case report section becomes one chunk with 50-token overlap. Metadata: pmid, pmc_id, title, authors, section_type, specialty.
-- **ChromaDB collection name:** `medical_cases`. PersistentClient at `./chroma_db/`.
-- **Groq model split:** Llama 3.3 70B for clinical reasoning feedback only. Llama 3.1 8B for all classification tasks (difficulty tagging, specialty tagging). Never use 70B for batch classification — too expensive.
-- **Embedding model:** `BAAI/bge-small-en-v1.5` via HuggingFace (local, free).
-- **LlamaIndex query:** `similarity_top_k=5`, `response_mode="compact"`.
-- **Scoring is deterministic Python — no LLM.** LLM only used for educational feedback narrative, never for numerical score.
-- **In-memory state for Telegram bot.** `user_sessions: dict[int, SessionState]` keyed by `chat_id`. No database until beta has paying users.
-- **Config via .env file.** Load with `python-dotenv`. Never hardcode API keys.
-- **All storage is local.** Migration to Qdrant Cloud planned when Telegram bot goes live with real users.
+- **Every AI response must include citations.** Format: `[PMID: 12345678]`. Core differentiator.
+- **Scoring is deterministic Python, not LLM.** No hallucination risk in grading. LLM only used for feedback narrative.
+- **AI feedback is opt-in.** User must click "See AI Feedback" — not auto-loaded. Prevents UX where user taps "Next Case" before feedback loads.
+- **Section-based chunking.** Each case section = one chunk. 50-token overlap. Metadata: pmid, specialty, section_type, authors.
+- **ChromaDB collection:** `medical_cases`. PersistentClient at `./chroma_db/`.
+- **Case data model:** `chief_complaint`, `demographics`, `revealable_sections`, `correct_diagnosis`, `differential_options` (list of 5), `correct_ranking`.
+
+## Scoring System
+
+| Component | Points |
+|-----------|--------|
+| Diagnosis accuracy (correct #1 dx) | 40 |
+| Ranking quality (positional scoring) | 30 |
+| Info efficiency (targeted gathering) | 20 |
+| Speed bonus (under 3 minutes) | 10 |
+
+Grades: A (90-100), B (75-89), C (60-74), D (<60)
+
+## Next Steps (In Order)
+
+1. **Wire frontend navigation** — clicking specialty card → case view, scorecard → back to specialties, landing CTA → specialties
+2. **Build FastAPI backend** — expose Python case engine as REST API endpoints
+3. **Connect frontend to backend** — replace mock data with real API calls
+4. **Deploy web UI** — Railway or Vercel
 
 ## Important Warnings
 
-- **NCBI requires an email for Entrez API access.** Set `Entrez.email` before any call.
-- **Fetch by disease name, not specialty.** `--specialty "respiratory"` returns 0 PMIDs.
-- **Not all PMIDs have PMC full text.** Expect ~83% hit rate. Log and skip unavailable ones — normal behaviour.
-- **BioC JSON structure varies wildly.** Processor uses alias-based section matching — do not revert to exact string matching.
-- **Medical content disclaimer.** Include "Educational purposes only — not a substitute for clinical training" in every AI feedback response.
-- **ChromaDB `chroma_db/` directory must be gitignored.** Large and machine-specific.
-- **Groq free tier has rate limits.** Add retry logic with exponential backoff. Don't burst during batch processing.
-- **Windows:** Use `.venv\Scripts\activate` not `source .venv/bin/activate`. Use `Select-String` not `grep`.
-
-## Coding Conventions
-
-- Type hints on all function signatures. Use `str | None` not `Optional[str]`.
-- Dataclasses for all data models (in `models.py`).
-- Functions over classes unless state management is genuinely needed.
-- Print statements for CLI output — no logging framework at prototype stage.
-- Handle errors with try/except with clear error messages, not silent failures.
-- Keep files under 300 lines. Split if exceeded.
-
-## Immediate Next Priorities
-
-1. **Bot: RAG feedback (Piece 3)** — after scoring, call `src/rag.py` to generate citation-grounded educational feedback using Llama 3.3 70B; every response must include `[PMID: xxxxxxxx]` citations
-2. **Difficulty classifier** — LLM classifier using Llama 3.1 8B, tag all 494 cases, add difficulty filter to specialty menu
-3. **Persist results** — call `scoring.save_result()` after each completed case to write to `data/results.json`
+- **Two app folders** — always double check you're editing the right one
+- **Tailwind custom colors** — `bg-background-light`, `text-text-main`, `bg-primary` etc must be in `tailwind.config.ts` or they won't render
+- **No dark: variants** — frontend is light mode only, remove all dark: classes
+- **Groq rate limits** — free tier has limits, add retry logic for batch processing
+- **ChromaDB gitignored** — chroma_db/ is large and machine-specific, never commit it
+- **Medical disclaimer** — all AI output must include "Educational purposes only — not a substitute for clinical training"

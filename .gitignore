@@ -11,3 +11,40 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.eggs/
+
+# Environment
+.env
+.env.local
+
+# Data & DB (large files)
+chroma_db/
+data/raw/
+data/processed/
+
+# Keep data/cases/ — your 607 generated cases are important
+# Keep data/results/ — student results
+
+# Next.js
+casuist-web/.next/
+casuist-web/node_modules/
+casuist-web/.env.local
+
+# Stitch exports (temp folder)
+casuist-web/stitch-exports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
