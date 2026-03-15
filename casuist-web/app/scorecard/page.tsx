@@ -1,14 +1,53 @@
 'use client'
 
 import Navbar from '@/components/Navbar'
-import Link from 'next/link'
-import { useSearchParams } from 'next/navigation'
+import { useSearchParams, useRouter } from 'next/navigation'
 import { useState, Suspense } from 'react'
+import { calculateScore, type ScoreResult } from '@/lib/scoring'
+import { getStudentRanking, getSectionsViewed, getTimeTaken, clearSession } from '@/lib/session'
+import { MOCK_CASE } from '@/lib/mock-case'
+
+function barColor(score: number, max: number): string {
+  if (score === 0) return 'bg-slate-300'
+  const pct = score / max
+  if (pct >= 1) return 'bg-emerald-500'
+  if (pct >= 0.5) return 'bg-primary'
+  return 'bg-amber-500'
+}
 
 function ScorecardPageContent() {
   const searchParams = useSearchParams()
+  const router = useRouter()
   const specialty = searchParams.get('specialty') || 'cardiology'
   const [showFeedback, setShowFeedback] = useState(false)
+
+  const [timeTaken] = useState(() => {
+    if (typeof window === 'undefined') return 0
+    return getTimeTaken()
+  })
+
+  const [scores] = useState<ScoreResult>(() => {
+    if (typeof window === 'undefined') {
+      return { accuracy_score: 0, ranking_score: 0, efficiency_score: 0, speed_score: 0, total: 0, grade: 'D' as const }
+    }
+    const studentRanking = getStudentRanking()
+    const sectionsViewed = getSectionsViewed()
+    // If no ranking was submitted (direct navigation), give worst-case defaults
+    if (studentRanking.length === 0) {
+      return { accuracy_score: 0, ranking_score: 0, efficiency_score: 5, speed_score: 0, total: 5, grade: 'D' as const }
+    }
+    return calculateScore(MOCK_CASE.correct_ranking, studentRanking, sectionsViewed, timeTaken)
+  })
+
+  const handleNextCase = () => {
+    clearSession()
+    router.push(`/case?specialty=${specialty}`)
+  }
+
+  const handleBackToSpecialties = () => {
+    clearSession()
+    router.push('/specialties')
+  }
 
   return (
     <div className="bg-background-light text-slate-900 min-h-screen">
@@ -20,9 +59,11 @@ function ScorecardPageContent() {
           {/* Main Score Section */}
           <div className="text-center">
             <p className="text-slate-500 font-medium uppercase tracking-widest text-xs mb-2">Case Performance</p>
-            <h1 className="text-text-main text-7xl font-bold leading-tight font-display mb-4">74 <span className="text-slate-300">/</span> 100</h1>
+            <h1 className="text-text-main text-7xl font-bold leading-tight font-display mb-4">
+              {scores.total} <span className="text-slate-300">/</span> 100
+            </h1>
             <div className="inline-flex items-center justify-center px-6 py-1.5 bg-primary/10 border border-primary/20 text-primary rounded-full text-lg font-bold">
-              Grade: B
+              Grade: {scores.grade}
             </div>
           </div>
           {/* Score Breakdown Grid */}
@@ -30,33 +71,38 @@ function ScorecardPageContent() {
             {/* Diagnosis Accuracy */}
             <div className="bg-white border border-border-gray p-6 rounded-xl shadow-sm">
               <p className="text-slate-500 text-sm font-medium mb-1">Diagnosis Accuracy</p>
-              <p className="text-2xl font-bold text-text-main font-mono">40/40</p>
+              <p className="text-2xl font-bold text-text-main font-mono">{scores.accuracy_score}/40</p>
               <div className="mt-4 h-1.5 w-full bg-slate-100 rounded-full overflow-hidden">
-                <div className="h-full bg-emerald-500" style={{ width: '100%' }}></div>
+                <div className={`h-full ${barColor(scores.accuracy_score, 40)}`} style={{ width: `${(scores.accuracy_score / 40) * 100}%` }}></div>
               </div>
             </div>
             {/* Ranking Quality */}
             <div className="bg-white border border-border-gray p-6 rounded-xl shadow-sm">
               <p className="text-slate-500 text-sm font-medium mb-1">Ranking Quality</p>
-              <p className="text-2xl font-bold text-text-main font-mono">18/30</p>
+              <p className="text-2xl font-bold text-text-main font-mono">{scores.ranking_score}/30</p>
               <div className="mt-4 h-1.5 w-full bg-slate-100 rounded-full overflow-hidden">
-                <div className="h-full bg-primary" style={{ width: '60%' }}></div>
+                <div className={`h-full ${barColor(scores.ranking_score, 30)}`} style={{ width: `${(scores.ranking_score / 30) * 100}%` }}></div>
               </div>
             </div>
             {/* Info Efficiency */}
             <div className="bg-white border border-border-gray p-6 rounded-xl shadow-sm">
               <p className="text-slate-500 text-sm font-medium mb-1">Info Efficiency</p>
-              <p className="text-2xl font-bold text-text-main font-mono">16/20</p>
+              <p className="text-2xl font-bold text-text-main font-mono">{scores.efficiency_score}/20</p>
               <div className="mt-4 h-1.5 w-full bg-slate-100 rounded-full overflow-hidden">
-                <div className="h-full bg-primary" style={{ width: '80%' }}></div>
+                <div className={`h-full ${barColor(scores.efficiency_score, 20)}`} style={{ width: `${(scores.efficiency_score / 20) * 100}%` }}></div>
               </div>
             </div>
             {/* Speed Bonus */}
             <div className="bg-white border border-border-gray p-6 rounded-xl shadow-sm">
-              <p className="text-slate-500 text-sm font-medium mb-1">Speed Bonus</p>
-              <p className="text-2xl font-bold text-text-main font-mono">0/10</p>
+              <div className="flex items-center justify-between mb-1">
+                <p className="text-slate-500 text-sm font-medium">Speed Bonus</p>
+                <p className="text-xs font-mono text-slate-400">
+                  {String(Math.floor(timeTaken / 60)).padStart(2, '0')}:{String(timeTaken % 60).padStart(2, '0')}
+                </p>
+              </div>
+              <p className="text-2xl font-bold text-text-main font-mono">{scores.speed_score}/10</p>
               <div className="mt-4 h-1.5 w-full bg-slate-100 rounded-full overflow-hidden">
-                <div className="h-full bg-slate-300" style={{ width: '0%' }}></div>
+                <div className={`h-full ${barColor(scores.speed_score, 10)}`} style={{ width: `${(scores.speed_score / 10) * 100}%` }}></div>
               </div>
             </div>
           </div>
@@ -96,16 +142,19 @@ function ScorecardPageContent() {
           </div>
           {/* Actions */}
           <div className="flex flex-col items-center gap-8 w-full">
-            <Link
-              href={`/case?specialty=${specialty}`}
+            <button
+              onClick={handleNextCase}
               className="bg-primary hover:bg-primary/90 text-white font-bold py-5 px-16 rounded-lg flex items-center gap-2 transition-all shadow-md hover:shadow-lg active:scale-95 text-xl"
             >
               Next Case
               <span className="material-symbols-outlined">arrow_forward</span>
-            </Link>
-            <Link className="text-slate-500 hover:text-primary font-medium transition-colors text-sm border-b border-transparent hover:border-primary" href="/specialties">
+            </button>
+            <button
+              onClick={handleBackToSpecialties}
+              className="text-slate-500 hover:text-primary font-medium transition-colors text-sm border-b border-transparent hover:border-primary"
+            >
               Back to Specialties
-            </Link>
+            </button>
           </div>
         </main>
         <footer className="py-10 text-center text-slate-400 text-xs font-mono uppercase tracking-tighter shrink-0">

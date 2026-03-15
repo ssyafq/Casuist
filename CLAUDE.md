@@ -168,3 +168,10 @@ Grades: A (90-100), B (75-89), C (60-74), D (<60)
 - **Groq rate limits** — free tier has limits, add retry logic for batch processing
 - **ChromaDB gitignored** — chroma_db/ is large and machine-specific, never commit it
 - **Medical disclaimer** — all AI output must include "Educational purposes only — not a substitute for clinical training"
+
+@AGENTS.md
+
+## Frontend Rules
+- Always read node_modules/next/dist/docs/ before writing Next.js code
+- Light mode only, no dark: variants
+- Follow gemini.md design system

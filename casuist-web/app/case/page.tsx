@@ -3,7 +3,8 @@
 import Navbar from '@/components/Navbar'
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
-import { useState, Suspense } from 'react'
+import { useState, useEffect, useRef, Suspense } from 'react'
+import { setStartTime, setSectionsViewed } from '@/lib/session'
 
 const sectionData: Record<string, { title: string; content: React.ReactNode }> = {
   physical: {
@@ -77,11 +78,33 @@ function CasePageContent() {
   const specialtyLabel = specialty.charAt(0).toUpperCase() + specialty.slice(1)
 
   const [revealedSections, setRevealedSections] = useState<Set<string>>(new Set())
+  const [countdown, setCountdown] = useState(5)
+  const [elapsed, setElapsed] = useState(0)
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null)
+
+  // 5-second countdown, then start the real timer + persist start time
+  useEffect(() => {
+    if (countdown > 0) {
+      const id = setTimeout(() => setCountdown((c) => c - 1), 1000)
+      return () => clearTimeout(id)
+    }
+
+    // Countdown just hit 0 — start the timer
+    setStartTime()
+    timerRef.current = setInterval(() => {
+      setElapsed((e) => e + 1)
+    }, 1000)
+
+    return () => {
+      if (timerRef.current) clearInterval(timerRef.current)
+    }
+  }, [countdown])
 
   const toggleSection = (key: string) => {
     setRevealedSections((prev) => {
       const next = new Set(prev)
       next.add(key)
+      setSectionsViewed(Array.from(next))
       return next
     })
   }
@@ -98,14 +121,30 @@ function CasePageContent() {
       <Navbar />
       <main className="flex-grow flex flex-col lg:flex-row overflow-hidden">
         <section className="lg:w-[60%] border-r border-border bg-white overflow-y-auto p-8">
-          <div className="flex items-center space-x-3 mb-8 font-mono text-sm text-gray-500">
-            <span className="font-medium text-text">Case #0042</span>
-            <span>·</span>
-            <span>{specialtyLabel}</span>
-            <span>·</span>
-            <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-yellow-100 text-yellow-800">
-              Medium
-            </span>
+          <div className="flex items-center justify-between mb-8">
+            <div className="flex items-center space-x-3 font-mono text-sm text-gray-500">
+              <span className="font-medium text-text">Case #0042</span>
+              <span>·</span>
+              <span>{specialtyLabel}</span>
+              <span>·</span>
+              <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-yellow-100 text-yellow-800">
+                Medium
+              </span>
+            </div>
+            {/* Timer */}
+            <div className="flex items-center gap-2">
+              {countdown > 0 ? (
+                <span className="font-mono text-2xl font-bold text-primary tabular-nums">
+                  {countdown}
+                </span>
+              ) : (
+                <span className="font-mono text-2xl font-bold text-text tabular-nums tracking-tight">
+                  {String(Math.floor(elapsed / 60)).padStart(2, '0')}
+                  <span className="text-gray-300 mx-0.5">:</span>
+                  {String(elapsed % 60).padStart(2, '0')}
+                </span>
+              )}
+            </div>
           </div>
           <div className="mb-10">
             <h2 className="text-sm font-bold text-gray-500 uppercase tracking-wider mb-2">Chief Complaint</h2>
@@ -319,13 +358,23 @@ function CasePageContent() {
               <span className="text-gray-500">Current Score Potential</span>
               <span className="font-mono font-bold text-green-600">{100 - pointsUsed}/100</span>
             </div>
-            <Link
-              href={`/scorecard?specialty=${specialty}`}
-              className="w-full bg-primary hover:bg-navy text-white font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-all flex items-center justify-center"
-            >
-              Ready to Diagnose
-              <span className="material-icons ml-2">arrow_forward</span>
-            </Link>
+            {countdown > 0 ? (
+              <button
+                disabled
+                className="w-full bg-gray-300 text-gray-500 font-bold py-4 px-6 rounded-lg cursor-not-allowed flex items-center justify-center"
+              >
+                Ready to Diagnose
+                <span className="material-icons ml-2">lock</span>
+              </button>
+            ) : (
+              <Link
+                href={`/diagnose?specialty=${specialty}`}
+                className="w-full bg-primary hover:bg-navy text-white font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-all flex items-center justify-center"
+              >
+                Ready to Diagnose
+                <span className="material-icons ml-2">arrow_forward</span>
+              </Link>
+            )}
           </div>
         </section>
       </main>
