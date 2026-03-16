@@ -1,30 +1,15 @@
-export interface MockCase {
+/** Shape of a case returned by the API (all 9 fields). */
+export interface CaseData {
   case_id: string
   specialty: string
   chief_complaint: string
+  history: string
+  exam: string
+  labs: string
   correct_diagnosis: string
   differentials: string[]
   correct_ranking: string[]
 }
 
-export const MOCK_CASE: MockCase = {
-  case_id: '0042',
-  specialty: 'cardiology',
-  chief_complaint:
-    "I've been having this crushing pain in my chest that radiates to my left arm.",
-  correct_diagnosis: 'ST-Elevation Myocardial Infarction (STEMI)',
-  differentials: [
-    'ST-Elevation Myocardial Infarction (STEMI)',
-    'Unstable Angina',
-    'Aortic Dissection',
-    'Pulmonary Embolism',
-    'Pericarditis',
-  ],
-  correct_ranking: [
-    'ST-Elevation Myocardial Infarction (STEMI)',
-    'Aortic Dissection',
-    'Unstable Angina',
-    'Pulmonary Embolism',
-    'Pericarditis',
-  ],
-}
+/** API base URL — FastAPI backend at :8000 during development. */
+export const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'

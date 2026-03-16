@@ -4,8 +4,8 @@ import Navbar from '@/components/Navbar'
 import { useSearchParams, useRouter } from 'next/navigation'
 import { useState, Suspense } from 'react'
 import { calculateScore, type ScoreResult } from '@/lib/scoring'
-import { getStudentRanking, getSectionsViewed, getTimeTaken, clearSession } from '@/lib/session'
-import { MOCK_CASE } from '@/lib/mock-case'
+import { getStudentRanking, getSectionsViewed, getTimeTaken, getCorrectRanking, getCaseContext, clearSession } from '@/lib/session'
+import { API_BASE } from '@/lib/mock-case'
 
 function barColor(score: number, max: number): string {
   if (score === 0) return 'bg-slate-300'
@@ -21,22 +21,32 @@ function ScorecardPageContent() {
   const specialty = searchParams.get('specialty') || 'cardiology'
   const [showFeedback, setShowFeedback] = useState(false)
 
+  // Feedback state
+  const [feedbackLoading, setFeedbackLoading] = useState(false)
+  const [feedbackError, setFeedbackError] = useState<string | null>(null)
+  const [feedbackText, setFeedbackText] = useState<string | null>(null)
+  const [feedbackCitations, setFeedbackCitations] = useState<
+    Array<{ pmid: string; title: string; authors: string }>
+  >([])
+
   const [timeTaken] = useState(() => {
     if (typeof window === 'undefined') return 0
     return getTimeTaken()
   })
 
+  const [hasData] = useState(() => {
+    if (typeof window === 'undefined') return false
+    return getStudentRanking().length > 0
+  })
+
   const [scores] = useState<ScoreResult>(() => {
-    if (typeof window === 'undefined') {
+    if (typeof window === 'undefined' || !hasData) {
       return { accuracy_score: 0, ranking_score: 0, efficiency_score: 0, speed_score: 0, total: 0, grade: 'D' as const }
     }
     const studentRanking = getStudentRanking()
     const sectionsViewed = getSectionsViewed()
-    // If no ranking was submitted (direct navigation), give worst-case defaults
-    if (studentRanking.length === 0) {
-      return { accuracy_score: 0, ranking_score: 0, efficiency_score: 5, speed_score: 0, total: 5, grade: 'D' as const }
-    }
-    return calculateScore(MOCK_CASE.correct_ranking, studentRanking, sectionsViewed, timeTaken)
+    const correctRanking = getCorrectRanking()
+    return calculateScore(correctRanking, studentRanking, sectionsViewed, timeTaken)
   })
 
   const handleNextCase = () => {
@@ -47,6 +57,92 @@ function ScorecardPageContent() {
   const handleBackToSpecialties = () => {
     clearSession()
     router.push('/specialties')
+  }
+
+  const handleShowFeedback = async () => {
+    // If already loaded, just toggle visibility
+    if (feedbackText !== null) {
+      setShowFeedback(!showFeedback)
+      return
+    }
+
+    // First click: fetch from API
+    setShowFeedback(true)
+    setFeedbackLoading(true)
+    setFeedbackError(null)
+
+    const caseCtx = getCaseContext()
+    if (!caseCtx) {
+      setFeedbackError('Case data not available.')
+      setFeedbackLoading(false)
+      return
+    }
+
+    const studentRanking = getStudentRanking()
+
+    try {
+      const res = await fetch(`${API_BASE}/api/feedback`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          specialty: caseCtx.specialty,
+          correct_diagnosis: caseCtx.correct_diagnosis,
+          student_top_diagnosis: studentRanking[0] || '',
+          chief_complaint: caseCtx.chief_complaint,
+          history: caseCtx.history,
+          exam: caseCtx.exam,
+          labs: caseCtx.labs,
+        }),
+      })
+
+      if (res.status === 429) {
+        setFeedbackError('Rate limit reached. Please wait 60 seconds and try again.')
+        setFeedbackLoading(false)
+        return
+      }
+      if (res.status === 503) {
+        setFeedbackError('AI feedback service is temporarily unavailable.')
+        setFeedbackLoading(false)
+        return
+      }
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}))
+        setFeedbackError(body.detail || `Server error (${res.status})`)
+        setFeedbackLoading(false)
+        return
+      }
+
+      const data = await res.json()
+      setFeedbackText(data.feedback_text)
+      setFeedbackCitations(data.citations ?? [])
+    } catch {
+      setFeedbackError('Network error. Make sure the API server is running.')
+    } finally {
+      setFeedbackLoading(false)
+    }
+  }
+
+  if (!hasData) {
+    return (
+      <div className="bg-background-light text-slate-900 min-h-screen">
+        <div className="layout-container flex flex-col min-h-screen">
+          <Navbar />
+          <main className="flex-1 flex flex-col items-center justify-center px-4">
+            <div className="text-center max-w-md">
+              <span className="material-symbols-outlined text-6xl text-slate-300 mb-4 block">quiz</span>
+              <h1 className="text-2xl font-bold text-text-main mb-2">No case data found</h1>
+              <p className="text-slate-500 mb-8">It looks like you haven&apos;t completed a case yet. Start one to see your scorecard.</p>
+              <button
+                onClick={() => { clearSession(); router.push('/specialties') }}
+                className="bg-primary hover:bg-primary/90 text-white font-bold py-3 px-8 rounded-lg transition-all shadow-md"
+              >
+                Start a Case
+              </button>
+            </div>
+          </main>
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -109,34 +205,66 @@ function ScorecardPageContent() {
           {/* AI Feedback Section */}
           <div className="w-full max-w-3xl">
             <button
-              onClick={() => setShowFeedback(!showFeedback)}
-              className="w-full flex items-center justify-between p-6 bg-white border border-border-gray rounded-xl hover:bg-slate-50 transition-colors group"
+              onClick={handleShowFeedback}
+              disabled={feedbackLoading}
+              className="w-full flex items-center justify-between p-6 bg-white border border-border-gray rounded-xl hover:bg-slate-50 transition-colors group disabled:cursor-wait"
             >
               <div className="flex items-center gap-3">
-                <span className="material-symbols-outlined text-primary group-hover:scale-110 transition-transform">auto_awesome</span>
-                <span className="font-semibold text-text-main">See AI Feedback + Citations</span>
+                <span className={`material-symbols-outlined text-primary group-hover:scale-110 transition-transform ${feedbackLoading ? 'animate-spin' : ''}`}>
+                  {feedbackLoading ? 'progress_activity' : 'auto_awesome'}
+                </span>
+                <span className="font-semibold text-text-main">
+                  {feedbackLoading ? 'Generating feedback...' : 'See AI Feedback + Citations'}
+                </span>
               </div>
-              <span className={`material-symbols-outlined text-slate-400 transition-transform ${showFeedback ? 'rotate-180' : ''}`}>expand_more</span>
+              {!feedbackLoading && (
+                <span className={`material-symbols-outlined text-slate-400 transition-transform ${showFeedback ? 'rotate-180' : ''}`}>expand_more</span>
+              )}
             </button>
             {showFeedback && (
               <div className="mt-2 p-6 bg-white border border-border-gray rounded-xl">
-                <div className="prose prose-sm max-w-none text-gray-700">
-                  <p className="font-medium text-gray-900 mb-3">Clinical Reasoning Analysis</p>
-                  <p className="mb-3">
-                    Excellent identification of the primary diagnosis. The presentation of acute substernal chest pain with radiation to the left arm, diaphoresis, and ST-elevation in inferior leads (II, III, aVF) is classic for an <strong>inferior ST-elevation myocardial infarction (STEMI)</strong>.
-                  </p>
-                  <p className="mb-3">
-                    Your differential ranking could be improved. While unstable angina was a reasonable second choice, aortic dissection should have been ranked higher given the severity of pain and hypertension. Consider the &quot;worst-first&quot; approach when ranking differentials.
-                  </p>
-                  <p className="mb-4">
-                    Information gathering was efficient — requesting labs early was the right call given the need for troponin confirmation.
-                  </p>
-                  <div className="border-t border-gray-200 pt-3 mt-3">
-                    <p className="text-xs font-mono text-gray-500 font-medium mb-1">Citations</p>
-                    <p className="text-xs text-gray-500">[PMID: 29472585] · [PMID: 31567475] · [PMID: 28527533]</p>
+                {feedbackLoading && (
+                  <div className="flex items-center justify-center py-8 gap-3 text-slate-500">
+                    <span className="material-symbols-outlined animate-spin text-primary">progress_activity</span>
+                    <span className="text-sm font-medium">Searching medical literature...</span>
                   </div>
-                  <p className="text-xs text-gray-400 mt-3 italic">Educational purposes only — not a substitute for clinical training.</p>
-                </div>
+                )}
+
+                {feedbackError && (
+                  <div className="flex items-start gap-3 text-red-600 bg-red-50 border border-red-200 rounded-lg p-4">
+                    <span className="material-symbols-outlined text-xl shrink-0">error</span>
+                    <div>
+                      <p className="font-medium text-sm">Feedback unavailable</p>
+                      <p className="text-xs mt-1">{feedbackError}</p>
+                    </div>
+                  </div>
+                )}
+
+                {feedbackText && !feedbackLoading && (
+                  <div className="prose prose-sm max-w-none text-gray-700">
+                    <p className="font-medium text-gray-900 mb-3">Clinical Reasoning Analysis</p>
+                    <p className="mb-4 whitespace-pre-line">{feedbackText}</p>
+
+                    {feedbackCitations.length > 0 && (
+                      <div className="border-t border-gray-200 pt-3 mt-3">
+                        <p className="text-xs font-mono text-gray-500 font-medium mb-2">Citations</p>
+                        <ul className="space-y-1 list-none pl-0">
+                          {feedbackCitations.map((c) => (
+                            <li key={c.pmid} className="text-xs text-gray-500">
+                              <span className="font-mono font-medium">[PMID: {c.pmid}]</span>
+                              {c.authors && <span> &middot; {c.authors}</span>}
+                              {c.title && <span> &mdash; {c.title}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    <p className="text-xs text-gray-400 mt-3 italic">
+                      Educational purposes only &mdash; not a substitute for clinical training.
+                    </p>
+                  </div>
+                )}
               </div>
             )}
           </div>

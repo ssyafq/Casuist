@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(npx kill-port:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(pip install:*)"
     ]
   }
 }

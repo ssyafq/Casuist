@@ -156,6 +156,33 @@ def query(question: str, query_engine) -> str:
         )
 
 
+def query_structured(question: str, query_engine) -> tuple[str, list[dict]]:
+    """Run RAG query, return (answer_text, citations) separately for API use.
+
+    Unlike query(), this lets RetryError propagate so the caller can handle it
+    (e.g. return HTTP 429).
+    """
+
+    @retry(
+        stop=stop_after_attempt(GROQ_MAX_RETRIES),
+        wait=wait_exponential(multiplier=2, min=GROQ_RETRY_WAIT_MIN, max=GROQ_RETRY_WAIT_MAX),
+        retry=retry_if_exception_type((
+            groq_module.RateLimitError,
+            groq_module.APIConnectionError,
+        )),
+        before_sleep=lambda retry_state: print(
+            f"  [RETRY] Rate limited. Retrying in ~{retry_state.next_action.sleep:.0f}s "
+            f"(attempt {retry_state.attempt_number}/{GROQ_MAX_RETRIES})..."
+        ),
+    )
+    def _execute():
+        return query_engine.query(question)
+
+    response = _execute()
+    citations = extract_citations(response)
+    return str(response), citations
+
+
 def run_rag_pipeline() -> None:
     """CLI entry point: single-query mode (--query) or interactive REPL."""
     parser = argparse.ArgumentParser(description="Query the Casuist RAG pipeline")
