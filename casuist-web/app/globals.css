@@ -1,22 +1,98 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: oklch(0.99 0.002 240);
+  --foreground: oklch(0.20 0.02 240);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.20 0.02 240);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.20 0.02 240);
+  --primary: oklch(0.55 0.14 240);
+  --primary-foreground: oklch(1 0 0);
+  --secondary: oklch(0.96 0.01 240);
+  --secondary-foreground: oklch(0.30 0.03 240);
+  --muted: oklch(0.96 0.008 240);
+  --muted-foreground: oklch(0.50 0.02 240);
+  --accent: oklch(0.92 0.02 240);
+  --accent-foreground: oklch(0.30 0.03 240);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.577 0.245 27.325);
+  --border: oklch(0.90 0.01 240);
+  --input: oklch(0.90 0.01 240);
+  --ring: oklch(0.55 0.14 240);
+  --radius: 0.5rem;
+}
 
 @theme inline {
-  --color-primary: #2E86C1;
+  /* Fonts */
+  --font-sans: var(--font-dm-sans), 'DM Sans', system-ui, sans-serif;
+  --font-mono: var(--font-dm-mono), 'DM Mono', ui-monospace, monospace;
+  --font-serif: var(--font-dm-serif), 'DM Serif Display', Georgia, serif;
+  --font-display: var(--font-dm-sans), 'DM Sans', sans-serif;
+
+  /* Core palette (driven by CSS variables) */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Radius scale */
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  /* Legacy aliases used by other pages */
   --color-primary-dark: #1A5276;
+  --color-primary-hover: #2576AB;
   --color-navy: #1A5276;
-  --color-background-light: #F8FAFC;
-  --color-background-dark: #0F172A;
+  --color-background-light: #f8f8f6;
   --color-border-gray: #E2E8F0;
   --color-neutral-gray: #E2E8F0;
   --color-text-main: #0F172A;
-  --color-border: #E2E8F0;
   --color-text: #0F172A;
-  --font-sans: var(--font-dm-sans), sans-serif;
-  --font-mono: var(--font-dm-mono), monospace;
-  --font-display: var(--font-dm-sans), sans-serif;
 }
 
-html, body {
-  background-color: #F8FAFC;
-  color: #0F172A;
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Subtle float animation for product mockup */
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
 }

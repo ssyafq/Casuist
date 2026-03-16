@@ -6,6 +6,7 @@ import { useRouter } from 'next/navigation'
 import { useState, useEffect } from 'react'
 import { clearSession } from '@/lib/session'
 import { API_BASE } from '@/lib/mock-case'
+import { ArrowRight, Shuffle } from 'lucide-react'
 
 interface SpecialtyInfo {
   slug: string
@@ -49,62 +50,80 @@ export default function SpecialtiesPage() {
   }
 
   return (
-    <div className="bg-background-light text-slate-900 min-h-screen">
-      <div className="layout-container flex h-full grow flex-col">
-        {/* Navigation */}
-        <Navbar />
-        <main className="flex-1 flex flex-col items-center justify-start py-12 px-6">
-          <div className="max-w-4xl w-full">
-            {/* Header Section */}
-            <div className="text-center mb-12">
-              <h1 className="text-slate-900 text-4xl font-black leading-tight tracking-tight mb-3 font-display">Choose a Specialty</h1>
-              <p className="text-slate-500 text-lg font-normal">Pick a domain to get a real clinical case</p>
-            </div>
-            {/* Specialties Grid */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {specialties.map((s) => (
-                <button
-                  key={s.slug}
-                  onClick={() => { clearSession(); router.push(`/case?specialty=${s.slug}`) }}
-                  className="flex flex-col items-center p-8 bg-white rounded-xl border-2 border-transparent hover:border-primary hover:shadow-xl transition-all group text-center"
-                >
-                  <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">{s.emoji}</div>
-                  <h3 className="text-slate-900 text-xl font-bold mb-1 font-display">{s.name}</h3>
-                  <span className="text-slate-500 text-sm font-medium font-mono">{s.case_count} cases</span>
-                </button>
-              ))}
-              {/* More Options Placeholder */}
-              <div className="flex flex-col items-center justify-center p-8 bg-slate-100/50 rounded-xl border-2 border-dashed border-slate-300 opacity-60">
-                <span className="material-symbols-outlined text-4xl mb-2">add_circle</span>
-                <p className="text-sm font-bold font-display uppercase tracking-wider">More coming soon</p>
-              </div>
-            </div>
-            {/* Secondary Actions */}
-            <div className="mt-16 flex items-center justify-center">
+    <div className="min-h-screen bg-[#f8f8f6]">
+      <Navbar />
+
+      {/* Header */}
+      <section className="bg-[#f8f8f6]">
+        <div className="mx-auto max-w-7xl px-6 lg:px-12 pt-24 pb-16">
+          <div className="mx-auto max-w-2xl text-center">
+            <p className="text-sm font-medium uppercase tracking-wider text-[#2E86C1]">Case Library</p>
+            <h1 className="mt-4 text-3xl font-medium tracking-tight text-foreground sm:text-4xl">
+              Choose a{" "}
+              <span className="font-serif italic text-[#2E86C1]">Specialty</span>
+            </h1>
+            <p className="mt-4 text-muted-foreground">
+              Pick a domain to get a real clinical case
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Specialties Grid */}
+      <section className="border-t border-border/50 bg-white">
+        <div className="mx-auto max-w-7xl px-6 lg:px-12 py-24">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-4xl mx-auto">
+            {specialties.map((s) => (
               <button
-                onClick={handleRandomCase}
-                className="flex items-center gap-2 px-6 py-3 bg-white rounded-full border border-slate-200 text-slate-700 hover:bg-slate-50 transition-colors text-sm font-bold shadow-sm"
+                key={s.slug}
+                onClick={() => { clearSession(); router.push(`/case?specialty=${s.slug}`) }}
+                className="flex flex-col items-center rounded-xl border border-border/60 bg-white p-8 transition-all duration-200 hover:shadow-md hover:scale-[1.02] group text-center"
               >
-                <span className="material-symbols-outlined text-lg">shuffle</span>
-                Random Case
+                <div className="text-5xl mb-4 group-hover:scale-110 transition-transform duration-200">{s.emoji}</div>
+                <h3 className="font-medium text-foreground">{s.name}</h3>
+                <span className="mt-1 font-mono text-sm text-muted-foreground">{s.case_count} cases</span>
               </button>
+            ))}
+            {/* More Options Placeholder */}
+            <div className="flex flex-col items-center justify-center p-8 rounded-xl border border-dashed border-border bg-[#f8f8f6]/50">
+              <span className="font-mono text-xs font-medium text-muted-foreground uppercase tracking-wider">More coming soon</span>
             </div>
           </div>
-        </main>
-        <footer className="mt-auto py-8 border-t border-slate-200 text-center px-10">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4 max-w-6xl mx-auto">
-            <div className="flex items-center gap-2 opacity-60">
-              <span className="material-symbols-outlined text-sm">medical_services</span>
-              <span className="text-xs font-mono">CASUIST v2.4.0-BETA</span>
-            </div>
+        </div>
+      </section>
+
+      {/* Random Case CTA */}
+      <section className="border-t border-border/50 bg-[#f8f8f6]">
+        <div className="mx-auto max-w-7xl px-6 lg:px-12 py-16">
+          <div className="mx-auto max-w-2xl text-center">
+            <p className="text-muted-foreground">
+              Not sure where to start? We&apos;ll pick one for you.
+            </p>
+            <button
+              onClick={handleRandomCase}
+              className="mt-6 inline-flex items-center justify-center gap-2 rounded-lg border border-foreground/20 bg-transparent px-6 py-3 text-sm font-medium text-foreground transition-all duration-200 hover:scale-[1.02] hover:border-foreground/40 hover:shadow-md"
+            >
+              <Shuffle className="h-4 w-4" />
+              Random Case
+              <ArrowRight className="h-4 w-4" />
+            </button>
+          </div>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="border-t border-border/50 bg-white">
+        <div className="mx-auto max-w-7xl px-6 lg:px-12 py-8">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+            <span className="font-mono text-xs text-muted-foreground">CASUIST v2.4.0-BETA</span>
             <div className="flex gap-6">
-              <Link className="text-xs font-medium text-slate-500 hover:text-primary" href="/specialties">Library</Link>
-              <span className="text-xs font-medium text-slate-400 cursor-not-allowed">Settings</span>
-              <span className="text-xs font-medium text-slate-400 cursor-not-allowed">Help Center</span>
+              <Link className="text-xs font-medium text-muted-foreground hover:text-[#2E86C1] transition-colors duration-200" href="/specialties">Library</Link>
+              <span className="text-xs font-medium text-muted-foreground/50 cursor-not-allowed">Settings</span>
+              <span className="text-xs font-medium text-muted-foreground/50 cursor-not-allowed">Help Center</span>
             </div>
           </div>
-        </footer>
-      </div>
+        </div>
+      </footer>
     </div>
   )
 }

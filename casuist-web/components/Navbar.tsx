@@ -14,14 +14,14 @@ const Navbar = () => {
   ]
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-border bg-white py-4 px-8 md:px-24">
-      <div className="mx-auto flex max-w-[1400px] items-center justify-between">
+    <header className="sticky top-0 z-50 w-full border-b border-border/50 bg-white/80 backdrop-blur-sm">
+      <div className="mx-auto flex max-w-7xl items-center justify-between px-6 lg:px-12 h-16">
         {/* Left: Logo */}
         <Link href="/" className="flex items-center gap-3 group">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary/10 transition-colors group-hover:bg-primary/20">
-            <Stethoscope className="h-6 w-6 text-primary" />
+          <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-[#2E86C1]/10 transition-colors duration-200 group-hover:bg-[#2E86C1]/20">
+            <Stethoscope className="h-5 w-5 text-[#2E86C1]" />
           </div>
-          <span className="text-2xl font-bold tracking-tight text-navy">
+          <span className="text-xl font-medium tracking-tight text-foreground">
             Casuist
           </span>
         </Link>
@@ -34,13 +34,13 @@ const Navbar = () => {
               <Link
                 key={link.name}
                 href={link.href}
-                className={`text-sm font-medium transition-colors hover:text-primary relative py-1 ${
-                  isActive ? 'text-primary' : 'text-slate-600'
+                className={`text-sm font-medium transition-colors duration-200 hover:text-[#2E86C1] relative py-1 ${
+                  isActive ? 'text-[#2E86C1]' : 'text-muted-foreground'
                 }`}
               >
                 {link.name}
                 {isActive && (
-                  <span className="absolute bottom-0 left-0 h-0.5 w-full bg-primary" />
+                  <span className="absolute bottom-0 left-0 h-0.5 w-full bg-[#2E86C1]" />
                 )}
               </Link>
             )
@@ -48,7 +48,7 @@ const Navbar = () => {
         </nav>
 
         {/* Right: Empty for now */}
-        <div className="w-10 md:w-[100px]"></div>
+        <div className="w-9 md:w-[100px]"></div>
       </div>
     </header>
   )

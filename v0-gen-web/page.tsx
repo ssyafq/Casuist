@@ -3,7 +3,7 @@
 import Link from "next/link"
 import { useEffect, useState, useRef } from "react"
 import { motion, useInView } from "framer-motion"
-import Navbar from "@/components/Navbar"
+import { Navbar } from "@/components/navbar"
 import { ProductMockup } from "@/components/product-mockup"
 import { RotatingTagline } from "@/components/rotating-tagline"
 import { ArrowRight } from "lucide-react"

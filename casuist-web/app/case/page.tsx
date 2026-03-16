@@ -5,6 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation'
 import { useState, useEffect, useRef, Suspense } from 'react'
 import { setStartTime, setSectionsViewed, setStudentRanking, setTimeTaken, setCorrectRanking, setCaseContext, getStartTime } from '@/lib/session'
 import { type CaseData, API_BASE } from '@/lib/mock-case'
+import { ArrowRight, ArrowLeft, Lock, CheckCircle, Plus, X, RotateCcw, Loader2, AlertCircle, FileText, Activity, FlaskConical } from 'lucide-react'
 
 function shuffle(arr: string[]): string[] {
   const a = [...arr]
@@ -115,12 +116,12 @@ function CasePageContent() {
   // Loading state
   if (loading) {
     return (
-      <div className="bg-background-light text-text min-h-screen flex flex-col">
+      <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
         <Navbar />
         <main className="flex-1 flex items-center justify-center">
           <div className="text-center">
-            <span className="material-symbols-outlined text-5xl text-primary animate-spin mb-4 block">progress_activity</span>
-            <p className="text-lg font-medium text-gray-600">Loading case...</p>
+            <Loader2 className="h-10 w-10 text-[#2E86C1] animate-spin mx-auto mb-4" />
+            <p className="text-base font-medium text-muted-foreground">Loading case...</p>
           </div>
         </main>
       </div>
@@ -130,17 +131,17 @@ function CasePageContent() {
   // Error state
   if (error || !caseData) {
     return (
-      <div className="bg-background-light text-text min-h-screen flex flex-col">
+      <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
         <Navbar />
         <main className="flex-1 flex items-center justify-center">
           <div className="text-center max-w-md">
-            <span className="material-symbols-outlined text-5xl text-red-400 mb-4 block">error</span>
-            <h1 className="text-xl font-bold text-text mb-2">Failed to load case</h1>
-            <p className="text-gray-500 mb-6">{error || 'Unknown error'}</p>
-            <p className="text-sm text-gray-400 mb-6">Make sure the API server is running: <code className="bg-gray-100 px-2 py-1 rounded text-xs">uvicorn api.main:app --reload</code></p>
+            <AlertCircle className="h-12 w-12 text-red-400 mx-auto mb-4" />
+            <h1 className="text-xl font-medium tracking-tight text-foreground mb-2">Failed to load case</h1>
+            <p className="text-muted-foreground mb-6">{error || 'Unknown error'}</p>
+            <p className="text-sm text-muted-foreground/70 mb-6">Make sure the API server is running: <code className="bg-white border border-border/60 px-2 py-1 rounded text-xs font-mono">uvicorn api.main:app --reload</code></p>
             <button
               onClick={() => router.push('/specialties')}
-              className="bg-primary hover:bg-primary/90 text-white font-bold py-3 px-8 rounded-lg transition-all shadow-md"
+              className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2E86C1] px-6 py-3 text-sm font-medium text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg"
             >
               Back to Specialties
             </button>
@@ -151,92 +152,92 @@ function CasePageContent() {
   }
 
   return (
-    <div className="bg-background-light text-text min-h-screen flex flex-col">
+    <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
       <Navbar />
       <main className="flex-grow flex flex-col lg:flex-row overflow-hidden">
         {/* Left panel — case details */}
-        <section className="lg:w-[60%] border-r border-border bg-white overflow-y-auto p-8">
+        <section className="lg:w-[60%] border-r border-border/50 bg-white overflow-y-auto p-8">
           <div className="flex items-center justify-between mb-8">
-            <div className="flex items-center space-x-3 font-mono text-sm text-gray-500">
-              <span className="font-medium text-text">Case #{caseData.case_id}</span>
-              <span>·</span>
+            <div className="flex items-center space-x-3 font-mono text-sm text-muted-foreground">
+              <span className="font-medium text-foreground">Case #{caseData.case_id}</span>
+              <span>&middot;</span>
               <span>{specialtyLabel}</span>
             </div>
             {/* Timer */}
             <div className="flex items-center gap-2">
               {countdown > 0 ? (
                 <div className="text-right">
-                  <span className="block text-xs text-gray-400 font-medium">Case starts in</span>
-                  <span className="font-mono text-2xl font-bold text-primary tabular-nums">
+                  <span className="block text-xs text-muted-foreground font-medium">Case starts in</span>
+                  <span className="font-mono text-2xl font-medium text-[#2E86C1] tabular-nums">
                     {countdown}
                   </span>
                 </div>
               ) : (
-                <span className="font-mono text-2xl font-bold text-text tabular-nums tracking-tight">
+                <span className="font-mono text-2xl font-medium text-foreground tabular-nums tracking-tight">
                   {String(Math.floor(elapsed / 60)).padStart(2, '0')}
-                  <span className="text-gray-300 mx-0.5">:</span>
+                  <span className="text-border mx-0.5">:</span>
                   {String(elapsed % 60).padStart(2, '0')}
                 </span>
               )}
             </div>
           </div>
           <div className="mb-10">
-            <h2 className="text-sm font-bold text-gray-500 uppercase tracking-wider mb-2">Chief Complaint</h2>
-            <p className="text-2xl font-bold leading-tight text-text">&quot;{caseData.chief_complaint}&quot;</p>
+            <p className="text-sm font-medium uppercase tracking-wider text-[#2E86C1] mb-3">Chief Complaint</p>
+            <p className="text-2xl font-medium leading-tight tracking-tight text-foreground">&quot;{caseData.chief_complaint}&quot;</p>
           </div>
           <div className="space-y-6">
             {/* History - always revealed */}
-            <div className="bg-gray-50 rounded-lg p-6 border border-border">
+            <div className="rounded-xl border border-border/60 bg-white p-6">
               <div className="flex items-center justify-between mb-4">
-                <h3 className="text-lg font-bold flex items-center">
-                  <span className="material-symbols-outlined text-primary mr-2">history</span>
+                <h3 className="font-medium text-foreground flex items-center gap-2">
+                  <FileText className="h-4 w-4 text-[#2E86C1]" />
                   History of Present Illness
                 </h3>
-                <span className="text-xs font-medium text-primary bg-blue-50 px-2 py-1 rounded">Revealed</span>
+                <span className="text-xs font-mono font-medium text-[#2E86C1] bg-[#2E86C1]/10 px-2.5 py-1 rounded-md">Revealed</span>
               </div>
-              <p className="text-gray-700 leading-relaxed whitespace-pre-line">{caseData.history}</p>
+              <p className="text-muted-foreground leading-relaxed whitespace-pre-line">{caseData.history}</p>
             </div>
 
             {/* Physical Exam - toggleable */}
             {revealedSections.has('exam') ? (
-              <div className="bg-gray-50 rounded-lg p-6 border border-border">
+              <div className="rounded-xl border border-border/60 bg-white p-6">
                 <div className="flex items-center justify-between mb-4">
-                  <h3 className="text-lg font-bold flex items-center">
-                    <span className="material-symbols-outlined text-primary mr-2">accessibility_new</span>
+                  <h3 className="font-medium text-foreground flex items-center gap-2">
+                    <Activity className="h-4 w-4 text-[#2E86C1]" />
                     Physical Exam
                   </h3>
-                  <span className="text-xs font-medium text-primary bg-blue-50 px-2 py-1 rounded">Revealed</span>
+                  <span className="text-xs font-mono font-medium text-[#2E86C1] bg-[#2E86C1]/10 px-2.5 py-1 rounded-md">Revealed</span>
                 </div>
-                <p className="text-gray-700 leading-relaxed whitespace-pre-line">{caseData.exam}</p>
+                <p className="text-muted-foreground leading-relaxed whitespace-pre-line">{caseData.exam}</p>
               </div>
             ) : (
-              <div className="bg-white rounded-lg p-6 border border-dashed border-gray-300 opacity-60 flex items-center justify-center min-h-[120px]">
+              <div className="rounded-xl border border-dashed border-border bg-[#f8f8f6]/50 p-6 opacity-60 flex items-center justify-center min-h-[120px]">
                 <div className="text-center">
-                  <span className="material-symbols-outlined text-gray-400 mb-2 text-3xl">lock</span>
-                  <h3 className="font-medium text-gray-600">Physical Exam details are locked</h3>
-                  <p className="text-sm text-gray-500 mt-1">Request this information from the action panel.</p>
+                  <Lock className="h-7 w-7 text-muted-foreground mx-auto mb-2" />
+                  <h3 className="font-medium text-muted-foreground">Physical Exam details are locked</h3>
+                  <p className="text-sm text-muted-foreground/70 mt-1">Request this information from the action panel.</p>
                 </div>
               </div>
             )}
 
             {/* Lab Results - toggleable */}
             {revealedSections.has('labs') ? (
-              <div className="bg-gray-50 rounded-lg p-6 border border-border">
+              <div className="rounded-xl border border-border/60 bg-white p-6">
                 <div className="flex items-center justify-between mb-4">
-                  <h3 className="text-lg font-bold flex items-center">
-                    <span className="material-symbols-outlined text-primary mr-2">science</span>
+                  <h3 className="font-medium text-foreground flex items-center gap-2">
+                    <FlaskConical className="h-4 w-4 text-[#2E86C1]" />
                     Laboratory Results &amp; Investigations
                   </h3>
-                  <span className="text-xs font-medium text-primary bg-blue-50 px-2 py-1 rounded">Revealed</span>
+                  <span className="text-xs font-mono font-medium text-[#2E86C1] bg-[#2E86C1]/10 px-2.5 py-1 rounded-md">Revealed</span>
                 </div>
-                <p className="text-gray-700 leading-relaxed whitespace-pre-line">{caseData.labs}</p>
+                <p className="text-muted-foreground leading-relaxed whitespace-pre-line">{caseData.labs}</p>
               </div>
             ) : (
-              <div className="bg-white rounded-lg p-6 border border-dashed border-gray-300 opacity-60 flex items-center justify-center min-h-[120px]">
+              <div className="rounded-xl border border-dashed border-border bg-[#f8f8f6]/50 p-6 opacity-60 flex items-center justify-center min-h-[120px]">
                 <div className="text-center">
-                  <span className="material-symbols-outlined text-gray-400 mb-2 text-3xl">lock</span>
-                  <h3 className="font-medium text-gray-600">Laboratory Results are locked</h3>
-                  <p className="text-sm text-gray-500 mt-1">Request this information from the action panel.</p>
+                  <Lock className="h-7 w-7 text-muted-foreground mx-auto mb-2" />
+                  <h3 className="font-medium text-muted-foreground">Laboratory Results are locked</h3>
+                  <p className="text-sm text-muted-foreground/70 mt-1">Request this information from the action panel.</p>
                 </div>
               </div>
             )}
@@ -244,49 +245,49 @@ function CasePageContent() {
         </section>
 
         {/* Right panel — toggles between info and ranking */}
-        <section className="lg:w-[40%] bg-background-light overflow-y-auto flex flex-col p-8">
+        <section className="lg:w-[40%] bg-[#f8f8f6] overflow-y-auto flex flex-col p-8">
 
           {rightPanel === 'info' ? (
             /* ── INFO PANEL ── */
             <>
               <div className="mb-8">
-                <h2 className="text-xl font-bold text-navy mb-2">What would you like to know?</h2>
-                <p className="text-sm text-gray-600">Gather information strategically to formulate your diagnosis. Each request may cost clinical points.</p>
+                <h2 className="text-xl font-medium tracking-tight text-foreground mb-2">What would you like to know?</h2>
+                <p className="text-sm text-muted-foreground">Gather information strategically to formulate your diagnosis. Each request may cost clinical points.</p>
               </div>
               <div className="flex-grow space-y-4">
                 {/* History - always done */}
-                <button className="w-full text-left bg-white border border-border transition-all rounded-lg p-4 flex items-center justify-between group disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+                <button className="w-full text-left rounded-xl border border-border/60 bg-white p-4 flex items-center justify-between group disabled:opacity-50 disabled:cursor-not-allowed transition-shadow duration-200" disabled>
                   <div className="flex items-center">
-                    <div className="w-10 h-10 rounded-full bg-gray-100 flex items-center justify-center mr-4 group-disabled:text-gray-400">
-                      <span className="material-symbols-outlined">history</span>
+                    <div className="w-10 h-10 rounded-full bg-muted flex items-center justify-center mr-4 group-disabled:text-muted-foreground">
+                      <FileText className="h-5 w-5" />
                     </div>
                     <div>
-                      <span className="block font-medium text-gray-900 group-disabled:text-gray-500">Request History</span>
-                      <span className="text-xs text-gray-500">Already requested</span>
+                      <span className="block font-medium text-foreground group-disabled:text-muted-foreground">Request History</span>
+                      <span className="text-xs text-muted-foreground">Already requested</span>
                     </div>
                   </div>
-                  <span className="material-symbols-outlined text-green-500">check_circle</span>
+                  <CheckCircle className="h-5 w-5 text-emerald-500" />
                 </button>
 
                 {/* Physical Exam */}
                 <button
                   onClick={() => toggleSection('exam')}
                   disabled={revealedSections.has('exam')}
-                  className="w-full text-left bg-white border border-border hover:border-primary hover:shadow-sm transition-all rounded-lg p-4 flex items-center justify-between group disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="w-full text-left rounded-xl border border-border/60 bg-white p-4 flex items-center justify-between group disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 hover:shadow-md hover:scale-[1.01]"
                 >
                   <div className="flex items-center">
-                    <div className="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center mr-4 text-primary group-hover:bg-primary group-hover:text-white group-disabled:bg-gray-100 group-disabled:text-gray-400 transition-colors">
-                      <span className="material-symbols-outlined">accessibility_new</span>
+                    <div className="w-10 h-10 rounded-full bg-[#2E86C1]/10 flex items-center justify-center mr-4 text-[#2E86C1] group-hover:bg-[#2E86C1] group-hover:text-white group-disabled:bg-muted group-disabled:text-muted-foreground transition-colors duration-200">
+                      <Activity className="h-5 w-5" />
                     </div>
                     <div>
-                      <span className="block font-medium text-gray-900 group-disabled:text-gray-500">Request Physical Exam</span>
-                      <span className="text-xs text-gray-500">{revealedSections.has('exam') ? 'Already requested' : 'Vitals, physical findings...'}</span>
+                      <span className="block font-medium text-foreground group-disabled:text-muted-foreground">Request Physical Exam</span>
+                      <span className="text-xs text-muted-foreground">{revealedSections.has('exam') ? 'Already requested' : 'Vitals, physical findings...'}</span>
                     </div>
                   </div>
                   {revealedSections.has('exam') ? (
-                    <span className="material-symbols-outlined text-green-500">check_circle</span>
+                    <CheckCircle className="h-5 w-5 text-emerald-500" />
                   ) : (
-                    <span className="text-xs font-mono font-bold text-gray-400 group-hover:text-primary transition-colors">-2 pts</span>
+                    <span className="text-xs font-mono font-medium text-muted-foreground group-hover:text-[#2E86C1] transition-colors duration-200">-2 pts</span>
                   )}
                 </button>
 
@@ -294,45 +295,45 @@ function CasePageContent() {
                 <button
                   onClick={() => toggleSection('labs')}
                   disabled={revealedSections.has('labs')}
-                  className="w-full text-left bg-white border border-border hover:border-primary hover:shadow-sm transition-all rounded-lg p-4 flex items-center justify-between group disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="w-full text-left rounded-xl border border-border/60 bg-white p-4 flex items-center justify-between group disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 hover:shadow-md hover:scale-[1.01]"
                 >
                   <div className="flex items-center">
-                    <div className="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center mr-4 text-primary group-hover:bg-primary group-hover:text-white group-disabled:bg-gray-100 group-disabled:text-gray-400 transition-colors">
-                      <span className="material-symbols-outlined">science</span>
+                    <div className="w-10 h-10 rounded-full bg-[#2E86C1]/10 flex items-center justify-center mr-4 text-[#2E86C1] group-hover:bg-[#2E86C1] group-hover:text-white group-disabled:bg-muted group-disabled:text-muted-foreground transition-colors duration-200">
+                      <FlaskConical className="h-5 w-5" />
                     </div>
                     <div>
-                      <span className="block font-medium text-gray-900 group-disabled:text-gray-500">Request Lab Results</span>
-                      <span className="text-xs text-gray-500">{revealedSections.has('labs') ? 'Already requested' : 'Labs, ECG, imaging, investigations...'}</span>
+                      <span className="block font-medium text-foreground group-disabled:text-muted-foreground">Request Lab Results</span>
+                      <span className="text-xs text-muted-foreground">{revealedSections.has('labs') ? 'Already requested' : 'Labs, ECG, imaging, investigations...'}</span>
                     </div>
                   </div>
                   {revealedSections.has('labs') ? (
-                    <span className="material-symbols-outlined text-green-500">check_circle</span>
+                    <CheckCircle className="h-5 w-5 text-emerald-500" />
                   ) : (
-                    <span className="text-xs font-mono font-bold text-gray-400 group-hover:text-primary transition-colors">-3 pts</span>
+                    <span className="text-xs font-mono font-medium text-muted-foreground group-hover:text-[#2E86C1] transition-colors duration-200">-3 pts</span>
                   )}
                 </button>
               </div>
 
-              <div className="mt-8 pt-6 border-t border-border">
+              <div className="mt-8 pt-6 border-t border-border/50">
                 <div className="flex items-center justify-between mb-4 text-sm">
-                  <span className="text-gray-500">Current Score Potential</span>
-                  <span className="font-mono font-bold text-green-600">{100 - pointsUsed}/100</span>
+                  <span className="text-muted-foreground">Current Score Potential</span>
+                  <span className="font-mono font-medium text-emerald-600">{100 - pointsUsed}/100</span>
                 </div>
                 {countdown > 0 ? (
                   <button
                     disabled
-                    className="w-full bg-gray-300 text-gray-500 font-bold py-4 px-6 rounded-lg cursor-not-allowed flex items-center justify-center"
+                    className="w-full rounded-lg bg-border text-muted-foreground font-medium py-4 px-6 cursor-not-allowed flex items-center justify-center gap-2"
                   >
                     Ready to Diagnose
-                    <span className="material-symbols-outlined ml-2">lock</span>
+                    <Lock className="h-4 w-4" />
                   </button>
                 ) : (
                   <button
                     onClick={() => setRightPanel('ranking')}
-                    className="w-full bg-primary hover:bg-navy text-white font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-all flex items-center justify-center"
+                    className="w-full rounded-lg bg-[#2E86C1] text-white font-medium py-4 px-6 shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg flex items-center justify-center gap-2"
                   >
                     Ready to Diagnose
-                    <span className="material-symbols-outlined ml-2">arrow_forward</span>
+                    <ArrowRight className="h-4 w-4" />
                   </button>
                 )}
               </div>
@@ -344,14 +345,14 @@ function CasePageContent() {
               <div className="flex items-center gap-3 mb-8">
                 <button
                   onClick={() => setRightPanel('info')}
-                  className="w-9 h-9 rounded-full bg-white border border-border flex items-center justify-center text-gray-500 hover:border-primary hover:text-primary transition-colors shrink-0"
+                  className="w-9 h-9 rounded-full bg-white border border-border/60 flex items-center justify-center text-muted-foreground hover:border-[#2E86C1] hover:text-[#2E86C1] transition-colors duration-200 shrink-0"
                   title="Back to information gathering"
                 >
-                  <span className="material-symbols-outlined text-xl">arrow_back</span>
+                  <ArrowLeft className="h-4 w-4" />
                 </button>
                 <div>
-                  <h2 className="text-xl font-bold text-navy">Differential Diagnosis</h2>
-                  <p className="text-sm text-gray-600">Rank from most to least likely.</p>
+                  <h2 className="text-xl font-medium tracking-tight text-foreground">Differential Diagnosis</h2>
+                  <p className="text-sm text-muted-foreground">Rank from most to least likely.</p>
                 </div>
               </div>
 
@@ -359,12 +360,12 @@ function CasePageContent() {
               {ranked.length > 0 && (
                 <div className="mb-6">
                   <div className="flex items-center justify-between mb-3">
-                    <h3 className="text-sm font-bold text-gray-500 uppercase tracking-wider">Your Ranking</h3>
+                    <p className="text-sm font-medium uppercase tracking-wider text-[#2E86C1]">Your Ranking</p>
                     <button
                       onClick={handleReset}
-                      className="text-xs font-medium text-gray-400 hover:text-red-500 transition-colors flex items-center gap-1"
+                      className="text-xs font-medium text-muted-foreground hover:text-red-500 transition-colors duration-200 flex items-center gap-1"
                     >
-                      <span className="material-symbols-outlined text-sm">restart_alt</span>
+                      <RotateCcw className="h-3 w-3" />
                       Reset
                     </button>
                   </div>
@@ -373,13 +374,13 @@ function CasePageContent() {
                       <button
                         key={dx}
                         onClick={() => handleUnpick(dx)}
-                        className="w-full text-left bg-white border border-primary/30 rounded-lg p-4 flex items-center group hover:border-red-300 transition-colors"
+                        className="w-full text-left rounded-xl border border-[#2E86C1]/30 bg-white p-4 flex items-center group hover:border-red-300 transition-colors duration-200"
                       >
-                        <div className="w-8 h-8 rounded-full bg-primary text-white flex items-center justify-center font-bold text-sm font-mono mr-4 shrink-0">
+                        <div className="w-8 h-8 rounded-full bg-[#2E86C1] text-white flex items-center justify-center font-medium text-sm font-mono mr-4 shrink-0">
                           {i + 1}
                         </div>
-                        <span className="font-medium text-gray-900 flex-1">{dx}</span>
-                        <span className="material-symbols-outlined text-gray-300 group-hover:text-red-400 transition-colors text-lg">close</span>
+                        <span className="font-medium text-foreground flex-1">{dx}</span>
+                        <X className="h-4 w-4 text-border group-hover:text-red-400 transition-colors duration-200" />
                       </button>
                     ))}
                   </div>
@@ -389,20 +390,20 @@ function CasePageContent() {
               {/* Available Options */}
               {unranked.length > 0 && (
                 <div className="mb-6">
-                  <h3 className="text-sm font-bold text-gray-500 uppercase tracking-wider mb-3">
+                  <p className="text-sm font-medium uppercase tracking-wider text-muted-foreground mb-3">
                     {ranked.length === 0 ? 'Select your most likely diagnosis' : `Select #${ranked.length + 1}`}
-                  </h3>
+                  </p>
                   <div className="space-y-2">
                     {unranked.map((dx) => (
                       <button
                         key={dx}
                         onClick={() => handlePick(dx)}
-                        className="w-full text-left bg-white border border-border hover:border-primary hover:shadow-sm transition-all rounded-lg p-4 flex items-center group"
+                        className="w-full text-left rounded-xl border border-border/60 bg-white p-4 flex items-center group transition-all duration-200 hover:shadow-md hover:scale-[1.01]"
                       >
-                        <div className="w-8 h-8 rounded-full bg-gray-100 group-hover:bg-primary/10 flex items-center justify-center mr-4 shrink-0 transition-colors">
-                          <span className="material-symbols-outlined text-gray-400 group-hover:text-primary text-lg transition-colors">add</span>
+                        <div className="w-8 h-8 rounded-full bg-muted group-hover:bg-[#2E86C1]/10 flex items-center justify-center mr-4 shrink-0 transition-colors duration-200">
+                          <Plus className="h-4 w-4 text-muted-foreground group-hover:text-[#2E86C1] transition-colors duration-200" />
                         </div>
-                        <span className="font-medium text-gray-900">{dx}</span>
+                        <span className="font-medium text-foreground">{dx}</span>
                       </button>
                     ))}
                   </div>
@@ -410,16 +411,16 @@ function CasePageContent() {
               )}
 
               {/* Submit footer */}
-              <div className="mt-auto pt-6 border-t border-border">
+              <div className="mt-auto pt-6 border-t border-border/50">
                 <button
                   onClick={handleSubmit}
                   disabled={!allRanked}
-                  className="w-full bg-primary hover:bg-navy disabled:bg-gray-300 disabled:cursor-not-allowed text-white font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-all flex items-center justify-center"
+                  className="w-full rounded-lg bg-[#2E86C1] disabled:bg-border disabled:text-muted-foreground disabled:cursor-not-allowed text-white font-medium py-4 px-6 shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg flex items-center justify-center gap-2"
                 >
                   {allRanked ? (
                     <>
                       Submit Ranking
-                      <span className="material-symbols-outlined ml-2">arrow_forward</span>
+                      <ArrowRight className="h-4 w-4" />
                     </>
                   ) : (
                     <>Rank all {caseData.differentials.length} diagnoses to continue</>
