@@ -1,6 +1,7 @@
 'use client'
 
 import Navbar from '@/components/Navbar'
+import InnerNavbar from '@/components/InnerNavbar'
 import { useSearchParams, useRouter } from 'next/navigation'
 import { useState, useEffect, useRef, Suspense } from 'react'
 import { setStartTime, setSectionsViewed, setStudentRanking, setTimeTaken, setCorrectRanking, setCaseContext, getStartTime } from '@/lib/session'
@@ -118,6 +119,7 @@ function CasePageContent() {
     return (
       <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
         <Navbar />
+        <InnerNavbar />
         <main className="flex-1 flex items-center justify-center">
           <div className="text-center">
             <Loader2 className="h-10 w-10 text-[#2E86C1] animate-spin mx-auto mb-4" />
@@ -133,6 +135,7 @@ function CasePageContent() {
     return (
       <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
         <Navbar />
+        <InnerNavbar />
         <main className="flex-1 flex items-center justify-center">
           <div className="text-center max-w-md">
             <AlertCircle className="h-12 w-12 text-red-400 mx-auto mb-4" />
@@ -154,7 +157,8 @@ function CasePageContent() {
   return (
     <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
       <Navbar />
-      <main className="flex-grow flex flex-col lg:flex-row overflow-hidden">
+      <InnerNavbar />
+      <main className="flex-grow flex flex-col lg:flex-row overflow-hidden pt-24">
         {/* Left panel — case details */}
         <section className="lg:w-[60%] border-r border-border/50 bg-white overflow-y-auto p-8">
           <div className="flex items-center justify-between mb-8">

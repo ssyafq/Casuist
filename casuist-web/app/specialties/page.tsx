@@ -1,6 +1,7 @@
 'use client'
 
 import Navbar from '@/components/Navbar'
+import InnerNavbar from '@/components/InnerNavbar'
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { useState, useEffect } from 'react'
@@ -52,6 +53,7 @@ export default function SpecialtiesPage() {
   return (
     <div className="min-h-screen bg-[#f8f8f6]">
       <Navbar />
+      <InnerNavbar />
 
       {/* Header */}
       <section className="bg-[#f8f8f6]">

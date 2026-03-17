@@ -41,7 +41,7 @@ export default function LandingPage() {
                 {/* Hero Section */}
                 <section className="relative overflow-hidden">
                     <div className="mx-auto max-w-7xl px-6 lg:px-12">
-                        <div className="grid min-h-[calc(100vh-64px)] items-center gap-12 py-16 lg:grid-cols-2 lg:gap-8 lg:py-0">
+                        <div className="grid min-h-screen items-center gap-12 pt-28 pb-16 lg:grid-cols-2 lg:gap-8 lg:pb-0 lg:pt-28">
                             {/* Left Content */}
                             <div className="max-w-xl">
                                 {/* Tag line */}

@@ -1,6 +1,7 @@
 'use client'
 
 import Navbar from '@/components/Navbar'
+import InnerNavbar from '@/components/InnerNavbar'
 import { useSearchParams, useRouter } from 'next/navigation'
 import { useState, Suspense } from 'react'
 import { calculateScore, type ScoreResult } from '@/lib/scoring'
@@ -127,6 +128,7 @@ function ScorecardPageContent() {
     return (
       <div className="min-h-screen bg-[#f8f8f6]">
         <Navbar />
+        <InnerNavbar />
         <main className="flex-1 flex flex-col items-center justify-center px-6 min-h-[calc(100vh-64px)]">
           <div className="text-center max-w-md">
             <ClipboardList className="h-14 w-14 text-border mx-auto mb-4" />
@@ -148,8 +150,9 @@ function ScorecardPageContent() {
   return (
     <div className="min-h-screen bg-[#f8f8f6] flex flex-col">
       <Navbar />
+      <InnerNavbar />
 
-      <main className="flex-1 mx-auto w-full max-w-3xl px-6 pt-10 pb-8 flex flex-col gap-6">
+      <main className="flex-1 mx-auto w-full max-w-3xl px-6 pt-28 pb-8 flex flex-col gap-6">
         {/* Score + Grade */}
         <div className="text-center">
           <h1 className="text-4xl font-medium tracking-tight text-foreground">
