@@ -1,0 +1,29 @@
+{
+  "pmid": "41502366",
+  "pmc_id": null,
+  "title": "[Alexia without agraphia - not being able to read what one has written].",
+  "authors": [
+    "Westerberg G",
+    "Dobloug S"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41502366",
+      "pmc_id": null,
+      "title": "[Alexia without agraphia - not being able to read what one has written].",
+      "authors": [
+        "Westerberg G",
+        "Dobloug S"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "An elderly, right-handed, male patient presented to the emergency department at a middle sized hospital with a few hours' history of mild confusion and a difficulty expressing himself verbally. Past medical history consisted of hypertension and cured hairy cell leukemia. CT scan of the brain showed a 5 cm infarction in the left occipital lobe, and a corresponding P2 occlusion was seen. The patient was admitted to the stroke unit. While at the stroke unit, a detailed neurologic exam by a neurologist was performed. It was revealed that the patient could not read at all, but he could write perfectly with preserved spelling and handwriting. A diagnosis of \"alexia without agraphia\" was made. An MRI of the brain was performed, and infarctions well corresponding with prior case reports on the diagnosis were seen.",
+      "chunk_index": 0,
+      "char_count": 817,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

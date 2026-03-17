@@ -1,0 +1,31 @@
+{
+  "pmid": "41073099",
+  "pmc_id": null,
+  "title": "Anomalous origin of right coronary artery with interarterial and intramural course associated with bicuspid aortic valve and dilation of ascending aorta.",
+  "authors": [
+    "de Carlos GA",
+    "Bonezzi AC",
+    "Halas R"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41073099",
+      "pmc_id": null,
+      "title": "Anomalous origin of right coronary artery with interarterial and intramural course associated with bicuspid aortic valve and dilation of ascending aorta.",
+      "authors": [
+        "de Carlos GA",
+        "Bonezzi AC",
+        "Halas R"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Teenage female with a 1-month history of exertional chest pain and presyncope found to have an anomalous right coronary artery originating from the left coronary cusp with interarterial and intramural course to the right atrioventricular groove associated with a bicuspid valve and mild-moderate dilation of the ascending aorta, requiring open heart surgery for the correction of the affected vessel. This case highlights a serious underlying aetiology of a frequent complaint seen at the paediatrics' office, demonstrating the importance of history of present illness and physical examination.",
+      "chunk_index": 0,
+      "char_count": 594,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

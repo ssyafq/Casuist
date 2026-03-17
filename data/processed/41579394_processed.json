@@ -1,0 +1,37 @@
+{
+  "pmid": "41579394",
+  "pmc_id": "PMC12849393",
+  "title": "One ECG with 2 Rare Findings: Wellens Syndrome With Prolonged QT Interval in Acute Myocardial Infarction Due to LAD Occlusion.",
+  "authors": [
+    "Bryndza M",
+    "Kleczynski P",
+    "Szolc P",
+    "Zabek A",
+    "Bartus K",
+    "Legutko J"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41579394",
+      "pmc_id": "PMC12849393",
+      "title": "One ECG with 2 Rare Findings: Wellens Syndrome With Prolonged QT Interval in Acute Myocardial Infarction Due to LAD Occlusion.",
+      "authors": [
+        "Bryndza M",
+        "Kleczynski P",
+        "Szolc P",
+        "Zabek A",
+        "Bartus K",
+        "Legutko J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "BACKGROUND Wellens syndrome is considered as equivalent to ST elevation myocardial infarction and is highly specific for critical stenosis of the proximal left anterior descending (LAD) coronary artery. Prolonged QT interval is a risk factor for life threating arrhythmia characterized by a prolongation of the QT interval (QTc) longer than 440 ms corrected for heart rhythm on the ECG. It might be seen in patients suffering from acute myocardial infarction and constitutes a negative prognostic factor. These 2 ECG pathologies are rarely seen together. CASE REPORT A 75-year-old female patient presented with a non-ST elevation myocardial infarction. On admission, a normal sinus rhythm, with negative T waves in leads I, aVL, and V6, and QTc interval of 431 ms were observed. Coronary angiography revealed critical stenosis of the distal left main (LM) and proximal LAD coronary artery. Deep inverted T waves in the V2-V4 leads and QTc prolongation to 828 ms were observed in her ECG 2 days after coronary angiography. An intravascular ultrasound-guided percutaneous coronary intervention with orbital atherectomy and drug-eluting stent was performed. During the 14 days of hospital stay, a gradual reduction of the QT interval was observed. CONCLUSIONS These ECG changes may precede the clinical symptoms of the threatening LAD occlusion. Wellens syndrome and QT prolongation occurrence are associated with a higher risk of myocardial infarction complications, so emergency percutaneous coronary intervention should be performed as soon as possible.",
+      "chunk_index": 0,
+      "char_count": 1553,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

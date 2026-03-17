@@ -1,0 +1,67 @@
+{
+  "pmid": "40818960",
+  "pmc_id": "PMC12358059",
+  "title": "Misdiagnosis of diabetic ketoacidosis: a case report.",
+  "authors": [
+    "Zhang M",
+    "Li J",
+    "Fan L",
+    "Liu H"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40818960",
+      "pmc_id": "PMC12358059",
+      "title": "Misdiagnosis of diabetic ketoacidosis: a case report.",
+      "authors": [
+        "Zhang M",
+        "Li J",
+        "Fan L",
+        "Liu H"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Abdominal pain caused by diabetic ketoacidosis is uncommon and can easily be misdiagnosed as abdominal pain caused by ureteral stones.This case highlights the importance of distinguishing between these etiologies, particularly in patients with diabetes, as delayed recognition of diabetic ketoacidosis can result in life-threatening complications. The novelty lies in emphasizing the diagnostic challenges and the necessity for clinicians to consider diabetic ketoacidosis even when imaging suggests alternative causes.",
+      "chunk_index": 0,
+      "char_count": 519,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40818960",
+      "pmc_id": "PMC12358059",
+      "title": "Misdiagnosis of diabetic ketoacidosis: a case report.",
+      "authors": [
+        "Zhang M",
+        "Li J",
+        "Fan L",
+        "Liu H"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "ureteral stones.This case highlights the importance of distinguishing between these etiologies, particularly in patients with diabetes, as delayed recognition of diabetic ketoacidosis can result in life-threatening complications. The novelty lies in emphasizing the diagnostic challenges and the necessity for clinicians to consider diabetic ketoacidosis even when imaging suggests alternative causes.\n\nThis case report describes a 59-year-old Han female patient who was admitted to the hospital for \"generalized abdominal pain without obvious cause for 3 days\" and was diagnosed with left ureteral stones. Initial imaging revealed a left ureteral stone and hydronephrosis, prompting ureteral stent placement. Despite antispasmodics, analgesics, and stent insertion, her pain persisted. Diabetic ketoacidosis was subsequently confirmed through laboratory tests. Following comprehensive systemic treatment, metabolic parameters were successfully normalized, and the patient recovered and was discharged from the hospital.",
+      "chunk_index": 1,
+      "char_count": 1020,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40818960",
+      "pmc_id": "PMC12358059",
+      "title": "Misdiagnosis of diabetic ketoacidosis: a case report.",
+      "authors": [
+        "Zhang M",
+        "Li J",
+        "Fan L",
+        "Liu H"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "stones. Initial imaging revealed a left ureteral stone and hydronephrosis, prompting ureteral stent placement. Despite antispasmodics, analgesics, and stent insertion, her pain persisted. Diabetic ketoacidosis was subsequently confirmed through laboratory tests. Following comprehensive systemic treatment, metabolic parameters were successfully normalized, and the patient recovered and was discharged from the hospital.\n\nThe mechanisms and treatment approaches for abdominal pain caused by ketoacidosis and ureteral stones differ significantly. Clinicians treating abdominal pain in patients with a history of diabetes should consider the possibility of ketoacidosis-induced abdominal pain, especially when conventional antispasmodic and analgesic treatments for ureteral stones are ineffective. Prompt identification of diabetic ketoacidosis via comprehensive clinical assessment and laboratory investigations is crucial to avoid delays in appropriate treatment. Enhanced recognition of the overlapping symptoms between diabetic ketoacidosis and ureteral stones can minimize diagnostic errors and lead to better patient outcomes.",
+      "chunk_index": 2,
+      "char_count": 1132,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

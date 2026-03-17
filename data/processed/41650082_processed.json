@@ -1,0 +1,33 @@
+{
+  "pmid": "41650082",
+  "pmc_id": "PMC12885681",
+  "title": "ST-segment elevation myocardial infarction as the first clue to membranous nephropathy: A case report.",
+  "authors": [
+    "Wang D",
+    "Deng H",
+    "He M",
+    "He T"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41650082",
+      "pmc_id": "PMC12885681",
+      "title": "ST-segment elevation myocardial infarction as the first clue to membranous nephropathy: A case report.",
+      "authors": [
+        "Wang D",
+        "Deng H",
+        "He M",
+        "He T"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "RATIONALE: Acute ST-segment elevation myocardial infarction (STEMI) typically results from abrupt coronary occlusion, most often caused by rupture of an atherosclerotic plaque. Membranous nephropathy (MN) typically presents with nephrotic syndrome, characterized by proteinuria. STEMI as the initial manifestation of MN is exceptionally rare. This case underscores the importance of considering systemic hypercoagulable states when evaluating atypical myocardial infarction in young adults. PATIENT CONCERNS: A 35-year-old man with no prior history of renal impairment, cardiovascular disease, or risk factors such as hypertension or diabetes, presented with acute chest pain and was diagnosed with STEMI. Subsequent evaluation revealed MN with nephrotic-range proteinuria. 110 days after discharge, he experienced a recurrent STEMI. DIAGNOSES: The 12-lead electrocardiogram demonstrated ST-segment elevation in leads II, III, and augmented vector foot, consistent with inferior-wall myocardial infarction. Emergency coronary angiography showed acute occlusion of the RCA. In the setting of nephrotic-range proteinuria and hypoalbuminemia, the infarct mechanism was most consistent with coronary thrombosis secondary to a nephrotic syndrome-associated hypercoagulable state. INTERVENTIONS: During coronary angiography, aspiration thrombectomy was performed, and systemic anticoagulation and guideline-directed secondary prevention were initiated. OUTCOMES: Coronary flow was restored to thrombolysis in myocardial infarction grade 3, and the patient became hemodynamically stable. He was transferred to the nephrology service for targeted management of MN. One hundred ten days later, he represented with ST-segment elevation. Coronary angiography demonstrated thrombolysis in myocardial infarction grade 3 flow with only mild mid-to-distal RCA stenosis, raising suspicion of a transient coronary embolic event. LESSONS: Although rare, STEMI may be the initial manifestation of MN. In young patients with myocardial infarction who exhibit clinical features of nephrotic syndrome, a hypercoagulable state should be considered. Early recognition, timely initiation of antithrombotic therapy, and multidisciplinary follow-up are essential to reduce the risk of recurrence.",
+      "chunk_index": 0,
+      "char_count": 2269,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

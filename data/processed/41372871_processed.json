@@ -1,0 +1,99 @@
+{
+  "pmid": "41372871",
+  "pmc_id": "PMC12801887",
+  "title": "Sclerotherapy embolism: a novel etiology for chronic thromboembolic pulmonary disease.",
+  "authors": [
+    "Cetinkaya C",
+    "Sagir A",
+    "Terzi A",
+    "Ermerak NO",
+    "Yildizeli SO",
+    "Mutlu B",
+    "Yildizeli B"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41372871",
+      "pmc_id": "PMC12801887",
+      "title": "Sclerotherapy embolism: a novel etiology for chronic thromboembolic pulmonary disease.",
+      "authors": [
+        "Cetinkaya C",
+        "Sagir A",
+        "Terzi A",
+        "Ermerak NO",
+        "Yildizeli SO",
+        "Mutlu B",
+        "Yildizeli B"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Chronic thromboembolic pulmonary disease (CTEPD) includes both chronic thromboembolic pulmonary hypertension (CTEPH) and disease without pulmonary hypertension. Although the main cause of CTEPH is mostly due to thromboembolic events, other rare non-thrombotic etiologies may also contribute to chronic pulmonary artery obstruction. This case series presents a unique observation of foreign material embolization related to prior sclerotherapy procedures, confirmed histopathologically after pulmonary endarterectomy (PEA).",
+      "chunk_index": 0,
+      "char_count": 522,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41372871",
+      "pmc_id": "PMC12801887",
+      "title": "Sclerotherapy embolism: a novel etiology for chronic thromboembolic pulmonary disease.",
+      "authors": [
+        "Cetinkaya C",
+        "Sagir A",
+        "Terzi A",
+        "Ermerak NO",
+        "Yildizeli SO",
+        "Mutlu B",
+        "Yildizeli B"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "disease without pulmonary hypertension. Although the main cause of CTEPH is mostly due to thromboembolic events, other rare non-thrombotic etiologies may also contribute to chronic pulmonary artery obstruction. This case series presents a unique observation of foreign material embolization related to prior sclerotherapy procedures, confirmed histopathologically after pulmonary endarterectomy (PEA).\n\nFrom a prospectively maintained database of 1,105 patients undergoing PEA between 2011 and 2025, four patients (three women and one man; median age 32.5 years, range: 28-41) with a history of sclerotherapy were identified. All underwent sclerotherapy for varicose vein treatment. They were referred for surgery with a preoperative diagnosis of CTEPD, with or without pulmonary hypertension. The final diagnosis was confirmed by histopathological examination of surgical specimens.",
+      "chunk_index": 1,
+      "char_count": 883,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41372871",
+      "pmc_id": "PMC12801887",
+      "title": "Sclerotherapy embolism: a novel etiology for chronic thromboembolic pulmonary disease.",
+      "authors": [
+        "Cetinkaya C",
+        "Sagir A",
+        "Terzi A",
+        "Ermerak NO",
+        "Yildizeli SO",
+        "Mutlu B",
+        "Yildizeli B"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "labs",
+      "text": "and one man; median age 32.5 years, range: 28-41) with a history of sclerotherapy were identified. All underwent sclerotherapy for varicose vein treatment. They were referred for surgery with a preoperative diagnosis of CTEPD, with or without pulmonary hypertension. The final diagnosis was confirmed by histopathological examination of surgical specimens.\n\nAll four patients had segmental or lobar perfusion defects and vascular obstruction consistent with organized embolic material. Preoperative mean pulmonary artery pressure (mPAP) was 24.3 +/- 7.4 mmHg, and mean pulmonary vascular resistance (mPVR) was 219.3 +/- 104.6 dyn.s/cm(-)(5). Although the surgery was challenging because of difficulty establishing dissection plane, no perioperative morbidity or mortality occurred. Postoperative hemodynamic improvement was observed, with mPAP reduced to 16.3 +/- 1.5 and mean PVR to 119.3 +/- 45.8 dyn.s/cm(-)(5) (p > 0.05). The mean six-minute walk test distance increased from 381.5 +/- 63.2 m preoperatively to 470.0 +/- 66.8 m after surgery (p > 0.05). Histopathological analysis confirmed the presence of sclerotherapy-related foreign material in all cases. All patients had unilateral lobar obstruction. During a median follow-up of 50 months, no mortality or recurrence of symptoms or pulmonary hypertension was observed.",
+      "chunk_index": 2,
+      "char_count": 1329,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41372871",
+      "pmc_id": "PMC12801887",
+      "title": "Sclerotherapy embolism: a novel etiology for chronic thromboembolic pulmonary disease.",
+      "authors": [
+        "Cetinkaya C",
+        "Sagir A",
+        "Terzi A",
+        "Ermerak NO",
+        "Yildizeli SO",
+        "Mutlu B",
+        "Yildizeli B"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "diagnosis",
+      "text": "+/- 63.2 m preoperatively to 470.0 +/- 66.8 m after surgery (p > 0.05). Histopathological analysis confirmed the presence of sclerotherapy-related foreign material in all cases. All patients had unilateral lobar obstruction. During a median follow-up of 50 months, no mortality or recurrence of symptoms or pulmonary hypertension was observed.\n\nThis report is the first case series to document a direct histopathological link between sclerotherapy and chronic pulmonary artery obstruction. These findings emphasize the need to consider iatrogenic etiologies in patients with unexplained pulmonary vascular disease and support the diagnostic and therapeutic value of PEA in selected cases.",
+      "chunk_index": 3,
+      "char_count": 688,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

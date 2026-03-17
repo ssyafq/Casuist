@@ -1,0 +1,37 @@
+{
+  "pmid": "41323453",
+  "pmc_id": "PMC12661973",
+  "title": "Neurocysticercosis and developmental venous anomaly in close proximity: a case report.",
+  "authors": [
+    "Wessels DJ",
+    "George J",
+    "Manoko K",
+    "Surendran-Nair S",
+    "Nemutudi T",
+    "Mochan A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41323453",
+      "pmc_id": "PMC12661973",
+      "title": "Neurocysticercosis and developmental venous anomaly in close proximity: a case report.",
+      "authors": [
+        "Wessels DJ",
+        "George J",
+        "Manoko K",
+        "Surendran-Nair S",
+        "Nemutudi T",
+        "Mochan A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Neurocysticercosis (NCC) is a leading cause of acquired epilepsy and other neurological disturbances worldwide. Developmental venous anomaly (DVA) is the most common cerebral vascular malformation, typically asymptomatic and discovered incidentally. This case report illustrates the rare instance of a DVA found adjacent to an NCC lesion on imaging. The patient is a 26-year-old male presenting with new-onset seizures. The diagnosis was made on MRI brain and serum cysticercosis antibody testing. Limited literature is available on the coexistence of these two entities, prompting contemplation about the implications for diagnosis, management, and prognosis.",
+      "chunk_index": 0,
+      "char_count": 660,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

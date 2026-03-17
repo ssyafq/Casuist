@@ -1,0 +1,33 @@
+{
+  "pmid": "40527847",
+  "pmc_id": "PMC12173252",
+  "title": "An unusually acute abdominal pain: A case report.",
+  "authors": [
+    "Wang YC",
+    "Zhang JF",
+    "Shen HY",
+    "Guan C"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40527847",
+      "pmc_id": "PMC12173252",
+      "title": "An unusually acute abdominal pain: A case report.",
+      "authors": [
+        "Wang YC",
+        "Zhang JF",
+        "Shen HY",
+        "Guan C"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "RATIONALE: Acute abdominal pain is a common clinical symptom. Its etiology is complex and intricate. This is a case of small intestinal obstruction caused by bezoar combined with diabetes ketoacidosis, which leads to abdominal pain. The obstruction was caused by bezoars, which is rare in clinical practice, and worth summarizing and learning. PATIENT CONCERNS: We reported a case of a 58-year-old female who was admitted to the hospital due to \"upper abdominal pain for 3 days\". DIAGNOSES: Fasting blood glucose was 21 mmol/L, urinary ketone body 3+, pondus hydrogenii (pH) 7.309, actual and standard bicarbonate decreased, and abdominal enhanced computed tomography showed a rounded low-density shadow with sharp edges and well-defined borders in the lumen of the bowel on the left side of the abdomen, with a size of 6 cm, and no significant enhancement within the lesion. INTERVENTIONS: Including hypoglycemic treatment, correction of acid-base imbalance and electrolyte disorders, and removal of gastric stones through laparoscopy, etc. OUTCOMES: This abdominal pain was caused by a small intestinal obstruction caused by bezoar combined with diabetes ketoacidosis. The patient was discharged successfully and remained symptom-free during follow-up. LESSONS: There are many causes of acute abdominal pain. In clinical practice, we should comprehensively consider and diagnose the causes of abdominal pain based on the patient's current medical history, past medical history, physical examination, and auxiliary examinations. We must be alert to rare and multiple causes that can jointly cause abdominal pain, and promptly deal with different causes.",
+      "chunk_index": 0,
+      "char_count": 1654,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

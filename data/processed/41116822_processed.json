@@ -1,0 +1,35 @@
+{
+  "pmid": "41116822",
+  "pmc_id": "PMC12535601",
+  "title": "Broken heart after heart attack- post-MI Takotsubo syndrome: a case report.",
+  "authors": [
+    "Kassam N",
+    "Mucyo W",
+    "Ngunga M",
+    "Jeilan M",
+    "Varwani M"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41116822",
+      "pmc_id": "PMC12535601",
+      "title": "Broken heart after heart attack- post-MI Takotsubo syndrome: a case report.",
+      "authors": [
+        "Kassam N",
+        "Mucyo W",
+        "Ngunga M",
+        "Jeilan M",
+        "Varwani M"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Takotsubo cardiomyopathy (TCM) is a common differential for acute myocardial infarction (AMI), and although its coexistence is considered rare, it may be more common than previously believed. Diagnosing TCM after an AMI is particularly challenging, as initial imaging typically supports AMI. We report the case of a 61-year-old male who presented with anterior ST-elevation myocardial infarction (STEMI) and underwent successful primary percutaneous coronary intervention (PCI) to the left anterior descending artery. Initial echocardiography demonstrated preserved apical function; however, the patient was readmitted with chest pain, diaphoresis, and dyspnea. Suspecting stent thrombosis, repeat coronary angiography confirmed patent stents, but echocardiography revealed severe left ventricular dysfunction with apical ballooning, consistent with TCM. This case underscores the importance of considering TCM as a possible concomitant or subsequent condition in patients with recent Acute Coronary Syndrome (ACS).",
+      "chunk_index": 0,
+      "char_count": 1015,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

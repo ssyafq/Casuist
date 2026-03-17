@@ -1,0 +1,67 @@
+{
+  "pmid": "41127515",
+  "pmc_id": "PMC12537370",
+  "title": "Severe euglycemic ketoacidosis following combined therapy with GLP-1 receptor agonist and SGLT-2 inhibitor, refractory to standard treatment: a case report.",
+  "authors": [
+    "Gandecka-Pempera A",
+    "Naskret D",
+    "Adamska A",
+    "Zozulinska-Ziolkiewicz D"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41127515",
+      "pmc_id": "PMC12537370",
+      "title": "Severe euglycemic ketoacidosis following combined therapy with GLP-1 receptor agonist and SGLT-2 inhibitor, refractory to standard treatment: a case report.",
+      "authors": [
+        "Gandecka-Pempera A",
+        "Naskret D",
+        "Adamska A",
+        "Zozulinska-Ziolkiewicz D"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Euglycemic diabetic ketoacidosis (euDKA) is a rare but potentially life-threatening complication of diabetes, increasingly linked to SGLT-2 inhibitors (SGLT-2i) and, less frequently, GLP-1 receptor agonists (GLP-1 RA), especially in combination.",
+      "chunk_index": 0,
+      "char_count": 245,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41127515",
+      "pmc_id": "PMC12537370",
+      "title": "Severe euglycemic ketoacidosis following combined therapy with GLP-1 receptor agonist and SGLT-2 inhibitor, refractory to standard treatment: a case report.",
+      "authors": [
+        "Gandecka-Pempera A",
+        "Naskret D",
+        "Adamska A",
+        "Zozulinska-Ziolkiewicz D"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Euglycemic diabetic ketoacidosis (euDKA) is a rare but potentially life-threatening complication of diabetes, increasingly linked to SGLT-2 inhibitors (SGLT-2i) and, less frequently, GLP-1 receptor agonists (GLP-1 RA), especially in combination.\n\nWe present the case of a 36-year-old man with newly diagnosed type 2 diabetes who developed severe euDKA within days of starting combined therapy with semaglutide and dapagliflozin. Despite prior patient education and adherence to antidiabetic therapy, persistent vomiting and carbohydrate deficiency-likely related to GLP-1 RA side effects-led to decreased insulin administration and metabolic decompensation. This case was characterized by very early onset after initiation of therapy, absence of infection or other common triggers, and resistance to standard treatment with insulin, glucose, and fluid resuscitation. Intensive care with continuous veno-venous hemodiafiltration was required, resulting in full recovery.",
+      "chunk_index": 1,
+      "char_count": 969,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41127515",
+      "pmc_id": "PMC12537370",
+      "title": "Severe euglycemic ketoacidosis following combined therapy with GLP-1 receptor agonist and SGLT-2 inhibitor, refractory to standard treatment: a case report.",
+      "authors": [
+        "Gandecka-Pempera A",
+        "Naskret D",
+        "Adamska A",
+        "Zozulinska-Ziolkiewicz D"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "effects-led to decreased insulin administration and metabolic decompensation. This case was characterized by very early onset after initiation of therapy, absence of infection or other common triggers, and resistance to standard treatment with insulin, glucose, and fluid resuscitation. Intensive care with continuous veno-venous hemodiafiltration was required, resulting in full recovery.\n\nThis case emphasizes the potential severity of euDKA induced by GLP-1 RA and SGLT-2i combination therapy and highlights the risk of treatment resistance. The decision to initiate SGLT2i and GLP-1RA concurrently should be individualized or possibly spread apart in time, weighing the potential therapeutic benefits against the risk of rare but severe complication such as euDKA. Comprehensive education on ketone monitoring and insulin administration during intercurrent illness are essential to prevent this rare but serious complication.",
+      "chunk_index": 2,
+      "char_count": 929,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

@@ -1,0 +1,104 @@
+{
+  "pmid": "35647853",
+  "pmc_id": "PMC12650363",
+  "title": "Risk of sudden cardiac death in a case of spontaneous coronary artery dissection presenting with thyroid storm.",
+  "authors": [
+    "Muscoli S",
+    "Lecis D",
+    "Prandi FR",
+    "Ylli D",
+    "Chiocchi M",
+    "Cammalleri V",
+    "Lauro D",
+    "Andreadi A"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "35647853",
+      "pmc_id": "PMC12650363",
+      "title": "Risk of sudden cardiac death in a case of spontaneous coronary artery dissection presenting with thyroid storm.",
+      "authors": [
+        "Muscoli S",
+        "Lecis D",
+        "Prandi FR",
+        "Ylli D",
+        "Chiocchi M",
+        "Cammalleri V",
+        "Lauro D",
+        "Andreadi A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Spontaneous coronary artery dissection (SCAD) is a spontaneous separation of the coronary artery wall whose etiology appears to be poorly understood. SCAD is a rare cause of acute coronary syndromes, and it is a life-threatening condition.",
+      "chunk_index": 0,
+      "char_count": 239,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35647853",
+      "pmc_id": "PMC12650363",
+      "title": "Risk of sudden cardiac death in a case of spontaneous coronary artery dissection presenting with thyroid storm.",
+      "authors": [
+        "Muscoli S",
+        "Lecis D",
+        "Prandi FR",
+        "Ylli D",
+        "Chiocchi M",
+        "Cammalleri V",
+        "Lauro D",
+        "Andreadi A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Spontaneous coronary artery dissection (SCAD) is a spontaneous separation of the coronary artery wall whose etiology appears to be poorly understood. SCAD is a rare cause of acute coronary syndromes, and it is a life-threatening condition.\n\nWe report the case of a young woman who developed SCAD during a thyroid storm (TS).",
+      "chunk_index": 1,
+      "char_count": 324,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35647853",
+      "pmc_id": "PMC12650363",
+      "title": "Risk of sudden cardiac death in a case of spontaneous coronary artery dissection presenting with thyroid storm.",
+      "authors": [
+        "Muscoli S",
+        "Lecis D",
+        "Prandi FR",
+        "Ylli D",
+        "Chiocchi M",
+        "Cammalleri V",
+        "Lauro D",
+        "Andreadi A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "labs",
+      "text": "We report the case of a young woman who developed SCAD during a thyroid storm (TS).\n\nTo the best of our knowledge, this is the first reported case of SCAD during a TS, and it suggests a possible association between high levels of circulating thyroid hormones and SCAD susceptibility.",
+      "chunk_index": 2,
+      "char_count": 283,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35647853",
+      "pmc_id": "PMC12650363",
+      "title": "Risk of sudden cardiac death in a case of spontaneous coronary artery dissection presenting with thyroid storm.",
+      "authors": [
+        "Muscoli S",
+        "Lecis D",
+        "Prandi FR",
+        "Ylli D",
+        "Chiocchi M",
+        "Cammalleri V",
+        "Lauro D",
+        "Andreadi A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "To the best of our knowledge, this is the first reported case of SCAD during a TS, and it suggests a possible association between high levels of circulating thyroid hormones and SCAD susceptibility.\n\nEarly identification of SCAD predisposing factors is important to identify high-risk patients. In patients presenting to the emergency department because of chest pain with a history of dysthyroidism, early determination of thyroid hormones and troponin could prevent certain forms of sudden cardiac death.",
+      "chunk_index": 3,
+      "char_count": 506,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

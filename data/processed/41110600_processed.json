@@ -1,0 +1,71 @@
+{
+  "pmid": "41110600",
+  "pmc_id": null,
+  "title": "Ictal Single-Photon Emission Computed Tomography Imaging: Pioneering Experience and Feasibility in a Low-Resource Setting.",
+  "authors": [
+    "Yaria J",
+    "Kolade M",
+    "Allen-Taylor M",
+    "Olalusi O",
+    "Makanjuola A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41110600",
+      "pmc_id": null,
+      "title": "Ictal Single-Photon Emission Computed Tomography Imaging: Pioneering Experience and Feasibility in a Low-Resource Setting.",
+      "authors": [
+        "Yaria J",
+        "Kolade M",
+        "Allen-Taylor M",
+        "Olalusi O",
+        "Makanjuola A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "About a third of people with epilepsy do not achieve seizure control, despite the use of appropriate antiseizure medications. While surgical care, neurostimulation, and dietary therapy are the recommended treatment modalities for drug-resistant epilepsy, these intervention options are poorly established in many low-resource settings. Increasing availability of single photon emission computed tomography (SPECT) and positron emission tomography in Africa increases capacity for establishing epilepsy surgery programs. Here, we report our experience on the feasibility of carrying out an ictal SPECT in a low-resource African setting.",
+      "chunk_index": 0,
+      "char_count": 635,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41110600",
+      "pmc_id": null,
+      "title": "Ictal Single-Photon Emission Computed Tomography Imaging: Pioneering Experience and Feasibility in a Low-Resource Setting.",
+      "authors": [
+        "Yaria J",
+        "Kolade M",
+        "Allen-Taylor M",
+        "Olalusi O",
+        "Makanjuola A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "intervention options are poorly established in many low-resource settings. Increasing availability of single photon emission computed tomography (SPECT) and positron emission tomography in Africa increases capacity for establishing epilepsy surgery programs. Here, we report our experience on the feasibility of carrying out an ictal SPECT in a low-resource African setting.\n\nTwo female patients referred for ictal event monitoring were selected for ictal SPECT. Both patients had ictal records using the 40-channel Neurowerk digital electroencephalographic system. Ictal SPECT was acquired during a triggered seizure on a Mediso AnyScan S Dual-head SPECT scanner using standard clinical brain SPECT protocols. Following magnetic resonance imaging co-registration, quantitative surface-projection analysis and voxel/surface-based statistical mapping were performed using NEUROSTAT/3D-SSP (3D stereotactic surface projection). RESULT: In both cases, we injected 99mTc-ECD (<750 MBq) within 30 seconds of electro-clinical evident seizure onset. Ictal EEG revealed a possible multi-focal ictal focus for the first patient with hyper-perfusion involved the right occipital lobe on ictal SPECT. For the second patient, ictal EEG showed no clear ictal discharge but continuous left hemisphere rhythmic slow discharge and hyper-perfusion involved the left frontal cortex on ictal SPECT.",
+      "chunk_index": 1,
+      "char_count": 1379,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41110600",
+      "pmc_id": null,
+      "title": "Ictal Single-Photon Emission Computed Tomography Imaging: Pioneering Experience and Feasibility in a Low-Resource Setting.",
+      "authors": [
+        "Yaria J",
+        "Kolade M",
+        "Allen-Taylor M",
+        "Olalusi O",
+        "Makanjuola A"
+      ],
+      "specialty": "seizure",
+      "section_type": "diagnosis",
+      "text": "Ictal EEG revealed a possible multi-focal ictal focus for the first patient with hyper-perfusion involved the right occipital lobe on ictal SPECT. For the second patient, ictal EEG showed no clear ictal discharge but continuous left hemisphere rhythmic slow discharge and hyper-perfusion involved the left frontal cortex on ictal SPECT.\n\nWe discussed the difficulties faced at three different levels-system-level, hospital-level, and patient-level-and how they were navigated. In our opinion, ictal SPECT can be readily readopted among deeply phenotyped patients to mitigate its previous logistic drawbacks.",
+      "chunk_index": 2,
+      "char_count": 607,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

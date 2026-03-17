@@ -1,0 +1,67 @@
+{
+  "pmid": "41390443",
+  "pmc_id": "PMC12817410",
+  "title": "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema in a non-ventilated patient, complicated by pulmonary embolism: a case report.",
+  "authors": [
+    "Zhu QM",
+    "Singh AK",
+    "Huh PM",
+    "Konka S"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41390443",
+      "pmc_id": "PMC12817410",
+      "title": "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema in a non-ventilated patient, complicated by pulmonary embolism: a case report.",
+      "authors": [
+        "Zhu QM",
+        "Singh AK",
+        "Huh PM",
+        "Konka S"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema are life-threatening complications of coronavirus disease 2019. Concomitant presentation of all three with further complication by pulmonary embolism in non-intubated patients with coronavirus disease 2019 is exceedingly rare and can be devastating.",
+      "chunk_index": 0,
+      "char_count": 321,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41390443",
+      "pmc_id": "PMC12817410",
+      "title": "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema in a non-ventilated patient, complicated by pulmonary embolism: a case report.",
+      "authors": [
+        "Zhu QM",
+        "Singh AK",
+        "Huh PM",
+        "Konka S"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema are life-threatening complications of coronavirus disease 2019. Concomitant presentation of all three with further complication by pulmonary embolism in non-intubated patients with coronavirus disease 2019 is exceedingly rare and can be devastating.\n\nWe present a case of concurrent spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema in a non-ventilated, 56-year-old Hispanic male with coronavirus disease 2019 pneumonia that was further complicated by extensive pulmonary embolism. In addition to treatment of coronavirus disease 2019 pneumonia, the patient was treated with an innovative strategy by creating a blowhole incision over the chest wall connected to vacuum-assisted closure therapy resulting in rapid clinical improvement. He was also started on systemic anticoagulation therapy for pulmonary embolism. This patient was eventually discharged home in stable condition.",
+      "chunk_index": 1,
+      "char_count": 974,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41390443",
+      "pmc_id": "PMC12817410",
+      "title": "Coronavirus disease 2019 pneumonia with concomitant spontaneous pneumomediastinum, pneumothorax, and subcutaneous emphysema in a non-ventilated patient, complicated by pulmonary embolism: a case report.",
+      "authors": [
+        "Zhu QM",
+        "Singh AK",
+        "Huh PM",
+        "Konka S"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "diagnosis",
+      "text": "disease 2019 pneumonia, the patient was treated with an innovative strategy by creating a blowhole incision over the chest wall connected to vacuum-assisted closure therapy resulting in rapid clinical improvement. He was also started on systemic anticoagulation therapy for pulmonary embolism. This patient was eventually discharged home in stable condition.\n\nOur case highlights the critical importance of maintaining clinical vigilance of spontaneous pneumothorax and pneumomediastinum, even in patients not undergoing mechanical ventilation. In addition, it demonstrates the utility of vacuum-assisted closure therapy in treating concurrent pneumothorax and subcutaneous emphysema.",
+      "chunk_index": 2,
+      "char_count": 684,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

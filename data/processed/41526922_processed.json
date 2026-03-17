@@ -1,0 +1,94 @@
+{
+  "pmid": "41526922",
+  "pmc_id": "PMC12888589",
+  "title": "Meningovascular neurosyphilis presenting as multifocal stroke in an HIV patient on ART: a diagnostic challenge in a resource-limited setting: case report and literature review.",
+  "authors": [
+    "Tewabe DM",
+    "Bezie GA",
+    "Fentahun AT",
+    "Abebe MA",
+    "Tessfaw AT",
+    "Mehari E"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41526922",
+      "pmc_id": "PMC12888589",
+      "title": "Meningovascular neurosyphilis presenting as multifocal stroke in an HIV patient on ART: a diagnostic challenge in a resource-limited setting: case report and literature review.",
+      "authors": [
+        "Tewabe DM",
+        "Bezie GA",
+        "Fentahun AT",
+        "Abebe MA",
+        "Tessfaw AT",
+        "Mehari E"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Meningovascular neurosyphilis is a rare but treatable cause of ischemic stroke, typically affecting younger individuals without traditional vascular risk factors. Diagnosis is often missed because of nonspecific presentations, coexisting conditions, and delayed diagnostic confirmation. In people living with HIV, it may progress despite antiretroviral therapy, creating further uncertainty in clinical evaluation.",
+      "chunk_index": 0,
+      "char_count": 414,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41526922",
+      "pmc_id": "PMC12888589",
+      "title": "Meningovascular neurosyphilis presenting as multifocal stroke in an HIV patient on ART: a diagnostic challenge in a resource-limited setting: case report and literature review.",
+      "authors": [
+        "Tewabe DM",
+        "Bezie GA",
+        "Fentahun AT",
+        "Abebe MA",
+        "Tessfaw AT",
+        "Mehari E"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "neurosyphilis is a rare but treatable cause of ischemic stroke, typically affecting younger individuals without traditional vascular risk factors. Diagnosis is often missed because of nonspecific presentations, coexisting conditions, and delayed diagnostic confirmation. In people living with HIV, it may progress despite antiretroviral therapy, creating further uncertainty in clinical evaluation.\n\nWe report a A 48-year-old man with well-controlled HIV presented with acute focal deficits following a short prodrome of headache and fever. Neurological examination revealed right-sided weakness (MRC grade 2/5) and NIHSS score of 11. Initial laboratory testing and CT imaging were unrevealing. MRI suggested a vasculitic process, and cerebrospinal fluid studies confirmed neurosyphilis.",
+      "chunk_index": 1,
+      "char_count": 787,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41526922",
+      "pmc_id": "PMC12888589",
+      "title": "Meningovascular neurosyphilis presenting as multifocal stroke in an HIV patient on ART: a diagnostic challenge in a resource-limited setting: case report and literature review.",
+      "authors": [
+        "Tewabe DM",
+        "Bezie GA",
+        "Fentahun AT",
+        "Abebe MA",
+        "Tessfaw AT",
+        "Mehari E"
+      ],
+      "specialty": "stroke",
+      "section_type": "discussion",
+      "text": "48-year-old man with well-controlled HIV presented with acute focal deficits following a short prodrome of headache and fever. Neurological examination revealed right-sided weakness (MRC grade 2/5) and NIHSS score of 11. Initial laboratory testing and CT imaging were unrevealing. MRI suggested a vasculitic process, and cerebrospinal fluid studies confirmed neurosyphilis.\n\nThis case illustrates the diagnostic challenge of stroke in an HIV-positive patient with viral suppression and no conventional vascular risks. In a resource-limited setting, timely use of MRI and CSF analysis guided appropriate management. The patient improved markedly on a 14-day course of intravenous ceftriaxone when penicillin was unavailable.",
+      "chunk_index": 2,
+      "char_count": 723,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41526922",
+      "pmc_id": "PMC12888589",
+      "title": "Meningovascular neurosyphilis presenting as multifocal stroke in an HIV patient on ART: a diagnostic challenge in a resource-limited setting: case report and literature review.",
+      "authors": [
+        "Tewabe DM",
+        "Bezie GA",
+        "Fentahun AT",
+        "Abebe MA",
+        "Tessfaw AT",
+        "Mehari E"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "This case illustrates the diagnostic challenge of stroke in an HIV-positive patient with viral suppression and no conventional vascular risks. In a resource-limited setting, timely use of MRI and CSF analysis guided appropriate management. The patient improved markedly on a 14-day course of intravenous ceftriaxone when penicillin was unavailable.\n\nClinicians should maintain suspicion for meningovascular neurosyphilis in HIV-positive patients presenting with stroke-like deficits regardless of virologic suppression or absence of conventional vascular risk factors. MRI and CSF evaluation are crucial where diagnostic uncertainty persists, and ceftriaxone is an effective alternative when penicillin cannot be accessed. Despite significant neurological recovery, management conclusions cannot be generalized from a single case.",
+      "chunk_index": 3,
+      "char_count": 830,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

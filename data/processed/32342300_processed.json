@@ -1,0 +1,63 @@
+{
+  "pmid": "32342300",
+  "pmc_id": null,
+  "title": "Insights into Nuclear Cardiology in the United States from the first 3 years of the ImageGuide Registry.",
+  "authors": [
+    "Elder JB",
+    "Tilkemeier PL",
+    "Ewing JA"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "32342300",
+      "pmc_id": null,
+      "title": "Insights into Nuclear Cardiology in the United States from the first 3 years of the ImageGuide Registry.",
+      "authors": [
+        "Elder JB",
+        "Tilkemeier PL",
+        "Ewing JA"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "Data registries facilitate knowledge acquisition and quality improvement. ImageGuide is a registry developed by the American Society of Nuclear Cardiology collecting data since 2015, providing insight into current nuclear cardiology practice. METHODS AND",
+      "chunk_index": 0,
+      "char_count": 254,
+      "subspecialty": "cardiology"
+    },
+    {
+      "pmid": "32342300",
+      "pmc_id": null,
+      "title": "Insights into Nuclear Cardiology in the United States from the first 3 years of the ImageGuide Registry.",
+      "authors": [
+        "Elder JB",
+        "Tilkemeier PL",
+        "Ewing JA"
+      ],
+      "specialty": "cardiology",
+      "section_type": "labs",
+      "text": "Data registries facilitate knowledge acquisition and quality improvement. ImageGuide is a registry developed by the American Society of Nuclear Cardiology collecting data since 2015, providing insight into current nuclear cardiology practice. METHODS AND\n\nHIPAA de-identified data on > 100 practice- and patient-related variables from 19 US practices were obtained from ImageGuide. Continuous variables are reported as the mean +/- standard deviation; discrete variables are reported as N (%). Practices were from 12 states; 9520 studies were submitted. The average patient was a 66-year-old man. Chest pain was the most common indication; 96% of studies were appropriate. Rest/stress 1-day studies were most common; stress/rest 1- and 2-day studies comprised < 5%. Tc-99 m was the most common radiopharmaceutical. Tl-201 was used in 14% of rest studies. Most studies were not corrected for attenuation. 89% were of good or better quality. 62% of studies were normal.",
+      "chunk_index": 1,
+      "char_count": 967,
+      "subspecialty": "cardiology"
+    },
+    {
+      "pmid": "32342300",
+      "pmc_id": null,
+      "title": "Insights into Nuclear Cardiology in the United States from the first 3 years of the ImageGuide Registry.",
+      "authors": [
+        "Elder JB",
+        "Tilkemeier PL",
+        "Ewing JA"
+      ],
+      "specialty": "cardiology",
+      "section_type": "diagnosis",
+      "text": "were appropriate. Rest/stress 1-day studies were most common; stress/rest 1- and 2-day studies comprised < 5%. Tc-99 m was the most common radiopharmaceutical. Tl-201 was used in 14% of rest studies. Most studies were not corrected for attenuation. 89% were of good or better quality. 62% of studies were normal.\n\nPractice diversity is limited, but patient demographics are reflective of reported current practice. Most studies are appropriate and may obviate the need for invasive testing. Radiation dosimetry could be decreased with wider adoption of stress/rest studies and avoidance of Tl-201. ImageGuide will be an important tool to guide non-invasive cardiac imaging in the future.",
+      "chunk_index": 2,
+      "char_count": 687,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

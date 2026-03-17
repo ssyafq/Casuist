@@ -1,0 +1,95 @@
+{
+  "pmid": "39613300",
+  "pmc_id": null,
+  "title": "Catatonia Associated with Hyperthyroidism: An Illustrative Case and Systematic Review of Published Cases.",
+  "authors": [
+    "Chaikind JR",
+    "Pambianchi HL",
+    "Bledowski C"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "39613300",
+      "pmc_id": null,
+      "title": "Catatonia Associated with Hyperthyroidism: An Illustrative Case and Systematic Review of Published Cases.",
+      "authors": [
+        "Chaikind JR",
+        "Pambianchi HL",
+        "Bledowski C"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Catatonia is a frequently missed diagnosis on medical wards, delaying effective treatment or permitting accidental use of neuroleptics that can exacerbate the condition. Thyroid storm has rarely been associated with catatonia in case reports, with no prior reviews synthesizing this research.",
+      "chunk_index": 0,
+      "char_count": 292,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "39613300",
+      "pmc_id": null,
+      "title": "Catatonia Associated with Hyperthyroidism: An Illustrative Case and Systematic Review of Published Cases.",
+      "authors": [
+        "Chaikind JR",
+        "Pambianchi HL",
+        "Bledowski C"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Catatonia is a frequently missed diagnosis on medical wards, delaying effective treatment or permitting accidental use of neuroleptics that can exacerbate the condition. Thyroid storm has rarely been associated with catatonia in case reports, with no prior reviews synthesizing this research.\n\nWe present a case of catatonia during thyroid storm following administration of low-dose haloperidol, followed by a review of previously published cases and discussion of their common factors and potential mechanisms.",
+      "chunk_index": 1,
+      "char_count": 511,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "39613300",
+      "pmc_id": null,
+      "title": "Catatonia Associated with Hyperthyroidism: An Illustrative Case and Systematic Review of Published Cases.",
+      "authors": [
+        "Chaikind JR",
+        "Pambianchi HL",
+        "Bledowski C"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We present a case of catatonia during thyroid storm following administration of low-dose haloperidol, followed by a review of previously published cases and discussion of their common factors and potential mechanisms.\n\nWe first describe a case of a 37-year-old woman with untreated hyperthyroidism and bipolar disorder admitted for mania in the context of thyroid storm. She developed catatonic symptoms after receiving each of two doses of haloperidol. We then present a systematic review of the literature, drawn from the OVID Medline, PsycINFO, and Embase databases, using Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines to identify case reports of catatonia presenting in association with hyperthyroidism.",
+      "chunk_index": 2,
+      "char_count": 739,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "39613300",
+      "pmc_id": null,
+      "title": "Catatonia Associated with Hyperthyroidism: An Illustrative Case and Systematic Review of Published Cases.",
+      "authors": [
+        "Chaikind JR",
+        "Pambianchi HL",
+        "Bledowski C"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "labs",
+      "text": "developed catatonic symptoms after receiving each of two doses of haloperidol. We then present a systematic review of the literature, drawn from the OVID Medline, PsycINFO, and Embase databases, using Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines to identify case reports of catatonia presenting in association with hyperthyroidism.\n\nSeventeen cases were identified-10 in published reports and seven in poster abstracts. The degree of evidence for catatonia varied, with few cases using formal scales. Several cases, including ours, reported recent administration of neuroleptics with dopamine antagonism (29%), usually at relatively low doses or with subsequent tolerance of neuroleptics when euthyroid. Other common factors included a history of psychiatric symptoms (41%) or presence of thyroid autoantibodies (41%).",
+      "chunk_index": 3,
+      "char_count": 851,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "39613300",
+      "pmc_id": null,
+      "title": "Catatonia Associated with Hyperthyroidism: An Illustrative Case and Systematic Review of Published Cases.",
+      "authors": [
+        "Chaikind JR",
+        "Pambianchi HL",
+        "Bledowski C"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "catatonia varied, with few cases using formal scales. Several cases, including ours, reported recent administration of neuroleptics with dopamine antagonism (29%), usually at relatively low doses or with subsequent tolerance of neuroleptics when euthyroid. Other common factors included a history of psychiatric symptoms (41%) or presence of thyroid autoantibodies (41%).\n\nThese results are consistent with clinical and preclinical evidence that hyperthyroidism might potentiate dopamine blockade, and they encourage clinicians to minimize neuroleptic use in this population. Other theories have also been proposed for catatonia's association with hyperthyroidism, including direct thyrotoxic effect, autoimmune reaction, and mediation via another secondary psychiatric syndrome (e.g., mania). Clinicians should be aware of the potential for catatonia in thyroid storm, with or without neuroleptic use.",
+      "chunk_index": 4,
+      "char_count": 902,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

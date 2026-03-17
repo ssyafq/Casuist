@@ -1,0 +1,31 @@
+{
+  "pmid": "41412941",
+  "pmc_id": null,
+  "title": "Unmasking pulmonary vein thrombosis: a rare mimic of pulmonary embolism.",
+  "authors": [
+    "Alsararatee HH",
+    "Ahmed K",
+    "Elachola M"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41412941",
+      "pmc_id": null,
+      "title": "Unmasking pulmonary vein thrombosis: a rare mimic of pulmonary embolism.",
+      "authors": [
+        "Alsararatee HH",
+        "Ahmed K",
+        "Elachola M"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "A female in her 50s was referred by her general practitioner (GP) with a 6-day history of left calf pain and swelling. She had a history of recurrent deep vein thrombosis (DVT) and a strong family history of thrombosis involving her mother and sibling. On examination, there was mild tenderness in the left calf with <3 cm asymmetry. Blood tests were normal apart from an elevated D-dimer. Doppler ultrasound ruled out DVT. However, an ECG performed at the GP clinic confirmed paroxysmal atrial fibrillation, and the patient also reported palpitations and shortness of breath at that time. Her Wells score for pulmonary embolism was 7.5, warranting urgent CT pulmonary angiography (CTPA) and initiation of therapeutic enoxaparin. CTPA demonstrated acute pulmonary vein thrombosis rather than pulmonary embolism. A multidisciplinary team discussion was held, and apixaban was commenced following haematology consultation. Follow-up CTPA confirmed complete resolution of the thrombus.",
+      "chunk_index": 0,
+      "char_count": 982,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

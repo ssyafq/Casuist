@@ -1,0 +1,31 @@
+{
+  "pmid": "41264806",
+  "pmc_id": null,
+  "title": "Pulmonary Embolism in a Patient With Interrupted Inferior Vena Cava With Azygos Continuation and Polysplenia: A Case Report and Literature Review.",
+  "authors": [
+    "Adams R",
+    "Ramos C",
+    "McDaniel M"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41264806",
+      "pmc_id": null,
+      "title": "Pulmonary Embolism in a Patient With Interrupted Inferior Vena Cava With Azygos Continuation and Polysplenia: A Case Report and Literature Review.",
+      "authors": [
+        "Adams R",
+        "Ramos C",
+        "McDaniel M"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Anomalies of the inferior vena cava are rare complications of angiogenesis but can have significant implications for the cardiovascular proceduralist. Although rare, advances in diagnostic imaging capabilities and more frequent imaging have resulted in increased observation of these anomalies. The recognition of this anomaly before intervention is essential. In this case report, we present an unusual case of a woman with an interrupted inferior vena cava suffering from an acute pulmonary embolism.",
+      "chunk_index": 0,
+      "char_count": 502,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

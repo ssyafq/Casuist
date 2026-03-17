@@ -1,0 +1,33 @@
+{
+  "pmid": "40784706",
+  "pmc_id": "PMC12405920",
+  "title": "A 47-Year-Old Female With a Tubular, Nonenhancing Structure in the Left Lower Lobe.",
+  "authors": [
+    "Gomez Rojas O",
+    "Mathavan A",
+    "Mathavan A",
+    "Ataya A"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40784706",
+      "pmc_id": "PMC12405920",
+      "title": "A 47-Year-Old Female With a Tubular, Nonenhancing Structure in the Left Lower Lobe.",
+      "authors": [
+        "Gomez Rojas O",
+        "Mathavan A",
+        "Mathavan A",
+        "Ataya A"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "A 47-year-old woman presented to the emergency department with sudden-onset dull nonradiating chest pain and palpitations. She denied other symptoms such as shortness of breath, dizziness, or diaphoresis. Her medical history was significant for generalized anxiety disorder, obesity, and former tobacco use (less than 1 pack per day for 5 years, quit more than 20 years ago). Her only medications included daily multivitamins and ibuprofen as needed for knee pain.",
+      "chunk_index": 0,
+      "char_count": 464,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

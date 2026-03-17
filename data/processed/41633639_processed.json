@@ -1,0 +1,31 @@
+{
+  "pmid": "41633639",
+  "pmc_id": null,
+  "title": "Successful IV Thrombolysis in an Adolescent with Postextracorporeal Membrane Oxygenation (ECMO) Cerebral Ischemic Infarct.",
+  "authors": [
+    "Ali H",
+    "Giourgas B",
+    "Bhatia S"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41633639",
+      "pmc_id": null,
+      "title": "Successful IV Thrombolysis in an Adolescent with Postextracorporeal Membrane Oxygenation (ECMO) Cerebral Ischemic Infarct.",
+      "authors": [
+        "Ali H",
+        "Giourgas B",
+        "Bhatia S"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Cerebral infarction secondary to ECMO is a commonly reported complication in the pediatric population; but acute stroke management with IV Tissue plasminogen activator (tPA) is not well studied or reported. We present a case of a 14-year-old female who developed a right middle cerebral artery (MCA) acute ischemic stroke (AIS) 12 days after veno-arterial ECMO (VA-ECMO) decannulation with successful thrombolysis using tPA with an excellent neurologic outcome. This case highlights the need for further studies related to both the use of thrombolysis in children, as well as the causes and optimal approach of ECMO related cerebral ischemic infarcts and other neurologic injury in the pediatric population.",
+      "chunk_index": 0,
+      "char_count": 707,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

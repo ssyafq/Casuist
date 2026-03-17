@@ -1,0 +1,35 @@
+{
+  "pmid": "41436218",
+  "pmc_id": null,
+  "title": "Human parvovirus B-19 meningitis: a sentinel event unmasking primary immunodeficiency in an infant.",
+  "authors": [
+    "Butt DA",
+    "Abidi SMA",
+    "Hussain SNF",
+    "Nawaz H",
+    "Gova MA"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41436218",
+      "pmc_id": null,
+      "title": "Human parvovirus B-19 meningitis: a sentinel event unmasking primary immunodeficiency in an infant.",
+      "authors": [
+        "Butt DA",
+        "Abidi SMA",
+        "Hussain SNF",
+        "Nawaz H",
+        "Gova MA"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Primary immunodeficiencies are genetic disorders that impair immune function, increasing the risk of infections, autoimmune diseases and cancer. Patients with severe viral infections are often not thoroughly evaluated for immunodeficiencies. This case presents a young infant with human parvovirus B-19 meningitis and persistent lymphocytopenia, whose immunophenotyping revealed low absolute counts of T, B and natural killer cells, leading to a diagnosis of underlying immunodeficiency. This case underscores the necessity for vigilant diagnosis when standard presentation is complicated by recurrent illness or risk factors, highlighting the 'Think Zebra' analogy in paediatric practice.",
+      "chunk_index": 0,
+      "char_count": 689,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

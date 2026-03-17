@@ -1,0 +1,41 @@
+{
+  "pmid": "41391636",
+  "pmc_id": null,
+  "title": "Lumbar-peritoneal shunt-associated meningitis and peritoneal abscess due to Corynebacterium striatum: A case report and literature review.",
+  "authors": [
+    "Maeda A",
+    "Hayashi K",
+    "Izumi R",
+    "Tsujigiwa Y",
+    "Nakaya Y",
+    "Fukuoka Y",
+    "Ueda K",
+    "Hashimoto N"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41391636",
+      "pmc_id": null,
+      "title": "Lumbar-peritoneal shunt-associated meningitis and peritoneal abscess due to Corynebacterium striatum: A case report and literature review.",
+      "authors": [
+        "Maeda A",
+        "Hayashi K",
+        "Izumi R",
+        "Tsujigiwa Y",
+        "Nakaya Y",
+        "Fukuoka Y",
+        "Ueda K",
+        "Hashimoto N"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "We describe the first case of both a peritoneal abscess and a lumbar-peritoneal (LP) shunt infection related to Corynebacterium striatum (C. striatum). An 85-year-old Japanese male with a history of diabetes, hyperlipidemia, and a pulmonary vein isolation procedure for atrial fibrillation presented with urinary incontinence, gait disturbance, and cognitive decline. He was diagnosed with normal-pressure hydrocephalus (NPH) and underwent LP shunt surgery. Postoperatively, he developed pneumonia followed by an intra-abdominal abscess and bacterial meningitis. C. striatum was isolated from both cerebrospinal fluid (CSF) and intraperitoneal abscess. Despite antibiotic treatment including vancomycin, he developed septic shock and ultimately resulted in his death. The LP shunt likely facilitated the entry of C. striatum into the CSF, resulting in meningitis and subsequent abscess formation. Despite appropriate antibiotic treatment including vancomycin, C. striatum infections can be resistant and lead to severe outcomes. This case highlights a new complication associated with C. striatum: bacterial meningitis and intraperitoneal abscesses via an LP shunt, expanding its clinical spectrum.",
+      "chunk_index": 0,
+      "char_count": 1198,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

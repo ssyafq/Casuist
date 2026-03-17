@@ -1,0 +1,31 @@
+{
+  "pmid": "41692486",
+  "pmc_id": null,
+  "title": "Delayed-onset, persisting autoimmune heparin-induced thrombocytopenia with thrombosis following craniofacial surgery.",
+  "authors": [
+    "Will VJ",
+    "Tritschler T",
+    "Marx CE"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41692486",
+      "pmc_id": null,
+      "title": "Delayed-onset, persisting autoimmune heparin-induced thrombocytopenia with thrombosis following craniofacial surgery.",
+      "authors": [
+        "Will VJ",
+        "Tritschler T",
+        "Marx CE"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "We report a case of a patient who developed delayed-onset, persisting autoimmune heparin-induced thrombocytopenia (HIT) following prophylactic anticoagulation with unfractionated heparin (UFH) after surgical treatment of a complex midfacial and mandibular fracture. Four days after stopping prophylactic anticoagulation, the patient developed pulmonary embolism and mild thrombocytopenia. HIT was initially not suspected and therapeutic anticoagulation was started. The patient subsequently developed severe thrombocytopenia consistent with HIT. Despite cessation of UFH and initiation of argatroban, thrombocytopenia did not improve. A HIT-antibody immunoassay and functional assay (HIPA) was strongly positive, and HIPA showed activity even in the absence of heparin, supporting the diagnosis of delayed-onset, persisting autoimmune HIT (aHIT). The patient was treated with immunoglobulin, resulting in a rapid recovery of platelet counts. This case highlights the importance of early recognition and appropriate management of aHIT, especially in patients with persisting thrombocytopenia despite standard HIT therapy.",
+      "chunk_index": 0,
+      "char_count": 1120,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

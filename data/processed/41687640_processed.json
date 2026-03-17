@@ -1,0 +1,39 @@
+{
+  "pmid": "41687640",
+  "pmc_id": null,
+  "title": "CASE REPORT OF INFLUENZA A (H1N1) PDM 09 STRAIN / KARAGANDA/ 06/2022 IN A CHILD AGED 3 YEARS.",
+  "authors": [
+    "Begaidarova R",
+    "Alshynbekova G",
+    "Kadyrova I",
+    "Alshimbayeva Z",
+    "Nassakayeva G",
+    "Zolotaryova O",
+    "Omarova G"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41687640",
+      "pmc_id": null,
+      "title": "CASE REPORT OF INFLUENZA A (H1N1) PDM 09 STRAIN / KARAGANDA/ 06/2022 IN A CHILD AGED 3 YEARS.",
+      "authors": [
+        "Begaidarova R",
+        "Alshynbekova G",
+        "Kadyrova I",
+        "Alshimbayeva Z",
+        "Nassakayeva G",
+        "Zolotaryova O",
+        "Omarova G"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "The article presents epidemiological data characterizing the development of the influenza A epidemic in Kazakhstan. The rates of increase and decrease of influenza morbidity are shown. During most of the COVID-19 pandemic (2020-2022), influenza circulation in Kazakhstan and neighbouring Russia declined, but then returned with higher transmission rates in autumn 2022. While H3N2 strains dominated the 2022-2023 season as a whole, in autumn 2022, A/H1N1 pdm09 strains dominated in Russia. capital VE, Cyrillic December 2022 small ghe, Cyrillic. we detected the strain /Karaganda/ 06/2022 (H1N1) pdm09 in the nasopharyngeal swab of a patient (age=3 years, 3 months, sex=male) admitted to the Infectious Disease Centre of the Regional Clinical Hospital of Karaganda city with clinical symptoms of respiratory disease. A detailed description of this clinical case in a child is given.",
+      "chunk_index": 0,
+      "char_count": 882,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

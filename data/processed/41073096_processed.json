@@ -1,0 +1,31 @@
+{
+  "pmid": "41073096",
+  "pmc_id": null,
+  "title": "Atypical chest wall pain: paravertebral tuberculosis mimicking costochondritis.",
+  "authors": [
+    "Amarnani R",
+    "Branley H",
+    "Chatterjee R"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41073096",
+      "pmc_id": null,
+      "title": "Atypical chest wall pain: paravertebral tuberculosis mimicking costochondritis.",
+      "authors": [
+        "Amarnani R",
+        "Branley H",
+        "Chatterjee R"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "This case describes a woman in her 30s presenting with a 2 month history of thoracic pain, initially suspected to be costochondritis. The pain was unresponsive to conservative management, and imaging revealed a paravertebral mass at the T6-T7 level. The differential diagnosis included malignancy, sarcoma and tuberculosis (TB). A positive QuantiFERON-TB Gold test suggested TB exposure, before a biopsy subsequently confirmed spinal TB. She was started on quadruple anti-tuberculosis therapy and showed significant clinical improvement. This case emphasises the importance of considering TB in the differential diagnosis of costochondritis, particularly in recalcitrant cases.",
+      "chunk_index": 0,
+      "char_count": 677,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

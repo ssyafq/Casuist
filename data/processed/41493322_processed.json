@@ -1,0 +1,75 @@
+{
+  "pmid": "41493322",
+  "pmc_id": null,
+  "title": "Acute pancreatitis in children complicating dyslipidemias: a rare entity in pediatrics.",
+  "authors": [
+    "Tizki S",
+    "Safadi S",
+    "Elmazi K",
+    "Baddouh N",
+    "El Azzouzi F",
+    "Nainia K"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41493322",
+      "pmc_id": null,
+      "title": "Acute pancreatitis in children complicating dyslipidemias: a rare entity in pediatrics.",
+      "authors": [
+        "Tizki S",
+        "Safadi S",
+        "Elmazi K",
+        "Baddouh N",
+        "El Azzouzi F",
+        "Nainia K"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Acute pancreatitis (AP) in children is an uncommon but increasingly recognized medical condition, with dyslipidemias, especially severe hypertriglyceridemia, being a rare etiology. The correlation between primary lipid disorders and AP is rarely documented in pediatrics.",
+      "chunk_index": 0,
+      "char_count": 271,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41493322",
+      "pmc_id": null,
+      "title": "Acute pancreatitis in children complicating dyslipidemias: a rare entity in pediatrics.",
+      "authors": [
+        "Tizki S",
+        "Safadi S",
+        "Elmazi K",
+        "Baddouh N",
+        "El Azzouzi F",
+        "Nainia K"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Acute pancreatitis (AP) in children is an uncommon but increasingly recognized medical condition, with dyslipidemias, especially severe hypertriglyceridemia, being a rare etiology. The correlation between primary lipid disorders and AP is rarely documented in pediatrics.\n\nTo outline three pediatric cases of acute pancreatitiscomplicated severe hypertriglyceridemia, emphasizing the challenges in diagnosis, treatment approaches, and outcome. CASES: Case 1: A 40-day-old infant with consanguineous parents who was exclusively breastfed showed signs of vomiting and distension in the abdomen. Laboratory analyses indicated triglycerides at 15.6 g/L and lipase at six times the upper limit of normal. Imaging confirmed Balthazar stage C pancreatitis. Management through fasting and intravenous fluids showed clinical improvement. Case 2: A 2-month-old baby had a fever and was vomiting. The lipid panel showed triglycerides at 25.24 g/L, which is a sign of familial hypertriglyceridemia (type IV). The lipase level was high at 498 IU/L, and an ultrasound showed infiltration around the pancreas. Supportive management improved symptoms, but high triglyceride levels required changes in diet and the introduction of fibrates at 2 years of age. Case 3: A 12-year-old with a history of dyslipidemia and recurrent pancreatitis was hospitalized for an episode. Triglycerides rose to 35 g/L, and the lipase level was high. A CT scan showed Balthazar stage C pancreatitis. Treatment included fasting, a special diet, fibrates, and omega-3. The patient had five recurrent episodes over 24 months, despite a brief improvement, primarily as a result of inadequate dietary adherence.",
+      "chunk_index": 1,
+      "char_count": 1671,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41493322",
+      "pmc_id": null,
+      "title": "Acute pancreatitis in children complicating dyslipidemias: a rare entity in pediatrics.",
+      "authors": [
+        "Tizki S",
+        "Safadi S",
+        "Elmazi K",
+        "Baddouh N",
+        "El Azzouzi F",
+        "Nainia K"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "episode. Triglycerides rose to 35 g/L, and the lipase level was high. A CT scan showed Balthazar stage C pancreatitis. Treatment included fasting, a special diet, fibrates, and omega-3. The patient had five recurrent episodes over 24 months, despite a brief improvement, primarily as a result of inadequate dietary adherence.\n\nThese cases reflect that, even though severe hypertriglyceridemia is uncommon in children, it should be considered when making a differential diagnosis of acute pancreatitis, especially if lactescent serum is observed. Age-related dietary limitations and long-term adherence make management challenging.",
+      "chunk_index": 2,
+      "char_count": 630,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

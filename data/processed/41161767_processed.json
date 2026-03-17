@@ -1,0 +1,33 @@
+{
+  "pmid": "41161767",
+  "pmc_id": null,
+  "title": "Primary hypoparathyroidism as a seizure trigger in type 1 glutaric aciduria.",
+  "authors": [
+    "Gr B",
+    "Wander A",
+    "Gupta S",
+    "Sidana S"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41161767",
+      "pmc_id": null,
+      "title": "Primary hypoparathyroidism as a seizure trigger in type 1 glutaric aciduria.",
+      "authors": [
+        "Gr B",
+        "Wander A",
+        "Gupta S",
+        "Sidana S"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "A female infant presented with recurrent generalised tonic-clonic seizures, persistent upward gaze and a prolonged postictal phase. Clinical examination revealed macrocephaly and global developmental delay. Laboratory investigations demonstrated profound hypocalcaemia, with an ionised calcium level of 0.6 mmol/L, attributed to primary hypoparathyroidism. Neuroimaging via brain MRI identified an acute subdural haematoma characterised by a 'bat-wing' configuration along with bilateral diffusion restriction. Subsequent genetic analysis confirmed the diagnosis of glutaric aciduria type 1 (GA1). Initial management included urgent correction of hypocalcaemia, initiation of antiepileptic therapy, supportive measures, dietary adjustments tailored for GA1 and supplementation with L-carnitine. The patient's clinical status stabilised with resolution of seizures, and she was discharged with plans for continued metabolic and neurological follow-up. This case highlights the necessity of considering metabolic aetiologies, particularly hypocalcaemia secondary to hypoparathyroidism, as potential contributors to seizure activity in infants.",
+      "chunk_index": 0,
+      "char_count": 1141,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "39663127",
+  "pmc_id": null,
+  "title": "Oesophageal submucosal haematoma in a patient with acute coronary syndrome.",
+  "authors": [
+    "Dhillon NS",
+    "Singh A",
+    "Kumar S",
+    "Singh B"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39663127",
+      "pmc_id": null,
+      "title": "Oesophageal submucosal haematoma in a patient with acute coronary syndrome.",
+      "authors": [
+        "Dhillon NS",
+        "Singh A",
+        "Kumar S",
+        "Singh B"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "A man in his mid-70s presented with recent-onset angina. An ECG revealed ST-segment depression, and he was started on treatment under the diagnosis of acute coronary syndrome. 12 hours after admission, he developed haematemesis and dysphagia. A circular mass posterior to the left atrium was found on echocardiography, subsequently, CT revealed oesophageal submucosal haematoma. Anticoagulation therapy was withdrawn, and he showed gradual improvement. Follow-up CT on the 10th day revealed a complete resolution. 3 weeks later, he underwent a successful coronary artery bypass graft procedure and is currently well at 3 months of follow-up.",
+      "chunk_index": 0,
+      "char_count": 641,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

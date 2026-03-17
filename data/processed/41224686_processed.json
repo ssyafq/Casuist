@@ -1,0 +1,41 @@
+{
+  "pmid": "41224686",
+  "pmc_id": null,
+  "title": "Maternal cobalamin deficiency causing infantile seizures and developmental regression.",
+  "authors": [
+    "Weinstock N",
+    "Wood J",
+    "DeBoy E",
+    "Testino A",
+    "Stafstrom C",
+    "Raymond G",
+    "Rajaprakash M",
+    "Vernon H"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41224686",
+      "pmc_id": null,
+      "title": "Maternal cobalamin deficiency causing infantile seizures and developmental regression.",
+      "authors": [
+        "Weinstock N",
+        "Wood J",
+        "DeBoy E",
+        "Testino A",
+        "Stafstrom C",
+        "Raymond G",
+        "Rajaprakash M",
+        "Vernon H"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "We report the case of an 11-month-old boy, presenting with 6 months of failure to thrive, progressive seizures, developmental regression and aversion to solid foods. He also developed systemic symptoms including oral mucocutaneous lesions, neutropenia and anaemia. Notable evaluations included an abnormal electroencephalogram and a thin corpus callosum. Initial diagnostic work-up for epileptic encephalopathy included rapid whole exome sequencing (WES) and metabolic studies. His propionylcarnitine, plasma homocysteine and methylmalonic acid were markedly elevated, with normal vitamin B12, raising concern for an inborn error of cobalamin metabolism or nutritional B12 deficiency. His WES was normal, with no pathogenic variants detected in genes affecting cobalamin metabolism. Maternal vitamin B12 was subsequently found to be undetectable, and the mother was found to have autoantibodies to intrinsic factor and was diagnosed with pernicious anaemia. The child was started on vitamin B12 repletion, resulting in complete correction of metabolic derangements and multimodal neurologic improvements.",
+      "chunk_index": 0,
+      "char_count": 1104,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

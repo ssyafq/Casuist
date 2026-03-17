@@ -1,0 +1,29 @@
+{
+  "pmid": "41631912",
+  "pmc_id": null,
+  "title": "Neurologic Complications of Cardiac Disease and Cardiac Procedures.",
+  "authors": [
+    "Das AS",
+    "Feske SK"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41631912",
+      "pmc_id": null,
+      "title": "Neurologic Complications of Cardiac Disease and Cardiac Procedures.",
+      "authors": [
+        "Das AS",
+        "Feske SK"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "This article reviews the neurologic complications of common cardiac conditions and cardiac procedures. LATEST DEVELOPMENTS: During the past two decades, there has been an expansion of pharmacologic and procedural strategies to reduce stroke risk in patients with atrial fibrillation (eg, direct oral anticoagulants, left atrial appendage occlusion, and catheter ablation), patent foramen ovale (ie, percutaneous closure in selected patients), and those undergoing cardiac surgery (eg, embolic protection devices). ESSENTIAL POINTS: Because stroke is the most common neurologic complication associated with cardiac disease, most newer pharmacologic agents and interventions have been designed to reduce the risk of cardioembolism, particularly from atrial fibrillation, the most prevalent cardiac arrhythmia. Common cardiac procedures such as coronary artery bypass grafting and valve replacement surgery can result in stroke and cognitive decline. Neurologists must be aware of the evolving evidence and tools to mitigate neurologic risks in these patients.",
+      "chunk_index": 0,
+      "char_count": 1057,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

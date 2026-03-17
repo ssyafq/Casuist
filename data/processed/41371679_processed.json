@@ -1,0 +1,37 @@
+{
+  "pmid": "41371679",
+  "pmc_id": null,
+  "title": "[A 57-year-old male case of high temperature requirement A serine peptidase 1 (HTRA1)-related cerebral small vessel disease with \"Chocolate Chip Sign\" on \u200dsusceptibility-weighted imaging].",
+  "authors": [
+    "Takasone K",
+    "Nakamura K",
+    "Shinriki S",
+    "Ueda A",
+    "Ueda M",
+    "Sekijima Y"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41371679",
+      "pmc_id": null,
+      "title": "[A 57-year-old male case of high temperature requirement A serine peptidase 1 (HTRA1)-related cerebral small vessel disease with \"Chocolate Chip Sign\" on \u200dsusceptibility-weighted imaging].",
+      "authors": [
+        "Takasone K",
+        "Nakamura K",
+        "Shinriki S",
+        "Ueda A",
+        "Ueda M",
+        "Sekijima Y"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "We report herein a 57-year-old man who presented with recurrent cerebral infarctions in one year. His father had multiple stroke episodes starting in his late 50s. Brain MRI FLAIR showed diffuse hyperintensities in the deep white matter, suggesting cerebral small vessel disease (CSVD). Notably, susceptibility-weighted imaging (SWI) revealed dot-like lesions along the surface of the midbrain (\"Chocolate Chip Sign\"). These findings suggested high temperature requirement A serine peptidase 1 (HTRA1)-related CSVD. The mutational analysis of the HTRA1 gene disclosed a heterozygous missense variant (NM_002775.4:c.754G>A, p.Ala252Thr). \"Chocolate Chip Sign\" on SWI could be useful in diagnosing heterozygous HTRA1-related CSVD.",
+      "chunk_index": 0,
+      "char_count": 728,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

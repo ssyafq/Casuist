@@ -1,0 +1,45 @@
+{
+  "pmid": "40730124",
+  "pmc_id": null,
+  "title": "Magnetocardiography's role in a recurrent angina patient following percutaneous coronary intervention - Case report.",
+  "authors": [
+    "Ma Z",
+    "Xu F",
+    "Yang S",
+    "Zhang H",
+    "Liu L",
+    "Zhou S",
+    "Feng L",
+    "Tu C",
+    "Song X",
+    "Zhang H"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40730124",
+      "pmc_id": null,
+      "title": "Magnetocardiography's role in a recurrent angina patient following percutaneous coronary intervention - Case report.",
+      "authors": [
+        "Ma Z",
+        "Xu F",
+        "Yang S",
+        "Zhang H",
+        "Liu L",
+        "Zhou S",
+        "Feng L",
+        "Tu C",
+        "Song X",
+        "Zhang H"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Currently, there is a lack of convenient and effective methods for assessing recurrent angina following percutaneous coronary intervention (PCI). We documented the course of magnetocardiography's (MCG) changes in a 41-year-old man with recurrent angina throughout his visit to the clinic. The MCG suggested myocardial ischemia at the first visit. After revascularization with subtotal occlusion of the first diagonal branch (D1), the MCG returned to normal. However, due to his refusal of stent implantation, the angina recurred after one month. The MCG showed myocardial ischemia again, with a normal electrocardiogram (ECG) and cardiac troponin I (cTNI). This raised suspicions of D1 restenosis, a hypothesis that was confirmed by a second coronary angiography (CAG) later. A stent was successfully implanted this time and the patient has been followed up without angina recurrence till date. This case indicates that MCG has good potential to improve the diagnostic pathway especially in recurrent angina with normal ECG and cardiac biomarkers.",
+      "chunk_index": 0,
+      "char_count": 1047,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

@@ -1,0 +1,84 @@
+{
+  "pmid": "41404688",
+  "pmc_id": null,
+  "title": "The role of early respiratory rehabilitation in the management of acute exacerbations of chronic obstructive pulmonary disease (COPD).",
+  "authors": [
+    "Zurowicz B",
+    "Papiez K",
+    "Ratusznik J",
+    "Sladek K"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41404688",
+      "pmc_id": null,
+      "title": "The role of early respiratory rehabilitation in the management of acute exacerbations of chronic obstructive pulmonary disease (COPD).",
+      "authors": [
+        "Zurowicz B",
+        "Papiez K",
+        "Ratusznik J",
+        "Sladek K"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Chronic Obstructive Pulmonary Disease (COPD) is characterized by persistent respiratory symptoms and airflow limitation. Acute exacerbations significantly impair lung function and increase the risk of hospitalization and mortality.",
+      "chunk_index": 0,
+      "char_count": 231,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41404688",
+      "pmc_id": null,
+      "title": "The role of early respiratory rehabilitation in the management of acute exacerbations of chronic obstructive pulmonary disease (COPD).",
+      "authors": [
+        "Zurowicz B",
+        "Papiez K",
+        "Ratusznik J",
+        "Sladek K"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Chronic Obstructive Pulmonary Disease (COPD) is characterized by persistent respiratory symptoms and airflow limitation. Acute exacerbations significantly impair lung function and increase the risk of hospitalization and mortality.\n\nThis case report describes a 66-year-old female patient with GOLD 2023 Group E COPD, admitted to the University Hospital in Cracow due to an acute exacerbation triggered by human metapneumovirus infection. Standard pharmacological therapy was initiated, followed by a 10-day program of individualized respiratory rehabilitation. The rehabilitation interventions included bronchodilator and hypertonic saline nebulization, oscillating positive expiratory pressure (OPEP), gravity-assisted drainage, vibratory massage, and the Active Cycle of Breathing Techniques (ACBT). In addition, limb muscle training using a bedside ergometer was implemented. The rehabilitation began on the second day of hospitalization and was conducted twice daily.",
+      "chunk_index": 1,
+      "char_count": 972,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41404688",
+      "pmc_id": null,
+      "title": "The role of early respiratory rehabilitation in the management of acute exacerbations of chronic obstructive pulmonary disease (COPD).",
+      "authors": [
+        "Zurowicz B",
+        "Papiez K",
+        "Ratusznik J",
+        "Sladek K"
+      ],
+      "specialty": "COPD",
+      "section_type": "labs",
+      "text": "rehabilitation interventions included bronchodilator and hypertonic saline nebulization, oscillating positive expiratory pressure (OPEP), gravity-assisted drainage, vibratory massage, and the Active Cycle of Breathing Techniques (ACBT). In addition, limb muscle training using a bedside ergometer was implemented. The rehabilitation began on the second day of hospitalization and was conducted twice daily.\n\nSignificant clinical improvements were observed: the patient reported reduced dyspnea (Borg scale decreased from 5 to 2), increased FEV(1) (from 30% to improved post-rehabilitation values), and an extended distance in the six-minute walk test (+80 meters), with no exertional desaturation. Inflammatory markers returned to normal. The patient was discharged with recommendations for continued home-based rehabilitation.",
+      "chunk_index": 2,
+      "char_count": 827,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41404688",
+      "pmc_id": null,
+      "title": "The role of early respiratory rehabilitation in the management of acute exacerbations of chronic obstructive pulmonary disease (COPD).",
+      "authors": [
+        "Zurowicz B",
+        "Papiez K",
+        "Ratusznik J",
+        "Sladek K"
+      ],
+      "specialty": "COPD",
+      "section_type": "diagnosis",
+      "text": "the patient reported reduced dyspnea (Borg scale decreased from 5 to 2), increased FEV(1) (from 30% to improved post-rehabilitation values), and an extended distance in the six-minute walk test (+80 meters), with no exertional desaturation. Inflammatory markers returned to normal. The patient was discharged with recommendations for continued home-based rehabilitation.\n\nThis case illustrates that early implementation of comprehensive respiratory physiotherapy during COPD exacerbation can result in functional improvement and symptom relief. These findings align with current evidence supporting the benefits of early pulmonary rehabilitation in reducing the impact of exacerbations and improving quality of life in patients with COPD.",
+      "chunk_index": 3,
+      "char_count": 738,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

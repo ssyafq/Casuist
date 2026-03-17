@@ -1,0 +1,37 @@
+{
+  "pmid": "41218884",
+  "pmc_id": null,
+  "title": "[The 513th case: acute respiratory failure after bilateral lung transplantation].",
+  "authors": [
+    "Qumu MSW",
+    "Wang B",
+    "Liu M",
+    "Li M",
+    "Zhou GW",
+    "Chen WH"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41218884",
+      "pmc_id": null,
+      "title": "[The 513th case: acute respiratory failure after bilateral lung transplantation].",
+      "authors": [
+        "Qumu MSW",
+        "Wang B",
+        "Liu M",
+        "Li M",
+        "Zhou GW",
+        "Chen WH"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "A 67-year-old male had undergone bilateral lung transplantation for chronic obstructive pulmonary disease 11 months before the current presentation. He was admitted with a 5-day history of cough with sputum, and a 2-day history of fever. Computed tomography (CT) of the chest revealed rapidly progressive bilateral diffuse \"ground glass\" opacities. Despite anti-infective therapy and methylprednisolone pulse therapy, his condition deteriorated, necessitating endotracheal intubation with mechanical ventilation and veno-venous extracorporeal membrane oxygenation (V-V ECMO) for life support. A bedside cryobiopsy was undertaken, with pathology confirming the organizing pneumonia diagnosis. Comprehensive treatment was continued: methylprednisolone, tacrolimus for immunosuppression, and prophylactic anti-infectives. His partial pressure of oxygen in the blood by the fraction of inspired oxygen ratio and imaging findings improved gradually. ECMO support was discontinued after 2 weeks, and he was discharged 1-month later, resuming normal daily activities. At 2-month follow-up, he exhibited improved exercise tolerance. Chest CT showed bilateral upper-lobe emphysema (predominantly upper-lobe reticular shadows) and significant bilateral upper-lobe pleural thickening. After 12 months of fllow-up, a diagnosis of chronic lung allograft dysfunction was made based on imaging findings and the trajectory of pulmonary function.",
+      "chunk_index": 0,
+      "char_count": 1429,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

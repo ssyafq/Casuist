@@ -1,0 +1,75 @@
+{
+  "pmid": "41275101",
+  "pmc_id": "PMC12752234",
+  "title": "Loosen, trap, and pull technique for retrieval of an entrapped stent in a previously stented left main coronary artery.",
+  "authors": [
+    "Khairy AM",
+    "Emara A",
+    "Awashra A",
+    "Fahim AA",
+    "Sheridah A",
+    "Nassar S"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41275101",
+      "pmc_id": "PMC12752234",
+      "title": "Loosen, trap, and pull technique for retrieval of an entrapped stent in a previously stented left main coronary artery.",
+      "authors": [
+        "Khairy AM",
+        "Emara A",
+        "Awashra A",
+        "Fahim AA",
+        "Sheridah A",
+        "Nassar S"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Percutaneous coronary intervention (PCI) of left main (LM) bifurcation lesions carries a high risk of complications, including stent entrapment, a rare but potentially life-threatening event. Management often requires surgical intervention, though percutaneous techniques can sometimes provide an alternative solution.",
+      "chunk_index": 0,
+      "char_count": 318,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41275101",
+      "pmc_id": "PMC12752234",
+      "title": "Loosen, trap, and pull technique for retrieval of an entrapped stent in a previously stented left main coronary artery.",
+      "authors": [
+        "Khairy AM",
+        "Emara A",
+        "Awashra A",
+        "Fahim AA",
+        "Sheridah A",
+        "Nassar S"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Percutaneous coronary intervention (PCI) of left main (LM) bifurcation lesions carries a high risk of complications, including stent entrapment, a rare but potentially life-threatening event. Management often requires surgical intervention, though percutaneous techniques can sometimes provide an alternative solution.\n\nA 63-year-old male with hypertension and diabetes mellitus presented with non-ST elevation myocardial infarction (NSTEMI). PCI was performed using the T and small protrusion (TAP) technique for a 1,1,1 Medina-classified an LM bifurcation lesion. Following deployment of the LM-left anterior descending (LAD) stent, the left circumflex (LCx) stent became entrapped in the LM stent, resulting in fracture and shaft separation during attempted retrieval. A stepwise approach was used: (1) multiple balloon inflations to loosen the entrapped stent; (2) shaft trapping within the guide catheter; and (3) en bloc removal of the system. Final correction included deploying an additional stent to address LM stent deformation. The patient remained stable with no post-procedural complications.",
+      "chunk_index": 1,
+      "char_count": 1105,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41275101",
+      "pmc_id": "PMC12752234",
+      "title": "Loosen, trap, and pull technique for retrieval of an entrapped stent in a previously stented left main coronary artery.",
+      "authors": [
+        "Khairy AM",
+        "Emara A",
+        "Awashra A",
+        "Fahim AA",
+        "Sheridah A",
+        "Nassar S"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "retrieval. A stepwise approach was used: (1) multiple balloon inflations to loosen the entrapped stent; (2) shaft trapping within the guide catheter; and (3) en bloc removal of the system. Final correction included deploying an additional stent to address LM stent deformation. The patient remained stable with no post-procedural complications.\n\nThis case highlights the \"loosen, trap, and pull\" technique as a viable percutaneous alternative for retrieving an entrapped stent within a previously deployed LM stent, potentially avoiding the need for emergent surgical intervention.",
+      "chunk_index": 2,
+      "char_count": 581,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

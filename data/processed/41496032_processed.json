@@ -1,0 +1,31 @@
+{
+  "pmid": "41496032",
+  "pmc_id": "PMC12778178",
+  "title": "Fever in a patient with mild acute pancreatitis caused by ulinastatin injection: A case report.",
+  "authors": [
+    "Wu T",
+    "Li L",
+    "Zhang Y"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41496032",
+      "pmc_id": "PMC12778178",
+      "title": "Fever in a patient with mild acute pancreatitis caused by ulinastatin injection: A case report.",
+      "authors": [
+        "Wu T",
+        "Li L",
+        "Zhang Y"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "RATIONALE: The case describes a patient with mild acute pancreatitis (AP) who developed a persistent high fever during ulinastatin treatment. This highlights the possibility of drug-induced fever, which is a rare but important adverse reaction of ulinastatin and is often overlooked in clinical practice. PATIENT CONCERNS: A 58-year-old male patient with mild AP had a persistent high fever during the treatment with ulinastatin, but there was no evidence of infection. DIAGNOSES: Mild AP, ulinastatin-related drug fever. INTERVENTIONS: The initial conservative treatment for AP included fasting, rehydration and taking ulinastatin. Antibiotics (ceftriaxone, later changed to imipenem) were used for suspected infection. After excluding infection, ulinastatin was discontinued. OUTCOMES: Within 48 hours of stopping ulinastatin, the patient's fever symptoms were relieved and his subsequent condition stabilized. LESSONS: This case highlights the importance of considering drug-induced fever in clinical practice. Recognizing it promptly and discontinuing the drug can prevent unnecessary interventions and improve outcomes.",
+      "chunk_index": 0,
+      "char_count": 1124,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

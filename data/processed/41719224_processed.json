@@ -1,0 +1,33 @@
+{
+  "pmid": "41719224",
+  "pmc_id": null,
+  "title": "Fatal Status Epilepticus After Elective Revision Cranioplasty: Case Report and Literature Review.",
+  "authors": [
+    "Spuler K",
+    "Kaukas L",
+    "Tawfik S",
+    "Wells A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41719224",
+      "pmc_id": null,
+      "title": "Fatal Status Epilepticus After Elective Revision Cranioplasty: Case Report and Literature Review.",
+      "authors": [
+        "Spuler K",
+        "Kaukas L",
+        "Tawfik S",
+        "Wells A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "BACKGROUND Cranioplasty is a common neurosurgical procedure performed to correct skull defects after prior surgical intervention or cranial injury. Although frequently performed, the rate of adverse events remains relatively high, and seizures are a commonly reported complication. Despite these complication rates, surgical mortality is not typically associated with cranioplasty, and status epilepticus (SE) is a relatively rare occurrence. We report a case of refractory SE after elective revision cranioplasty that ultimately resulted in death. CASE REPORT A 76-year-old man underwent revision titanium cranioplasty due to symptomatic subsidence of a previously implanted acrylic plate. Immediately following an uncomplicated procedure, the patient developed refractory generalized seizures that progressed to nonconvulsive SE. The seizures were unresponsive to maximal medical therapy, and the patient died 4 weeks after the procedure. CONCLUSIONS The causes of refractory SE after cranioplasty are not fully understood and have been proposed to include focal brain injury, alterations in transmantle pressure, and the use of negative-pressure drains. Prophylactic perioperative administration of antiepileptic drugs may reduce the incidence of seizures and SE after revision cranioplasty. Once SE has developed, established treatment modalities include antiepileptic drugs and sedation; consideration may also be given to infusion of dexmedetomidine, removal of the cranioplasty, and insertion of a vagal nerve stimulator.",
+      "chunk_index": 0,
+      "char_count": 1528,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

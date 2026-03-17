@@ -1,0 +1,33 @@
+{
+  "pmid": "41385101",
+  "pmc_id": "PMC12881079",
+  "title": "Percutaneous cryoneurolysis for intercostal neuralgia due to bifid rib in a pediatric patient.",
+  "authors": [
+    "Verhagen J",
+    "Sorensen A",
+    "Tracy S",
+    "Monroe E"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41385101",
+      "pmc_id": "PMC12881079",
+      "title": "Percutaneous cryoneurolysis for intercostal neuralgia due to bifid rib in a pediatric patient.",
+      "authors": [
+        "Verhagen J",
+        "Sorensen A",
+        "Tracy S",
+        "Monroe E"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Bifid ribs are rare congenital anomalies, usually asymptomatic and discovered incidentally on imaging. However, they can cause significant pain, posing diagnostic and therapeutic challenges, particularly in pediatric populations. We report a case of a 3-year-old female with chronic anterior chest wall pain attributed to a bifid right fourth rib. Imaging confirmed the anomaly without associated soft tissue masses. After transient symptom relief with lidocaine patches and intercostal nerve blocks, she underwent successful percutaneous image-guided cryoneurolysis of the right third to fifth intercostal nerves. The patient experienced marked pain relief post-procedure without complications, with sustained benefit at 4 months. Bifid ribs may be an under-recognized cause of intercostal neuralgia in children. Image-guided percutaneous cryoneurolysis may represent a safe and effective treatment option for symptomatic relief.",
+      "chunk_index": 0,
+      "char_count": 930,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "41591985",
+  "pmc_id": "PMC12860211",
+  "title": "Thrombolytic Therapy After Return of Spontaneous Circulation in Patients With STEMI From Medically Underdeveloped Areas: A Case Series.",
+  "authors": [
+    "Lai J",
+    "Huang C",
+    "Wang L",
+    "Cheng R",
+    "Wang Q",
+    "Han Y"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41591985",
+      "pmc_id": "PMC12860211",
+      "title": "Thrombolytic Therapy After Return of Spontaneous Circulation in Patients With STEMI From Medically Underdeveloped Areas: A Case Series.",
+      "authors": [
+        "Lai J",
+        "Huang C",
+        "Wang L",
+        "Cheng R",
+        "Wang Q",
+        "Han Y"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "BACKGROUND Although current guidelines classify prolonged cardiopulmonary resuscitation (CPR) as a relative contraindication to thrombolytic therapy, this treatment may serve as a viable reperfusion strategy for patients with ST-segment elevation myocardial infarction (STEMI) who achieve return of spontaneous circulation (ROSC) when primary percutaneous coronary intervention (PCI) cannot be performed in a timely manner or is unavailable. This case series evaluated the safety and efficacy of thrombolytic therapy after ROSC in 12 patients with STEMI. CASE REPORT Twelve patients with STEMI (9 men and 3 women; mean age, 64.33 years) who had just returned to continuous spontaneous circulation via CPR received thrombolytic therapy at 3 hospitals (Hospital I, 1 patient; Hospital II, 9 patients; Hospital III, 2 patients) between April 2007 and February 2021. Electrocardiography showed anterior wall elevation in 66.7% and inferior wall elevation in 33.3% of patients; the ischemic site was independent of CPR duration (P=0.890). CPR duration was associated with a higher incidence of rib fractures (P=0.02) but not bleeding complications (P=0.160). Binary logistic regression analysis showed no correlation between CPR duration and grade of bleeding complications (odds ratio=1). Of the 8 long-term survivors, 1 had mild neurological sequelae. CONCLUSIONS Our findings support the safety and feasibility of post-ROSC thrombolysis as a therapeutic option for patients with STEMI after comprehensive clinical evaluation, particularly in resource-limited settings where primary PCI is unavailable. This approach achieves restoration of coronary perfusion and has a potential neuroprotective effect in survivors of cardiac arrest.",
+      "chunk_index": 0,
+      "char_count": 1731,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

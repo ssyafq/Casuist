@@ -1,0 +1,45 @@
+{
+  "pmid": "41002593",
+  "pmc_id": "PMC12468111",
+  "title": "Pulmonary Embolism Associated with Olaparib in BRCA2-Mutated Prostate Cancer: A Case Report.",
+  "authors": [
+    "Ishii S",
+    "Maekawa S",
+    "Amano F",
+    "Kikuchi D",
+    "Ikarashi D",
+    "Kato R",
+    "Kanehira M",
+    "Takata R",
+    "Sugimura J",
+    "Obara W"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41002593",
+      "pmc_id": "PMC12468111",
+      "title": "Pulmonary Embolism Associated with Olaparib in BRCA2-Mutated Prostate Cancer: A Case Report.",
+      "authors": [
+        "Ishii S",
+        "Maekawa S",
+        "Amano F",
+        "Kikuchi D",
+        "Ikarashi D",
+        "Kato R",
+        "Kanehira M",
+        "Takata R",
+        "Sugimura J",
+        "Obara W"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Olaparib, a poly (ADP-ribose) polymerase (PARP) inhibitor approved for treating metastatic castration-resistant prostate cancer (mCRPC) with BRCA mutations, has significant clinical benefits. However, evidence suggests an increased risk of venous thromboembolism, including pulmonary embolism (PE), particularly in patients with PC. However, no case reports of olaparib-associated PE in mCRPC have been published. Here, we report the case of a 70-year-old man with mCRPC harboring a BRCA2 mutation, who developed PE during olaparib therapy. Diagnostic evaluations included contrast-enhanced computed tomography and serum D-dimer level measurement. Clinical decision tools, such as the Wells score and the Khorana score, were used to support the diagnosis and risk assessment. The patient developed acute dyspnea and chest pain 7 months after olaparib initiation. Imaging confirmed multiple pulmonary emboli; laboratory testing revealed markedly elevated D-dimer levels. Anticoagulation therapy with apixaban led to rapid clinical and radiological improvement. However, mCRPC eventually progressed after olaparib discontinuation, and the patient died 15 months after olaparib initiation. This is the first reported case of olaparib-associated PE in mCRPC. It underscores the importance of vigilance for thromboembolic complications during PARP inhibitor therapy. The integration of clinical scoring systems and biomarkers may facilitate timely PE diagnosis and management, potentially improving patient outcomes.",
+      "chunk_index": 0,
+      "char_count": 1511,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41194919",
+  "pmc_id": "PMC12584157",
+  "title": "Case Report: Severe gastrointestinal complications in adult IgA vasculitis: a fatal case of acute esophageal necrosis.",
+  "authors": [
+    "Zhang X",
+    "Wu Z",
+    "Li Y",
+    "Shao S"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41194919",
+      "pmc_id": "PMC12584157",
+      "title": "Case Report: Severe gastrointestinal complications in adult IgA vasculitis: a fatal case of acute esophageal necrosis.",
+      "authors": [
+        "Zhang X",
+        "Wu Z",
+        "Li Y",
+        "Shao S"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Henoch-Schonlein purpura (HSP), also known as immunoglobulin A vasculitis (IgAV), is a type of systemic small-vessel inflammatory pathology. Clinical symptoms can range from simple skin purpura to multiorgan damage. IgAV can be divided into cutaneous-limited and multisystem-involved types, with significant individual variability in clinical manifestations. Between 50%-75% of patients experience abdominal symptoms such as abdominal pain and hematochezia; however, the occurrence of IgAV complicated by pancreatitis and esophageal mucosal sloughing is exceedingly rare. We report a case of adult IgAV with widespread purpura as the main clinical manifestation. Abdominal pain emerged during treatment, and pancreatitis was initially diagnosed based on serum amylase findings and CT imaging features. Nevertheless, acute esophageal necrosis was confirmed via gastroscopy, followed by a rapid deterioration in the patient's clinical status within a short period, ultimately leading to death due to massive gastrointestinal (GI) bleeding and disseminated intravascular coagulation (DIC).",
+      "chunk_index": 0,
+      "char_count": 1086,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41554618",
+  "pmc_id": null,
+  "title": "Paediatric necrotising pancreatitis.",
+  "authors": [
+    "DeSilva N",
+    "Alder B",
+    "Saha A",
+    "Saw C"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41554618",
+      "pmc_id": null,
+      "title": "Paediatric necrotising pancreatitis.",
+      "authors": [
+        "DeSilva N",
+        "Alder B",
+        "Saha A",
+        "Saw C"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Necrotising pancreatitis is a rare but serious complication of acute pancreatitis in children. We report a case of a toddler who presented with a 1 day history of persistent non-bilious vomiting, intermittent pallor and irritability, without fever or diarrhoea. Initial examination was non-specific, but progressive abdominal tenderness and new onset of fever prompted imaging and laboratory investigations. Elevated inflammatory markers and serum lipase, along with contrast-enhanced CT findings, confirmed a diagnosis of necrotising pancreatitis. The patient was transferred to a tertiary hospital, recovering after 9 days of supportive care. Follow-up imaging showed resolution of peripancreatic fluid, and no long-term complications were identified. This unexpected presentation of idiopathic necrotising pancreatitis in a young child emphasises the need for early consideration of acute pancreatitis in paediatric patients with non-specific abdominal symptoms, to avoid delays in diagnosis and treatment.",
+      "chunk_index": 0,
+      "char_count": 1009,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

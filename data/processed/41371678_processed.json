@@ -1,0 +1,35 @@
+{
+  "pmid": "41371678",
+  "pmc_id": null,
+  "title": "[A case of steroid-responsive late deterioration in Cryptococcus meningoencephalitis followed by longitudinal extensive transverse myelitis].",
+  "authors": [
+    "Murakami S",
+    "Hirozawa D",
+    "Wada Y",
+    "Togo K",
+    "Sugai F"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41371678",
+      "pmc_id": null,
+      "title": "[A case of steroid-responsive late deterioration in Cryptococcus meningoencephalitis followed by longitudinal extensive transverse myelitis].",
+      "authors": [
+        "Murakami S",
+        "Hirozawa D",
+        "Wada Y",
+        "Togo K",
+        "Sugai F"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "A 58-year-old male was transported by ambulance to our hospital due to shivering, headache, and abnormal behavior, with a high fever, impaired consciousness, and neck stiffness. The cerebrospinal fluid (CSF) tests revealed increase in mononuclear cell count. Cryptococcal antigen tests were positive in both the serum and CSF samples, especially with remarkably high titer in the latter. According to these findings, he was diagnosed with cryptococcal meningoencephalitis (CM). Antifungal therapy was partially effective for the initial neurological symptoms and in the abnormal CSF findings, but on the 17th day of hospitalization, severe neck pain and paralysis were developed. Spinal MRI showed abnormal signal areas in the spinal cord, extending longitudinally from the C2 to Th3 level. Steroid pulse therapy was administered, followed by post-therapy with oral prednisolone. Afterwards, the spinal lesions diminished, and the patient was able to walk independently upon discharge on the 91st day. While late deterioration in CM after antifungal treatment is known, effectiveness of steroid therapy for late-onset myelitis has not been reported so far. This case suggests usefulness of steroid therapy for longitudinal extensive transverse myelitis as late deterioration.",
+      "chunk_index": 0,
+      "char_count": 1275,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

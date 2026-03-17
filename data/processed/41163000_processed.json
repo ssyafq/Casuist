@@ -1,0 +1,50 @@
+{
+  "pmid": "41163000",
+  "pmc_id": "PMC12573874",
+  "title": "Symptomatic anomalous right coronary artery in mother and daughter, a case report.",
+  "authors": [
+    "Nahal C",
+    "Borden N",
+    "Johnson E",
+    "Faber C"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41163000",
+      "pmc_id": "PMC12573874",
+      "title": "Symptomatic anomalous right coronary artery in mother and daughter, a case report.",
+      "authors": [
+        "Nahal C",
+        "Borden N",
+        "Johnson E",
+        "Faber C"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Anomalous origin of the right coronary artery (AORCA) is a rare, typically asymptomatic congenital cardiac abnormality. Because there are only few reported of cases of familial AORCA, knowledge of its inheritability is limited. CASE DESCRIPTION: A 43 year old female with symptomatic asthma and previous history of pulmonary embolism 10 years before presentation arrived to the emergency room with worsening dyspnea and chest pain. Laboratory markers, electrocardiogram and echocardiogram did not indicate myocardial ischemia. Computed tomographic angiography (CTA) evaluation revealed AORCA from the left coronary sinus with an anterior course between the aorta and pulmonary artery. She underwent de-roofing of her aberrant right coronary artery without complication. At follow up, patient noted improvement in her shortness of breath and resolution of her chest pain. The patient's daughter had a similar symptomatic presentation at age 14, and was diagnosed with AORCA originating on the anterolateral left aspect of the aorta 1 cm distal to the sinotubular junction and 3 cm distal to the aortic annulus. Symptoms improved following surgical neo-ostium creation. Our patient had a vague clinical presentation because of baseline symptomatic asthma and distant history of pulmonary embolism. Given unremarkable pulmonary function testing and progressive dyspnea and chest pain, AORCA was likely contributing to her symptoms.",
+      "chunk_index": 0,
+      "char_count": 1428,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41163000",
+      "pmc_id": "PMC12573874",
+      "title": "Symptomatic anomalous right coronary artery in mother and daughter, a case report.",
+      "authors": [
+        "Nahal C",
+        "Borden N",
+        "Johnson E",
+        "Faber C"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "and 3 cm distal to the aortic annulus. Symptoms improved following surgical neo-ostium creation. Our patient had a vague clinical presentation because of baseline symptomatic asthma and distant history of pulmonary embolism. Given unremarkable pulmonary function testing and progressive dyspnea and chest pain, AORCA was likely contributing to her symptoms.\n\nFurther reporting and genetic testing of patients with AORCA is warranted to evaluate heritability. This would allow for expedited diagnostic accuracy for patients with an unclear clinical presentation.",
+      "chunk_index": 1,
+      "char_count": 561,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "41500707",
+  "pmc_id": null,
+  "title": "Atrial cardiomyopathy as a potential embolic source in large vessel occlusion.",
+  "authors": [
+    "Moriyama T",
+    "Okazaki S",
+    "Abe H",
+    "Hirose Y",
+    "Ikeda Y",
+    "Yamagami H"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41500707",
+      "pmc_id": null,
+      "title": "Atrial cardiomyopathy as a potential embolic source in large vessel occlusion.",
+      "authors": [
+        "Moriyama T",
+        "Okazaki S",
+        "Abe H",
+        "Hirose Y",
+        "Ikeda Y",
+        "Yamagami H"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "A man in his 80s presented with left hemiparesis and was found to have right internal carotid artery occlusion, and mechanical thrombectomy was successfully performed. An implantable loop recorder implanted 3 years ago showed no episodes of atrial fibrillation (AF) prior to admission. A paroxysmal episode of AF was detected during hospitalisation but did not recur during the following 6 months. Extensive diagnostic evaluation revealed no alternative sources of embolism. One year later, the patient died of septic shock. Autopsy revealed extensive fibrosis of the left atrium and patchy subendocardial transthyretin-type amyloid deposits, consistent with atrial cardiomyopathy. This case demonstrates that even mild or subclinical structural cardiac abnormalities not meeting the diagnostic threshold for overt cardiac disease may contribute to embolic stroke. More broadly, this study provides important clinical evidence supporting the concept of atrial cardiomyopathy as an independent stroke mechanism in the absence of AF.",
+      "chunk_index": 0,
+      "char_count": 1031,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

@@ -1,0 +1,75 @@
+{
+  "pmid": "41579008",
+  "pmc_id": null,
+  "title": "Dysautonomia after COVID-19 infection: A case report.",
+  "authors": [
+    "Vera-Caceres CH",
+    "Garcia-Huguet M",
+    "Gil de Genover A",
+    "Sagula SD",
+    "Martin Munoz L",
+    "Lopez Dominguez D"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41579008",
+      "pmc_id": null,
+      "title": "Dysautonomia after COVID-19 infection: A case report.",
+      "authors": [
+        "Vera-Caceres CH",
+        "Garcia-Huguet M",
+        "Gil de Genover A",
+        "Sagula SD",
+        "Martin Munoz L",
+        "Lopez Dominguez D"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "This case report discusses a case of a patient who experienced acute autonomic dysfunction during the parainfectious phase of COVID-19, attributed to Guillain-Barre Syndrome (GBS). This is the first well-documented case of such an association.",
+      "chunk_index": 0,
+      "char_count": 243,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41579008",
+      "pmc_id": null,
+      "title": "Dysautonomia after COVID-19 infection: A case report.",
+      "authors": [
+        "Vera-Caceres CH",
+        "Garcia-Huguet M",
+        "Gil de Genover A",
+        "Sagula SD",
+        "Martin Munoz L",
+        "Lopez Dominguez D"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "This case report discusses a case of a patient who experienced acute autonomic dysfunction during the parainfectious phase of COVID-19, attributed to Guillain-Barre Syndrome (GBS). This is the first well-documented case of such an association.\n\nA 64-year-old woman, previously infected with COVID-19, was admitted to the emergency department due to altered mental status. Brain computed tomography (CT) revealed bilateral occipital diffuse hypodensity. Throughout her hospitalization, she exhibited elevated blood pressure necessitating intravenous treatment. The initial brain MRI revealed T2-weighted image hyperintensity at the parietal and occipital levels, indicative of vasogenic edema. These neuroimaging findings were suggestive of posterior reversible encephalopathy syndrome (PRES). Euvolemic hyponatremia with concurrent low serum osmolality and high urine osmolality and sodium was observed, indicating a syndrome of inappropriate antidiuretic hormone (SIADH). Throughout the patient's stay, her level of consciousness exhibited significant improvement. However, she developed ascending symmetrical limb weakness and progressive loss of reflexes, along with a severe motor deficit and gait disturbance, accompanied by arterial blood pressure fluctuations and other signs of autonomic dysfunction. Clinical manifestations, neurophysiological findings, and laboratory results were indicative of Guillain-Barre Syndrome (GBS), leading to a conclusive diagnosis of GBS with dysautonomia triggered by a COVID-19 infection.",
+      "chunk_index": 1,
+      "char_count": 1529,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41579008",
+      "pmc_id": null,
+      "title": "Dysautonomia after COVID-19 infection: A case report.",
+      "authors": [
+        "Vera-Caceres CH",
+        "Garcia-Huguet M",
+        "Gil de Genover A",
+        "Sagula SD",
+        "Martin Munoz L",
+        "Lopez Dominguez D"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "of reflexes, along with a severe motor deficit and gait disturbance, accompanied by arterial blood pressure fluctuations and other signs of autonomic dysfunction. Clinical manifestations, neurophysiological findings, and laboratory results were indicative of Guillain-Barre Syndrome (GBS), leading to a conclusive diagnosis of GBS with dysautonomia triggered by a COVID-19 infection.\n\nThis case reveals the relevance of diagnosing autonomic dysfunction (including PRES) as the initial manifestation of GBS linked to COVID-19 infection and the importance of early diagnosis to prevent potential complications.",
+      "chunk_index": 2,
+      "char_count": 608,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41526061",
+  "pmc_id": null,
+  "title": "Thrombolysis in acute stroke complicated by limb ischaemia: a dual thrombectomy approach.",
+  "authors": [
+    "Goud MV",
+    "Hughes N",
+    "Keston P",
+    "Huang X"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41526061",
+      "pmc_id": null,
+      "title": "Thrombolysis in acute stroke complicated by limb ischaemia: a dual thrombectomy approach.",
+      "authors": [
+        "Goud MV",
+        "Hughes N",
+        "Keston P",
+        "Huang X"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "We report a case of a man in his early 70s with paroxysmal atrial fibrillation who developed acute upper limb ischaemia following intravenous thrombolysis (IVT) for acute ischaemic stroke. The patient presented with left-sided weakness and was treated with alteplase, after which he experienced left arm ischaemia. Imaging revealed a left axillary artery occlusion and a left atrial appendage thrombus, suggesting embolisation. Simultaneous mechanical thrombectomy was performed for both the intracranial and axillary artery occlusions, successfully restoring perfusion. This case highlights the risk of thromboembolic complications following IVT and demonstrates that devices used for intracranial thrombectomy can be effectively used for peripheral artery embolectomy. It emphasises the need for early recognition, advanced imaging and prompt intervention to optimise patient outcomes.",
+      "chunk_index": 0,
+      "char_count": 887,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

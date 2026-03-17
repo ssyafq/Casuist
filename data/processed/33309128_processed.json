@@ -1,0 +1,35 @@
+{
+  "pmid": "33309128",
+  "pmc_id": "PMC7847776",
+  "title": "Quadricuspid aortic valve with a hidden left ostium: Case report and literature review.",
+  "authors": [
+    "Soares FR",
+    "Branco C",
+    "Coutinho GF",
+    "Prieto D",
+    "Antunes MJ"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "33309128",
+      "pmc_id": "PMC7847776",
+      "title": "Quadricuspid aortic valve with a hidden left ostium: Case report and literature review.",
+      "authors": [
+        "Soares FR",
+        "Branco C",
+        "Coutinho GF",
+        "Prieto D",
+        "Antunes MJ"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "Quadricuspid aortic valve (QAV) is a rare congenital condition that frequently progresses to aortic regurgitation with clinical impact in adulthood. Surgical treatment is required in the fifth to sixth decade of life in about one fifth of patients. We describe the case of a 64-year-old woman with regular cardiological follow-up for severe aortic valve regurgitation who had suffered recent clinical and echocardiographic deterioration. Conventional open surgery was indicated. During the procedure, a QAV with leaflet retraction and central orifice was observed. The aortic valve was successfully replaced.",
+      "chunk_index": 0,
+      "char_count": 608,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

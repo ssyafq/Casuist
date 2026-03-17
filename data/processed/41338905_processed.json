@@ -1,0 +1,29 @@
+{
+  "pmid": "41338905",
+  "pmc_id": null,
+  "title": "Levofloxacin-induced focal seizure in a patient with multidrug-resistant tuberculosis and chronic kidney disease.",
+  "authors": [
+    "Ramanuj P",
+    "Khasbage SU"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41338905",
+      "pmc_id": null,
+      "title": "Levofloxacin-induced focal seizure in a patient with multidrug-resistant tuberculosis and chronic kidney disease.",
+      "authors": [
+        "Ramanuj P",
+        "Khasbage SU"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Levofloxacin, a fluoroquinolone antibiotic, is essential in the treatment protocols for multidrug-resistant tuberculosis (MDR-TB). Generally well tolerated, it infrequently induces central nervous system adverse effects, especially in patients with renal impairment. We present a woman in her early 50s with chronic renal disease and hypothyroidism who experienced focal seizures after 48 hours of commencing levofloxacin as part of her multidrug-resistant tuberculosis treatment regimen. The seizures exhibited unilateral aberrant movements with initially intact consciousness, thereafter followed by brief episodes of altered awareness. Thorough investigations ruled out metabolic, structural and other pharmacological reasons. Seizure activity fully resolved following 3 days of discontinuing levofloxacin, with no recurrence documented during follow-up. This case highlights the importance of recognising levofloxacin-induced neurotoxicity in patients with chronic kidney disease. Dose adjustment, close monitoring and early detection of neurological symptoms are crucial to ensure safe MDR-TB management.",
+      "chunk_index": 0,
+      "char_count": 1109,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

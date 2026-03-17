@@ -1,0 +1,41 @@
+{
+  "pmid": "41367018",
+  "pmc_id": "PMC12689077",
+  "title": "Atrial overdrive pacing in drug-refractory postinfarction electrical storm case report.",
+  "authors": [
+    "Xu XY",
+    "He RX",
+    "Wang HJ",
+    "Liu P",
+    "Ma GL",
+    "Ji LN",
+    "Qi BY",
+    "Liu XP"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41367018",
+      "pmc_id": "PMC12689077",
+      "title": "Atrial overdrive pacing in drug-refractory postinfarction electrical storm case report.",
+      "authors": [
+        "Xu XY",
+        "He RX",
+        "Wang HJ",
+        "Liu P",
+        "Ma GL",
+        "Ji LN",
+        "Qi BY",
+        "Liu XP"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "RATIONALE: Drug-refractory electrical storm (ES) following acute myocardial infarction (AMI) constitutes a critical therapeutic challenge. Atrial overdrive pacing (AOP) provides physiological rhythm control by suppressing ventricular ectopy through synchronized atrioventricular activation, circumventing ventricular pacing-associated hemodynamic compromise. PATIENT CONCERNS: A 62-year-old female with AMI developed recurrent polymorphic ventricular tachycardia/ventricular fibrillation refractory to antiarrhythmics (amiodarone/esmolol/lidocaine) and revascularization, fulfilling ES criteria. DIAGNOSES: The patient was diagnosed with acute anterior wall myocardial infarction, Killip class II-III acute left heart failure, secondary hepatic dysfunction, hypertension, type 2 diabetes mellitus and ES. INTERVENTIONS: X-ray-guided temporary AOP (95 bpm) via subclavian access was implemented with concurrent beta-blocker/sacubitril-valsartan optimization and electrolyte correction. Antiarrhythmics were discontinued post-AOP. OUTCOMES: Sustained arrhythmia suppression was achieved (0 recurrences/9 months), alongside improved left ventricular ejection fraction (40%-->46%) and 70.7% N-terminal B-type natriuretic peptide precursor reduction (33,593-->9839 pg/mL). Implantable cardioverter-defibrillator was declined without clinical sequelae. LESSONS: AOP demonstrates dual therapeutic efficacy in refractory post-AMI ES: (1) physiological conduction restoration suppressing ectopic triggers and (2) avoidance of ventricular pacing-induced dyssynchrony. Fluoroscopic guidance ensures lead stability, positioning AOP as a hemodynamically favorable intervention in ES management.",
+      "chunk_index": 0,
+      "char_count": 1681,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

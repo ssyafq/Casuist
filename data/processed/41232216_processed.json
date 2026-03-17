@@ -1,0 +1,43 @@
+{
+  "pmid": "41232216",
+  "pmc_id": null,
+  "title": "Iatrogenic NORSE: Immune checkpoint inhibitor-related anti-GFAP autoimmune astrocytopathy.",
+  "authors": [
+    "Marotta C",
+    "Rolla E",
+    "Fabris M",
+    "Domenis R",
+    "Honnorat J",
+    "Iacono D",
+    "Aprile G",
+    "Valente M",
+    "Vogrig A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41232216",
+      "pmc_id": null,
+      "title": "Iatrogenic NORSE: Immune checkpoint inhibitor-related anti-GFAP autoimmune astrocytopathy.",
+      "authors": [
+        "Marotta C",
+        "Rolla E",
+        "Fabris M",
+        "Domenis R",
+        "Honnorat J",
+        "Iacono D",
+        "Aprile G",
+        "Valente M",
+        "Vogrig A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Immune checkpoint inhibitors (ICIs) have radically improved cancer therapy but are associated with a spectrum of immune-related adverse events (irAEs), including infrequent (1-3 %) neurological complications. Pembrolizumab, an anti-PD-1 monoclonal antibody, enhances antitumor immunity but may disrupt self-tolerance, leading to autoimmune phenomena. This case report describes a patient with triple metachronous malignancies (cerebral hemangioblastoma, clear cell renal carcinoma, and non-small cell lung cancer, NSCLC), who developed glial fibrillary acidic protein (GFAP)-antibody-associated autoimmune encephalitis following pembrolizumab therapy initiated as NSCLC treatment. The clinical course was marked by subacute neurocognitive decline followed by new-onset refractory status epilepticus (NORSE). Diagnostic workup revealed GFAP antibodies in cerebrospinal fluid as well as serum, with no evidence of tumor progression or infectious causes. Although GFAP astrocytopathy has been rarely linked to ICIs, this appears to be the first report manifesting with NORSE. The temporal association with cancer immunotherapy, the presence of GFAP autoantibodies, and a positive steroid response collectively suggest that ICI-induced immune dysregulation is the primary disease mechanism. This report, in conjunction with other isolated descriptions form the literature with other antibody specificities, paves the way to a new spectrum of etiologies for NORSE, namely iatrogenic causes related to cancer immunotherapy.",
+      "chunk_index": 0,
+      "char_count": 1517,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

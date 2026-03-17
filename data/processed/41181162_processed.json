@@ -1,0 +1,33 @@
+{
+  "pmid": "41181162",
+  "pmc_id": "PMC12577539",
+  "title": "Unique Coexistence of Dual Left Anterior Descending Artery and Split Right Coronary Artery.",
+  "authors": [
+    "Singh D",
+    "Pandey NN",
+    "Chopra N",
+    "Yadav S"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41181162",
+      "pmc_id": "PMC12577539",
+      "title": "Unique Coexistence of Dual Left Anterior Descending Artery and Split Right Coronary Artery.",
+      "authors": [
+        "Singh D",
+        "Pandey NN",
+        "Chopra N",
+        "Yadav S"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "We report a case of a 50-year-old male presenting with class III angina on exertion, where an electrocardiogram-gated coronary computed tomography angiography (CCTA) demonstrated the unique coexistence of a type IV dual left anterior descending artery and a split right coronary artery. This case underscores the importance of CCTA in accurately delineating rare coronary artery anatomical variants to avoid both a misdiagnosis and the risk of potential catastrophic outcomes during interventional or surgical procedures.",
+      "chunk_index": 0,
+      "char_count": 521,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

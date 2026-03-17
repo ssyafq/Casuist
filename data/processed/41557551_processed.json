@@ -1,0 +1,29 @@
+{
+  "pmid": "41557551",
+  "pmc_id": "PMC12679970",
+  "title": "Pulmonary mycosis caused by Papiliotrema laurentii following COVID-19 infection: case report.",
+  "authors": [
+    "Flores-Espejo JM",
+    "Sernaque-Mechato RA"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41557551",
+      "pmc_id": "PMC12679970",
+      "title": "Pulmonary mycosis caused by Papiliotrema laurentii following COVID-19 infection: case report.",
+      "authors": [
+        "Flores-Espejo JM",
+        "Sernaque-Mechato RA"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Papiliotrema laurentii (formerly known as Cryptococcus laurentii) is an environmental saprophytic yeast that rarely causes disease in humans, mainly in immunosuppressed patients. We present a case of nosocomial pulmonary mycosis due to Papiliotrema laurentii in a 51-year-old male patient with a COVID-19 infection and a history of untreated type 2 diabetes mellitus. During his hospital stay, he received intravenous fluconazole for two weeks, with a favorable outcome. He was discharged with oral fluconazole for three months and follow-up in an outpatient clinic. One month after hospital discharge, he presented with cardiorespiratory arrest that did not respond to resuscitation maneuvers. The case highlights the importance of considering saprophytic species among the differential diagnoses of opportunistic mycoses.",
+      "chunk_index": 0,
+      "char_count": 823,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

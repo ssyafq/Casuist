@@ -1,0 +1,89 @@
+{
+  "pmid": "41549140",
+  "pmc_id": null,
+  "title": "Neuronal intranuclear inclusion disease with stroke-mimicking onset: a case report and systematic review.",
+  "authors": [
+    "Cai H",
+    "Fan Y",
+    "Yu Y",
+    "Wang L",
+    "Cao L"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41549140",
+      "pmc_id": null,
+      "title": "Neuronal intranuclear inclusion disease with stroke-mimicking onset: a case report and systematic review.",
+      "authors": [
+        "Cai H",
+        "Fan Y",
+        "Yu Y",
+        "Wang L",
+        "Cao L"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Neuronal intranuclear inclusion disease (NIID) shows clinical heterogeneity. The understanding of clinical and imaging features of stroke-like NIID episodes remains insufficient, leading to delayed diagnosis.",
+      "chunk_index": 0,
+      "char_count": 208,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41549140",
+      "pmc_id": null,
+      "title": "Neuronal intranuclear inclusion disease with stroke-mimicking onset: a case report and systematic review.",
+      "authors": [
+        "Cai H",
+        "Fan Y",
+        "Yu Y",
+        "Wang L",
+        "Cao L"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Neuronal intranuclear inclusion disease (NIID) shows clinical heterogeneity. The understanding of clinical and imaging features of stroke-like NIID episodes remains insufficient, leading to delayed diagnosis.\n\nWe present a case of NIID which initially manifested with stroke-mimicking onset. We consequently conducted a comprehensive literature review of similar NIID cases to characterize their clinical and radiological features.",
+      "chunk_index": 1,
+      "char_count": 431,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41549140",
+      "pmc_id": null,
+      "title": "Neuronal intranuclear inclusion disease with stroke-mimicking onset: a case report and systematic review.",
+      "authors": [
+        "Cai H",
+        "Fan Y",
+        "Yu Y",
+        "Wang L",
+        "Cao L"
+      ],
+      "specialty": "stroke",
+      "section_type": "labs",
+      "text": "We present a case of NIID which initially manifested with stroke-mimicking onset. We consequently conducted a comprehensive literature review of similar NIID cases to characterize their clinical and radiological features.\n\nWe present the case of a 66-year-old woman admitted with dizziness and speech impairment lasting 1 day. MRI revealed subtle diffusion restriction at the corticomedullary junction. Initially, acute ischemic stroke was considered, and antiplatelet, cerebral circulation improvement, and neurotrophic therapies administered. NOTCH2NLC gene testing revealed 104 GGC repeats in the 5'UTR region, and skin pathology demonstrated intranuclear inclusions, culminating in an NIID diagnosis. A subsequent literature review of stroke-like onset in patients with NIID revealed a mean onset and diagnostic age of 59.07 +/- 9.86 and 63.97 +/- 9.69 years, respectively. The most common clinical symptoms included speech disorder, limb weakness, cognitive dysfunction, and consciousness disorder. Almost all patients showed diffusion restriction at the corticomedullary junction. The patient's NOTCH2NLC gene test revealed 66-146 GGC sequence repeats. Follow-up revealed that 60.87% of patients recovered to pre-onset status.",
+      "chunk_index": 2,
+      "char_count": 1232,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41549140",
+      "pmc_id": null,
+      "title": "Neuronal intranuclear inclusion disease with stroke-mimicking onset: a case report and systematic review.",
+      "authors": [
+        "Cai H",
+        "Fan Y",
+        "Yu Y",
+        "Wang L",
+        "Cao L"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "63.97 +/- 9.69 years, respectively. The most common clinical symptoms included speech disorder, limb weakness, cognitive dysfunction, and consciousness disorder. Almost all patients showed diffusion restriction at the corticomedullary junction. The patient's NOTCH2NLC gene test revealed 66-146 GGC sequence repeats. Follow-up revealed that 60.87% of patients recovered to pre-onset status.\n\nPatients with stroke-mimicking onset NIID typically wait a considerable amount of time for a definitive diagnosis, and are prone to being misdiagnosed with stroke. The majority of MRIs demonstrate variable degrees of diffusion restriction at the corticomedullary junction, and care should be taken to avoid being overlooked in images with subtle diffusion signals.",
+      "chunk_index": 3,
+      "char_count": 756,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

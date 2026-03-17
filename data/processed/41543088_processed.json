@@ -1,0 +1,69 @@
+{
+  "pmid": "41543088",
+  "pmc_id": null,
+  "title": "Idiopathic Pulmonary Hemosiderosis Characterized by Recurrent Infections and Anemia.",
+  "authors": [
+    "Yu F"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41543088",
+      "pmc_id": null,
+      "title": "Idiopathic Pulmonary Hemosiderosis Characterized by Recurrent Infections and Anemia.",
+      "authors": [
+        "Yu F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Idiopathic pulmonary hemosiderosis (IPH) is a rare condition characterized by recurrent alveolar bleeding, hemosiderin deposition, and pulmonary fibrosis, predominantly affecting children. Its diagnosis and management are complex.",
+      "chunk_index": 0,
+      "char_count": 230,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41543088",
+      "pmc_id": null,
+      "title": "Idiopathic Pulmonary Hemosiderosis Characterized by Recurrent Infections and Anemia.",
+      "authors": [
+        "Yu F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Idiopathic pulmonary hemosiderosis (IPH) is a rare condition characterized by recurrent alveolar bleeding, hemosiderin deposition, and pulmonary fibrosis, predominantly affecting children. Its diagnosis and management are complex.\n\nA case involving a 3-year-old female patient with iron deficiency anemia and recurrent pneumonia was analyzed supported by laboratory and imaging investigations. Clinical symptoms included nausea, fever, and pallor.",
+      "chunk_index": 1,
+      "char_count": 447,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41543088",
+      "pmc_id": null,
+      "title": "Idiopathic Pulmonary Hemosiderosis Characterized by Recurrent Infections and Anemia.",
+      "authors": [
+        "Yu F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "labs",
+      "text": "A case involving a 3-year-old female patient with iron deficiency anemia and recurrent pneumonia was analyzed supported by laboratory and imaging investigations. Clinical symptoms included nausea, fever, and pallor.\n\nInitial evaluations indicated moderate anemia (HGB 73 g/L) and signs of infection, with imaging revealing diffuse ground-glass opacities. Following the exclusion of other conditions, a diagnosis of IPH was established, and comprehensive treatment resulted in notable clinical improvement.",
+      "chunk_index": 2,
+      "char_count": 505,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41543088",
+      "pmc_id": null,
+      "title": "Idiopathic Pulmonary Hemosiderosis Characterized by Recurrent Infections and Anemia.",
+      "authors": [
+        "Yu F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "Initial evaluations indicated moderate anemia (HGB 73 g/L) and signs of infection, with imaging revealing diffuse ground-glass opacities. Following the exclusion of other conditions, a diagnosis of IPH was established, and comprehensive treatment resulted in notable clinical improvement.\n\nThis case underscores the importance of multidisciplinary collaboration in diagnosing and managing IPH, particularly in pediatric patients, to enhance outcomes and quality of life.",
+      "chunk_index": 3,
+      "char_count": 470,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

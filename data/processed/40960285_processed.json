@@ -1,0 +1,37 @@
+{
+  "pmid": "40960285",
+  "pmc_id": "PMC12444056",
+  "title": "Myocardial Infarction Masking: A Rare Case of Coronary-Subclavian Steal Syndrome.",
+  "authors": [
+    "Zeleke ST",
+    "Singh D",
+    "Fletcher A",
+    "Saeed I",
+    "Rabbani N",
+    "Sayyed R"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40960285",
+      "pmc_id": "PMC12444056",
+      "title": "Myocardial Infarction Masking: A Rare Case of Coronary-Subclavian Steal Syndrome.",
+      "authors": [
+        "Zeleke ST",
+        "Singh D",
+        "Fletcher A",
+        "Saeed I",
+        "Rabbani N",
+        "Sayyed R"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Coronary-subclavian steal syndrome (CSSS) is a rare but important complication following coronary artery bypass grafting (CABG) involving the left internal mammary artery (LIMA), typically due to proximal subclavian artery stenosis. We present a 54-year-old male with prior triple-vessel CABG (LIMA to left anterior descending) who developed acute chest pain and elevated troponin levels. Electrocardiogram showed diffuse ST-segment changes. Emergent angiography revealed patent grafts but critical 90% stenosis of the left subclavian artery proximal to the LIMA origin. The lesion was successfully treated with percutaneous angioplasty and drug-eluting stent placement, resulting in the resolution of symptoms and preserved cardiac function. CSSS, though uncommon, should be considered in post-CABG patients with recurrent angina or myocardial injury despite patent grafts. Literature estimates subclavian stenosis in up to 5% of CABG candidates, yet routine screening remains inconsistent. This case highlights CSSS as a reversible cause of ischemia and underscores the value of targeted vascular imaging in selected patients.",
+      "chunk_index": 0,
+      "char_count": 1128,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

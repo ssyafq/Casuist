@@ -1,0 +1,33 @@
+{
+  "pmid": "40518345",
+  "pmc_id": "PMC12765881",
+  "title": "Refractory ventricular fibrillation from thyrotoxic hypokalemic periodic paralysis.",
+  "authors": [
+    "Stults G",
+    "Marks S",
+    "Kuzel A",
+    "Whitford R"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40518345",
+      "pmc_id": "PMC12765881",
+      "title": "Refractory ventricular fibrillation from thyrotoxic hypokalemic periodic paralysis.",
+      "authors": [
+        "Stults G",
+        "Marks S",
+        "Kuzel A",
+        "Whitford R"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We present the case of a 23-year-old male with no past medical history who presented to the emergency department via emergency medical services (EMS) with the complaint of weakness starting in his legs that progressed to generalized weakness, inability to move the bilateral lower extremities, and body aches. Initial concerns were for Guillain-Barre or atickborne illness. During his workup the patient spontaneously developed ventricular tachycardia that quickly degenerated into ventricular fibrillation, and a prolonged resuscitation effort ensued. After over an hour of CPR sustained ROSC was obtained for long enough that the patient could be transferred to an ECMO center. On arrival he had recurrent ventricular arrhythmias but was also profoundly hypoxic and thus was placed on a hybrid of VA and VV ECMO, i.e., V-AV ECMO. He ultimately survived and was discharged home. The diagnosis of hypokalemic periodic paralysis with thyrotoxicosis and thyroid storm was made. This case reviews this rare life-threatening diagnosis and the use of V-AV ECMO in post cardiac arrest resuscitation.",
+      "chunk_index": 0,
+      "char_count": 1093,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

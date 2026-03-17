@@ -1,0 +1,87 @@
+{
+  "pmid": "39385309",
+  "pmc_id": "PMC11465706",
+  "title": "Adult-onset Still's disease masquerading as acute coronary syndrome: a case report and review of the literature.",
+  "authors": [
+    "Milne I",
+    "Kanwar R",
+    "Martin W",
+    "Egert D",
+    "Leisgang A",
+    "Albano-Aluquin SA",
+    "Henao MP",
+    "Kreider C",
+    "Ssentongo P"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39385309",
+      "pmc_id": "PMC11465706",
+      "title": "Adult-onset Still's disease masquerading as acute coronary syndrome: a case report and review of the literature.",
+      "authors": [
+        "Milne I",
+        "Kanwar R",
+        "Martin W",
+        "Egert D",
+        "Leisgang A",
+        "Albano-Aluquin SA",
+        "Henao MP",
+        "Kreider C",
+        "Ssentongo P"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Adult-onset Still's disease is a rare systemic autoinflammatory disease. We present a case of a young man with a constellation of symptoms and myopericarditis as a complication of this disease. CASE: A 36-year-old Hispanic man with no significant past medical history developed a quotidian fever pattern following an upper respiratory tract infection. He initially presented with chest pain concerning for myocardial infarction and underwent cardiac catheterization, which revealed non-obstructive coronary artery disease. He was found to have myopericarditis, significant neutrophilic leukocytosis, and hyperferritinemia. He improved on high-dose corticosteroids but developed steroid-induced psychosis, and 4 months from symptom onset, he finally received tocilizumab, which eventually induced remission without adverse reactions.",
+      "chunk_index": 0,
+      "char_count": 832,
+      "subspecialty": "acute coronary syndrome"
+    },
+    {
+      "pmid": "39385309",
+      "pmc_id": "PMC11465706",
+      "title": "Adult-onset Still's disease masquerading as acute coronary syndrome: a case report and review of the literature.",
+      "authors": [
+        "Milne I",
+        "Kanwar R",
+        "Martin W",
+        "Egert D",
+        "Leisgang A",
+        "Albano-Aluquin SA",
+        "Henao MP",
+        "Kreider C",
+        "Ssentongo P"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "discussion",
+      "text": "for myocardial infarction and underwent cardiac catheterization, which revealed non-obstructive coronary artery disease. He was found to have myopericarditis, significant neutrophilic leukocytosis, and hyperferritinemia. He improved on high-dose corticosteroids but developed steroid-induced psychosis, and 4 months from symptom onset, he finally received tocilizumab, which eventually induced remission without adverse reactions.\n\nAdult-onset Still's disease should be considered in a patient with fevers of undetermined origin. Due to its multisystemic involvement, adult-onset Still's disease is often a diagnosis arrived at after an extensive cardiac, hematologic, malignant, and infectious workup. Imaging, laboratory testing, and bone marrow biopsy were necessary to rule out alternative etiologies of this patient's presentation. Steroids are the mainstay of treatment because they are easily affordable, although the high risk of adverse effects makes them less desirable. Interleukin-1 inhibitors (anakinra or canakinumab) and interleukin-6 inhibitor tocilizumab are the steroid-sparing biologic agents of choice but are cost-prohibitive.",
+      "chunk_index": 1,
+      "char_count": 1147,
+      "subspecialty": "acute coronary syndrome"
+    },
+    {
+      "pmid": "39385309",
+      "pmc_id": "PMC11465706",
+      "title": "Adult-onset Still's disease masquerading as acute coronary syndrome: a case report and review of the literature.",
+      "authors": [
+        "Milne I",
+        "Kanwar R",
+        "Martin W",
+        "Egert D",
+        "Leisgang A",
+        "Albano-Aluquin SA",
+        "Henao MP",
+        "Kreider C",
+        "Ssentongo P"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "diagnosis",
+      "text": "to rule out alternative etiologies of this patient's presentation. Steroids are the mainstay of treatment because they are easily affordable, although the high risk of adverse effects makes them less desirable. Interleukin-1 inhibitors (anakinra or canakinumab) and interleukin-6 inhibitor tocilizumab are the steroid-sparing biologic agents of choice but are cost-prohibitive.\n\nAdult-onset Still's disease should be considered in the differential diagnoses of fever of undetermined origin. Early identification and initiation of treatment are critical to faster recovery and prevention of progression to severe complications. Steroids remain the standard first-line therapy and should be followed by disease-modifying steroid sparing drugs. The social determinants of health may preclude their timely initiation and should alert providers of proactive ways to avoid further delays.",
+      "chunk_index": 2,
+      "char_count": 882,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

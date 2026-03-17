@@ -1,0 +1,79 @@
+{
+  "pmid": "41390454",
+  "pmc_id": "PMC12822350",
+  "title": "Meningoencephalitis as a presentation of primary Sjogren's syndrome: a case report.",
+  "authors": [
+    "Karim AK",
+    "Gorial FI",
+    "Badi IA",
+    "Mahdi FJ",
+    "Awadh NI",
+    "Hassan AM",
+    "Juma'a MK"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41390454",
+      "pmc_id": "PMC12822350",
+      "title": "Meningoencephalitis as a presentation of primary Sjogren's syndrome: a case report.",
+      "authors": [
+        "Karim AK",
+        "Gorial FI",
+        "Badi IA",
+        "Mahdi FJ",
+        "Awadh NI",
+        "Hassan AM",
+        "Juma'a MK"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Sjogren's syndrome is an autoimmune, chronic inflammatory disease characterized by its impact on salivary and lacrimal glands, along with potential involvement of internal organs. Sicca symptoms, such as dry eyes and mouth, are typical features.",
+      "chunk_index": 0,
+      "char_count": 245,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41390454",
+      "pmc_id": "PMC12822350",
+      "title": "Meningoencephalitis as a presentation of primary Sjogren's syndrome: a case report.",
+      "authors": [
+        "Karim AK",
+        "Gorial FI",
+        "Badi IA",
+        "Mahdi FJ",
+        "Awadh NI",
+        "Hassan AM",
+        "Juma'a MK"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Sjogren's syndrome is an autoimmune, chronic inflammatory disease characterized by its impact on salivary and lacrimal glands, along with potential involvement of internal organs. Sicca symptoms, such as dry eyes and mouth, are typical features.\n\nWe present the case of a 30-year-old Iraqi woman who presented with meningoencephalitis and acute motor axonal neuropathy, which were unusual as initial manifestations of Sjogren's syndrome. Initial investigations included a complete blood count, erythrocyte sedimentation rate, C-reactive protein, renal and liver function tests, and cerebrospinal fluid analysis. Brain magnetic resonance imaging showed hyperintense lesions in the brainstem and periventricular regions, and magnetic resonance venography was performed to rule out venous thrombosis. An aquaporin 4 antibody screening test was sent for suspected neuromyelitis optica and returned positive. However, subsequent magnetic resonance imaging scans of the spinal cord and optic nerve found no abnormalities. Serological tests confirmed the presence of antinuclear antibodies, rheumatoid factor, and antibodies against SS-A and SS-B, consistent with Sjogren's syndrome. The patient was treated with methylprednisolone and intravenous immunoglobulin. Given the suspected diagnosis of Bickerstaff encephalitis, intravenous immunoglobulin was included in the regimen, although it was later ruled out. After 4 weeks of treatment, the patient showed significant improvement, regaining consciousness and partial motor function. Several months after symptom onset, the patient achieved independent mobility despite experiencing mild weakness in the right lower limb, and plans were made to initiate either cyclophosphamide or rituximab therapy.",
+      "chunk_index": 1,
+      "char_count": 1744,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41390454",
+      "pmc_id": "PMC12822350",
+      "title": "Meningoencephalitis as a presentation of primary Sjogren's syndrome: a case report.",
+      "authors": [
+        "Karim AK",
+        "Gorial FI",
+        "Badi IA",
+        "Mahdi FJ",
+        "Awadh NI",
+        "Hassan AM",
+        "Juma'a MK"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "was later ruled out. After 4 weeks of treatment, the patient showed significant improvement, regaining consciousness and partial motor function. Several months after symptom onset, the patient achieved independent mobility despite experiencing mild weakness in the right lower limb, and plans were made to initiate either cyclophosphamide or rituximab therapy.\n\nThis case underscores the diverse clinical presentations of Sjogren's syndrome, highlighting the importance of considering autoimmune etiologies in patients presenting with neurological manifestations such as meningoencephalitis and acute motor axonal neuropathy. Early recognition and management of such atypical presentations are crucial for improving patient outcomes.",
+      "chunk_index": 2,
+      "char_count": 733,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "39531871",
+  "pmc_id": null,
+  "title": "Chest pain and AI interpretation: The essential role of clinical judgment and quality data.",
+  "authors": [
+    "Biasin M",
+    "Lomi S",
+    "Pagani L",
+    "Facci G",
+    "Betta D",
+    "Morani G"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39531871",
+      "pmc_id": null,
+      "title": "Chest pain and AI interpretation: The essential role of clinical judgment and quality data.",
+      "authors": [
+        "Biasin M",
+        "Lomi S",
+        "Pagani L",
+        "Facci G",
+        "Betta D",
+        "Morani G"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Chest pain is a common and complex condition in emergency departments, often complicating the diagnostic process due to its wide range of potential causes. This case report presents a 72-year-old man with chest pain and ST-segment elevation on ECG, initially suggestive of acute coronary syndrom. AI-assisted ECG analysis reinforced this suspicion; however, angiography revealed patent coronary arteries. When his symptoms persisted, further investigation uncovered a pneumothorax. Additional evaluation identified a digitization error affecting the AI interpretation. This case underscores the importance of a comprehensive clinical approach for chest pain and highlights the need for quality data input and alternative imaging, such as thoracic ultrasound, for accurate and timely differential diagnoses.",
+      "chunk_index": 0,
+      "char_count": 806,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

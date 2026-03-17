@@ -1,0 +1,67 @@
+{
+  "pmid": "40722044",
+  "pmc_id": "PMC12306117",
+  "title": "Atrial septal paraganglioma mistaken for a myxoma: a case report.",
+  "authors": [
+    "Yu Y",
+    "He Q",
+    "Xia J",
+    "Jiang Q"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40722044",
+      "pmc_id": "PMC12306117",
+      "title": "Atrial septal paraganglioma mistaken for a myxoma: a case report.",
+      "authors": [
+        "Yu Y",
+        "He Q",
+        "Xia J",
+        "Jiang Q"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Cardiac tumors are relatively uncommon, with myxoma being the most prevalent. Atrial septal paraganglioma is a significantly rarer form of malignant cardiac tumor that secretes catecholamines. There are notable similarities in their clinical manifestations and imaging characteristics, which can lead to misdiagnosis.",
+      "chunk_index": 0,
+      "char_count": 317,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "40722044",
+      "pmc_id": "PMC12306117",
+      "title": "Atrial septal paraganglioma mistaken for a myxoma: a case report.",
+      "authors": [
+        "Yu Y",
+        "He Q",
+        "Xia J",
+        "Jiang Q"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Cardiac tumors are relatively uncommon, with myxoma being the most prevalent. Atrial septal paraganglioma is a significantly rarer form of malignant cardiac tumor that secretes catecholamines. There are notable similarities in their clinical manifestations and imaging characteristics, which can lead to misdiagnosis.\n\nWe report a case of a 47-year-old Han man with atypical chest pain and syncope who was found to have a mass (3.6 cm x 2.9 cm) in the left atrium. After an imaging examination, a myxoma was suspected. The tumor was excised during a cardiac surgery, and subsequent pathological analysis determined that the mass was actually a paraganglioma. The patient experienced a favorable recovery, and there was no evidence of recurrence during a 1-year period of postoperative monitoring.",
+      "chunk_index": 1,
+      "char_count": 796,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "40722044",
+      "pmc_id": "PMC12306117",
+      "title": "Atrial septal paraganglioma mistaken for a myxoma: a case report.",
+      "authors": [
+        "Yu Y",
+        "He Q",
+        "Xia J",
+        "Jiang Q"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "left atrium. After an imaging examination, a myxoma was suspected. The tumor was excised during a cardiac surgery, and subsequent pathological analysis determined that the mass was actually a paraganglioma. The patient experienced a favorable recovery, and there was no evidence of recurrence during a 1-year period of postoperative monitoring.\n\nThis case emphasizes the importance of accurate diagnosis of cardiac tumors, especially in atypical clinical manifestations, imaging, and biochemical auxiliary examination. Accurate diagnosis is crucial in the choice of treatment options and prognostic evaluation.",
+      "chunk_index": 2,
+      "char_count": 610,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

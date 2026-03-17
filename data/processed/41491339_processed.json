@@ -1,0 +1,59 @@
+{
+  "pmid": "41491339",
+  "pmc_id": "PMC12870247",
+  "title": "Dexamethasone associated with lactic acidosis in a stroke patient with meningioma-associated vasogenic edema: a case report.",
+  "authors": [
+    "Ser JS",
+    "Wee TC"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41491339",
+      "pmc_id": "PMC12870247",
+      "title": "Dexamethasone associated with lactic acidosis in a stroke patient with meningioma-associated vasogenic edema: a case report.",
+      "authors": [
+        "Ser JS",
+        "Wee TC"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Corticosteroids are commonly used to manage a multitude of conditions, ranging from autoimmune to neurological diseases, including central nervous system vasculitis and vasogenic edema from large strokes. Type A lactic acidosis and type B lactic acidosis are the two forms of lactic acidosis. Medications are the most common cause of type B lactic acidosis. An elevated lactate confers a higher mortality rate in patients. Corticosteroids are not commonly known to cause elevated lactate. The relationship between corticosteroids and lactic acidosis has only been described in critically ill patients in the intensive care unit and animal studies. There have not been any reports of this association in stable patients in the general ward setting.",
+      "chunk_index": 0,
+      "char_count": 747,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41491339",
+      "pmc_id": "PMC12870247",
+      "title": "Dexamethasone associated with lactic acidosis in a stroke patient with meningioma-associated vasogenic edema: a case report.",
+      "authors": [
+        "Ser JS",
+        "Wee TC"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "patients. Corticosteroids are not commonly known to cause elevated lactate. The relationship between corticosteroids and lactic acidosis has only been described in critically ill patients in the intensive care unit and animal studies. There have not been any reports of this association in stable patients in the general ward setting.\n\nWe describe a case of an elderly Chinese woman in her 70s, clinically stable, who was diagnosed with an acute stroke and who was undergoing inpatient rehabilitation in the general ward setting. She was started on a course of a tapering dose of dexamethasone for an incidental finding of a likely large meningioma with surrounding vasogenic edema. Shortly after starting dexamethasone, lactic acidosis was discovered on the basis of low bicarbonate. After a thorough workup, it was discovered that she had type B lactic acidosis, and dexamethasone was the likely cause of the elevated lactate. She remained asymptomatic and clinically well throughout this period. The lactic acidosis resolved within 72 h of completion of dexamethasone.",
+      "chunk_index": 1,
+      "char_count": 1071,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41491339",
+      "pmc_id": "PMC12870247",
+      "title": "Dexamethasone associated with lactic acidosis in a stroke patient with meningioma-associated vasogenic edema: a case report.",
+      "authors": [
+        "Ser JS",
+        "Wee TC"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "on the basis of low bicarbonate. After a thorough workup, it was discovered that she had type B lactic acidosis, and dexamethasone was the likely cause of the elevated lactate. She remained asymptomatic and clinically well throughout this period. The lactic acidosis resolved within 72 h of completion of dexamethasone.\n\nEarly identification and addressing the underlying cause of lactic acidosis is important to reduce morbidity and mortality associated with lactic acidosis, this often requires a thorough medication review for type B lactic acidosis. This case report aims to increase awareness in clinicians regarding the association between dexamethasone and lactic acidosis.",
+      "chunk_index": 2,
+      "char_count": 680,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

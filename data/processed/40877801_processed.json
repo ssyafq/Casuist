@@ -1,0 +1,56 @@
+{
+  "pmid": "40877801",
+  "pmc_id": "PMC12395791",
+  "title": "Recurrent postpartum chest pain unmasking undiagnosed borderline personality disorder: a diagnostic case report.",
+  "authors": [
+    "Shrivastav A",
+    "Tiwaskar S",
+    "Kumar Sahu P",
+    "Luharia A",
+    "Pal V",
+    "Das S"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40877801",
+      "pmc_id": "PMC12395791",
+      "title": "Recurrent postpartum chest pain unmasking undiagnosed borderline personality disorder: a diagnostic case report.",
+      "authors": [
+        "Shrivastav A",
+        "Tiwaskar S",
+        "Kumar Sahu P",
+        "Luharia A",
+        "Pal V",
+        "Das S"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Recurrent Emergency Department (ED) visits for non-cardiac chest pain are common among postpartum women. When cardiac workups are repeatedly normal, psychiatric etiologies, particularly trauma-related personality disorders, should be considered. Borderline Personality Disorder (BPD) may present with panic-like somatic symptoms during periods of interpersonal stress but is often underrecognized in acute care settings. CASE-PRESENTATION: We report the case of a 29-year-old postpartum woman who presented to the ED five times over two months with episodic chest pain, palpitations, and a fear of dying. Cardiac and medical evaluations were consistently unremarkable. Each episode followed emotionally distressing interactions with her estranged spouse. The clinical pattern did not meet DSM-5 criteria for primary panic disorder. A structured psychiatric evaluation, corroborated by collateral history, resulted in a diagnosis of BPD based on five core DSM-5 criteria: abandonment fears, affective instability, identity disturbance, impulsivity, and unstable relationships. A sixth criterion, past self-injury, was present but excluded from the diagnostic threshold due to its isolated nature. Treatment included restarting sertraline, continuing propranolol for somatic symptoms, and referral for Dialectical Behaviour Therapy (DBT). The patient reported improved emotional regulation and no further ED visits at one-month followup. While longer-term outcomes remain unknown, her early response was promising.",
+      "chunk_index": 0,
+      "char_count": 1512,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "40877801",
+      "pmc_id": "PMC12395791",
+      "title": "Recurrent postpartum chest pain unmasking undiagnosed borderline personality disorder: a diagnostic case report.",
+      "authors": [
+        "Shrivastav A",
+        "Tiwaskar S",
+        "Kumar Sahu P",
+        "Luharia A",
+        "Pal V",
+        "Das S"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "excluded from the diagnostic threshold due to its isolated nature. Treatment included restarting sertraline, continuing propranolol for somatic symptoms, and referral for Dialectical Behaviour Therapy (DBT). The patient reported improved emotional regulation and no further ED visits at one-month followup. While longer-term outcomes remain unknown, her early response was promising.\n\nThis case illustrates a diagnostically complex postpartum presentation in which panic-like somatic symptoms masked an underlying personality disorder. Although postpartum depression was initially suspected, psychiatric evaluation revealed previously undiagnosed BPD. Clinicians should consider trauma-informed psychiatric assessment in postpartum patients with medically unexplained symptoms, especially when symptoms are closely tied to interpersonal distress.",
+      "chunk_index": 1,
+      "char_count": 846,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

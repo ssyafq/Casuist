@@ -1,0 +1,31 @@
+{
+  "pmid": "38897965",
+  "pmc_id": "PMC12576408",
+  "title": "Successful Combination of Fresh Frozen Plasma and Albumin 5% in Plasma Exchange for a Patient with Concurrent Thyroid Storm and Guillain-Barre Syndrome: A Rare Case Report.",
+  "authors": [
+    "Bui-Thi HD",
+    "Tran-Viet T",
+    "Trinh-Hoang KT"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "38897965",
+      "pmc_id": "PMC12576408",
+      "title": "Successful Combination of Fresh Frozen Plasma and Albumin 5% in Plasma Exchange for a Patient with Concurrent Thyroid Storm and Guillain-Barre Syndrome: A Rare Case Report.",
+      "authors": [
+        "Bui-Thi HD",
+        "Tran-Viet T",
+        "Trinh-Hoang KT"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm is an endocrine emergency, and treatment must ensure primary goals, including reducing the production and release of thyroid hormones, mitigating the effects of thyroid hormones, increasing the elimination of thyroid hormones, treating systemic disturbances, and managing triggering factors. However, in a few cases where thyroid storm does not respond to initial treatment, therapeutic plasma exchange (TPE) should be considered. A 50-year-old male patient was admitted to the University Medical Center Ho Chi Minh City due to hypotonia and sensory disturbances gradually spreading from the lower extremities to the entire body. The patient was diagnosed with Guillain-Barre syndrome (GBS) and newly discovered hyperthyroidism. During the treatment course, the patient developed hospital-acquired pneumonia, acting as a trigger factor for a thyroid storm. Despite aggressive treatment for thyroid storm, the patient's condition worsened, leading to the decision to perform TPE. The replacement fluid was a combination of fresh frozen plasma (FFP) and albumin 5%. Subsequently, the patient returned to a euthyroid state and was discharged. Combining FFP and albumin 5% in TPE advantages FFP's high thyroid hormones-binding capacity and albumin's cost-effectiveness, safety, and efficiency. This reduces the drawbacks associated with high volumes of FFP and offers a balanced and effective approach to managing thyroid storms. Moreover, the concurrent presence of GBS and thyroid storm is extremely rare. Through this case, we aim to discuss the role of TPE in the treatment of thyroid storms and the effectiveness of the combination of FFP and albumin 5% as the replacement fluid.",
+      "chunk_index": 0,
+      "char_count": 1694,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

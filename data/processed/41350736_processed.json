@@ -1,0 +1,75 @@
+{
+  "pmid": "41350736",
+  "pmc_id": "PMC12797936",
+  "title": "Autoimmune glial fibrillary acid protein astrocytopathy initially misdiagnosed as tuberculous meningitis: a case report.",
+  "authors": [
+    "Li L",
+    "Cui Y",
+    "Zhai Q",
+    "Jiang H",
+    "Mei N",
+    "Tian X"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41350736",
+      "pmc_id": "PMC12797936",
+      "title": "Autoimmune glial fibrillary acid protein astrocytopathy initially misdiagnosed as tuberculous meningitis: a case report.",
+      "authors": [
+        "Li L",
+        "Cui Y",
+        "Zhai Q",
+        "Jiang H",
+        "Mei N",
+        "Tian X"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Autoimmune glial fibrillary acid protein astrocytopathy is an autoimmune central nervous system disorder that affects the nervous system. The clinical presentation is heterogeneous. The specific diagnostic marker of autoimmune glial fibrillary acid protein astrocytopathy is the presence of glial fibrillary acid protein antibodies. However, standardized diagnostic and therapeutic criteria are currently lacking, especially because its early clinical symptoms are similar to those of tuberculous meningitis, which leads to a high risk of misdiagnosis and delayed treatment in clinical practice.",
+      "chunk_index": 0,
+      "char_count": 595,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41350736",
+      "pmc_id": "PMC12797936",
+      "title": "Autoimmune glial fibrillary acid protein astrocytopathy initially misdiagnosed as tuberculous meningitis: a case report.",
+      "authors": [
+        "Li L",
+        "Cui Y",
+        "Zhai Q",
+        "Jiang H",
+        "Mei N",
+        "Tian X"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "glial fibrillary acid protein astrocytopathy is the presence of glial fibrillary acid protein antibodies. However, standardized diagnostic and therapeutic criteria are currently lacking, especially because its early clinical symptoms are similar to those of tuberculous meningitis, which leads to a high risk of misdiagnosis and delayed treatment in clinical practice.\n\nWe present two cases of autoimmune glial fibrillary acid protein astrocytopathy that were initially misdiagnosed as tuberculous meningitis. The first case is a 30-year-old Han male, and the second case is a 57-year-old Han male. Both patients exhibited clinical manifestations and cerebrospinal fluid findings consistent with tuberculous meningitis, yet their responses to treatment for tuberculous meningitis were suboptimal, even symptoms worsened. Subsequent detection of glial fibrillary acid protein-immunoglobulin G antibody was positive in serum and/or cerebrospinal fluid. After immunoglobulin and steroid treatment, the two patients finally improved and were discharged from the hospital.",
+      "chunk_index": 1,
+      "char_count": 1067,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41350736",
+      "pmc_id": "PMC12797936",
+      "title": "Autoimmune glial fibrillary acid protein astrocytopathy initially misdiagnosed as tuberculous meningitis: a case report.",
+      "authors": [
+        "Li L",
+        "Cui Y",
+        "Zhai Q",
+        "Jiang H",
+        "Mei N",
+        "Tian X"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "findings consistent with tuberculous meningitis, yet their responses to treatment for tuberculous meningitis were suboptimal, even symptoms worsened. Subsequent detection of glial fibrillary acid protein-immunoglobulin G antibody was positive in serum and/or cerebrospinal fluid. After immunoglobulin and steroid treatment, the two patients finally improved and were discharged from the hospital.\n\nThe clinical manifestations of autoimmune glial fibrillary acid protein astrocytopathy often include encephalitis, meningoencephalitis, meningoencephalomyelitis, and optic neuritis. These early manifestations are similar to those of central nervous system infections, where autoimmune glial fibrillary acid protein astrocytopathy is commonly misdiagnosed as tuberculous meningitis, early detection of glial fibrillary acid protein-immunoglobulin G antibody in cerebrospinal fluid is essential for differential diagnosis.",
+      "chunk_index": 2,
+      "char_count": 918,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

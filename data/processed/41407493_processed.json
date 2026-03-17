@@ -1,0 +1,33 @@
+{
+  "pmid": "41407493",
+  "pmc_id": null,
+  "title": "Atrial fibrillation in a paediatric athlete.",
+  "authors": [
+    "Roa-Bautista A",
+    "Stock J",
+    "Ramcharan T",
+    "Mikrou P"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41407493",
+      "pmc_id": null,
+      "title": "Atrial fibrillation in a paediatric athlete.",
+      "authors": [
+        "Roa-Bautista A",
+        "Stock J",
+        "Ramcharan T",
+        "Mikrou P"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Atrial fibrillation (AF) is a cardiac arrhythmia most prevalent in older age groups and with underlying structural heart disease. However, it can occasionally present in younger, otherwise healthy individuals, particularly those involved in intense physical exertion. This case describes an early adolescent male paediatric athlete with no significant medical history who experienced a sudden episode of sharp, left-sided chest pain, dizziness and palpitations during basketball practice. His symptoms resolved spontaneously within minutes. A 12-lead ECG revealed an irregularly irregular rhythm, with baseline tachycardia of 110 beats per minute, consistent with a diagnosis of AF.",
+      "chunk_index": 0,
+      "char_count": 682,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

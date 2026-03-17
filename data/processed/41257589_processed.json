@@ -1,0 +1,63 @@
+{
+  "pmid": "41257589",
+  "pmc_id": "PMC12628817",
+  "title": "A case of Epstein-Barr virus- associated lymphocytic infundibulo-neurohypophysitis.",
+  "authors": [
+    "Shi J",
+    "Zhao L",
+    "Liu F"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41257589",
+      "pmc_id": "PMC12628817",
+      "title": "A case of Epstein-Barr virus- associated lymphocytic infundibulo-neurohypophysitis.",
+      "authors": [
+        "Shi J",
+        "Zhao L",
+        "Liu F"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "The reported cases of viral infection-related lymphocytic hypophysitis increased in recent years. However, there is no report on Epstein-Barr Virus (EBV) - associated lymphocytic hypophysitis. Here we present the first case of central diabetes insipidus resulting from EBV-associated lymphocytic infundibulo-neurohypophysitis (LINH) accompanied by acute pancreatitis and acute kidney injury.",
+      "chunk_index": 0,
+      "char_count": 391,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41257589",
+      "pmc_id": "PMC12628817",
+      "title": "A case of Epstein-Barr virus- associated lymphocytic infundibulo-neurohypophysitis.",
+      "authors": [
+        "Shi J",
+        "Zhao L",
+        "Liu F"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "The reported cases of viral infection-related lymphocytic hypophysitis increased in recent years. However, there is no report on Epstein-Barr Virus (EBV) - associated lymphocytic hypophysitis. Here we present the first case of central diabetes insipidus resulting from EBV-associated lymphocytic infundibulo-neurohypophysitis (LINH) accompanied by acute pancreatitis and acute kidney injury.\n\nA 47-year-old male patient presented to the emergency department with a chief complaint of fever, bloated stomach and vomiting for two days. Subsequently, he developed oliguria and tachypnea. With continuous renal replacement treatment and mechanical ventilation, 24-hour urine output gradually increased to a maximum of 10,100 mL accompanied by hypernatremia. After a short-term desmopressin acetate treatment, 24-hour urine output came down within the normal range. The test showed that the patient was having replicative EBV infection. Magnetic resonance imaging of pituitary revealed an absence of posterior pituitary bright spot. The level of ESR was higher than that at admission, even when the patient has no fever and the urine output was normal. Considering all the above and the fact that polyuric phase of recovery from acute kidney injury usually show hyponatremia, we made a diagnosis of EBV- associated LINH. With the lack of mass-like effect symptoms and anterior pituitary dysfunction, glucocorticoids treatment was discontinued after two weeks, even though erythrocyte sedimentation rate (ESR) had not returned to normal range at that time. Fortunately, ESR became normal after 2.5 months and there were bright spots in the posterior pituitary 6 months after discharge.",
+      "chunk_index": 1,
+      "char_count": 1679,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41257589",
+      "pmc_id": "PMC12628817",
+      "title": "A case of Epstein-Barr virus- associated lymphocytic infundibulo-neurohypophysitis.",
+      "authors": [
+        "Shi J",
+        "Zhao L",
+        "Liu F"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "of mass-like effect symptoms and anterior pituitary dysfunction, glucocorticoids treatment was discontinued after two weeks, even though erythrocyte sedimentation rate (ESR) had not returned to normal range at that time. Fortunately, ESR became normal after 2.5 months and there were bright spots in the posterior pituitary 6 months after discharge.\n\nEBV infection could result in severe consequences, presenting a challenge in diagnoses. The inflammatory process of EBV-associated LINH is self-limited and recovers spontaneously.",
+      "chunk_index": 2,
+      "char_count": 530,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

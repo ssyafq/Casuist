@@ -1,0 +1,45 @@
+{
+  "pmid": "32562212",
+  "pmc_id": "PMC7295607",
+  "title": "The Grey Zone and the Complexity of Clinical Decisions in Sports Cardiology.",
+  "authors": [
+    "Alcocer-Ayuga M",
+    "Madaria Z",
+    "Masia MD",
+    "Nunez G",
+    "Gomez EH",
+    "Pinedo M",
+    "Diez I",
+    "Diaz-Gonzalez L",
+    "Maceira A",
+    "Boraita A"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "32562212",
+      "pmc_id": "PMC7295607",
+      "title": "The Grey Zone and the Complexity of Clinical Decisions in Sports Cardiology.",
+      "authors": [
+        "Alcocer-Ayuga M",
+        "Madaria Z",
+        "Masia MD",
+        "Nunez G",
+        "Gomez EH",
+        "Pinedo M",
+        "Diez I",
+        "Diaz-Gonzalez L",
+        "Maceira A",
+        "Boraita A"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "We present here three different clinical scenarios that illustrate the complexity of taking decisions in sports cardiology. Despite the availability of consensus documents, in clinical practice, decision-making process is most of the times in the grey zone.",
+      "chunk_index": 0,
+      "char_count": 257,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

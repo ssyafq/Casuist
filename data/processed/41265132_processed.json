@@ -1,0 +1,44 @@
+{
+  "pmid": "41265132",
+  "pmc_id": null,
+  "title": "Seconds Matter: Novel Transport Solutions in Urban Settings Reduce Transport Times.",
+  "authors": [
+    "Miles Z",
+    "Thornton J"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41265132",
+      "pmc_id": null,
+      "title": "Seconds Matter: Novel Transport Solutions in Urban Settings Reduce Transport Times.",
+      "authors": [
+        "Miles Z",
+        "Thornton J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Out-of-hospital cardiac arrest (OHCA) due to ST-elevation myocardial infarction (STEMI) requires immediate intervention to optimize survival and neurological outcomes. Rapid recognition and treatment are critical, especially in prehospital settings.",
+      "chunk_index": 0,
+      "char_count": 249,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41265132",
+      "pmc_id": null,
+      "title": "Seconds Matter: Novel Transport Solutions in Urban Settings Reduce Transport Times.",
+      "authors": [
+        "Miles Z",
+        "Thornton J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Out-of-hospital cardiac arrest (OHCA) due to ST-elevation myocardial infarction (STEMI) requires immediate intervention to optimize survival and neurological outcomes. Rapid recognition and treatment are critical, especially in prehospital settings.\n\nA 61-year-old female with a history of coronary artery disease suffered a witnessed cardiac arrest while riding a city bus. Bystanders activated Emergency Medical Services (EMS), who promptly initiated cardiopulmonary resuscitation (CPR) and defibrillation, achieving return of spontaneous circulation (ROSC). Due to the patient's proximity to a tertiary care STEMI center, EMS made the unconventional decision to continue resuscitative efforts en route using the city bus, bypassing traditional ambulance transport. Upon arrival, she underwent emergent percutaneous coronary intervention (PCI) and achieved full neurological recovery. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: This case illustrates the importance of flexibility and innovation in prehospital care. However, it also highlights the need to balance innovation with adherence to EMS safety protocols and statutory requirements. Uninterrupted CPR, rapid defibrillation, and expedited transport-even via unconventional means-can dramatically impact outcomes in STEMI-related cardiac arrest, but such strategies must always be weighed against provider and patient safety.",
+      "chunk_index": 1,
+      "char_count": 1394,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

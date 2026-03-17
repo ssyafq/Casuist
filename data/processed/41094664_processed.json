@@ -1,0 +1,71 @@
+{
+  "pmid": "41094664",
+  "pmc_id": "PMC12522727",
+  "title": "An acute presentation of Wunderlich's syndrome with angiomyolipoma: a case report.",
+  "authors": [
+    "Wu R",
+    "Tran C",
+    "Archambeau B",
+    "Dong F",
+    "Neeki MM"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41094664",
+      "pmc_id": "PMC12522727",
+      "title": "An acute presentation of Wunderlich's syndrome with angiomyolipoma: a case report.",
+      "authors": [
+        "Wu R",
+        "Tran C",
+        "Archambeau B",
+        "Dong F",
+        "Neeki MM"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Angiomyolipomas are often associated with tuberous sclerosis and are typically benign soft tissue tumors found incidentally on imaging. The main complication is retroperitoneal hemorrhagic rupture, leading to Wunderlich's syndrome.",
+      "chunk_index": 0,
+      "char_count": 231,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41094664",
+      "pmc_id": "PMC12522727",
+      "title": "An acute presentation of Wunderlich's syndrome with angiomyolipoma: a case report.",
+      "authors": [
+        "Wu R",
+        "Tran C",
+        "Archambeau B",
+        "Dong F",
+        "Neeki MM"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Angiomyolipomas are often associated with tuberous sclerosis and are typically benign soft tissue tumors found incidentally on imaging. The main complication is retroperitoneal hemorrhagic rupture, leading to Wunderlich's syndrome.\n\nThis case report presents a unique case of a 48-year-old Hispanic female patient with Wunderlich's syndrome displaying atypical symptoms, including hematemesis, abdominal pain, and nausea. The workup revealed significant anemia and renal failure. The patient had no known history of tuberous sclerosis. Computed tomography imaging showed retroperitoneal hemorrhage from bilateral angiomyolipomas, and the patient was treated with arterial embolization for stabilization. No further hemorrhage occurred during the hospitalization, and the patient was eventually discharged in stable condition.",
+      "chunk_index": 1,
+      "char_count": 825,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41094664",
+      "pmc_id": "PMC12522727",
+      "title": "An acute presentation of Wunderlich's syndrome with angiomyolipoma: a case report.",
+      "authors": [
+        "Wu R",
+        "Tran C",
+        "Archambeau B",
+        "Dong F",
+        "Neeki MM"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "revealed significant anemia and renal failure. The patient had no known history of tuberous sclerosis. Computed tomography imaging showed retroperitoneal hemorrhage from bilateral angiomyolipomas, and the patient was treated with arterial embolization for stabilization. No further hemorrhage occurred during the hospitalization, and the patient was eventually discharged in stable condition.\n\nThis report presents a case of Wunderlich's syndrome caused by hemorrhage of renal angiomyolipomas, presenting as a medical emergency. Although renal angiomyolipomas are rare benign tumors, complications such as bleeding can occur. Clinicians should consider renal angiomyolipomas in patients with acute renal failure, anemia, and abdominal pain to enable early diagnosis and treatment.",
+      "chunk_index": 2,
+      "char_count": 780,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

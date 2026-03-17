@@ -1,0 +1,35 @@
+{
+  "pmid": "41526217",
+  "pmc_id": null,
+  "title": "[Emphysematous pancreatitis improved by conservative treatment: a case report].",
+  "authors": [
+    "Oyama S",
+    "Horiuchi H",
+    "Akiba S",
+    "Okumoto K",
+    "Hachinohe S"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41526217",
+      "pmc_id": null,
+      "title": "[Emphysematous pancreatitis improved by conservative treatment: a case report].",
+      "authors": [
+        "Oyama S",
+        "Horiuchi H",
+        "Akiba S",
+        "Okumoto K",
+        "Hachinohe S"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "A 74-year-old male patient with upper abdominal pain visited the outpatient clinic. A computed tomography scan revealed pancreatic enlargement, increased density of the surrounding fatty tissue, and retroperitoneal emphysema, which collectively indicated to emphysematous pancreatitis. Upper gastrointestinal endoscopy revealed no gastrointestinal perforation. His treatment regimen included fasting, fluid replacement, antibiotics, and total parenteral nutrition. Temporary encapsulation was observed, but eventually improved. A common bile duct stone was later discovered, and thus endoscopic lithotripsy was performed. Acute pancreatitis-induced retroperitoneal emphysema is referred to as emphysematous pancreatitis and is considered a subtype of necrotizing pancreatitis. Emphysematous pancreatitis is a rare disease with a poor prognosis;nonetheless, early diagnosis including confirmation of gastrointestinal perforation, and antibiotic administration along with drainage are required.",
+      "chunk_index": 0,
+      "char_count": 992,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41578508",
+  "pmc_id": "PMC12851661",
+  "title": "A case report and literature review of steroid-refractory pancreatitis induced by cadonilimab in patient with lung squamous cell carcinoma.",
+  "authors": [
+    "Qiu R",
+    "Zheng GF",
+    "Zhong M",
+    "Li JL"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41578508",
+      "pmc_id": "PMC12851661",
+      "title": "A case report and literature review of steroid-refractory pancreatitis induced by cadonilimab in patient with lung squamous cell carcinoma.",
+      "authors": [
+        "Qiu R",
+        "Zheng GF",
+        "Zhong M",
+        "Li JL"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "RATIONALE: Cadonilimab-induced pancreatitis is an uncommon occurrence. This article seeks to present a case study of pancreatitis attributed to cadonilimab, detailing its onset and therapeutic approach. Additionally, it examines the characteristics, underlying mechanisms, and management strategies of cadonilimab-induced pancreatitis through a comprehensive literature review. PATIENT CONCERNS: A 44-year-old male patient was diagnosed with squamous cell carcinoma of the right lower lung 21 months prior. Following multiple lines of antitumor therapy, he commenced treatment with cadonilimab plus anlotinib. Twenty-two days subsequent to the initiation of this combination therapy, the patient experienced intermittent abdominal pain, and laboratory tests revealed elevated amylase levels. Despite these findings, the patient was monitored and continued the immunotherapy and targeted treatment regimen. Sixty-two days later, follow-up laboratory tests demonstrated further elevation in amylase levels, and magnetic resonance imaging indicated pancreatic enlargement. DIAGNOSES: Grade 3 immune-related pancreatitis. INTERVENTIONS: The patient was administered high-dose methylprednisolone therapy. OUTCOMES: During the course of this treatment, the patient exhibited exacerbated abdominal pain and was subsequently diagnosed with steroid-refractory pancreatitis. Consequently, a combination therapy including mycophenolate mofetil was initiated, resulting in a reduction of serum amylase levels and alleviation of abdominal pain. LESSONS: Cadonilimab-related pancreatic injury is uncommon and typically presents as asymptomatic hyperlipasemia. Immune-related pancreatitis is an infrequent adverse event. Clinicians and clinical pharmacists are advised to remain vigilant regarding this condition. Additionally, this case offers valuable insights into the management of steroid-refractory pancreatitis.",
+      "chunk_index": 0,
+      "char_count": 1903,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

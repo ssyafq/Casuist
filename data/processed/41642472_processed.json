@@ -1,0 +1,39 @@
+{
+  "pmid": "41642472",
+  "pmc_id": "PMC12876506",
+  "title": "Relapse of minimal change nephrotic syndrome after initiation of sulfamethoxazole-trimethoprim combination therapy: a case report.",
+  "authors": [
+    "Sugiura T",
+    "Ito S",
+    "Sakaguchi N",
+    "Ozeki T",
+    "Yokoe Y",
+    "Yasuda K",
+    "Maruyama S"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41642472",
+      "pmc_id": "PMC12876506",
+      "title": "Relapse of minimal change nephrotic syndrome after initiation of sulfamethoxazole-trimethoprim combination therapy: a case report.",
+      "authors": [
+        "Sugiura T",
+        "Ito S",
+        "Sakaguchi N",
+        "Ozeki T",
+        "Yokoe Y",
+        "Yasuda K",
+        "Maruyama S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Minimal change nephrotic syndrome (MCNS) is characterized by podocyte injury leading to severe proteinuria, mainly mediated by T-cell activation and cytokine imbalance. Relapses are often triggered by immunological stimuli such as infections, vaccinations, or drugs; however, relapse following administration of sulfamethoxazole-trimethoprim (ST) combination therapy has not been reported previously. We report an extremely rare case of MCNS relapse triggered by ST combination therapy.A 55-year-old woman with a history of breast cancer treated with tamoxifen developed nephrotic syndrome and was diagnosed with MCNS by renal biopsy. After remission was achieved with prednisolone 50 mg/day, ST therapy was initiated for prophylaxis of Pneumocystis jirovecii pneumonia. Approximately 12 days after starting ST, she developed generalized erythema accompanied by relapse of nephrotic syndrome. Discontinuation of ST, atorvastatin, and esomeprazole while continuing prednisolone 40 mg/day led to a second remission. Drug-induced lymphocyte stimulation tests for all agents were negative, possibly due to concurrent corticosteroid therapy.Metabolites of sulfamethoxazole have been shown to activate CD4(+) T cells and induce multiple cytokines including interleukin-13, interferon-gamma, interleukin-22, and granzyme B. Such immune activation could explain the simultaneous occurrence of cutaneous manifestations (drug eruption) and renal relapse (MCNS).Relapse of drug-induced MCNS may occur through either direct podocyte injury or immune-mediated allergic mechanisms. Given the concurrent drug eruption, the latter mechanism appears most consistent with this case.When introducing new medications under immunosuppressive conditions, clinicians should consider the possibility of drug-induced relapse if proteinuria reappears.",
+      "chunk_index": 0,
+      "char_count": 1825,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

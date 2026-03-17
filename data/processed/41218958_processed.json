@@ -1,0 +1,33 @@
+{
+  "pmid": "41218958",
+  "pmc_id": null,
+  "title": "Familial hypomagnesaemia with secondary hypocalcaemia: novel TRPM6 variant.",
+  "authors": [
+    "Alvelos R",
+    "Nico J",
+    "Machado M",
+    "Cordinha C"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41218958",
+      "pmc_id": null,
+      "title": "Familial hypomagnesaemia with secondary hypocalcaemia: novel TRPM6 variant.",
+      "authors": [
+        "Alvelos R",
+        "Nico J",
+        "Machado M",
+        "Cordinha C"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": " Familial hypomagnesaemia with secondary hypocalcaemia (HSH) is an autosomal recessive disease caused by mutations in the Transient Receptor Potential Melastatin 6 (TRPM6) gene. It manifests with severe hypomagnesaemia and hypocalcaemia, and its most common clinical presentation is seizures in early infancy. This is a case of an infant with HSH who presented with seizures. Investigation disclosed hypocalcaemia and hypomagnesaemia with undetectable calcitonin and normal parathyroid, and thyroid hormones and vitamin D. Only after a second admission was she discharged on long-term oral magnesium (Mg) supplementation. Genetic investigation revealed a novel variant in the TRPM6 gene. At the last consultation, the patient remained asymptomatic, without any complications, under Mg supplementation. Different homozygous mutations have been described in HSH. However, this case describes the presence of two heterozygous variants: c.5785del p.(Glu1929LysfsTer3), and c.3179T>A p.(Ile1060Asn). HSH might be responsible for permanent neurological sequelae. Nevertheless, the prognosis is good if diagnosis and treatment are established early.",
+      "chunk_index": 0,
+      "char_count": 1142,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

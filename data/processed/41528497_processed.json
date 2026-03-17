@@ -1,0 +1,74 @@
+{
+  "pmid": "41528497",
+  "pmc_id": null,
+  "title": "Possible correlation between KRIT1 variant and non-atherosclerotic vasculopathy resulting in ischemic stroke.",
+  "authors": [
+    "Marzioglu Ozdemir E",
+    "Ozdemir G"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41528497",
+      "pmc_id": null,
+      "title": "Possible correlation between KRIT1 variant and non-atherosclerotic vasculopathy resulting in ischemic stroke.",
+      "authors": [
+        "Marzioglu Ozdemir E",
+        "Ozdemir G"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "To provide the first instance of ischemic stroke attributable to vasculopathy linked to a pathogenic variant in the Krev interaction trapped-1 (KRIT1) gene, which has previously been recognized solely for its involvement in cerebral cavernous malformations (CCMs).",
+      "chunk_index": 0,
+      "char_count": 264,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41528497",
+      "pmc_id": null,
+      "title": "Possible correlation between KRIT1 variant and non-atherosclerotic vasculopathy resulting in ischemic stroke.",
+      "authors": [
+        "Marzioglu Ozdemir E",
+        "Ozdemir G"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "To provide the first instance of ischemic stroke attributable to vasculopathy linked to a pathogenic variant in the Krev interaction trapped-1 (KRIT1) gene, which has previously been recognized solely for its involvement in cerebral cavernous malformations (CCMs).\n\nA 23-year-old male patient with acute ischemic stroke and a familial history of early-onset stroke underwent evaluation using cerebral angiography, magnetic resonance imaging (MRI), and clinical exome sequencing. A comprehensive pedigree investigation was conducted, uncovering a history of stroke among several family members, so suggesting a potential inherited risk.",
+      "chunk_index": 1,
+      "char_count": 635,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41528497",
+      "pmc_id": null,
+      "title": "Possible correlation between KRIT1 variant and non-atherosclerotic vasculopathy resulting in ischemic stroke.",
+      "authors": [
+        "Marzioglu Ozdemir E",
+        "Ozdemir G"
+      ],
+      "specialty": "stroke",
+      "section_type": "labs",
+      "text": "A 23-year-old male patient with acute ischemic stroke and a familial history of early-onset stroke underwent evaluation using cerebral angiography, magnetic resonance imaging (MRI), and clinical exome sequencing. A comprehensive pedigree investigation was conducted, uncovering a history of stroke among several family members, so suggesting a potential inherited risk.\n\nThe patient demonstrated non-atherosclerotic vasculopathy on cerebral angiography. Genetic investigation identified a heterozygous missense variation, c.1867 C> T (p.Thr623Met), in the KRIT1 gene. The variation was also identified in additional impacted family members.",
+      "chunk_index": 2,
+      "char_count": 640,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41528497",
+      "pmc_id": null,
+      "title": "Possible correlation between KRIT1 variant and non-atherosclerotic vasculopathy resulting in ischemic stroke.",
+      "authors": [
+        "Marzioglu Ozdemir E",
+        "Ozdemir G"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "The patient demonstrated non-atherosclerotic vasculopathy on cerebral angiography. Genetic investigation identified a heterozygous missense variation, c.1867 C> T (p.Thr623Met), in the KRIT1 gene. The variation was also identified in additional impacted family members.\n\nThis case indicates a new correlation between KRIT1 pathogenic mutations and non-atherosclerotic vasculopathy, broadening the phenotypic spectrum of KRIT1-related disease to encompass ischemic stroke absent classic CCM symptoms.",
+      "chunk_index": 3,
+      "char_count": 499,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

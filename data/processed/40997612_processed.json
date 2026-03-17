@@ -1,0 +1,33 @@
+{
+  "pmid": "40997612",
+  "pmc_id": null,
+  "title": "An autopsy case of eosinophilic coronary periarteritis with coronary arterial degeneration and repaired dissection.",
+  "authors": [
+    "Yoshizawa H",
+    "Ikeda Y",
+    "Morii E",
+    "Hatakeyama K"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40997612",
+      "pmc_id": null,
+      "title": "An autopsy case of eosinophilic coronary periarteritis with coronary arterial degeneration and repaired dissection.",
+      "authors": [
+        "Yoshizawa H",
+        "Ikeda Y",
+        "Morii E",
+        "Hatakeyama K"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Eosinophilic coronary periarteritis (ECPA) is a rare disease, almost exclusively diagnosed postmortem, characterized by a clinical course of vasospastic angina (VSA) attacks and histologically observed periarterial eosinophilic infiltration in the coronary arteries. Although the etiology of ECPA remains uncertain, its pathogenesis may be attributed to an allergic reaction. In addition, ECPA is often associated with spontaneous coronary artery dissection (SCAD); however, the pathogenesis underlying the link between inflammation and dissection remains unclear. In the current case, a 45-year-old female experienced VSA attacks and succumbed to a fatal exacerbation of VSA approximately six years after the first onset of symptoms. Pathological examination at autopsy revealed periarterial eosinophilic infiltration in the coronary artery, suggesting ECPA. Characteristically, the pathological findings further showed localized SCAD with a repair response and deposition of a degenerative matrix in the tunica media. These findings may provide insights into the pathogenesis of ECPA. This case highlights the importance of autopsy examinations for discussing and elucidating the pathophysiology of ECPA.",
+      "chunk_index": 0,
+      "char_count": 1206,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

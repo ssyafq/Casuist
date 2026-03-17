@@ -1,0 +1,37 @@
+{
+  "pmid": "40842261",
+  "pmc_id": "PMC12374086",
+  "title": "De Novo KCNJ11 Mutation in an Infant With Neonatal Diabetes Mellitus Presenting as Diabetic Ketoacidosis: A Case Report and Literature Review.",
+  "authors": [
+    "Mujahed RH",
+    "Shawabka AM",
+    "Daghlis NM",
+    "Thweib AA",
+    "Rabba HA",
+    "Makhlouf TZ"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40842261",
+      "pmc_id": "PMC12374086",
+      "title": "De Novo KCNJ11 Mutation in an Infant With Neonatal Diabetes Mellitus Presenting as Diabetic Ketoacidosis: A Case Report and Literature Review.",
+      "authors": [
+        "Mujahed RH",
+        "Shawabka AM",
+        "Daghlis NM",
+        "Thweib AA",
+        "Rabba HA",
+        "Makhlouf TZ"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Neonatal diabetes mellitus (NDM) is a rare metabolic disorder that develops within the first 6 months of life and can have a wide clinical presentation which includes diabetic ketoacidosis (DKA). We describe a 56-day-old female with permanent NDM whose clinical presentation included polyuria, fever, vomiting, and dehydration. Laboratory workup indicated DKA. The patient started her treatment with subcutaneous insulin, but her blood sugar level was poorly controlled. She was later found to have a KCNJ11 mutation and was subsequently switched to sulfonylurea, which offered better control of blood sugars. Our case highlights the importance of recognizing signs and symptoms such as polyuria and vomiting along with the profound impact of genetic changes such as KCNJ11 in the pathophysiology of the condition. Genetic counseling is necessary for affected families, and increases awareness of potential complications, particularly those related to DKA and associated neurological risks.",
+      "chunk_index": 0,
+      "char_count": 990,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

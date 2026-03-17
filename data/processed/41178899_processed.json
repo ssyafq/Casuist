@@ -1,0 +1,39 @@
+{
+  "pmid": "41178899",
+  "pmc_id": "PMC12577777",
+  "title": "Pulmonary embolism in a post-COVID-19 patient: a critical diagnostic challenge.",
+  "authors": [
+    "Mitu DA",
+    "Popa DI",
+    "Buleu F",
+    "Williams C",
+    "Sutoi D",
+    "Lighezan DF",
+    "Mederle OA"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41178899",
+      "pmc_id": "PMC12577777",
+      "title": "Pulmonary embolism in a post-COVID-19 patient: a critical diagnostic challenge.",
+      "authors": [
+        "Mitu DA",
+        "Popa DI",
+        "Buleu F",
+        "Williams C",
+        "Sutoi D",
+        "Lighezan DF",
+        "Mederle OA"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "The most severe clinically recognized complication of venous thromboembolism (VTE), pulmonary embolism (PE), can be difficult to diagnose due to its nonspecific symptoms. The overlapping clinical symptoms of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection that causes Coronavirus 2019 (COVID-19) and PE can make it difficult to differentiate between one and the other. Therefore, PE diagnosis can be delayed or missed in patients with COVID-19, resulting in critical consequences for patient safety and outcomes. A 70-year-old woman presented to our Emergency Department with dyspnoea and chest pain. On admission, she had peripheral O2 saturation (SpO2) of 94% on 6 l/min O2, pain, and an increase in the volume of the right lower limb. Anamnesis revealed that she had been discharged two weeks earlier from the Infectious Diseases Department, where she was admitted for SARS-CoV-2 infection. Venous Doppler ultrasound of the right limb revealed complete thrombosis in the common femoral, popliteal, and small saphenous veins. The computed tomography angiography of the pulmonary artery revealed defects suggestive of pulmonary thromboembolism, visualized in the pulmonary artery trunk, bilateral pulmonary arteries, and various lobes. In patients with a recent history of COVID-19, pulmonary thromboembolism must always be considered as a critical differential diagnosis. Timely recognition and intervention are vital, as they can significantly influence the patient's prognosis and overall outcome through prompt diagnosis and appropriate treatment.",
+      "chunk_index": 0,
+      "char_count": 1575,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

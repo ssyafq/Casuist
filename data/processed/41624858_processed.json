@@ -1,0 +1,45 @@
+{
+  "pmid": "41624858",
+  "pmc_id": "PMC12852345",
+  "title": "Anti-VGLUT2 autoantibodies associated with post-COVID neurocognitive dysfunction: a case report.",
+  "authors": [
+    "Charles James J",
+    "Teegen B",
+    "Pakeerathan T",
+    "Hutter G",
+    "Ladopoulos T",
+    "Siems N",
+    "Trampe N",
+    "Ayzenberg I",
+    "Gold R",
+    "Faissner S"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41624858",
+      "pmc_id": "PMC12852345",
+      "title": "Anti-VGLUT2 autoantibodies associated with post-COVID neurocognitive dysfunction: a case report.",
+      "authors": [
+        "Charles James J",
+        "Teegen B",
+        "Pakeerathan T",
+        "Hutter G",
+        "Ladopoulos T",
+        "Siems N",
+        "Trampe N",
+        "Ayzenberg I",
+        "Gold R",
+        "Faissner S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Post-COVID-19 syndrome (PCS) is frequently associated with fatigue and cognitive dysfunction, while underlying mechanisms remain unclear. We report a 44-year-old male with persistent symptoms following SARS-CoV-2 infection, including severe cognitive and motor fatigue, word-finding difficulties, and impaired concentration. Neuropsychological testing revealed marked deficits in alertness, attention, fluency, and processing speed. Serum analysis demonstrated anti-VGLUT2 autoantibodies. IVIG therapy yielded subjective but no objective improvement. This appears to be the first PCS case associated with VGLUT2 autoantibodies and raises the hypothesis of a potential pathophysiological link that requires confirmation in larger cohorts.",
+      "chunk_index": 0,
+      "char_count": 737,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

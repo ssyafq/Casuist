@@ -1,0 +1,47 @@
+{
+  "pmid": "41622941",
+  "pmc_id": "PMC12891754",
+  "title": "Ischemic Stroke in a Talapoin Monkey (Miopithecus talapoin).",
+  "authors": [
+    "Dos Reis de Souza L",
+    "D'assuncao Castro VB",
+    "Santos DO",
+    "de Paula NF",
+    "Lima PCS",
+    "Motta ROC",
+    "Coelho CM",
+    "Tinoco HP",
+    "Silva ROS",
+    "Santos RL",
+    "de Oliveira AR"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41622941",
+      "pmc_id": "PMC12891754",
+      "title": "Ischemic Stroke in a Talapoin Monkey (Miopithecus talapoin).",
+      "authors": [
+        "Dos Reis de Souza L",
+        "D'assuncao Castro VB",
+        "Santos DO",
+        "de Paula NF",
+        "Lima PCS",
+        "Motta ROC",
+        "Coelho CM",
+        "Tinoco HP",
+        "Silva ROS",
+        "Santos RL",
+        "de Oliveira AR"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "A captive senile talapoin monkey (Miopithecus talapoin) developed sudden neurological signs and died within 24 h. Necropsy revealed an extensive infarct in the right hemisphere, from occipital to frontal lobe. Microscopy showed a thrombus, neuronal edema, and necrosis, and arteriosclerosis, characterizing an ischemic stroke.",
+      "chunk_index": 0,
+      "char_count": 326,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

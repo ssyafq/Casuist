@@ -1,0 +1,33 @@
+{
+  "pmid": "36223974",
+  "pmc_id": "PMC9562321",
+  "title": "Thyroid storm induced by combined nivolumab and ipilimumab immunotherapy in advanced non-small cell lung cancer.",
+  "authors": [
+    "Kataoka S",
+    "Matsuno K",
+    "Sugano K",
+    "Takahashi K"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "36223974",
+      "pmc_id": "PMC9562321",
+      "title": "Thyroid storm induced by combined nivolumab and ipilimumab immunotherapy in advanced non-small cell lung cancer.",
+      "authors": [
+        "Kataoka S",
+        "Matsuno K",
+        "Sugano K",
+        "Takahashi K"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm is a rare and life-threatening condition associated with excess thyroid hormones. Early detection of thyroid storm is the key to decreasing the morbidity and mortality associated with this condition. We present a rare case of thyroid storm induced by combination therapy with nivolumab and ipilimumab in a patient with advanced non-small cell lung cancer (NSCLC). Because of prominent hyperthyroidism with gastrointestinal symptoms and signs of heart failure, the patient was diagnosed with thyroid storm 3 weeks after initiating this combination immunotherapy. The patient had no history of thyroid disease but was positive for antithyroid antibodies. This case report suggests that thyroid function and symptoms of suspected thyroid storm should be evaluated routinely within 3 weeks from the initiation of therapy when combination therapy is administered in patients with NSCLC positive for antithyroid antibodies.",
+      "chunk_index": 0,
+      "char_count": 931,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

@@ -1,0 +1,83 @@
+{
+  "pmid": "41573196",
+  "pmc_id": "PMC12819254",
+  "title": "Case report: Takotsubo cardiomyopathy and cardiac arrest in a 9-year-old girl with new-onset diabetes presenting with diabetic ketoacidosis: the chicken or the egg?",
+  "authors": [
+    "Panic Zaric S",
+    "Vukomanovic V",
+    "Vukovic R",
+    "Milenkovic T",
+    "Todorovic S",
+    "Mitrovic K",
+    "Cvetkovic D",
+    "Krasic S"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41573196",
+      "pmc_id": "PMC12819254",
+      "title": "Case report: Takotsubo cardiomyopathy and cardiac arrest in a 9-year-old girl with new-onset diabetes presenting with diabetic ketoacidosis: the chicken or the egg?",
+      "authors": [
+        "Panic Zaric S",
+        "Vukomanovic V",
+        "Vukovic R",
+        "Milenkovic T",
+        "Todorovic S",
+        "Mitrovic K",
+        "Cvetkovic D",
+        "Krasic S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Diabetic ketoacidosis (DKA) is an acute and life-threatening complication of diabetes mellitus type 1 (T1DM). There is no published data about the incidence of cardiac arrest in pediatric DKA, but the scarcity of published case reports suggests a very low incidence. Here we present a rare case of a previously healthy 9-year-old girl with new T1DM presenting with severe DKA and influenza infection who developed cardiac arrest, ventricular tachycardia (VT) and stress cardiomyopathy during the initial hours of DKA treatment without any underlying electrolyte disorder, heart disease or hypoglycemia.",
+      "chunk_index": 0,
+      "char_count": 602,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41573196",
+      "pmc_id": "PMC12819254",
+      "title": "Case report: Takotsubo cardiomyopathy and cardiac arrest in a 9-year-old girl with new-onset diabetes presenting with diabetic ketoacidosis: the chicken or the egg?",
+      "authors": [
+        "Panic Zaric S",
+        "Vukomanovic V",
+        "Vukovic R",
+        "Milenkovic T",
+        "Todorovic S",
+        "Mitrovic K",
+        "Cvetkovic D",
+        "Krasic S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "low incidence. Here we present a rare case of a previously healthy 9-year-old girl with new T1DM presenting with severe DKA and influenza infection who developed cardiac arrest, ventricular tachycardia (VT) and stress cardiomyopathy during the initial hours of DKA treatment without any underlying electrolyte disorder, heart disease or hypoglycemia.\n\nA 9-year-old febrile girl was admitted to our pediatric intensive care unit (PICU) for treatment of severe DKA (pH 6.72, bicarbonate 3.4 mmol/L, glycaemia 28.2 mmol/L, urine ketones 10 mmol/L) with normal electrolyte status. The treatment of severe DKA was promptly started, with the addition of mannitol due to computed tomography (CT) signs of mild initial cerebral swelling. In the seventh hour of DKA treatment, bradycardia developed and, within a minute, progressed to asystolic cardiac arrest with a resultant sudden drop in oxygen saturation and arterial pressure. Immediate measures of cardiopulmonary-cerebral resuscitation were started, and adrenaline and atropine were administered, which resulted in a change from asystole to polymorphic ventricular tachycardia. Two direct current cardioversions were performed, restoring the patient's sinus rhythm and stabilization. Blood gas analyses showed the persistence of hyperglycemia and severe metabolic acidosis (pH 6.81, HCO3 4.0 mmol/L, glycemia 34.8 mmol/L) without any electrolyte imbalances and further increase in lactate levels. The girl was intubated, and mechanical ventilation was initiated. Echocardiography detected moderately impaired left ventricular systolic function, hypo- and dyskinesia of the interventricular septum. Bicarbonates and inotropic stimulation were administered. The further clinical course was uneventful, with gradual improvement, resolution of ketoacidosis, and restoration of cardiac function. Due to a mild fever and elevated C-reactive protein levels, a PCR test confirmed an infection with the AH3+ influenza virus. She was discharged after 14 days of treatment with insulin and an ACE inhibitor, with normal echocardiography findings.",
+      "chunk_index": 1,
+      "char_count": 2084,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41573196",
+      "pmc_id": "PMC12819254",
+      "title": "Case report: Takotsubo cardiomyopathy and cardiac arrest in a 9-year-old girl with new-onset diabetes presenting with diabetic ketoacidosis: the chicken or the egg?",
+      "authors": [
+        "Panic Zaric S",
+        "Vukomanovic V",
+        "Vukovic R",
+        "Milenkovic T",
+        "Todorovic S",
+        "Mitrovic K",
+        "Cvetkovic D",
+        "Krasic S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "with gradual improvement, resolution of ketoacidosis, and restoration of cardiac function. Due to a mild fever and elevated C-reactive protein levels, a PCR test confirmed an infection with the AH3+ influenza virus. She was discharged after 14 days of treatment with insulin and an ACE inhibitor, with normal echocardiography findings.\n\nThis case highlights that potentially fatal stress cardiomyopathy and cardiac arrest can unexpectedly occur during the treatment of pediatric severe DKA, even without electrolyte disturbances, brain edema or any history of prior heart disease. Due to these risks, we conclude that all pediatric patients with severe DKA should be treated in the PICU, with continuous ECG monitoring.",
+      "chunk_index": 2,
+      "char_count": 719,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

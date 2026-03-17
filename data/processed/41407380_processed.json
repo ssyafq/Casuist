@@ -1,0 +1,37 @@
+{
+  "pmid": "41407380",
+  "pmc_id": "PMC12887098",
+  "title": "Cerebral infarction in red panda (Ailurus fulgens).",
+  "authors": [
+    "Nakamura T",
+    "Takano G",
+    "Sugiyama M",
+    "Jo M",
+    "Furuta K",
+    "Kawaguchi H"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41407380",
+      "pmc_id": "PMC12887098",
+      "title": "Cerebral infarction in red panda (Ailurus fulgens).",
+      "authors": [
+        "Nakamura T",
+        "Takano G",
+        "Sugiyama M",
+        "Jo M",
+        "Furuta K",
+        "Kawaguchi H"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "We report thrombotic cerebral infarction in a 13-year-9-month-old, female, captive red panda that presented with acute hemiparesis. The animal showed initial improvement with corticosteroid therapy, but its neurological condition worsened, leading to death on day 10. Necropsy revealed extensive cerebral infarction and severe Aspergillus infections in the nose and lungs, but not in the brain. Additionally, atrophy of the spleen and lymph nodes was observed. This is the first reported pathological evidence of thrombotic cerebral infarction in a red panda, and the data highlight the potential therapeutic efficacy of corticosteroids for this condition. It is also important to note that respiratory Aspergillus infection may be associated with cerebral infarction in red panda.",
+      "chunk_index": 0,
+      "char_count": 781,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

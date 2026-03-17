@@ -1,0 +1,47 @@
+{
+  "pmid": "41299705",
+  "pmc_id": "PMC12751872",
+  "title": "Human herpesvirus 7 induced aseptic meningitis in an immunocompetent adult presenting with unusual neurological symptoms: a case report.",
+  "authors": [
+    "Nguyen LCA",
+    "Nguyen PMA",
+    "Nguyen THN"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41299705",
+      "pmc_id": "PMC12751872",
+      "title": "Human herpesvirus 7 induced aseptic meningitis in an immunocompetent adult presenting with unusual neurological symptoms: a case report.",
+      "authors": [
+        "Nguyen LCA",
+        "Nguyen PMA",
+        "Nguyen THN"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Viral meningitis is a frequent cause of central nervous system (CNS) inflammation, typically presenting with headache, fever, photophobia, and neck stiffness. While enteroviruses and herpes simplex virus are the most common etiologies, Human Herpesvirus 7 (HHV-7), a rarely recognized cause, is increasingly implicated in aseptic meningitis, particularly in immunocompetent adults. HHV-7 is a T-lymphotropic virus that primarily affects CD4 + T lymphocytes, and it is globally prevalent, with over 95% of adults seropositive for the virus. Though traditionally associated with mild childhood diseases like exanthems and febrile seizures, HHV-7 has been linked to neurological complications, including meningitis, encephalitis, and myelitis. A 37-year-old Italian female with a 10-year history of vegetarianism and a 2-year history of pap smear-diagnosed Human Papillomavirus (HPV)-associated low-grade squamous intraepithelial dysplasia was admitted for a 3-day history of progressive worsening lower back pain radiating to bilateral posterior lower limbs and soles paresthesia. Physical examination shows bilateral positive Lasegue sign, bilateral pain upon palpation of 4/4 Valleix's points, and absence of ankle reflexes, otherwise intact. Initial blood laboratory investigations reveal mild leukocytosis (10.92 G/L) with normal C-reactive protein (CRP), folate, and cobalamin. Cerebrospinal fluid (CSF) analysis shows 441 white blood cells/mm(3), elevated protein (1.073 g/L), and positive Pandy reaction. HHV-7 was detected via CSF polymerase chain reaction (PCR); other bacterial and viral pathogens were negative. Patient demonstrates remarkable recovery after 5 days, along with pain control.",
+      "chunk_index": 0,
+      "char_count": 1700,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41299705",
+      "pmc_id": "PMC12751872",
+      "title": "Human herpesvirus 7 induced aseptic meningitis in an immunocompetent adult presenting with unusual neurological symptoms: a case report.",
+      "authors": [
+        "Nguyen LCA",
+        "Nguyen PMA",
+        "Nguyen THN"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "C-reactive protein (CRP), folate, and cobalamin. Cerebrospinal fluid (CSF) analysis shows 441 white blood cells/mm(3), elevated protein (1.073 g/L), and positive Pandy reaction. HHV-7 was detected via CSF polymerase chain reaction (PCR); other bacterial and viral pathogens were negative. Patient demonstrates remarkable recovery after 5 days, along with pain control.\n\nWe report a rare case of viral meningitis induced by HHV-7 in a 37-year-old immunocompetent female, whose initial symptoms were unusual, presenting primarily with lower limb pain and numbness. Laboratory tests revealed HHV-7 deoxyribonucleic acid (DNA) in the CSF, confirming the diagnosis of aseptic meningitis. This case emphasizes the importance of considering HHV-7 in the differential diagnosis of viral meningitis, even without classic systemic signs. Despite the absence of specific antiviral therapy for HHV-7, supportive care remains effective. This case adds to the growing evidence on HHV-7 as an under-recognized cause of aseptic meningitis, particularly in immunocompetent individuals.",
+      "chunk_index": 1,
+      "char_count": 1068,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

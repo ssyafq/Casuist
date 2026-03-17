@@ -1,0 +1,67 @@
+{
+  "pmid": "40890584",
+  "pmc_id": "PMC12403946",
+  "title": "De Winter sign combined with pronounced aVR lead ST segment elevation and left anterior fascicular block: a case report.",
+  "authors": [
+    "Fang Y",
+    "Zhang M",
+    "Wu J",
+    "Li Z"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40890584",
+      "pmc_id": "PMC12403946",
+      "title": "De Winter sign combined with pronounced aVR lead ST segment elevation and left anterior fascicular block: a case report.",
+      "authors": [
+        "Fang Y",
+        "Zhang M",
+        "Wu J",
+        "Li Z"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "The de Winter electrocardiographic (ECG) pattern, characterized by upsloping ST-segment depression and tall T waves in leads V1-V6, is typically associated with proximal left anterior descending (LAD) artery occlusion. When combined with pronounced ST-segment elevation in lead aVR, it may indicate a more severe coronary artery involvement.",
+      "chunk_index": 0,
+      "char_count": 341,
+      "subspecialty": "acute coronary syndrome"
+    },
+    {
+      "pmid": "40890584",
+      "pmc_id": "PMC12403946",
+      "title": "De Winter sign combined with pronounced aVR lead ST segment elevation and left anterior fascicular block: a case report.",
+      "authors": [
+        "Fang Y",
+        "Zhang M",
+        "Wu J",
+        "Li Z"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "The de Winter electrocardiographic (ECG) pattern, characterized by upsloping ST-segment depression and tall T waves in leads V1-V6, is typically associated with proximal left anterior descending (LAD) artery occlusion. When combined with pronounced ST-segment elevation in lead aVR, it may indicate a more severe coronary artery involvement.\n\nA 36-year-old male smoker presented with acute chest pain for 2 h. Initial ECG showed J-point depression with upsloping ST-segment depression of 1-5 mm in leads V2-V6, accompanied by tall T waves, characteristic of the de Winter sign. Additionally, there was approximately 2.5 mm ST-segment elevation in aVR and left anterior fascicular block (LAFB). Diagnosed with acute coronary syndrome (ACS), he underwent emergency coronary angiography, revealing complete LMCA occlusion. Successful percutaneous coronary intervention (PCI) restored blood flow. Postoperatively, LAFB resolved. The patient recovered well without complications. Type 2 diabetes mellitus was diagnosed and managed. He was discharged with follow-up and lifestyle modifications.",
+      "chunk_index": 1,
+      "char_count": 1088,
+      "subspecialty": "acute coronary syndrome"
+    },
+    {
+      "pmid": "40890584",
+      "pmc_id": "PMC12403946",
+      "title": "De Winter sign combined with pronounced aVR lead ST segment elevation and left anterior fascicular block: a case report.",
+      "authors": [
+        "Fang Y",
+        "Zhang M",
+        "Wu J",
+        "Li Z"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "diagnosis",
+      "text": "block (LAFB). Diagnosed with acute coronary syndrome (ACS), he underwent emergency coronary angiography, revealing complete LMCA occlusion. Successful percutaneous coronary intervention (PCI) restored blood flow. Postoperatively, LAFB resolved. The patient recovered well without complications. Type 2 diabetes mellitus was diagnosed and managed. He was discharged with follow-up and lifestyle modifications.\n\nThis case highlights the clinical significance of the de Winter sign with pronounced aVR ST segment elevation, which may suggest severe coronary artery disease. The resolution of LAFB post-PCI suggests reversibility of conduction abnormalities with improved perfusion. Early recognition and intervention are crucial for better outcomes. Clinicians should be vigilant about this rare ECG pattern.",
+      "chunk_index": 2,
+      "char_count": 805,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "40990967",
+  "pmc_id": null,
+  "title": "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene.",
+  "authors": [
+    "Gaur BK",
+    "Varshney C",
+    "Rawat A",
+    "Jain S"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40990967",
+      "pmc_id": null,
+      "title": "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene.",
+      "authors": [
+        "Gaur BK",
+        "Varshney C",
+        "Rawat A",
+        "Jain S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "A 2-month-old infant, born to a consanguineous marriage presented to PICU with the manifestation of severe diabetic ketoacidosis (severe hyperglycemia, pH 6.984 + ketones in urine). Genomic sequencing analyses detected a novel homozygous missense variation in the Exon 11 of the EIF2AK3 gene that resulted in the amino acid substitution of valine for glycine at codon 602 (p.Gly602Val). A diagnosis of Wolcott-Rallison syndrome was confirmed. He was treated with fluid therapy and regular insulin infusion. The purpose of this case report is to highlight the novel mutation in the Exon 11 of the EIF2AK3 gene and to raise awareness for screening of pathogenic genetic variants in the EIF2AK3 gene in all patients with neonatal diabetes mellitus.",
+      "chunk_index": 0,
+      "char_count": 745,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40990967",
+      "pmc_id": null,
+      "title": "Wolcott-Rallison syndrome due to a novel homozygous missense variation (p.Gly602Val) in the exon 11 of EIF2AK3 gene.",
+      "authors": [
+        "Gaur BK",
+        "Varshney C",
+        "Rawat A",
+        "Jain S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "was treated with fluid therapy and regular insulin infusion. The purpose of this case report is to highlight the novel mutation in the Exon 11 of the EIF2AK3 gene and to raise awareness for screening of pathogenic genetic variants in the EIF2AK3 gene in all patients with neonatal diabetes mellitus.\n\nIn the evaluation of infants with diabetic ketoacidosis, genomic DNA sequencing analyses should be performed in all cases of neonatal diabetes mellitus for early diagnosis of Wolcott-Rallison syndrome.",
+      "chunk_index": 1,
+      "char_count": 502,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

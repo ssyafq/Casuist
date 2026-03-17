@@ -1,0 +1,45 @@
+{
+  "pmid": "41501207",
+  "pmc_id": "PMC12779829",
+  "title": "Osmotic nephropathy as a potentially underrecognized cause of acute kidney injury during SGLT2 inhibitor therapy: a case report and literature review.",
+  "authors": [
+    "Murata A",
+    "Tanaka M",
+    "Takayoshi M",
+    "Matsuyama Y",
+    "Sato R",
+    "Ishida Y",
+    "Teragaki M",
+    "Iwanari S",
+    "Ikeda M",
+    "Takeoka H"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41501207",
+      "pmc_id": "PMC12779829",
+      "title": "Osmotic nephropathy as a potentially underrecognized cause of acute kidney injury during SGLT2 inhibitor therapy: a case report and literature review.",
+      "authors": [
+        "Murata A",
+        "Tanaka M",
+        "Takayoshi M",
+        "Matsuyama Y",
+        "Sato R",
+        "Ishida Y",
+        "Teragaki M",
+        "Iwanari S",
+        "Ikeda M",
+        "Takeoka H"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "In recent years, sodium-glucose cotransporter 2 (SGLT2) inhibitors have become essential therapeutic agents in the management of chronic kidney disease (CKD), owing to their established renoprotective effects. Although acute kidney injury (AKI) may occasionally occur during SGLT2 inhibitor therapy, its pathological features remain incompletely understood. Here, we report a case of AKI caused by osmotic nephropathy in a patient with underlying CKD following the initiation of an SGLT2 inhibitor. We also review previously reported cases of SGLT2 inhibitor-associated osmotic nephropathy. A 71-year-old man with type 2 diabetes and CKD developed oliguric AKI, with his serum creatinine level increasing from 2.0 to 8.3 mg/dL, one month after initiating dapagliflozin. During this period, he experienced transient appetite loss associated with a COVID-19 infection. Despite initial management for presumed prerenal AKI, his renal function did not improve with intravenous fluid therapy, and he required hemodialysis. Kidney biopsy revealed characteristic features of osmotic nephropathy, including numerous isometric vacuoles within the epithelial cells of proximal tubules with preserved brush borders. His renal function began to improve approximately two weeks after discontinuation of the SGLT2 inhibitor, and eventually returned to baseline. This case and literature review highlight the potential for osmotic nephropathy as a rare but reversible complication of SGLT2 inhibitor therapy, which may be triggered by volume depletion, particularly in diabetic patients with pre-existing renal dysfunction. Recognition of this underdiagnosed entity is crucial for timely diagnosis and appropriate management.",
+      "chunk_index": 0,
+      "char_count": 1710,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

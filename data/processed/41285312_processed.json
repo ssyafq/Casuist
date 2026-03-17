@@ -1,0 +1,39 @@
+{
+  "pmid": "41285312",
+  "pmc_id": null,
+  "title": "Chronic pulmonary coccidioidomycosis complicated with meningitis: A case report.",
+  "authors": [
+    "Mizushima R",
+    "Moriyama Y",
+    "Watanabe A",
+    "Ueno K",
+    "Shinohara T",
+    "Miyazaki Y",
+    "Ohmagari N"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41285312",
+      "pmc_id": null,
+      "title": "Chronic pulmonary coccidioidomycosis complicated with meningitis: A case report.",
+      "authors": [
+        "Mizushima R",
+        "Moriyama Y",
+        "Watanabe A",
+        "Ueno K",
+        "Shinohara T",
+        "Miyazaki Y",
+        "Ohmagari N"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "We encountered a case of chronic pulmonary coccidioidomycosis complicated with meningitis in a 53-year-old African-American veteran with a history of staying in Arizona, United States of America. The patient was referred from another hospital with complaints of cough, blood-stained phlegm, hemoptysis, and headache. Chronic pulmonary coccidioidomycosis was suspected based on the presence of multiple pulmonary cavity lesions on computed tomography (CT) and a relevant exposure history, and the diagnosis was confirmed by serological antibody tests (coccidioidomycosis IgG, positive; coccidioidomycosis IgM, negative). Treatment was initiated with oral fluconazole (FLCZ) 400 mg daily, but there was no improvement in symptoms, and CT revealed gradual enlargement of the pulmonary cavitary lesions. Therefore, the oral FLCZ dose was increased to 800 mg; however, the patient developed worsening headache, and subsequent cerebrospinal fluid analysis revealed a slight increase in cell count with positive IgG, negative IgM, and negative polymerase chain reaction results. Suspecting meningitis, the oral FLCZ dose was further increased to 1200 mg, leading to marked improvement in symptoms at the following visit. In coccidioidomycosis, an increase in any antibody titer should be considered an indicator of active infection. In addition, if headache develops during the course of the disease, appropriate treatment for meningitis should be initiated even if cerebrospinal fluid findings are minimal.",
+      "chunk_index": 0,
+      "char_count": 1500,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "41364844",
+  "pmc_id": null,
+  "title": "Telehealth to Expedite Cardiogenic Shock Diagnosis and Treatment: A Case Report.",
+  "authors": [
+    "Boni RL",
+    "Calderon TC"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41364844",
+      "pmc_id": null,
+      "title": "Telehealth to Expedite Cardiogenic Shock Diagnosis and Treatment: A Case Report.",
+      "authors": [
+        "Boni RL",
+        "Calderon TC"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "In an increasingly complex health care environment, the prompt recognition of critical illnesses, such as cardiogenic shock, is imperative for improving patient outcomes. Telehealth services, such as the integration of virtual intensive care units, can facilitate collaboration between clinicians to expedite treatment of complex conditions. In this case report, an intensive care nurse practitioner's use of telehealth resulted in prompt diagnosis and treatment for a patient with cardiogenic shock. The patient was initially treated for presumed septic shock. The intensive care nurse practitioner suspected cardiogenic shock and consulted with an intensivist using a virtual intensive care model of care. The patient was treated for cardiogenic shock and has returned to his baseline status, despite the morbidity and mortality typically associated with cardiogenic shock. Integration of virtual intensive care units in other health systems can offer one way to improve outcomes for critically ill patients, especially those with low-frequency, high-risk conditions.",
+      "chunk_index": 0,
+      "char_count": 1069,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

@@ -1,0 +1,94 @@
+{
+  "pmid": "41590399",
+  "pmc_id": null,
+  "title": "[Temporary endoscopic occlusion of tracheoesophageal fistula prior to radical surgery].",
+  "authors": [
+    "Parshin VD",
+    "Simonova MS",
+    "Parshin AV",
+    "Ursov MA",
+    "Parshin VV",
+    "Serpukhin DD"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41590399",
+      "pmc_id": null,
+      "title": "[Temporary endoscopic occlusion of tracheoesophageal fistula prior to radical surgery].",
+      "authors": [
+        "Parshin VD",
+        "Simonova MS",
+        "Parshin AV",
+        "Ursov MA",
+        "Parshin VV",
+        "Serpukhin DD"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "To assess the effectiveness of Amplatzer Septal Occluder as a palliative approach for temporary TEF occlusion before radical surgery. MATERIAL AND",
+      "chunk_index": 0,
+      "char_count": 146,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41590399",
+      "pmc_id": null,
+      "title": "[Temporary endoscopic occlusion of tracheoesophageal fistula prior to radical surgery].",
+      "authors": [
+        "Parshin VD",
+        "Simonova MS",
+        "Parshin AV",
+        "Ursov MA",
+        "Parshin VV",
+        "Serpukhin DD"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "To assess the effectiveness of Amplatzer Septal Occluder as a palliative approach for temporary TEF occlusion before radical surgery. MATERIAL AND\n\nThe authors present a patient with multifocal post-tracheostomy TEF after mechanical ventilation for COVID-19. Two Amplatzer Septal Occluders were implanted under endoscopic guidance for temporary occlusion. Effectiveness, recurrence rate, and feasibility of radical surgery were evaluated.",
+      "chunk_index": 1,
+      "char_count": 438,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41590399",
+      "pmc_id": null,
+      "title": "[Temporary endoscopic occlusion of tracheoesophageal fistula prior to radical surgery].",
+      "authors": [
+        "Parshin VD",
+        "Simonova MS",
+        "Parshin AV",
+        "Ursov MA",
+        "Parshin VV",
+        "Serpukhin DD"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "labs",
+      "text": "The authors present a patient with multifocal post-tracheostomy TEF after mechanical ventilation for COVID-19. Two Amplatzer Septal Occluders were implanted under endoscopic guidance for temporary occlusion. Effectiveness, recurrence rate, and feasibility of radical surgery were evaluated.\n\nTEF occlusion successfully eliminated aspiration and enabled radical repair after four months with minimal postoperative complications. However, device dislocation and fistula enlargement were identified as limitations.",
+      "chunk_index": 2,
+      "char_count": 511,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41590399",
+      "pmc_id": null,
+      "title": "[Temporary endoscopic occlusion of tracheoesophageal fistula prior to radical surgery].",
+      "authors": [
+        "Parshin VD",
+        "Simonova MS",
+        "Parshin AV",
+        "Ursov MA",
+        "Parshin VV",
+        "Serpukhin DD"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "TEF occlusion successfully eliminated aspiration and enabled radical repair after four months with minimal postoperative complications. However, device dislocation and fistula enlargement were identified as limitations.\n\nThis method appears promising but requires further research to assess complication risks and optimize implantation techniques.",
+      "chunk_index": 3,
+      "char_count": 347,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

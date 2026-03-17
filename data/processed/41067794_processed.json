@@ -1,0 +1,33 @@
+{
+  "pmid": "41067794",
+  "pmc_id": null,
+  "title": "Severe prolonged gastrointestinal bleeding due to Shiga toxin-producing Escherichia coli.",
+  "authors": [
+    "Lian T",
+    "Wong A",
+    "Lumsden E",
+    "Chan J"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41067794",
+      "pmc_id": null,
+      "title": "Severe prolonged gastrointestinal bleeding due to Shiga toxin-producing Escherichia coli.",
+      "authors": [
+        "Lian T",
+        "Wong A",
+        "Lumsden E",
+        "Chan J"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Shiga-toxin producing Escherichia coli (STEC) infections can cause severe gastrointestinal bleeding and haemolytic uraemic syndrome (HUS). This report highlights diagnostic and management challenges in a rare case of prolonged per rectal (PR) bleeding caused by STEC. A woman in her 40s presented with recurrent PR bleeding and haemodynamic instability. Extensive investigations including upper and lower endoscopy, capsule endoscopy, nuclear scintigraphy and CT angiography failed to identify a definitive bleeding source. Scintigraphy suggested active bleeding near the caecum, and CT angiogram revealed a faint blush in the ascending colon, though no feeding vessel was identified. The patient required transfusions for stabilisation. Surgical intervention, including hemicolectomy, was considered. Stool polymerase chain reaction (PCR) confirmed Shiga toxin 2-producing Escherichia coli, and her symptoms resolved with conservative management. This case highlights the importance of early stool PCR testing in unexplained gastrointestinal bleeding and emphasises supportive care as the cornerstone of management, with surgery reserved for refractory cases.",
+      "chunk_index": 0,
+      "char_count": 1160,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

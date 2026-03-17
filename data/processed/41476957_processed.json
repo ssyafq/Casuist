@@ -1,0 +1,35 @@
+{
+  "pmid": "41476957",
+  "pmc_id": "PMC12747900",
+  "title": "Adult-onset Still's disease presenting with aseptic meningitis: a case report.",
+  "authors": [
+    "Li XF",
+    "Ker A",
+    "Liao HL",
+    "Liu Y",
+    "Wei JC"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41476957",
+      "pmc_id": "PMC12747900",
+      "title": "Adult-onset Still's disease presenting with aseptic meningitis: a case report.",
+      "authors": [
+        "Li XF",
+        "Ker A",
+        "Liao HL",
+        "Liu Y",
+        "Wei JC"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Adult-onset Still's disease (AOSD) is a systemic autoinflammatory disorder characterized by high spiking fever, evanescent rash, arthritis, sore throat, and lymphadenopathy. The pathogenesis of AOSD remains unclear. Neurological involvement in AOSD is uncommon. This case report describes an atypical presentation of AOSD complicated by aseptic meningitis, where the true rarity lies in the unusually severe neurological involvement and associated complications, including empty sella. A 56-year-old female was admitted with a one-year history of recurrent high-grade fever, fatigue, accompanied by seizures and episode of altered consciousness lasting for over 17 hours. During the course of hospitalization, she exhibited polyarticular swelling and pain, seizures and impaired consciousness. Laboratory analysis revealed leukocytosis and markedly elevated serum ferritin levels. Brain magnetic resonance imaging (MRI) showed diffuse leptomeningeal enhancement. Infectious, demyelinating, and other etiologies were excluded based on CSF analysis and other evaluations. A diagnosis of aseptic meningitis secondary to AOSD was made. The patient was treated with cyclosporine, tocilizumab, intrathecal dexamethasone, and methotrexate, resulting in marked clinical improvement. This case highlights the importance of recognizing uncommon neurological manifestations of AOSD and underscores that severe complications such as empty sella may occur and require prompt recognition and treatment.",
+      "chunk_index": 0,
+      "char_count": 1488,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

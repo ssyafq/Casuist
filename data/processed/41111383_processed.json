@@ -1,0 +1,71 @@
+{
+  "pmid": "41111383",
+  "pmc_id": null,
+  "title": "Pulmonary Embolism Secondary to Lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy: A Case Report and Literature Review.",
+  "authors": [
+    "Shu Z",
+    "Fu S",
+    "Liu G",
+    "Lan W",
+    "Zhang Y"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41111383",
+      "pmc_id": null,
+      "title": "Pulmonary Embolism Secondary to Lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy: A Case Report and Literature Review.",
+      "authors": [
+        "Shu Z",
+        "Fu S",
+        "Liu G",
+        "Lan W",
+        "Zhang Y"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Pulmonary embolism (PE) secondary to lymphocyst formation after robotic-assisted laparoscopic radical prostatectomy (RALRP) is a rare but serious complication. Although most patients with pelvic lymphocysts receive effective conservative treatment, there is no consensus on treatment strategies for patients who do not respond to conservative treatment. This case report highlights the clinical features, diagnostic challenges, and treatment approaches for managing this condition.",
+      "chunk_index": 0,
+      "char_count": 481,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41111383",
+      "pmc_id": null,
+      "title": "Pulmonary Embolism Secondary to Lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy: A Case Report and Literature Review.",
+      "authors": [
+        "Shu Z",
+        "Fu S",
+        "Liu G",
+        "Lan W",
+        "Zhang Y"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "prostatectomy (RALRP) is a rare but serious complication. Although most patients with pelvic lymphocysts receive effective conservative treatment, there is no consensus on treatment strategies for patients who do not respond to conservative treatment. This case report highlights the clinical features, diagnostic challenges, and treatment approaches for managing this condition.\n\nA 61-year-old male with prostate cancer (pT3N0M0) underwent RALRP. One week after discharge, he developed swelling and pain in his right lower limb, with localised warmth and worsening symptoms upon activity. A pelvic lymphocyst was suspected and the patient was initially managed symptomatically prior to discharge. However, three weeks later, he returned with persistent right lower limb edema and new-onset dyspnea. Further evaluation confirmed a secondary PE due to the lymphocyst. The patient showed significant improvement after a comprehensive treatment strategy, including anticoagulation, thrombolysis, and inferior vena cava filter placement. Concurrently, the lymphocyst was successfully managed with computed tomography (CT)-guided percutaneous drainage and sclerotherapy, leading to complete resolution. The patient was discharged without complications, and follow-up showed no recurrence.",
+      "chunk_index": 1,
+      "char_count": 1283,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41111383",
+      "pmc_id": null,
+      "title": "Pulmonary Embolism Secondary to Lymphocyst after Robot-Assisted Laparoscopic Radical Prostatectomy: A Case Report and Literature Review.",
+      "authors": [
+        "Shu Z",
+        "Fu S",
+        "Liu G",
+        "Lan W",
+        "Zhang Y"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "diagnosis",
+      "text": "the lymphocyst. The patient showed significant improvement after a comprehensive treatment strategy, including anticoagulation, thrombolysis, and inferior vena cava filter placement. Concurrently, the lymphocyst was successfully managed with computed tomography (CT)-guided percutaneous drainage and sclerotherapy, leading to complete resolution. The patient was discharged without complications, and follow-up showed no recurrence.\n\nPE secondary to lymphocyst formation is an uncommon but serious complication after radical prostatectomy. Early detection and intervention in high-risk patients are essential to improve patient outcomes.",
+      "chunk_index": 2,
+      "char_count": 637,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

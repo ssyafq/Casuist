@@ -1,0 +1,53 @@
+{
+  "pmid": "38553729",
+  "pmc_id": "PMC10981326",
+  "title": "Plasmapheresis in thyrotoxicosis: a single-center case series.",
+  "authors": [
+    "Rami I",
+    "Zerrouki D",
+    "Assarrar I",
+    "Rouf S",
+    "Latrech H"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "38553729",
+      "pmc_id": "PMC10981326",
+      "title": "Plasmapheresis in thyrotoxicosis: a single-center case series.",
+      "authors": [
+        "Rami I",
+        "Zerrouki D",
+        "Assarrar I",
+        "Rouf S",
+        "Latrech H"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Plasmapheresis represent an alternative therapeutic option for hyperthyroidism with thyroid storm or refractory cases. It provides a rapid decrease in plasma thyroid hormones and anti-thyroid antibodies. The aim of this paper was to report our single center's experience in managing particular situations of hyperthyroidism using apheresis. CASES PRESENTATION: The following case series describes three young African patients (two females, one male) aged 29, 37, and 25 years old, respectively, with Graves' disease who presented with drug ineffectiveness, drug-induced agranulocytosis, and thyroid storm with multi-organ failure. The three patients underwent plasmapheresis sessions leading to effective decline of thyroid hormone levels and offering a window for processing total thyroidectomy. DISCUSSION/",
+      "chunk_index": 0,
+      "char_count": 808,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "38553729",
+      "pmc_id": "PMC10981326",
+      "title": "Plasmapheresis in thyrotoxicosis: a single-center case series.",
+      "authors": [
+        "Rami I",
+        "Zerrouki D",
+        "Assarrar I",
+        "Rouf S",
+        "Latrech H"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "females, one male) aged 29, 37, and 25 years old, respectively, with Graves' disease who presented with drug ineffectiveness, drug-induced agranulocytosis, and thyroid storm with multi-organ failure. The three patients underwent plasmapheresis sessions leading to effective decline of thyroid hormone levels and offering a window for processing total thyroidectomy. DISCUSSION/\n\nThe standard management of thyrotoxicosis and thyroid storm was usually codified by the concomitant use of antithyroid medication, iodine, beta-blockers, and corticosteroids. This medical preparation can be effective in most cases. However, drug toxicity or ineffectiveness can limit the use of such therapeutics. Our paper supports the efficiency and safety of therapeutic plasma exchange in the preoperative management of thyrotoxicosis.",
+      "chunk_index": 1,
+      "char_count": 818,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

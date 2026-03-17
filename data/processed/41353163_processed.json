@@ -1,0 +1,39 @@
+{
+  "pmid": "41353163",
+  "pmc_id": "PMC12798047",
+  "title": "Small cell lung cancer invading the pulmonary artery misdiagnosed as pulmonary thromboembolism: a case report.",
+  "authors": [
+    "Yuan S",
+    "Sun S",
+    "Kou Z",
+    "Li Y",
+    "Zhang Y",
+    "Yu X",
+    "Hao W"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41353163",
+      "pmc_id": "PMC12798047",
+      "title": "Small cell lung cancer invading the pulmonary artery misdiagnosed as pulmonary thromboembolism: a case report.",
+      "authors": [
+        "Yuan S",
+        "Sun S",
+        "Kou Z",
+        "Li Y",
+        "Zhang Y",
+        "Yu X",
+        "Hao W"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "We report a case of small cell lung cancer (SCLC) invading the pulmonary artery, initially misdiagnosed as pulmonary thromboembolism (PTE). The patient received anticoagulation therapy for 3 months without improvement. Subsequent positron emission tomography-computed tomography (PET-CT) revealed hypermetabolic lesions suspicious for malignancy, and bronchoscopy with biopsy confirmed SCLC. This case highlights the diagnostic challenge of distinguishing pulmonary artery invasion by tumor from PTE, and underscores the critical role of PET-CT and timely histopathological confirmation in guiding clinical management.",
+      "chunk_index": 0,
+      "char_count": 618,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

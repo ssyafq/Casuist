@@ -1,0 +1,37 @@
+{
+  "pmid": "41120623",
+  "pmc_id": "PMC12540609",
+  "title": "Coronary-to-pulmonary artery fistula in a patient with atypical chest pain: case presentation and literature review.",
+  "authors": [
+    "Rusali AC",
+    "Lupu CI",
+    "Manolache MM",
+    "Rusali LM",
+    "Bordei P",
+    "Cojocaru L"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41120623",
+      "pmc_id": "PMC12540609",
+      "title": "Coronary-to-pulmonary artery fistula in a patient with atypical chest pain: case presentation and literature review.",
+      "authors": [
+        "Rusali AC",
+        "Lupu CI",
+        "Manolache MM",
+        "Rusali LM",
+        "Bordei P",
+        "Cojocaru L"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Coronary artery fistulas are rare anomalies characterized by abnormal communications between a coronary artery and a cardiac chamber, vein, or great vessel. This review explores the pathophysiology, clinical presentation, diagnostic modalities, and management of CPAFs, with a focus on their hemodynamic implications. A clinical case is presented to illustrate the diagnostic process and decision-making in the management of CPAFs. The patient was admitted into hospital for chest pain and an abnormal flow in the pulmonary artery observed on transthoracic echocardiography in the emergency department. Further investigations revealed the patient had a coronary-to-pulmonary fistula connecting the left anterior descending artery to the pulmonary artery trunk. Myocardial perfusion scan was performed and it demonstrated normal perfusion in the left anterior descending artery territory. Different causes for chest pain were investigated-upper digestive endoscopy revealed peptic ulcer, which was successfully treated. This review underscores the importance of individualized approaches to treatment and highlights the potential for conservative management in selected patients.",
+      "chunk_index": 0,
+      "char_count": 1178,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

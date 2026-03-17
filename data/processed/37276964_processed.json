@@ -1,0 +1,33 @@
+{
+  "pmid": "37276964",
+  "pmc_id": "PMC12069360",
+  "title": "Anaesthetic management of thyroid storm in a patient with Friederich's ataxia. A case report.",
+  "authors": [
+    "Sneyers Closa M",
+    "Perez Requena A",
+    "Sanchez Garcia S",
+    "Sistac Ballarin J"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "37276964",
+      "pmc_id": "PMC12069360",
+      "title": "Anaesthetic management of thyroid storm in a patient with Friederich's ataxia. A case report.",
+      "authors": [
+        "Sneyers Closa M",
+        "Perez Requena A",
+        "Sanchez Garcia S",
+        "Sistac Ballarin J"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "A 26-year-old patient with Friederich's ataxia with hypertrophic obstructive cardiomyopathy undergoing total thyroidectomy due to persistent amiodarone-induced thyrotoxicosis (despite high doses of antithyroid drugs and corticosteroids), presented an intraoperative episode suggestive of thyroid storm. Thyroid storm is an endocrine emergency that is associated with high morbidity and mortality. Early diagnosis and treatment, which is of vital importance to improve survival, includes symptomatic treatment, treatment of cardiovascular, neurological, and/or hepatic manifestations and thyrotoxicosis, measures to suppress or avoid triggering stimuli, and definitive treatment.",
+      "chunk_index": 0,
+      "char_count": 678,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

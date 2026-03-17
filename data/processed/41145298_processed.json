@@ -1,0 +1,33 @@
+{
+  "pmid": "41145298",
+  "pmc_id": null,
+  "title": "Presumed convulsive syncopes during ventricular arrest due to pacemaker malfunction in a dog.",
+  "authors": [
+    "Rodriguez LV",
+    "Rodriguez JEV",
+    "Amengual-Batle P",
+    "Vazquez DMP"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41145298",
+      "pmc_id": null,
+      "title": "Presumed convulsive syncopes during ventricular arrest due to pacemaker malfunction in a dog.",
+      "authors": [
+        "Rodriguez LV",
+        "Rodriguez JEV",
+        "Amengual-Batle P",
+        "Vazquez DMP"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Convulsive syncope is an unusual presentation of syncope in which it manifests with convulsive features, with or without epileptic activity on electroencephalography. This phenomenon has scarcely been reported in veterinary medicine. This report describes the clinical presentation, diagnostic findings and treatment of a 9-year-old Cane Corso, who was presented two and a half months after transvenous pacemaker implantation with episodes of collapse, unconsciousness, urination and opisthotonos, that after some seconds, turned into myoclonic jerks before regaining consciousness. Those episodes were highly suggestive of convulsive syncope and were associated with periods of ventricular arrest due to a pacemaker malfunction. This condition should be considered as a differential diagnosis for epileptic seizures in patients with potential cardiovascular disease and as a possible complication after pacemaker implantation in dogs.",
+      "chunk_index": 0,
+      "char_count": 935,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

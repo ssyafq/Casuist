@@ -1,0 +1,35 @@
+{
+  "pmid": "41405637",
+  "pmc_id": null,
+  "title": "[Crowned Dens Syndrome Mimicking Acute Meningitis in an Elderly Patient].",
+  "authors": [
+    "Bravo Martinez C",
+    "Leiva Larranaga V",
+    "Meneses Jarpa G",
+    "Santamarina M",
+    "Gutierrez M"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41405637",
+      "pmc_id": null,
+      "title": "[Crowned Dens Syndrome Mimicking Acute Meningitis in an Elderly Patient].",
+      "authors": [
+        "Bravo Martinez C",
+        "Leiva Larranaga V",
+        "Meneses Jarpa G",
+        "Santamarina M",
+        "Gutierrez M"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "We report a case of an 82-year-old patient with crowned dens syndrome, who presented with symptoms mimicking acute meningitis. The patient exhibited severe acute cervicalgia, fever, arthritis of the wrists and hands, along with elevated inflammatory parameters. Acute meningitis was ruled out with a normal cerebrospinal fluid study. A computed tomography scan of the cervical spine revealed calcifications around the odontoid process, confirming the diagnosis of crowned dens syndrome (CDS). The patient showed a favorable response to treatment with prednisone. CDS is an uncommon presentation of calcium pyrophosphate dihydrate crystal deposition disease and should be considered in the differential diagnosis of cervical pain and fever in the elderly.",
+      "chunk_index": 0,
+      "char_count": 754,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

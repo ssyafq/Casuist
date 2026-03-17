@@ -1,0 +1,68 @@
+{
+  "pmid": "40993546",
+  "pmc_id": "PMC12462110",
+  "title": "Passivating rapidly progressing plaque with refractory angina and intraplaque hemorrhage: case series and literature review.",
+  "authors": [
+    "Zhang J",
+    "Chen Y",
+    "Zhou M",
+    "Cui Y",
+    "Wang M",
+    "Xiong B",
+    "Chen Y",
+    "Wang H",
+    "Chen Z",
+    "He Y"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40993546",
+      "pmc_id": "PMC12462110",
+      "title": "Passivating rapidly progressing plaque with refractory angina and intraplaque hemorrhage: case series and literature review.",
+      "authors": [
+        "Zhang J",
+        "Chen Y",
+        "Zhou M",
+        "Cui Y",
+        "Wang M",
+        "Xiong B",
+        "Chen Y",
+        "Wang H",
+        "Chen Z",
+        "He Y"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "The optimal treatment for vulnerable plaques with intraplaque hemorrhage (IPH) remains uncertain. The present article summarizes the treatment and prognosis of patients with refractory recurrent angina and rapid plaque progression due to IPH. All three cases pertained to rapid plaque progression due to IPH. In Case 1, a 43-year-old perimenopausal woman with two recent interventions for the left anterior descending coronary artery (LAD) was referred to our center for multiple recurrent angina episodes. In Case 2, a 49-year-old man presented to our center with complaints of recurrent chest pain for 7 months, with both coronary angiographies displaying mild-to-moderate stenosis. In Case 3, a 68-year-old woman was readmitted for recurrent angina, with both previous coronary angiographies displaying mild stenosis in the middle segment of LAD. Coronary artery spasm was initially considered; thus, anti-spasticity treatment was intensified. However, angina still frequently occurred during active medical treatment and was accompanied with dynamic ST-T changes on electrocardiography. Repeated diagnostic angiography revealed rapid plaque progression, and optical coherence tomography revealed intraplaque hemorrhage as a possible cause of plaque progression. Stenting was used to passivate vulnerable plaques, and the patients were symptom-free during clinical follow-up.",
+      "chunk_index": 0,
+      "char_count": 1378,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "40993546",
+      "pmc_id": "PMC12462110",
+      "title": "Passivating rapidly progressing plaque with refractory angina and intraplaque hemorrhage: case series and literature review.",
+      "authors": [
+        "Zhang J",
+        "Chen Y",
+        "Zhou M",
+        "Cui Y",
+        "Wang M",
+        "Xiong B",
+        "Chen Y",
+        "Wang H",
+        "Chen Z",
+        "He Y"
+      ],
+      "specialty": "chest pain",
+      "section_type": "discussion",
+      "text": "occurred during active medical treatment and was accompanied with dynamic ST-T changes on electrocardiography. Repeated diagnostic angiography revealed rapid plaque progression, and optical coherence tomography revealed intraplaque hemorrhage as a possible cause of plaque progression. Stenting was used to passivate vulnerable plaques, and the patients were symptom-free during clinical follow-up.\n\nIn vivo IPH associated with rapid plaque progression was observed in fibrotic plaques, which may leading to vasomotor dysfunction and refractory angina. In this specific patient population, stenting vulnerable plaques with intraplaque hemorrhage in patients experiencing recurrent angina, despite receiving intensified medical treatment, may be considered a potentially feasible and effective treatment strategy. Nevertheless, the efficacy and long-term outcomes of mechanical plaque sealing require further investigation.",
+      "chunk_index": 1,
+      "char_count": 922,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

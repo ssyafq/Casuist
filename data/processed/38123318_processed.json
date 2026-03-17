@@ -1,0 +1,35 @@
+{
+  "pmid": "38123318",
+  "pmc_id": "PMC10749123",
+  "title": "Encephalitis as an initial presentation of type 2 amiodarone-induced thyrotoxicosis.",
+  "authors": [
+    "Cilia K",
+    "Mifsud S",
+    "Craus S",
+    "Vella S",
+    "Dingli N"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "38123318",
+      "pmc_id": "PMC10749123",
+      "title": "Encephalitis as an initial presentation of type 2 amiodarone-induced thyrotoxicosis.",
+      "authors": [
+        "Cilia K",
+        "Mifsud S",
+        "Craus S",
+        "Vella S",
+        "Dingli N"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We report a case of a woman in her mid-20s presenting with encephalitis as the initial presentation of type 2 amiodarone-induced thyrotoxicosis (AIT). She was on amiodarone in view of a history of hypertrophic cardiomyopathy. Symptomatology included acute personality change and focal myoclonic jerks.Cerebrospinal fluid analysis showed a non-specific protein count elevation with negative microbiology, virology, autoimmune screen and onconeural antibodies. The electroencephalogram was consistent with a generalised cerebral dysrhythmia. An MRI of the head revealed symmetrical oedema within the motor cortices and a high T2 signal within the cerebellar dentate nuclei, with no restricted diffusion. Blood investigations confirmed thyrotoxicosis with negative antithyroid antibodies. She did not fulfil the criteria for a thyroid storm. Other possible causes of encephalitis were excluded.There was an excellent clinical, laboratory and radiological response to glucocorticoids, suggesting a diagnosis of steroid-responsive encephalitis secondary to type 2-AIT in the absence of a thyroid storm.",
+      "chunk_index": 0,
+      "char_count": 1097,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

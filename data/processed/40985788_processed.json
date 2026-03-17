@@ -1,0 +1,35 @@
+{
+  "pmid": "40985788",
+  "pmc_id": null,
+  "title": "A 40-Year-Old Woman with Pain in the Chest, Hands, and Feet.",
+  "authors": [
+    "Aziz IN",
+    "Patolia K",
+    "Imran A",
+    "Qaddorah S",
+    "Garcia M"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40985788",
+      "pmc_id": null,
+      "title": "A 40-Year-Old Woman with Pain in the Chest, Hands, and Feet.",
+      "authors": [
+        "Aziz IN",
+        "Patolia K",
+        "Imran A",
+        "Qaddorah S",
+        "Garcia M"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "AbstractMorning Report is a time-honored tradition where physicians-in-training present cases to their colleagues and clinical experts to collaboratively examine an interesting patient presentation. The Morning Report section seeks to carry on this tradition by presenting a patient's chief concern and story, inviting the reader to develop a differential diagnosis and discover the diagnosis alongside the authors of the case. This report examines the story of a 40-year-old woman who presented to the emergency department for evaluation of chest pain and pain in the joints of her hands and feet. Using questions, physical examination, and testing, an illness script for the presentation emerges; the differential is refined until a final diagnosis is made.",
+      "chunk_index": 0,
+      "char_count": 759,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

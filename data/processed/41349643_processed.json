@@ -1,0 +1,35 @@
+{
+  "pmid": "41349643",
+  "pmc_id": "PMC12796574",
+  "title": "Salmonella enteritidis meningitis in an immunocompetent adult.",
+  "authors": [
+    "Wee P",
+    "Tan SY",
+    "Yiin GSC",
+    "Eu KM",
+    "Tay TR"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41349643",
+      "pmc_id": "PMC12796574",
+      "title": "Salmonella enteritidis meningitis in an immunocompetent adult.",
+      "authors": [
+        "Wee P",
+        "Tan SY",
+        "Yiin GSC",
+        "Eu KM",
+        "Tay TR"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Invasive Salmonella infection is associated with high morbidity and mortality. It commonly affects patients who are immunocompromised or at extremes of age. We report an unusual case of a previously well 50-year-old gentleman with disseminated Salmonella infection. He presented with left hemispheric syndrome from an acute left middle cerebral artery stroke, complicated by status epilepticus requiring admission to the intensive care unit (ICU). Investigations revealed a large retroperitoneal abscess, and evidence of meningeal inflammation, ventriculitis and empyema. He required an abdominal drain for source control, and a prolonged course of culture-directed antibiotics, with eventual reduction in size of the retroperitoneal collection and interval decrease in frontal lobe gyral swelling. This case illustrates the importance of prompt diagnosis and timely initiation of antibiotic treatment to improve outcomes in invasive Salmonella infection, especially for those with meningitis.",
+      "chunk_index": 0,
+      "char_count": 993,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

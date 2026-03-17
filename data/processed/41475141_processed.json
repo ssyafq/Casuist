@@ -1,0 +1,41 @@
+{
+  "pmid": "41475141",
+  "pmc_id": null,
+  "title": "Polyserositis, meningoencephalitis, arthritis and omphalitis due to Salmonella Agona infection in a pig.",
+  "authors": [
+    "Menegatt JCO",
+    "Schwertz CI",
+    "Bourckhardt VS",
+    "Franca RTB",
+    "Perosa FF",
+    "Piva MM",
+    "Silveira BO",
+    "Driemeier D"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41475141",
+      "pmc_id": null,
+      "title": "Polyserositis, meningoencephalitis, arthritis and omphalitis due to Salmonella Agona infection in a pig.",
+      "authors": [
+        "Menegatt JCO",
+        "Schwertz CI",
+        "Bourckhardt VS",
+        "Franca RTB",
+        "Perosa FF",
+        "Piva MM",
+        "Silveira BO",
+        "Driemeier D"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Bacterial polyserositis, arthritis and meningitis are well-known conditions in pigs, commonly linked to Glaesserella parasuis, Streptococcus suis and Mycoplasma hyorhinis. Salmonella enterica infections, particularly S. Typhimurium and S. Choleraesuis, typically present as enteric or septicaemic diseases. This study reports a rare case of Salmonella enterica subsp. enterica serovar Agona (S. Agona) infection in an 80-day-old pig presenting with polyserositis, meningoencephalitis, arthritis and omphalitis. In the bacteriological examination, a pure culture of S. Agona was obtained from the fibrinous lesions, which enabled diagnosis. Additionally, immunohistochemical examination allowed confirmation of the septicaemic distribution of the bacteria. The findings suggest umbilical contamination as the probable infection route, differing from the usual fecal-oral transmission of Salmonella. Although non-enteric Salmonella infections have been documented in various species, this is the first confirmed case of S. Agona causing such lesions in pigs. This case highlights the importance of specific diagnostic approaches to accurately identify the aetiological agent, as clinical and pathological presentations may resemble other common bacterial infections in pigs.",
+      "chunk_index": 0,
+      "char_count": 1272,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

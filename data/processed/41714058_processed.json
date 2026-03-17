@@ -1,0 +1,104 @@
+{
+  "pmid": "41714058",
+  "pmc_id": null,
+  "title": "Spatial and spatio-temporal county-level trends in COVID-19 mortality and emergency department visits in U.S. with R-INLA.",
+  "authors": [
+    "Khan D",
+    "Panaggio MJ",
+    "Gallagher ME",
+    "Graff P",
+    "Broeker L",
+    "Weng M",
+    "Ahmad F",
+    "Sheppard M"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41714058",
+      "pmc_id": null,
+      "title": "Spatial and spatio-temporal county-level trends in COVID-19 mortality and emergency department visits in U.S. with R-INLA.",
+      "authors": [
+        "Khan D",
+        "Panaggio MJ",
+        "Gallagher ME",
+        "Graff P",
+        "Broeker L",
+        "Weng M",
+        "Ahmad F",
+        "Sheppard M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Weekly county-level COVID-19 mortality and emergency department (ED) visits data are critical data sources for understanding COVID-19 trends, but subject to reporting delays, sampling variability, potential instability and concerns due to statistical reliability as well as data suppression due to small numbers and the need to protect personally identifiable information. Such suppression limits meaningful examination of county-level variation in COVID-19 mortality rates and ED visits.",
+      "chunk_index": 0,
+      "char_count": 488,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41714058",
+      "pmc_id": null,
+      "title": "Spatial and spatio-temporal county-level trends in COVID-19 mortality and emergency department visits in U.S. with R-INLA.",
+      "authors": [
+        "Khan D",
+        "Panaggio MJ",
+        "Gallagher ME",
+        "Graff P",
+        "Broeker L",
+        "Weng M",
+        "Ahmad F",
+        "Sheppard M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "understanding COVID-19 trends, but subject to reporting delays, sampling variability, potential instability and concerns due to statistical reliability as well as data suppression due to small numbers and the need to protect personally identifiable information. Such suppression limits meaningful examination of county-level variation in COVID-19 mortality rates and ED visits.\n\nIn this study, we use Bayesian inference on latent Gaussian models in the software R-INLA (Integrated Nested Laplace Approximation) to generate reliable weekly estimates of COVID-19 ED visits and mortality rates at the county level in order to examine spatiotemporal variation.",
+      "chunk_index": 1,
+      "char_count": 656,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41714058",
+      "pmc_id": null,
+      "title": "Spatial and spatio-temporal county-level trends in COVID-19 mortality and emergency department visits in U.S. with R-INLA.",
+      "authors": [
+        "Khan D",
+        "Panaggio MJ",
+        "Gallagher ME",
+        "Graff P",
+        "Broeker L",
+        "Weng M",
+        "Ahmad F",
+        "Sheppard M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "labs",
+      "text": "In this study, we use Bayesian inference on latent Gaussian models in the software R-INLA (Integrated Nested Laplace Approximation) to generate reliable weekly estimates of COVID-19 ED visits and mortality rates at the county level in order to examine spatiotemporal variation.\n\nThe results demonstrate that weekly county-level COVID-19 mortality rates and ED visits can be accurately modeled using the INLA method. Model-based estimates reflect marked geographic variability for the years 2020-2025.",
+      "chunk_index": 2,
+      "char_count": 500,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41714058",
+      "pmc_id": null,
+      "title": "Spatial and spatio-temporal county-level trends in COVID-19 mortality and emergency department visits in U.S. with R-INLA.",
+      "authors": [
+        "Khan D",
+        "Panaggio MJ",
+        "Gallagher ME",
+        "Graff P",
+        "Broeker L",
+        "Weng M",
+        "Ahmad F",
+        "Sheppard M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "The results demonstrate that weekly county-level COVID-19 mortality rates and ED visits can be accurately modeled using the INLA method. Model-based estimates reflect marked geographic variability for the years 2020-2025.\n\nEffective public health interventions rely on access to timely and detailed spatiotemporal data. Granular estimates that are subject to less reporting noise, such as those produced via INLA modeling, can be used to guide surveillance, improve response strategies, enhance preparedness, and inform public health policy.",
+      "chunk_index": 3,
+      "char_count": 541,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

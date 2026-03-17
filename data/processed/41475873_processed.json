@@ -1,0 +1,33 @@
+{
+  "pmid": "41475873",
+  "pmc_id": null,
+  "title": "Skull base osteomyelitis following Klebsiella pneumoniae meningitis in an immunocompromised host.",
+  "authors": [
+    "Kumar M",
+    "Sundarsingh V",
+    "K A",
+    "Y M P"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41475873",
+      "pmc_id": null,
+      "title": "Skull base osteomyelitis following Klebsiella pneumoniae meningitis in an immunocompromised host.",
+      "authors": [
+        "Kumar M",
+        "Sundarsingh V",
+        "K A",
+        "Y M P"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Bacterial meningitis is a serious neurological condition with high morbidity and mortality, especially in immunocompromised patients. While Streptococcus pneumoniae and Neisseria meningitidis commonly cause community-acquired meningitis, Klebsiella pneumoniae, traditionally linked to hospital-acquired infections, is increasingly identified in community-onset central nervous system infections, particularly in immunocompromised individuals.A middle-aged man with poorly controlled diabetes mellitus presented with altered sensorium and signs of meningitis. Cerebrospinal fluid and blood cultures confirmed K. pneumoniae as the causative organism. Initial treatment with intravenous ceftriaxone led to clinical improvement. However, the patient later developed cranial nerve deficits, prompting further imaging which revealed skull base osteomyelitis (SBO). The presumed source was chronic otitis media. He was successfully managed with a prolonged course of intravenous meropenem. This case highlights the rare complication of SBO following Klebsiella meningitis and underscores the importance of vigilance for delayed sequelae in immunocompromised patients, even after apparent clinical recovery.",
+      "chunk_index": 0,
+      "char_count": 1199,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

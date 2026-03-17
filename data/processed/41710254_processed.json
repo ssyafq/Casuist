@@ -1,0 +1,33 @@
+{
+  "pmid": "41710254",
+  "pmc_id": "PMC12912735",
+  "title": "Falsely decreased triglyceride concentration in a patient with acute pancreatitis due to insufficient configuration of alarm rules.",
+  "authors": [
+    "Liu Y",
+    "Liu Q",
+    "Feng B",
+    "Gan W"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41710254",
+      "pmc_id": "PMC12912735",
+      "title": "Falsely decreased triglyceride concentration in a patient with acute pancreatitis due to insufficient configuration of alarm rules.",
+      "authors": [
+        "Liu Y",
+        "Liu Q",
+        "Feng B",
+        "Gan W"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Acute pancreatitis is a potentially life-threatening complication of severe hypertriglyceridemia. The accurate measurement of triglyceride concentration is essential for diagnosis and therapeutic monitoring. This article presents a case of acute hypertriglyceridemia pancreatitis in which the patient's triglyceride concentration appeared to drop rapidly from 128.04 mmol/L to 1.53 mmol/L within 12 hours of admission. Subsequent retesting revealed an actual triglyceride value of 88.92 mmol/L. This case underscores a critical and underreported preanalytical challenge: the failure of the analyzer to trigger \"> Kin\" warnings despite clear abnormalities in the reaction kinetics curve, leading to clinically significant underestimation. To mitigate such errors, we propose a novel strategy that integrates automated lipemic index-based predilution protocols with enhanced alarm configurations, including the introduction of a \">Abs\" alert, adjustment of prozone detection parameters, and the implementation of correlation checks between lipemic indices and triglyceride values within the laboratory information system. These practical interventions, which can be adopted in clinical laboratories, represent a proactive approach to prevent erroneous reporting and enhance diagnostic reliability. This report highlights the necessity for increased vigilance among laboratory professionals when discordance occurs between high lipemic indices and unexpectedly low triglyceride results, suggesting possible kinetic anomalies.",
+      "chunk_index": 0,
+      "char_count": 1522,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

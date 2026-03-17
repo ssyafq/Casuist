@@ -1,0 +1,89 @@
+{
+  "pmid": "41476989",
+  "pmc_id": "PMC12747981",
+  "title": "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis presenting solely with respiratory failure: a case report.",
+  "authors": [
+    "Cao XG",
+    "Ni JX",
+    "Zhu XF",
+    "Meng HD",
+    "Huang CJ"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41476989",
+      "pmc_id": "PMC12747981",
+      "title": "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis presenting solely with respiratory failure: a case report.",
+      "authors": [
+        "Cao XG",
+        "Ni JX",
+        "Zhu XF",
+        "Meng HD",
+        "Huang CJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Muscle-specific kinase (MuSK) myasthenia gravis is a rare autoimmune disorder of the neuromuscular junction that predominantly affects the bulbar and respiratory muscles. Although SARS-CoV-2 infection has been implicated as a precipitating factor, post-COVID-19 MuSK-MG remains exceedingly uncommon.",
+      "chunk_index": 0,
+      "char_count": 299,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41476989",
+      "pmc_id": "PMC12747981",
+      "title": "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis presenting solely with respiratory failure: a case report.",
+      "authors": [
+        "Cao XG",
+        "Ni JX",
+        "Zhu XF",
+        "Meng HD",
+        "Huang CJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Muscle-specific kinase (MuSK) myasthenia gravis is a rare autoimmune disorder of the neuromuscular junction that predominantly affects the bulbar and respiratory muscles. Although SARS-CoV-2 infection has been implicated as a precipitating factor, post-COVID-19 MuSK-MG remains exceedingly uncommon.\n\nA 29-year-old woman with a six-year history of unexplained exertional dyspnea was hospitalised twice for acute hypercapnic respiratory failure. The first episode, five months earlier, was attributed to severe tricuspid regurgitation; the second occurred eight weeks after mild COVID-19 and was characterized by coma due to hypercapnic respiratory failure without parenchymal lung disease.",
+      "chunk_index": 1,
+      "char_count": 689,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41476989",
+      "pmc_id": "PMC12747981",
+      "title": "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis presenting solely with respiratory failure: a case report.",
+      "authors": [
+        "Cao XG",
+        "Ni JX",
+        "Zhu XF",
+        "Meng HD",
+        "Huang CJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "with a six-year history of unexplained exertional dyspnea was hospitalised twice for acute hypercapnic respiratory failure. The first episode, five months earlier, was attributed to severe tricuspid regurgitation; the second occurred eight weeks after mild COVID-19 and was characterized by coma due to hypercapnic respiratory failure without parenchymal lung disease.\n\nStandard electrophysiology, neostigmine testing and acetylcholine-receptor antibodies (AChR-Ab) were negative. Given persistent ventilator dependence, MuSK antibodies (MuSK-Ab) were measured and found strongly positive. INTERVENTIONS: The patient underwent five plasma-exchange sessions, then received oral prednisone (50 mg day), tacrolimus (1.5 mg q12h) and nebulized salbutamol. OUTCOMES: She was weaned from non-invasive ventilation by day 23, discharged on day 27 (mMRC grade I) and remained stable on low-dose prednisone/tacrolimus at three-month follow-up.",
+      "chunk_index": 2,
+      "char_count": 933,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41476989",
+      "pmc_id": "PMC12747981",
+      "title": "COVID-19-associated delayed-onset MuSK-positive myasthenia gravis presenting solely with respiratory failure: a case report.",
+      "authors": [
+        "Cao XG",
+        "Ni JX",
+        "Zhu XF",
+        "Meng HD",
+        "Huang CJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "found strongly positive. INTERVENTIONS: The patient underwent five plasma-exchange sessions, then received oral prednisone (50 mg day), tacrolimus (1.5 mg q12h) and nebulized salbutamol. OUTCOMES: She was weaned from non-invasive ventilation by day 23, discharged on day 27 (mMRC grade I) and remained stable on low-dose prednisone/tacrolimus at three-month follow-up.\n\nSARS-CoV-2 infection may plausibly act as a trigger for late-onset MuSK-MG presenting as isolated hypercapnic respiratory failure. In otherwise unexplained weaning failure, neuromuscular-junction disease should be considered even without limb or ocular weakness. Early antibody testing and prompt immunomodulatory therapy [plasma exchange (PLEX) plus glucocorticoid/tacrolimus] may be life-saving and yield rapid recovery.",
+      "chunk_index": 3,
+      "char_count": 792,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

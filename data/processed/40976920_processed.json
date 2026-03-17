@@ -1,0 +1,43 @@
+{
+  "pmid": "40976920",
+  "pmc_id": "PMC12866373",
+  "title": "Unexpected Giant Right Coronary Artery Aneurysm Diagnosed by Computed Tomography Angiography in the Emergency Department.",
+  "authors": [
+    "Picchi SG",
+    "Lassandro G",
+    "Comune R",
+    "Pezzullo F",
+    "Tamburrini S",
+    "Cocco G",
+    "Cocco N",
+    "Tafuri D",
+    "Corvino A"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40976920",
+      "pmc_id": "PMC12866373",
+      "title": "Unexpected Giant Right Coronary Artery Aneurysm Diagnosed by Computed Tomography Angiography in the Emergency Department.",
+      "authors": [
+        "Picchi SG",
+        "Lassandro G",
+        "Comune R",
+        "Pezzullo F",
+        "Tamburrini S",
+        "Cocco G",
+        "Cocco N",
+        "Tafuri D",
+        "Corvino A"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Giant coronary artery aneurysms (GCAA) are usually defined as diameter > 8 mm or > 400% of the adjacent normal segment; they are very rare (reported prevalence  approximately 0.02%). Though coronary angiography is the diagnostic gold standard, computed tomography angiography (CTA) offers a non-invasive, highly sensitive, and specific alternative. CTA enables detailed visualization of aneurysm morphology and detection of complications. We present the case of a 72-year-old man admitted to the Emergency Department with chest pain, where CTA played a crucial role in diagnosing a GCAA and assessing its potential life-threatening complications, highlighting its value in emergency cardiovascular imaging.",
+      "chunk_index": 0,
+      "char_count": 706,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

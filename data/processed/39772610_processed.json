@@ -1,0 +1,49 @@
+{
+  "pmid": "39772610",
+  "pmc_id": "PMC12789770",
+  "title": "How to Use Imaging: Complex Cases of Atherosclerosis, Myocardial Inflammation, and Cardiomyopathy in Cardio-Oncology.",
+  "authors": [
+    "Khattab M",
+    "Baig M",
+    "El Zarif T",
+    "Barac A",
+    "Ferencik M",
+    "Henry ML",
+    "Lopez-Mattei J",
+    "Redheuil A",
+    "Salem JE",
+    "Scherrer-Crosbie M",
+    "Yang EH",
+    "Baldassarre LA"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "39772610",
+      "pmc_id": "PMC12789770",
+      "title": "How to Use Imaging: Complex Cases of Atherosclerosis, Myocardial Inflammation, and Cardiomyopathy in Cardio-Oncology.",
+      "authors": [
+        "Khattab M",
+        "Baig M",
+        "El Zarif T",
+        "Barac A",
+        "Ferencik M",
+        "Henry ML",
+        "Lopez-Mattei J",
+        "Redheuil A",
+        "Salem JE",
+        "Scherrer-Crosbie M",
+        "Yang EH",
+        "Baldassarre LA"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "It is well understood that cancer therapies including chemotherapy, tyrosine kinase inhibitors, immune checkpoint inhibitors, and radiation can increase the risk of cardiovascular disease in patients with cancer. This can manifest as a multitude of pathologies including left ventricular dysfunction, myocarditis, cardiomyopathy, accelerated atherosclerosis, and coronary vasospasm. Multimodal cardiac imaging plays a critical role in diagnosing such pathologies by relying on noninvasive tools including echocardiograms, cardiac magnetic resonance imaging, positron emission tomography, single-photon emission computed tomography, and coronary computed tomography angiography. These methods have unique considerations and in recent years have made significant progress in their diagnostic capabilities in this patient population. As the field of cardio-oncology continues to expand rapidly, guidance on the management of such toxicities and the development of imaging technologies is crucial. In this review, we present 2 complex cases of atherosclerosis and myocarditis in patients with cancer, highlighting our rationale for management and discussing the nuances of various cardiac imaging modalities.",
+      "chunk_index": 0,
+      "char_count": 1204,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

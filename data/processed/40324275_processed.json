@@ -1,0 +1,35 @@
+{
+  "pmid": "40324275",
+  "pmc_id": "PMC12055177",
+  "title": "Coronary artery ectasia presenting as acute coronary syndrome and misinterpreted as coronary artery perforation: Case report.",
+  "authors": [
+    "Jeon H",
+    "Cho JM",
+    "Yang IH",
+    "Kim N",
+    "Park CB"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40324275",
+      "pmc_id": "PMC12055177",
+      "title": "Coronary artery ectasia presenting as acute coronary syndrome and misinterpreted as coronary artery perforation: Case report.",
+      "authors": [
+        "Jeon H",
+        "Cho JM",
+        "Yang IH",
+        "Kim N",
+        "Park CB"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "RATIONALE: Coronary artery ectasia (CAE), characterized by diffuse dilation, can be associated with total thrombotic occlusion, leading to acute coronary syndrome. In such cases, distal vessel morphology can be highly unpredictable, potentially causing confusion during percutaneous coronary intervention (PCI). PATIENT CONCERNS: A 47-year-old man presented with sudden chest pain. Acute coronary syndrome was suspected based on symptom and elevated troponin I levels. DIAGNOSES: Coronary angiography revealed diffuse CAE and total occlusion of mid-left circumflex artery. INTERVENTIONS: Due to the large thrombus, aspiration thrombectomy, intracoronary abciximab, and repeated balloon angioplasty were performed. After these procedures, there was absence of flow beyond the lesion, and huge extravasation around the vessel, resembling a coronary artery perforation. Considering various factors, we concluded it was not a perforation and subsequently performed intravascular ultrasound-guided PCI on the ectatic culprit vessel. After successful PCI, he was discharged on aspirin and clopidogrel. Due to heartburn, dual antiplatelet therapy was de-escalated to clopidogrel monotherapy after 6 months. OUTCOMES: During the follow-up, he remained stable, and a 9-month coronary angiography confirmed patent stent without lesion progression. LESSONS: Stagnant flow in dilated vessels can cause local dye deposition, which may resemble procedure-induced perforation or dissection, necessitating heightened caution during PCI. Intravascular ultrasound is valuable for accurate assessment of lesions in CAE. Thrombectomy and glycoprotein IIb/IIIa inhibitors would be considered to manage high thrombus burden. Due to its diverse clinical presentations, CAE requires an individualized strategy, and can also be treated with simple PCI followed by dual antiplatelet therapy.",
+      "chunk_index": 0,
+      "char_count": 1865,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

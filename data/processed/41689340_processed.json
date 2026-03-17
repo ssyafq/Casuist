@@ -1,0 +1,29 @@
+{
+  "pmid": "41689340",
+  "pmc_id": null,
+  "title": "A Paediatric Storm: <em>SARS- CoV-2</em> Unleashing Acute Necrotising Encephalopathy, Hepatic Failure, and Kidney Injury in a Single Strike.",
+  "authors": [
+    "Wang J",
+    "Chen H"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41689340",
+      "pmc_id": null,
+      "title": "A Paediatric Storm: <em>SARS- CoV-2</em> Unleashing Acute Necrotising Encephalopathy, Hepatic Failure, and Kidney Injury in a Single Strike.",
+      "authors": [
+        "Wang J",
+        "Chen H"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Null.",
+      "chunk_index": 0,
+      "char_count": 5,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

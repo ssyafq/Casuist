@@ -1,0 +1,50 @@
+{
+  "pmid": "39520782",
+  "pmc_id": null,
+  "title": "[Not Available].",
+  "authors": [
+    "Bourlond B",
+    "Dupre M",
+    "Qanadli SD",
+    "Eeckhout E"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39520782",
+      "pmc_id": null,
+      "title": "[Not Available].",
+      "authors": [
+        "Bourlond B",
+        "Dupre M",
+        "Qanadli SD",
+        "Eeckhout E"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Complex coronary artery abnormalities (CAA) are rare findings with no established guideline for their management in asymptomatic patients. CASE SUMMARY: We report the case of a 49-year-old male patient, with no medical history, who was incidentally diagnosed for two congenital complex CAA during for the management of an acute coronary syndrome without ST elevation. The coronary angiogram showed an acute atheromatous occlusion of the right coronary artery (RCA) that was treated by a drug-eluting stent. Transcatheter angiograms as well as the coronary computed tomography (CT) also revealed an ectopic RCA arising from the left cuspid with an inter-arterial course, and a second left anterior descending artery emerging from the RCA with a retro-pulmonary course. The present acute coronary syndrome was not in relation to his congenital disease but with an atheromatous disease. On 48 months of follow-up, the transthoracic echocardiography is normal and the patient remains asymptomatic despite the risk of sudden cardiac death and myocardial infarction.",
+      "chunk_index": 0,
+      "char_count": 1060,
+      "subspecialty": "acute coronary syndrome"
+    },
+    {
+      "pmid": "39520782",
+      "pmc_id": null,
+      "title": "[Not Available].",
+      "authors": [
+        "Bourlond B",
+        "Dupre M",
+        "Qanadli SD",
+        "Eeckhout E"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "discussion",
+      "text": "from the RCA with a retro-pulmonary course. The present acute coronary syndrome was not in relation to his congenital disease but with an atheromatous disease. On 48 months of follow-up, the transthoracic echocardiography is normal and the patient remains asymptomatic despite the risk of sudden cardiac death and myocardial infarction.\n\nThis case shows that CAA can be clinically silent for a long period of time without any correction. It highlights that ischemia in patients with CAA is not always due to the congenital disease. As patients seemed to remain at SCD risk despite surgical correction, not correcting the CAA might remain an alternative in asymptomatic adult patients.",
+      "chunk_index": 1,
+      "char_count": 684,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

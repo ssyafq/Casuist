@@ -1,0 +1,39 @@
+{
+  "pmid": "40891065",
+  "pmc_id": "PMC12409033",
+  "title": "When the ECG Deceives: A Case of Pseudo-Wellens' Syndrome in the Setting of Stress-Induced Cardiomyopathy.",
+  "authors": [
+    "Isshak R",
+    "Janiec K",
+    "Ozgur SS",
+    "Shamoon Y",
+    "Elkattawy S",
+    "Ahmad A",
+    "Shamoon F"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40891065",
+      "pmc_id": "PMC12409033",
+      "title": "When the ECG Deceives: A Case of Pseudo-Wellens' Syndrome in the Setting of Stress-Induced Cardiomyopathy.",
+      "authors": [
+        "Isshak R",
+        "Janiec K",
+        "Ozgur SS",
+        "Shamoon Y",
+        "Elkattawy S",
+        "Ahmad A",
+        "Shamoon F"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Wellens' syndrome is characterized by a distinct electrocardiographic pattern, most notably biphasic or deeply inverted T waves in the anterior precordial leads, particularly V2 and V3. These findings typically reflect transient myocardial ischemia resulting from critical stenosis of the proximal left anterior descending (LAD) artery. They are often a warning sign of an impending anterior wall myocardial infarction. However, conditions such as pseudo-Wellens' syndrome can exhibit similar electrocardiogram (ECG) changes without LAD occlusion. In this case report, we describe a 71-year-old woman who presented with chest discomfort and dyspnea and was ultimately diagnosed with sepsis-induced cardiomyopathy, which produced ECG changes mimicking Wellens' syndrome despite the absence of coronary artery disease; cardiac catheterization found no significant coronary pathology. The diagnosis was determined to be stress-induced cardiomyopathy resulting from sepsis. This report highlights the importance of distinguishing between ischemic and nonischemic causes of similar ECG patterns. It emphasizes the necessity for careful diagnosis and management, particularly in complex situations like sepsis.",
+      "chunk_index": 0,
+      "char_count": 1204,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

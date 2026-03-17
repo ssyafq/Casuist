@@ -1,0 +1,35 @@
+{
+  "pmid": "41405044",
+  "pmc_id": "PMC12710245",
+  "title": "Pulmonary hemorrhage after pulmonary endarterectomy in a patient with chronic thromboembolic pulmonary hypertension: a case report.",
+  "authors": [
+    "Moroz G",
+    "Edemskiy A",
+    "Kornilov I",
+    "Nasyrtdinov R",
+    "Chernyavskiy A"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41405044",
+      "pmc_id": "PMC12710245",
+      "title": "Pulmonary hemorrhage after pulmonary endarterectomy in a patient with chronic thromboembolic pulmonary hypertension: a case report.",
+      "authors": [
+        "Moroz G",
+        "Edemskiy A",
+        "Kornilov I",
+        "Nasyrtdinov R",
+        "Chernyavskiy A"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Massive pulmonary hemorrhage is the severe complication of pulmonary endarterectomy, associated with high mortality rates. ECMO may be a life-saving option for patients with pulmonary hemorrhage. In this case, we have described the successful sequential application of both VA and VV ECMO modalities. VA ECMO was employed initially to reduce blood flow to the right heart and pulmonary artery. Once hemodynamic stability was achieved, VV-ECMO was utilized to support severe respiratory failure. A six-month follow-up demonstrated good clinical outcome, with no evidence of pulmonary artery rethrombosis.",
+      "chunk_index": 0,
+      "char_count": 603,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

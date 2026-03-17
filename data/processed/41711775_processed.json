@@ -1,0 +1,79 @@
+{
+  "pmid": "41711775",
+  "pmc_id": null,
+  "title": "SARS-CoV-2 infection and profound hearing loss: much more than a coincidence.",
+  "authors": [
+    "Albernaz PLM",
+    "Costa SSD",
+    "Nitz VO"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41711775",
+      "pmc_id": null,
+      "title": "SARS-CoV-2 infection and profound hearing loss: much more than a coincidence.",
+      "authors": [
+        "Albernaz PLM",
+        "Costa SSD",
+        "Nitz VO"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "To describe a series of cases in which severe acute respiratory (SARS-CoV-2) infection was associated with profound sensorineural hearing loss. Our data provides extensive evidence that COVID-19 infections can cause sensorineural hearing losses.",
+      "chunk_index": 0,
+      "char_count": 245,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41711775",
+      "pmc_id": null,
+      "title": "SARS-CoV-2 infection and profound hearing loss: much more than a coincidence.",
+      "authors": [
+        "Albernaz PLM",
+        "Costa SSD",
+        "Nitz VO"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "To describe a series of cases in which severe acute respiratory (SARS-CoV-2) infection was associated with profound sensorineural hearing loss. Our data provides extensive evidence that COVID-19 infections can cause sensorineural hearing losses.\n\nThis study included seven patients with profound sensorineural hearing loss caused by COVID-19. Patients were subjected to clinical evaluation, COVID-19 symptoms, and audiological tests.",
+      "chunk_index": 1,
+      "char_count": 433,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41711775",
+      "pmc_id": null,
+      "title": "SARS-CoV-2 infection and profound hearing loss: much more than a coincidence.",
+      "authors": [
+        "Albernaz PLM",
+        "Costa SSD",
+        "Nitz VO"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "labs",
+      "text": "This study included seven patients with profound sensorineural hearing loss caused by COVID-19. Patients were subjected to clinical evaluation, COVID-19 symptoms, and audiological tests.\n\nBrief clinical histories and audiological tests were performed. The current condition of the patients was also considered. Theories of the possible causes of inner ear changes are also discussed.",
+      "chunk_index": 2,
+      "char_count": 383,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41711775",
+      "pmc_id": null,
+      "title": "SARS-CoV-2 infection and profound hearing loss: much more than a coincidence.",
+      "authors": [
+        "Albernaz PLM",
+        "Costa SSD",
+        "Nitz VO"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "Brief clinical histories and audiological tests were performed. The current condition of the patients was also considered. Theories of the possible causes of inner ear changes are also discussed.\n\nThis study demonstrates that the world continues to grapple with the far-reaching consequences of COVID-19, and it becomes evident that the impact extends beyond the immediate respiratory distress.",
+      "chunk_index": 3,
+      "char_count": 394,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

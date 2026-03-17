@@ -1,0 +1,29 @@
+{
+  "pmid": "41511809",
+  "pmc_id": null,
+  "title": "Negative D -Dimer With Single-Subsegmental Pulmonary Embolism.",
+  "authors": [
+    "Burnett C",
+    "Koehler M"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41511809",
+      "pmc_id": null,
+      "title": "Negative D -Dimer With Single-Subsegmental Pulmonary Embolism.",
+      "authors": [
+        "Burnett C",
+        "Koehler M"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Pulmonary embolism (PE) is a potentially fatal condition that often presents with nonspecific symptoms, making diagnosis challenging in the emergency department (ED). This case study details the presentation of a 37-year-old woman with a history of PE, who presented to the ED with pleuritic chest pain and a history of a recent cesarean section. Despite a negative d -dimer, which generally suggests a low likelihood of PE, her clinical presentation raised suspicion, prompting further evaluation. A CT pulmonary angiography revealed a single-subsegmental PE, underscoring that negative d -dimer results should not rule out PE, particularly in high-risk patients or those with a prior thromboembolic history. This case emphasizes the importance of clinical judgment in the ED setting, where rapid diagnosis is critical. While a negative d -dimer is valuable in excluding PE in low-risk patients, imaging remains the gold standard for diagnosing high-risk cases. The patient's management included outpatient anticoagulation with Eliquis, reinforcing the need for personalized treatment based on risk stratification in the ED. This case highlights the importance of clinicians in the ED being cautious when interpreting negative d -dimer results and considering imaging when clinical suspicion remains high.",
+      "chunk_index": 0,
+      "char_count": 1306,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

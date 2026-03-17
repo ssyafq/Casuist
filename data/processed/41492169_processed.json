@@ -1,0 +1,33 @@
+{
+  "pmid": "41492169",
+  "pmc_id": "PMC12775281",
+  "title": "Persistent COVID-19 Pneumonia in a Patient on Rituximab.",
+  "authors": [
+    "Clarke K",
+    "Naidu S",
+    "Wan C",
+    "Stampfer S"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41492169",
+      "pmc_id": "PMC12775281",
+      "title": "Persistent COVID-19 Pneumonia in a Patient on Rituximab.",
+      "authors": [
+        "Clarke K",
+        "Naidu S",
+        "Wan C",
+        "Stampfer S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Immunosuppressed patients have increased morbidity and mortality due to SARS-CoV-2 infection. They can have reduced protective antibodies levels or reduced cellular immunity resulting in inability to clear the virus and persistent viremia and virus-induced inflammation. We present the case of a 52-year-old male, immunosuppressed due to use of rituximab for treatment of chronic inflammatory demyelinating polyneuropathy, who developed pneumonitis from SARS-CoV-2 infection. The patient required hospitalization 4 times over a 3-month period due to recurring pneumonitis symptoms, including fever, dyspnea, and a severe cough. The final diagnosis was delayed due to negative SARS-CoV-2 polymerase chain reaction tests on 7/8 of nasopharyngeal specimens, as well as failure to clinically improve with administration of remdesivir after the sole positive test. He was thought to have rituximab-induced organizing pneumonia, but his condition gradually worsened with additional immunosuppression directed against that condition. His active SARS-CoV-2 infection was eventually confirmed from a bronchoalveolar lavage specimen on the final hospitalization, and he was then treated with a multimodal regimen that included an antiviral agent (nirmatrelvir/ritonavir), a Janus Kinase inhibitor (baricitinib), intravenous immunoglobulin, and intravenous methylprednisolone. He had a prompt and sustained clinical response to this multimodal regimen. Persistent COVID-19 should be considered in the differential diagnosis in patients with unexplained organizing pneumonia, and can be treated effectively with multimodal therapy as above.",
+      "chunk_index": 0,
+      "char_count": 1628,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

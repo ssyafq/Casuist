@@ -1,0 +1,67 @@
+{
+  "pmid": "41392390",
+  "pmc_id": null,
+  "title": "Venoarterial extracorporeal membrane oxygenation for fulminant chemotherapy-induced myocarditis: a case report and literature review.",
+  "authors": [
+    "Zeng Z",
+    "Li J",
+    "Luo R",
+    "Lan X"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41392390",
+      "pmc_id": null,
+      "title": "Venoarterial extracorporeal membrane oxygenation for fulminant chemotherapy-induced myocarditis: a case report and literature review.",
+      "authors": [
+        "Zeng Z",
+        "Li J",
+        "Luo R",
+        "Lan X"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Chemotherapy-induced myocarditis (CIM) is a rare but life-threatening complication with limited guidelines regarding venoarterial extracorporeal membrane oxygenation (VA-ECMO) as salvage therapy.",
+      "chunk_index": 0,
+      "char_count": 195,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41392390",
+      "pmc_id": null,
+      "title": "Venoarterial extracorporeal membrane oxygenation for fulminant chemotherapy-induced myocarditis: a case report and literature review.",
+      "authors": [
+        "Zeng Z",
+        "Li J",
+        "Luo R",
+        "Lan X"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Chemotherapy-induced myocarditis (CIM) is a rare but life-threatening complication with limited guidelines regarding venoarterial extracorporeal membrane oxygenation (VA-ECMO) as salvage therapy.\n\nWe present the case of a 32-year-old female with metastatic thymoma who developed fulminant CIM following paclitaxel-based chemotherapy. Despite aggressive multimodal immunosuppressive therapy, she progressed to refractory cardiogenic shock and pulseless ventricular tachycardia, necessitating emergent VA-ECMO. Hemodynamic stability was achieved, and she was successfully decannulated after a period of support with signs of improving cardiac function. However, she suffered a sudden cardiac arrest due to ventricular fibrillation shortly after decannulation. Although return of spontaneous circulation (ROSC) was achieved, life-sustaining therapies were subsequently withdrawn per family's decision in light of the grave prognosis.",
+      "chunk_index": 1,
+      "char_count": 930,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41392390",
+      "pmc_id": null,
+      "title": "Venoarterial extracorporeal membrane oxygenation for fulminant chemotherapy-induced myocarditis: a case report and literature review.",
+      "authors": [
+        "Zeng Z",
+        "Li J",
+        "Luo R",
+        "Lan X"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "was successfully decannulated after a period of support with signs of improving cardiac function. However, she suffered a sudden cardiac arrest due to ventricular fibrillation shortly after decannulation. Although return of spontaneous circulation (ROSC) was achieved, life-sustaining therapies were subsequently withdrawn per family's decision in light of the grave prognosis.\n\nThis case demonstrates that VA-ECMO can serve as a crucial salvage bridge in fulminant CIM. However, it starkly highlights the precarious nature of recovery. The fatal arrhythmia post-decannulation underscores that the resolution of life-threatening electrical instability may lag significantly behind the recovery of systolic function, a critical learning point for managing such cases. This dissociation, combined with the unique challenges in immunocompromised oncology patients, demands meticulous patient selection, prolonged post-weaning monitoring, and proactive multidisciplinary decision-making.",
+      "chunk_index": 2,
+      "char_count": 983,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

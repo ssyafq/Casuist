@@ -1,0 +1,31 @@
+{
+  "pmid": "40903372",
+  "pmc_id": null,
+  "title": "Doctor, what else can I do to avoid having another myocardial infarction?",
+  "authors": [
+    "Meseguer-Hernandez A",
+    "Buendia-Santiago F",
+    "Abellan-Huerta J"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40903372",
+      "pmc_id": null,
+      "title": "Doctor, what else can I do to avoid having another myocardial infarction?",
+      "authors": [
+        "Meseguer-Hernandez A",
+        "Buendia-Santiago F",
+        "Abellan-Huerta J"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Patient with classic cardiovascular risk factors under treatment and apparently well controlled, with good adherence to the treatment, but with repeated acute coronary syndromes. After investigating these risk factors, arterial hypertension secondary to undiagnosed sleep apnoea-hypopnoea syndrome was detected. In addition, the patient's residual risk was addressed, prescribing treatment for his atherogenic dyslipidaemia and, in addition, elevated levels of lipoprotein (a) were discovered. This case illustrates holistic patient management, which involves actions to improve the patient's prognosis.",
+      "chunk_index": 0,
+      "char_count": 603,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

@@ -1,0 +1,63 @@
+{
+  "pmid": "41606640",
+  "pmc_id": null,
+  "title": "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke in a 16-year-old female patient: a case report.",
+  "authors": [
+    "Aman SK",
+    "Abera EG",
+    "Gudina EK"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41606640",
+      "pmc_id": null,
+      "title": "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke in a 16-year-old female patient: a case report.",
+      "authors": [
+        "Aman SK",
+        "Abera EG",
+        "Gudina EK"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Miliary tuberculosis is a disseminated form of the disease that can lead to serious complications. This case report describes the clinical presentation, management, and outcomes of a 16-year-old female patient who developed severe neurological deficits and systemic symptoms.",
+      "chunk_index": 0,
+      "char_count": 275,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41606640",
+      "pmc_id": null,
+      "title": "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke in a 16-year-old female patient: a case report.",
+      "authors": [
+        "Aman SK",
+        "Abera EG",
+        "Gudina EK"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Miliary tuberculosis is a disseminated form of the disease that can lead to serious complications. This case report describes the clinical presentation, management, and outcomes of a 16-year-old female patient who developed severe neurological deficits and systemic symptoms.\n\nA 16-year-old female from Ethiopia presented with a 1-month history of productive cough with whitish sputum, low-grade fever, night sweats, significant weight loss, and episodes of vomiting. She later developed right-sided hemiplegia and Broca's aphasia. She was managed with first-line antituberculosis drugs (rifampicin/isoniazid/pyrazinamide/ethambutol), prednisolone, pyridoxine, nutritional therapy with Plumpy Nut, and bedside physiotherapy. Upon discharge, the patient showed significant improvement in her appetite and neurological function, including the ability to produce sounds and call names. Follow-up evaluation 2 months later indicated further progress, with weight gain, improved mobility, and fluent speech. Muscle strength in her right upper and lower extremities improved to a grade of 3/5, enabling her to lift and move the affected limbs against gravity, although not against resistance. These findings indicate substantial recovery of motor function and overall clinical status.",
+      "chunk_index": 1,
+      "char_count": 1278,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41606640",
+      "pmc_id": null,
+      "title": "Miliary tuberculosis complicated by tuberculous vasculitis and ischemic stroke in a 16-year-old female patient: a case report.",
+      "authors": [
+        "Aman SK",
+        "Abera EG",
+        "Gudina EK"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "with weight gain, improved mobility, and fluent speech. Muscle strength in her right upper and lower extremities improved to a grade of 3/5, enabling her to lift and move the affected limbs against gravity, although not against resistance. These findings indicate substantial recovery of motor function and overall clinical status.\n\nThis case highlights the challenges of managing miliary tuberculosis with complications such as vasculitis and ischemic stroke. Early diagnosis and a comprehensive treatment approach, including antituberculosis therapy and rehabilitation, led to significant improvement. It underscores the need for strengthened healthcare systems and timely interventions to improve outcomes in complex tuberculosis cases.",
+      "chunk_index": 2,
+      "char_count": 739,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

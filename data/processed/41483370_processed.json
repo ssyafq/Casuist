@@ -1,0 +1,37 @@
+{
+  "pmid": "41483370",
+  "pmc_id": null,
+  "title": "Idiopathic hypertrophic pachymeningitis masquerading as CNS neoplasm: case report and literature review.",
+  "authors": [
+    "Balasubramanian K",
+    "Patel P",
+    "Fassina GR",
+    "Peterson JE",
+    "Hamadeh F",
+    "Graffeo CS"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41483370",
+      "pmc_id": null,
+      "title": "Idiopathic hypertrophic pachymeningitis masquerading as CNS neoplasm: case report and literature review.",
+      "authors": [
+        "Balasubramanian K",
+        "Patel P",
+        "Fassina GR",
+        "Peterson JE",
+        "Hamadeh F",
+        "Graffeo CS"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "IHP is a rare inflammatory disorder characterized by dural thickening. Its nonspecific presentation often leads to diagnostic challenges and potential misdiagnosis as a neoplasm. Literature review and illustrative case example. PubMed search using terms related to IHP yielded 272 candidate citations, 50 of which met study criteria and were included. A 40-year-old woman presented with headache, dizziness, and blurred vision. Surgical intervention via right craniotomy was recommended due to diagnostic uncertainty, symptomatic mass effect, and the potential for a malignant diagnosis. A near-total resection of the mass and its dural base was performed given the involvement of the transverse-sigmoid sinuses; histopathology revealed dense fibrous tissue with chronic inflammatory cell infiltration. Immunohistochemistry was positive for CD3 and CD20, and negative for EMA, SSTR2, IgG, and IgG4, confirming the diagnosis of IHP. Review of the literature identified 117 patients presenting at a median age of 51 years with slight female predominance. Headache was the most common symptom (94%), followed by cranial nerve deficits (49%). MRI was used in all cases, with the tentorium being the most frequent site of involvement (48%). Treatment typically involved biopsy (47%), resection (11%), long-term steroids (56%), or steroid taper (44%). Radiographic recurrence was observed in 35%. Based on the experience from our case and supportive summative evidence from the literature, we developed a clinical decision-making schema to assist clinicians in recognizing and managing IHP. IHP remains a diagnostic challenge due to its rarity, nonspecific presentation, and potentially confounding radiographic features.",
+      "chunk_index": 0,
+      "char_count": 1715,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

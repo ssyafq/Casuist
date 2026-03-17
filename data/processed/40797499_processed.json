@@ -1,0 +1,31 @@
+{
+  "pmid": "40797499",
+  "pmc_id": "PMC12338241",
+  "title": "Reevaluating the diagnosis of right coronary artery absence: A thoughtful analysis of a case report.",
+  "authors": [
+    "Wang X",
+    "Cui H",
+    "Xu Z"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40797499",
+      "pmc_id": "PMC12338241",
+      "title": "Reevaluating the diagnosis of right coronary artery absence: A thoughtful analysis of a case report.",
+      "authors": [
+        "Wang X",
+        "Cui H",
+        "Xu Z"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "RATIONALE: This reevaluation challenges the diagnostic certainty of coronary angiography (CAG) and computed tomography angiography (CTA) in confirming right coronary artery (RCA) agenesis, as presented in Seok Oh et al's case. It underscores the critical need for multimodal imaging to avoid misdiagnosis of rare coronary anomalies. PATIENT CONCERNS: A 57-year-old male presented with severe chest pain lasting several hours, accompanied by hemodynamic instability and ST-segment elevation consistent with myocardial infarction. DIAGNOSES: CAG revealed total occlusion of the left circumflex artery (LCX) and suggested that the RCA territory was supplied by a superdominant LCX. Coronary CTA later indicated the absence of the RCA, though diagnostic uncertainties remained. INTERVENTIONS: Emergent percutaneous coronary intervention was performed to address the LCX occlusion, resulting in clinical stabilization. OUTCOMES: Reanalysis of published CAG images revealed no definitive evidence of LCX extending to RCA territory. CTA suggested the \"RCA-supplying branch\" was likely a coronary vein, implying possible misinterpretation of a left-dominant system with anomalous small RCA. LESSONS: This case highlights the challenges of diagnosing rare coronary anomalies and emphasizes the importance of multi-modal imaging for accurate evaluation and decision-making.",
+      "chunk_index": 0,
+      "char_count": 1363,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

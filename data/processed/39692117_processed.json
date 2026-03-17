@@ -1,0 +1,33 @@
+{
+  "pmid": "39692117",
+  "pmc_id": null,
+  "title": "Application of Robotic-Assisted Percutaneous Coronary Intervention for Acute Coronary Syndrome: A Case Series.",
+  "authors": [
+    "Squillace M",
+    "Testa L",
+    "Brambilla N",
+    "Bedogni F"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39692117",
+      "pmc_id": null,
+      "title": "Application of Robotic-Assisted Percutaneous Coronary Intervention for Acute Coronary Syndrome: A Case Series.",
+      "authors": [
+        "Squillace M",
+        "Testa L",
+        "Brambilla N",
+        "Bedogni F"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "This case series highlights the successful application of robotic-assisted percutaneous coronary intervention using the R-One+ system in two acute coronary syndrome patients with significant coronary lesions. The procedures demonstrated the technology's safety, performance, and benefits such as minimal contrast use, reduced operator radiation exposure, and optimal procedural times.",
+      "chunk_index": 0,
+      "char_count": 384,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

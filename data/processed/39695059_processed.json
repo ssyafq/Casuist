@@ -1,0 +1,35 @@
+{
+  "pmid": "39695059",
+  "pmc_id": "PMC12241170",
+  "title": "Superiority of photon-counting computed tomography for detecting high-risk unstable angina patients: two case reports.",
+  "authors": [
+    "Ho DT",
+    "Nguyen ADQ",
+    "Tran HTQ",
+    "Tran CC",
+    "Nguyen CD"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39695059",
+      "pmc_id": "PMC12241170",
+      "title": "Superiority of photon-counting computed tomography for detecting high-risk unstable angina patients: two case reports.",
+      "authors": [
+        "Ho DT",
+        "Nguyen ADQ",
+        "Tran HTQ",
+        "Tran CC",
+        "Nguyen CD"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Coronary artery disease is the leading cause of death among non-communicable diseases. The management strategy prioritizes early detection and optimal treatment, with emerging roles for imaging approaches. Photon-counting computed tomography is a new non-invasive diagnostic imaging tool that can detect high-risk plaques in coronary artery disease patients. Using photon-counting computed tomography in screening and intravascular ultrasound later in verifying diagnosis and intervention guidance could be a new technique to swiftly discover unstable plaques, prepare lesions for surgery, and determine the optimal percutaneous intervention strategy. However, there is no documentation available for this new approach. We reported two acute coronary syndromes managed with a combination of two imaging methods. Despite receiving medical therapy, the first case continued to experience chest pain, leading to the detection of plaque ulceration in the left anterior descending artery. On the other hand, two PCCT screenings within 6 months revealed plaque progression in the second case. We then used IVUS to confirm the lesions and proceed to intervention. We successfully discharged both cases, and they showed no symptoms 6 months after discharge.",
+      "chunk_index": 0,
+      "char_count": 1249,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

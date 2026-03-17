@@ -1,0 +1,33 @@
+{
+  "pmid": "41332121",
+  "pmc_id": null,
+  "title": "Short-Term Thrombosis Following Coronary Stent Implantation in a Patient With Myocardial Infarction and COVID-19 Infection: A Case Report and Literature Review.",
+  "authors": [
+    "Gu F",
+    "Chen Z",
+    "Lu Y",
+    "Chen S"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41332121",
+      "pmc_id": null,
+      "title": "Short-Term Thrombosis Following Coronary Stent Implantation in a Patient With Myocardial Infarction and COVID-19 Infection: A Case Report and Literature Review.",
+      "authors": [
+        "Gu F",
+        "Chen Z",
+        "Lu Y",
+        "Chen S"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "In-stent thrombosis is a rare but devastating complication following percutaneous coronary intervention, and its risk may be significantly heightened by the pro-inflammatory and hypercoagulable state induced by COVID-19 infection. This case report details a 62-year-old male with acute non-ST-elevation myocardial infarction who underwent successful drug-eluting stent implantation, only to develop catastrophic in-stent thrombosis and cardiac rupture within one hour post-procedure, concurrent with a mild COVID-19 infection. Despite emergency thrombectomy and surgical intervention, the patient succumbed to refractory cardiogenic shock. This case, alongside a review of similar published reports, underscores the alarmingly rapid onset of stent thrombosis in COVID-19 patients and suggests that the viral infection acts as a potent precipitating factor. The pathophysiology likely involves immune-mediated endothelial injury, platelet hyperreactivity, and a systemic inflammatory cascade. The discussion highlights the critical need for heightened vigilance, consideration of intensified peri-procedural antithrombotic strategies (such as glycoprotein IIb/IIIa inhibitors), and the potential role of intravascular imaging in this high-risk patient population. This report concludes that managing acute coronary syndrome in the context of COVID-19 requires a personalized and aggressive approach to mitigate the elevated threat of early stent thrombosis.",
+      "chunk_index": 0,
+      "char_count": 1456,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

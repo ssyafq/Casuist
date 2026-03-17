@@ -1,0 +1,63 @@
+{
+  "pmid": "41553813",
+  "pmc_id": null,
+  "title": "Cardiac metastasis of urothelial carcinoma mimicking ST-elevation myocardial infarction.",
+  "authors": [
+    "Chaloupkova L",
+    "Suchanek V",
+    "Buchler T"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41553813",
+      "pmc_id": null,
+      "title": "Cardiac metastasis of urothelial carcinoma mimicking ST-elevation myocardial infarction.",
+      "authors": [
+        "Chaloupkova L",
+        "Suchanek V",
+        "Buchler T"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Urothelial carcinoma (UC) is the second most common malignancy of the urinary tract. While distant metastases are relatively frequent in advanced UC, cardiac involvement is exceedingly rare and typically asymptomatic. When present, it may mimic acute cardiovascular events, complicating timely diagnosis and management. CASE: We describe the case of an 81-year-old man with a history of metabolic syndrome and stable cardiac disease, who was diagnosed with high-grade urothelial carcinoma of the renal pelvis with pulmonary metastases. Two months after nephroureterectomy and during first-line carboplatin chemotherapy, the patient presented with progressive dyspnoea. ECG showed ST-segment elevations suggestive of acute myocardial infarction, yet urgent coronary angiography and laboratory markers excluded acute coronary syndrome. Echocardiography and cardiac MRI revealed a large myocardial metastasis infiltrating the right ventricle and interventricular septum. Given the advanced stage and poor prognosis, active oncologic treatment was discontinued, and palliative care was initiated.",
+      "chunk_index": 0,
+      "char_count": 1092,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41553813",
+      "pmc_id": null,
+      "title": "Cardiac metastasis of urothelial carcinoma mimicking ST-elevation myocardial infarction.",
+      "authors": [
+        "Chaloupkova L",
+        "Suchanek V",
+        "Buchler T"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "labs",
+      "text": "elevations suggestive of acute myocardial infarction, yet urgent coronary angiography and laboratory markers excluded acute coronary syndrome. Echocardiography and cardiac MRI revealed a large myocardial metastasis infiltrating the right ventricle and interventricular septum. Given the advanced stage and poor prognosis, active oncologic treatment was discontinued, and palliative care was initiated.\n\nThis case highlights a rare presentation of cardiac metastasis mimicking ST-elevation myocardial infarction in a patient with advanced urothelial carcinoma. Multimodal cardiac imaging was key to establishing the diagnosis. Despite its rarity, myocardial infiltration should be considered in oncologic patients presenting with cardiac symptoms and ECG abnormalities.",
+      "chunk_index": 1,
+      "char_count": 768,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41553813",
+      "pmc_id": null,
+      "title": "Cardiac metastasis of urothelial carcinoma mimicking ST-elevation myocardial infarction.",
+      "authors": [
+        "Chaloupkova L",
+        "Suchanek V",
+        "Buchler T"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "This case highlights a rare presentation of cardiac metastasis mimicking ST-elevation myocardial infarction in a patient with advanced urothelial carcinoma. Multimodal cardiac imaging was key to establishing the diagnosis. Despite its rarity, myocardial infiltration should be considered in oncologic patients presenting with cardiac symptoms and ECG abnormalities.\n\nCardiac metastases from urothelial carcinoma are rare but clinically significant, often associated with poor outcomes. ECG changes resembling myocardial infarction warrant thorough evaluation, particularly in patients with known malignancy. Early diagnosis, even in the absence of curative options, may help guide appropriate palliative care.",
+      "chunk_index": 2,
+      "char_count": 709,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

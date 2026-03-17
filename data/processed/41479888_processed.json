@@ -1,0 +1,33 @@
+{
+  "pmid": "41479888",
+  "pmc_id": "PMC12753373",
+  "title": "Lymphocyte dynamics as the central mediator in osimertinib-induced CD4(+) T-cell depletion, fulminant cytomegalovirus pneumonitis, and progressive pulmonary fibrosis: a case report.",
+  "authors": [
+    "Zhu L",
+    "Liu D",
+    "Peng J",
+    "Lu J"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41479888",
+      "pmc_id": "PMC12753373",
+      "title": "Lymphocyte dynamics as the central mediator in osimertinib-induced CD4(+) T-cell depletion, fulminant cytomegalovirus pneumonitis, and progressive pulmonary fibrosis: a case report.",
+      "authors": [
+        "Zhu L",
+        "Liu D",
+        "Peng J",
+        "Lu J"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Osimertinib-induced severe lymphocytopenia can create a profound immunodeficiency state, facilitating opportunistic infections and progressive fibrotic lung disease. A 75-year-old female with EGFR-mutant NSCLC developed respiratory failure with diffuse ground-glass opacities and profound lymphocytopenia (ALC 0.48x10(9)/L). Overreliance on BAL-NGS detection of Mycobacterium avium complex delayed diagnosis of cytomegalovirus pneumonia. Guideline-discordant erlotinib rechallenge accelerated lymphocyte depletion, culminating in high-grade CMV viremia with CD4(+) lymphocytopenia (0.16x10(9)/L) and irreversible pulmonary fibrosis despite ganciclovir-induced virologic clearance. This case demonstrates an immune-fibrotic axis wherein TKI-induced lymphocytopenia enables CMV pneumonitis and fibrotic remodeling. Lymphocytopenia in this setting mandates urgent viral exclusion before attributing injury to drug toxicity and precludes TKI rechallenge during active infection or severe immunosuppression. BAL-NGS requires rigorous clinicoradiologic correlation.",
+      "chunk_index": 0,
+      "char_count": 1059,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

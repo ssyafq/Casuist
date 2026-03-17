@@ -1,0 +1,41 @@
+{
+  "pmid": "41505815",
+  "pmc_id": null,
+  "title": "Possible tuberculous meningitis presenting with predominant voiding dysfunction in an elderly patient: A case report.",
+  "authors": [
+    "Liu F",
+    "Sun S",
+    "Zhang Y",
+    "Wang F",
+    "Yang X",
+    "Zhang B",
+    "Fan S",
+    "Jia H"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41505815",
+      "pmc_id": null,
+      "title": "Possible tuberculous meningitis presenting with predominant voiding dysfunction in an elderly patient: A case report.",
+      "authors": [
+        "Liu F",
+        "Sun S",
+        "Zhang Y",
+        "Wang F",
+        "Yang X",
+        "Zhang B",
+        "Fan S",
+        "Jia H"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Tuberculous meningitis (TBM) typically presents with neurological symptoms. Voiding dysfunction in TBM is usually attributed to spinal cord involvement. We report a rare case of possible TBM co-existing with possible prostatic tuberculosis, presenting primarily with urinary symptoms in the absence of spinal pathology. A 69-year-old male presented with a two-year history of progressive urinary retention, urgency, and frequency. Initial management for benign prostatic hyperplasia was ineffective. He subsequently developed fever, headache, and dizziness. Cerebrospinal fluid (CSF) analysis revealed lymphocytic pleocytosis and elevated protein. Despite extensive testing, including CSF culture, Xpert MTB/RIF, and metagenomic next-generation sequencing (mNGS), no pathogen was identified. However, a history of untreated testicular tuberculosis, pulmonary nodules on CT, and a prostatic nodule on MRI raised suspicion of disseminated tuberculosis. A clinical diagnosis of possible TBM was made based on a Marais score of 11. An intensive anti-tuberculosis regimen including moxifloxacin and linezolid led to complete resolution of neurological and urinary symptoms. This case suggests that voiding dysfunction in TBM patients may stem from concurrent genitourinary tuberculosis rather than spinal cord involvement. It highlights the importance of considering hematogenous dissemination from latent genitourinary foci in elderly patients and the utility of the Marais criteria for the diagnosis of TBM when microbiological evidence is elusive.",
+      "chunk_index": 0,
+      "char_count": 1545,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

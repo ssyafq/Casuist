@@ -1,0 +1,39 @@
+{
+  "pmid": "40276910",
+  "pmc_id": "PMC12035262",
+  "title": "The Perfect Storm: Co-occurrence of Agranulocytosis and Thyroid Storm Successfully Managed with Lithium Therapy.",
+  "authors": [
+    "Vojjala N",
+    "Fathalla O",
+    "Renzu M",
+    "Prabhu R",
+    "Kattamuri L",
+    "Krishnamoorthy G",
+    "Taha W"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40276910",
+      "pmc_id": "PMC12035262",
+      "title": "The Perfect Storm: Co-occurrence of Agranulocytosis and Thyroid Storm Successfully Managed with Lithium Therapy.",
+      "authors": [
+        "Vojjala N",
+        "Fathalla O",
+        "Renzu M",
+        "Prabhu R",
+        "Kattamuri L",
+        "Krishnamoorthy G",
+        "Taha W"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "A thyroid storm is a medical emergency that requires high clinical suspicion and emergency treatment. We report an unusual case of thyroid storm and agranulocytosis managed with lithium therapy. The patient is a 32-year-old woman with a history of Graves' disease on methimazole therapy who presented to the emergency department with fever and palpitations. She was diagnosed with COVID-19 infection a week ago. She was febrile and tachycardic with fine tremors on examination. Routine laboratory workup showed agranulocytosis. Serum thyroid-stimulating hormone levels are <0.01 microIU/ml (normal range is 0.45-5.33) with elevated T4 and T3 (10.4 pcg/ml [2.1-4.1 pcg/ml], 4.34 ng/dl [0.61-1.24 ng/dl]). Burch-Wartofsky Point Scale score was 60 points, highly suggestive of thyroid storm. A clinical diagnosis of thyroid storm was made. The precipitating factor in this case was identified as the recent COVID-19 infection. Adding to the conundrum is the co-existent agranulocytosis, precluding the usage of antithyroid medications. She was treated with beta-blockers, intravenous fluids, and steroid therapy to suppress T4 to T3 conversion. Lithium was started, given her neutropenia and thyroid storm. She responded to oral lithium therapy and was discharged. During follow-up, her symptoms were controlled and leucopenia resolved. In conclusion, COVID-19 is a recognized precipitating factor for thyroid storms. It is very rare to see co-existent thyroid storm and agranulocytosis, and lithium can be a useful option in such cases. This case report adds to the minimal literature existing on lithium use in patients with thyroid storm.",
+      "chunk_index": 0,
+      "char_count": 1638,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

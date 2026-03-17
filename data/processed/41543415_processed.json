@@ -1,0 +1,31 @@
+{
+  "pmid": "41543415",
+  "pmc_id": null,
+  "title": "Utilizing Resuscitative Transesophageal Echocardiography to Diagnose Massive Pulmonary Embolism Precipitating Intraoperative Cardiac Arrest.",
+  "authors": [
+    "Weingarten B",
+    "Garijo JM",
+    "d'Empaire PP"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41543415",
+      "pmc_id": null,
+      "title": "Utilizing Resuscitative Transesophageal Echocardiography to Diagnose Massive Pulmonary Embolism Precipitating Intraoperative Cardiac Arrest.",
+      "authors": [
+        "Weingarten B",
+        "Garijo JM",
+        "d'Empaire PP"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Resuscitative transesophageal echocardiography (TEE) is an effective tool for managing perioperative cardiac arrest in non-cardiac surgery. We present a case of a patient, who suffered hemodynamic collapse following induction of general anesthesia for open reduction and internal fixation of a traumatic pelvic fracture. Resuscitative TEE helped make a diagnosis of acute massive pulmonary embolism leading to emergent surgical pulmonary embolectomy. Resuscitative TEE also helped guide CPR and central venous access. Our case highlights the utility of resuscitative TEE during management of intraoperative cardiac arrest.",
+      "chunk_index": 0,
+      "char_count": 622,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

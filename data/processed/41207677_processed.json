@@ -1,0 +1,33 @@
+{
+  "pmid": "41207677",
+  "pmc_id": null,
+  "title": "[Enteric muco-submucosal elongated polyp with intussusception presenting as melena and treated by laparoscopic surgery: a case report and literature review].",
+  "authors": [
+    "Awazu M",
+    "Yamamoto Y",
+    "Nakayama S",
+    "Idei Y"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41207677",
+      "pmc_id": null,
+      "title": "[Enteric muco-submucosal elongated polyp with intussusception presenting as melena and treated by laparoscopic surgery: a case report and literature review].",
+      "authors": [
+        "Awazu M",
+        "Yamamoto Y",
+        "Nakayama S",
+        "Idei Y"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "An 88-year-old female was admitted with a complaint of melena. Abdominal computed tomography revealed a dense mass and a target sign in the distal ileum, suggesting an intestinal mass and associated intussusception. However, there were no signs of intestinal obstruction or ischemic change. Retrograde single-balloon enteroscopy revealed a lesion in the distal ileum that appeared as a spherical mass in the frontal view, with a long stalk visible posteriorly. Detailed observation was challenging. At that time, intussusception was not observed. Contrast examination revealed a long and slender mass with a hemispherical, dome-shaped head. As the source of bleeding remained unidentified, enteroscopic clipping and tattooing were performed for preoperative marking. Given the patient's stable hemodynamic and respiratory status, single-incision laparoscopic surgery was performed one week later. Intraoperatively, the tattooed section of the ileum, demonstrating evidence of intussusception, was easily identified. The affected segment was exteriorized through the single-incision port, and the intussusception was relieved using the Hutchinson maneuver. Approximately 20cm of the ileum, including the tattooed segment, was resected, followed by reconstruction using a functional end-to-end anastomosis. Gross examination of the resected specimen revealed a 20x90mm polyp with a slender, \"worm-like\" appearance-typical of an enteric muco-submucosal elongated polyp (EMSEP). Histopathological analysis confirmed the presence of normal mucosa and submucosa with a variably prominent mixture of blood and lymphatic vessels. Although EMSEPs are frequently observed in the colon, they are exceedingly rare in the small intestine. Their detection during routine health screenings is challenging due to their location, and they often manifest as intussusception. Because endoscopic management of small EMSEPs can be challenging, lesion tattooing followed by laparoscopic surgery is a good treatment choice.",
+      "chunk_index": 0,
+      "char_count": 2000,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

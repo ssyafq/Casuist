@@ -1,0 +1,29 @@
+{
+  "pmid": "40760807",
+  "pmc_id": "PMC12502041",
+  "title": "Left Main PCI During Cardiac Arrest With Ongoing Lucas CPR.",
+  "authors": [
+    "Naqvi SY",
+    "Naqvi SM"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40760807",
+      "pmc_id": "PMC12502041",
+      "title": "Left Main PCI During Cardiac Arrest With Ongoing Lucas CPR.",
+      "authors": [
+        "Naqvi SY",
+        "Naqvi SM"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Percutaneous coronary intervention (PCI) during cardiac arrest presents significant procedural challenges, particularly due to poor imaging and hemodynamic instability. We present the case of a 75-year-old man with worsening angina despite optimal medical therapy, who underwent PCI of the left anterior descending (LAD) artery. During the procedure, the patient suffered cardiac arrest that occurred after balloon rupture leading to severe coronary no-reflow, necessitating cardiopulmonary resuscitation (CPR). Mechanical CPR using the LUCAS device enabled uninterrupted compressions and image acquisition, facilitating successful stenting of a critically narrowed unprotected left main coronary artery. This case underscores the utility of mechanical CPR to maintain perfusion and procedural visibility during coronary interventions in the setting of cardiac arrest. Mechanical CPR may serve as a bridge to revascularization in select patients undergoing cardiac arrest in the cardiac catheterization laboratory.",
+      "chunk_index": 0,
+      "char_count": 1014,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

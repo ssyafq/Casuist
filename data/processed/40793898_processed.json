@@ -1,0 +1,39 @@
+{
+  "pmid": "40793898",
+  "pmc_id": null,
+  "title": "[Ischemic mitral regurgitation: from the emergency room to the cardiac surgery recovery unit].",
+  "authors": [
+    "Iroulart JM",
+    "Lagoria JI",
+    "Bluro IM",
+    "Miceli AL",
+    "Bergier MG",
+    "Posatini R",
+    "Pizarro R"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40793898",
+      "pmc_id": null,
+      "title": "[Ischemic mitral regurgitation: from the emergency room to the cardiac surgery recovery unit].",
+      "authors": [
+        "Iroulart JM",
+        "Lagoria JI",
+        "Bluro IM",
+        "Miceli AL",
+        "Bergier MG",
+        "Posatini R",
+        "Pizarro R"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "We present the case of a 69-year-old male with no cardiovascular history, who was admitted to the emergency department due to acute coronary syndrome with ST elevation and cardiogenic shock. Immediately after the percutaneous coronary intervention, he developed a greater requirement of vasopressors, the addition of inotropes, and an increase in oxygen supply by mechanical respiratory assistance. An echocardiogram was performed, which showed acute ischemic mitral regurgitation due to complete rupture of the posteromedial papillary muscle. Under ventricular assistance with a counterpulsation balloon, a mitral valve replacement was decided, and he left the operating room with extracorporeal membrane for oxygenation (ECMO). During the postoperative period, the patient evolved adequately, achieving the retirement of the ECMO at 72 hours with good hemodynamic tolerance. Respiratory weaning was prolonged. Once pulmonary rehabilitation was completed, he was discharged from the hospital.",
+      "chunk_index": 0,
+      "char_count": 993,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

@@ -1,0 +1,53 @@
+{
+  "pmid": "36049082",
+  "pmc_id": "PMC10395889",
+  "title": "[Multimodal anesthesia in a patient with Graves' disease and thyrotoxicosis: A case report].",
+  "authors": [
+    "Pagan-Rappo MJ",
+    "Jurado-Fernandez de Lara CE",
+    "Castro-Sanchez O",
+    "Carpio-Vargas KY",
+    "Gutierrez-Riveroll KI"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "36049082",
+      "pmc_id": "PMC10395889",
+      "title": "[Multimodal anesthesia in a patient with Graves' disease and thyrotoxicosis: A case report].",
+      "authors": [
+        "Pagan-Rappo MJ",
+        "Jurado-Fernandez de Lara CE",
+        "Castro-Sanchez O",
+        "Carpio-Vargas KY",
+        "Gutierrez-Riveroll KI"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Hyperthyroidism is the increase in the synthesis and secretion of thyroid hormones. It is rare but serious in children and constitutes approximately 5% of all cases; 15% manifests before 10 years of age. The peak of presentation and the majority of cases (80%) are diagnosed around 10-15 years of age. Adolescence is usually the stage with the highest incidence and it is more frequent in women (5:1). Acute thyrotoxic crisis or thyroid storm is rare and only occurs in a poorly controlled hyperthyroid patient or in a hyperthyroid patient undergoing emergency surgery. It is manifested by fever, extreme tachycardia, tachyarrhythmia with atrial fibrillation, vomiting, diarrhea, agitation and mental confusion. CLINICAL CASE: 17-year-old adolescent with Graves' disease with uncontrolled clinical manifestations that did not respond to medical treatment and was scheduled for radical thyroidectomy. 35 points were obtained on the Burch and Wartofsky Scale. It was managed with general anesthesia, reducing stimuli for airway and regional control to reduce surgical stimuli. Adjuvant medications such as magnesium sulfate for intraoperative stability were used.",
+      "chunk_index": 0,
+      "char_count": 1161,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "36049082",
+      "pmc_id": "PMC10395889",
+      "title": "[Multimodal anesthesia in a patient with Graves' disease and thyrotoxicosis: A case report].",
+      "authors": [
+        "Pagan-Rappo MJ",
+        "Jurado-Fernandez de Lara CE",
+        "Castro-Sanchez O",
+        "Carpio-Vargas KY",
+        "Gutierrez-Riveroll KI"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "did not respond to medical treatment and was scheduled for radical thyroidectomy. 35 points were obtained on the Burch and Wartofsky Scale. It was managed with general anesthesia, reducing stimuli for airway and regional control to reduce surgical stimuli. Adjuvant medications such as magnesium sulfate for intraoperative stability were used.\n\nMultimodal anesthesia managed to avoid thyroid storm, postoperative pain, as well as other complications.",
+      "chunk_index": 1,
+      "char_count": 450,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

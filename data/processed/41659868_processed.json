@@ -1,0 +1,33 @@
+{
+  "pmid": "41659868",
+  "pmc_id": "PMC12878228",
+  "title": "Case Report: Complete remission of Guillain-Barre syndrome in neuropsychiatric lupus with telitacicept.",
+  "authors": [
+    "Bao Y",
+    "Zhang W",
+    "Liu X",
+    "Gai N"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41659868",
+      "pmc_id": "PMC12878228",
+      "title": "Case Report: Complete remission of Guillain-Barre syndrome in neuropsychiatric lupus with telitacicept.",
+      "authors": [
+        "Bao Y",
+        "Zhang W",
+        "Liu X",
+        "Gai N"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Neuropsychiatric systemic lupus erythematosus (NPSLE) manifesting as Guillain-Barre syndrome (GBS) is exceptionally rare, with only 28 documented cases in medical literature, and current biological therapies show limited efficacy. We report a 34-year-old woman who presented with progressive quadriparesis, bilateral ptosis, and facial palsy developing over one month. Laboratory investigations revealed marked B-cell dysregulation with elevated immunoglobulin G (24.30 g/L, normal 7-16), positive antinuclear antibodies (1:320), anti-double-stranded DNA antibodies (128 IU/ml, normal <20), anti-ribosomal P antibodies (450 AU/ml, normal <20), and hypocomplementemia (C3 1.10 g/L, C4 0.28 g/L). Cerebrospinal fluid analysis showed cytoalbuminologic dissociation (protein 1314 mg/L, cells 1x10(6)/L), and nerve conduction studies confirmed acute inflammatory demyelinating polyradiculoneuropathy. Following inadequate response to intravenous immunoglobulin monotherapy, combination treatment was initiated with methylprednisolone (40mg daily), cyclophosphamide (0.6g biweekly), hydroxychloroquine, and telitacicept (160mg weekly), a novel dual inhibitor of B lymphocyte stimulator and a proliferation-inducing ligand that simultaneously targets B cells and plasma cells. At six-month follow-up, the patient achieved complete neurological recovery with significant laboratory improvements: immunoglobulin G decreased 61.6% to 9.34 g/L, anti-double-stranded DNA antibodies decreased 82.8% to 22 IU/ml, erythrocyte sedimentation rate normalized from 63 to 8 mm/h, and complement levels recovered. Corticosteroids were successfully tapered to 4mg daily without disease flare. This first report of telitacicept use in NPSLE-GBS demonstrates that dual BLyS/APRIL inhibition can achieve complete remission in refractory cases, offering a promising therapeutic approach that warrants further investigation in controlled trials.",
+      "chunk_index": 0,
+      "char_count": 1918,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

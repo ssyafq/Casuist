@@ -1,0 +1,33 @@
+{
+  "pmid": "41500706",
+  "pmc_id": null,
+  "title": "Endovascular angioplasty and stenting of a persistent trigeminal artery in acute ischaemic stroke.",
+  "authors": [
+    "Debs L",
+    "Carr C",
+    "Cliett J",
+    "Guirgiutiu DV"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41500706",
+      "pmc_id": null,
+      "title": "Endovascular angioplasty and stenting of a persistent trigeminal artery in acute ischaemic stroke.",
+      "authors": [
+        "Debs L",
+        "Carr C",
+        "Cliett J",
+        "Guirgiutiu DV"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "A persistent trigeminal artery (PTA) is a rare embryonic vascular remnant that can be implicated in stroke. This case involves a woman in her late 70s who presented following a ground-level fall with diplopia. Her National Institutes of Health Stroke Scale (NIHSS) score was initially 0, but she later developed acute neurological symptoms with an NIHSS of 25. She was found to have a large posterior circulation ischaemic penumbra on CT angiography. The terminal basilar artery was supplied primarily by a stenosed left Saltzman type I PTA. Angioplasty and stenting of the stenosed left PTA were performed, resulting in successful revascularisation and improved basilar artery flow. The patient showed substantial neurological recovery within 72 hours and was discharged to a rehabilitation facility with an NIHSS of 14. This case underscores the importance of recognising embryonic vascular variants like PTA in stroke and shows that endovascular treatment can be both safe and effective.",
+      "chunk_index": 0,
+      "char_count": 990,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

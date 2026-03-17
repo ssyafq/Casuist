@@ -1,0 +1,35 @@
+{
+  "pmid": "40729104",
+  "pmc_id": null,
+  "title": "Acute invasive fungal sinusitis in a new diagnosis of type 1 diabetes mellitus.",
+  "authors": [
+    "Dies N",
+    "Song AJS",
+    "Chen J",
+    "Biron V",
+    "Seikaly H"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40729104",
+      "pmc_id": null,
+      "title": "Acute invasive fungal sinusitis in a new diagnosis of type 1 diabetes mellitus.",
+      "authors": [
+        "Dies N",
+        "Song AJS",
+        "Chen J",
+        "Biron V",
+        "Seikaly H"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "A 32-year-old man diagnosed with type 1 diabetes mellitus presented to the ED following loss of consciousness and was ultimately diagnosed with acute invasive fungal sinusitis (AIFS). AIFS is a disease that most commonly affects people with immunocompromise such as those with a hematologic malignancy, diabetes, or HIV; those on immunosuppressant drugs posttransplant; and those on chemotherapy or long-term corticosteroids. In this case, the patient's diabetic ketoacidosis put him in a high-risk physiologic state. Following presentation, the patient was managed in the ICU to reverse his immunocompromise. He underwent six surgical debridements and received systemic broad-spectrum antifungal and antibacterial therapies. Ultimately, the patient developed intracranial arteritis, thromboses, and subsequent infarction, which were incompatible with meaningful life. This case highlights the variable presentation and mortality of AIFS, showing that an absence of sinonasal symptoms does not rule out the condition and that, though outcomes are generally thought to be more favorable in diabetes mellitus than other immunocompromised states, AIFS is a serious diagnosis for any individual with immunosuppression. The patient's clinical picture correlated well with radiologic progression of the disease; however, this is not always the case.",
+      "chunk_index": 0,
+      "char_count": 1343,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

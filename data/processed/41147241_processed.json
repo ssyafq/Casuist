@@ -1,0 +1,37 @@
+{
+  "pmid": "41147241",
+  "pmc_id": null,
+  "title": "Cardiology across continents: takeaways from a rare case presentation.",
+  "authors": [
+    "Arunakumar P",
+    "Shetty A",
+    "Mahendran A",
+    "Neal A",
+    "Gowda S",
+    "Peck D"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "41147241",
+      "pmc_id": null,
+      "title": "Cardiology across continents: takeaways from a rare case presentation.",
+      "authors": [
+        "Arunakumar P",
+        "Shetty A",
+        "Mahendran A",
+        "Neal A",
+        "Gowda S",
+        "Peck D"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "Clinicians in paediatric cardiology have unique exposure to different pathologies and treatment based on geographic location and resource availability. \"Cardiology Across Continents\" is a virtual, case-based discussion series aimed at knowledge sharing across a variety of practice and resource settings. We report on a recent case discussion highlighting a rare cause of new-onset heart failure in a teenager, which is more frequently seen among African and Asian populations.",
+      "chunk_index": 0,
+      "char_count": 477,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

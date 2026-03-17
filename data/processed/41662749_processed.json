@@ -1,0 +1,47 @@
+{
+  "pmid": "41662749",
+  "pmc_id": "PMC12874870",
+  "title": "Persistent Undocumented Meningoencephalitis due to Histoplasmosis in an HIV-Infected Patient in Brazil.",
+  "authors": [
+    "Henry K",
+    "Francoise U",
+    "Durand C",
+    "Salloum C",
+    "About F",
+    "Lesens O",
+    "Weber S",
+    "Djossou F",
+    "Zappa M",
+    "Epelboin L",
+    "Le Turnier P"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41662749",
+      "pmc_id": "PMC12874870",
+      "title": "Persistent Undocumented Meningoencephalitis due to Histoplasmosis in an HIV-Infected Patient in Brazil.",
+      "authors": [
+        "Henry K",
+        "Francoise U",
+        "Durand C",
+        "Salloum C",
+        "About F",
+        "Lesens O",
+        "Weber S",
+        "Djossou F",
+        "Zappa M",
+        "Epelboin L",
+        "Le Turnier P"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "The diagnosis of central nervous system histoplasmosis is challenging because histoplasmosis can mimic tuberculosis and the performance of mycological diagnostic methods in the cerebrospinal fluid is questionable. A 50-year-old woman with HIV infection, living in Amapa (northern Brazil), on suboptimal antiretroviral therapy for 8 years, presented to our unit with a 3-year history of recurrent undocumented meningoencephalitis, with several unsuccessful empirical antituberculosis and partially successful anticryptococcal regimens, and presented progressive motor weakness in the lower limbs, difficulty walking, and urinary and fecal incontinence for 6 months. Repeated lumbar punctures for mycological culture and Histoplasma polymerase chain reaction test were necessary to confirm the diagnosis. After 6 weeks of liposomal amphotericin B followed by itraconazole and intensification of her antiretroviral therapy, she improved clinically and biologically.",
+      "chunk_index": 0,
+      "char_count": 962,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

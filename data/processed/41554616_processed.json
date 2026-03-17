@@ -1,0 +1,33 @@
+{
+  "pmid": "41554616",
+  "pmc_id": null,
+  "title": "CTC1 mutation causing cerebro-retinal microangiopathy with calcifications and cysts type 1, masquerading as TORCH Infection.",
+  "authors": [
+    "Gowda VK",
+    "Srinivasan VM",
+    "Pandey HR",
+    "Challa VSR"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41554616",
+      "pmc_id": null,
+      "title": "CTC1 mutation causing cerebro-retinal microangiopathy with calcifications and cysts type 1, masquerading as TORCH Infection.",
+      "authors": [
+        "Gowda VK",
+        "Srinivasan VM",
+        "Pandey HR",
+        "Challa VSR"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "An early adolescent male from a consanguineous family presented with progressive neurological deterioration, including developmental delay, seizures, left hemiparesis and cognitive decline from early childhood. He subsequently developed gastrointestinal bleeding, chronic liver disease with oesophageal varices, severe anaemia and thrombocytopenia. Initial investigations suggested TORCH (Toxoplasmosis, Other, Rubella, Cytomegalovirus, Herpes simplex) infection due to intracranial calcifications and multisystem involvement. However, detailed neuroimaging revealed extensive periventricular calcifications, white matter abnormalities and cysts characteristic of cerebroretinal microangiopathy with calcifications and cysts type 1 (CRMCC). Notably, ophthalmological examination was normal, lacking the typical retinal findings. Exome sequencing identified a homozygous pathogenic variant c.775G>A p.(Val259Met) in the CTC1 gene, confirming CRMCC. The patient died in their late adolescence from respiratory failure and sepsis. This case highlights the phenotypic variability of CTC1 mutations and emphasises the consideration of CRMCC in patients with intracranial calcifications and multisystem disease, even in the absence of retinal involvement.",
+      "chunk_index": 0,
+      "char_count": 1249,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

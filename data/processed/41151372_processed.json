@@ -1,0 +1,33 @@
+{
+  "pmid": "41151372",
+  "pmc_id": null,
+  "title": "[Complications thromboemboliques apres un traitement par rituximab chez une patiente atteinte de pemphigoide bulleuse : un cas clinique].",
+  "authors": [
+    "Wakil N",
+    "Tlohi L",
+    "Haboub M",
+    "Habbal R"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41151372",
+      "pmc_id": null,
+      "title": "[Complications thromboemboliques apres un traitement par rituximab chez une patiente atteinte de pemphigoide bulleuse : un cas clinique].",
+      "authors": [
+        "Wakil N",
+        "Tlohi L",
+        "Haboub M",
+        "Habbal R"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Venous thromboembolism (VTE), encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), is the third leading cause of cardiovascular mortality worldwide, following stroke and myocardial infarction. Rituximab, a monoclonal antibody targeting CD20 on B lymphocytes, is increasingly used in the management of autoimmune conditions. While generally well tolerated, rare thromboembolic events have been reported. The pathophysiological mechanisms remain unclear but may involve endothelial dysfunction, cytokine release, or immune-mediated vascular injury. We report the case of a 56-year-old woman with bullous pemphigoid treated with rituximab, who developed extensive thromboembolic complications. The patient presented with acute dyspnea and leg pain. Clinical evaluation and imaging confirmed the diagnosis of DVT and PE. No predisposing factors such as recent surgery, immobilization, or malignancy were identified. The temporal relationship with rituximab infusion suggested a possible causal link. Anticoagulation was initiated, and rituximab therapy was discontinued. The aim of this report is to underscore the possible thromboembolic risk related to rituximab, and to discuss the underlying pathophysiological mechanisms, contributing risk factors, and strategies for prevention and clinical management.",
+      "chunk_index": 0,
+      "char_count": 1320,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

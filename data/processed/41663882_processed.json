@@ -1,0 +1,45 @@
+{
+  "pmid": "41663882",
+  "pmc_id": "PMC12886615",
+  "title": "Meningococcal Serogroup Y Meningitis Reveals Inborn Factor B Deficiency.",
+  "authors": [
+    "Bougeard C",
+    "Eskander E",
+    "Martins PV",
+    "Bitan J",
+    "Roquigny J",
+    "Kyheng C",
+    "Guiddir T",
+    "Fremeaux-Bacchi V",
+    "Gonnin C",
+    "ElSissy C"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41663882",
+      "pmc_id": "PMC12886615",
+      "title": "Meningococcal Serogroup Y Meningitis Reveals Inborn Factor B Deficiency.",
+      "authors": [
+        "Bougeard C",
+        "Eskander E",
+        "Martins PV",
+        "Bitan J",
+        "Roquigny J",
+        "Kyheng C",
+        "Guiddir T",
+        "Fremeaux-Bacchi V",
+        "Gonnin C",
+        "ElSissy C"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Complement factor B (FB) deficiency is an extremely rare alternative pathway (AP) defect predisposing to invasive infections, with only three families reported to date. We investigated a 14-year-old girl who developed Neisseria meningitidis serogroup Y meningitis complicated by bacteremia and cerebral venous sinus thrombosis. Complement function was assessed by TCA and AP50 hemolytic assay, FB quantification, and functional reconstitution with purified proteins. Genetic analysis of CFB was performed by next-generation sequencing. TCA, C3, and C4 were normal, whereas AP50 was undetectable. Plasma FB concentration was reduced. Reconstitution with purified FB, but not FD, restored AP activity, confirming FB deficiency. Patient plasma failed to support C3b-dependent hemolysis. Sequencing revealed compound heterozygosity for two missense variants in CFB: p.Gly396Arg in the vWFA domain (previously described) and p.Gln713Arg, a novel substitution in the serine protease domain near the catalytic Ser699. Both were classified as likely pathogenic according to ACMG criteria. This report represents the third genetically confirmed case of complete FB deficiency and the first involving a serine protease domain variant. It underscores the diagnostic value of combined quantitative and functional complement assays and highlights infectious risks relevant to patients treated with emerging FB inhibitors.",
+      "chunk_index": 0,
+      "char_count": 1408,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41366860",
+  "pmc_id": null,
+  "title": "Transcatheter Closure for Prevention of Stroke in an Octogenarian Woman With Dual Left Atrial \"Appendages\".",
+  "authors": [
+    "He T",
+    "Lu C",
+    "Zhang Z",
+    "Zeng J"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41366860",
+      "pmc_id": null,
+      "title": "Transcatheter Closure for Prevention of Stroke in an Octogenarian Woman With Dual Left Atrial \"Appendages\".",
+      "authors": [
+        "He T",
+        "Lu C",
+        "Zhang Z",
+        "Zeng J"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Thrombosis-induced stroke represents one of the most serious complications of atrial fibrillation (AF), and the presence of spontaneous echo contrast (SEC) is a well-established echocardiographic predictor of pre-thrombotic states. An 82-year-old woman with AF presented with recurrent ischemic strokes despite oral anticoagulation therapy and was referred to our center for left atrial appendage closure (LAAO). Transesophageal echocardiography (TEE) demonstrated slow flow within the left atrial appendage along with a large atrial septal aneurysm (ASA) exhibiting prominent SEC. Following multidisciplinary evaluation, simultaneous percutaneous closure of both the LAA and the ASA/PFO was successfully performed. Postprocedural follow-up demonstrated no device-related thrombosis, peri-device leak, or further stroke events. This case underscores the potential benefit of combined LAA and ASA/PFO closure in high-risk AF patients with recurrent embolic events despite anticoagulation.",
+      "chunk_index": 0,
+      "char_count": 987,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

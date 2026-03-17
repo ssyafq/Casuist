@@ -1,0 +1,35 @@
+{
+  "pmid": "41549496",
+  "pmc_id": "PMC12833991",
+  "title": "Diagnosis of Dual c- and p-ANCA Vasculitis Following SARS-CoV-2 Infection: A Case Report.",
+  "authors": [
+    "Wolfkind IB",
+    "McOsker RJ",
+    "Karling D",
+    "McKinney C",
+    "Mohamed E"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41549496",
+      "pmc_id": "PMC12833991",
+      "title": "Diagnosis of Dual c- and p-ANCA Vasculitis Following SARS-CoV-2 Infection: A Case Report.",
+      "authors": [
+        "Wolfkind IB",
+        "McOsker RJ",
+        "Karling D",
+        "McKinney C",
+        "Mohamed E"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "BACKGROUND Anti-neutrophil cytoplasmic antibodies (ANCAs) are associated with a group of small-vessel vasculitides collectively known as ANCA-associated vasculitis (AAV), which can lead to rapidly progressive glomerulonephritis and multisystem involvement. In addition to other autoimmune diseases, AAV has been increasingly reported following SARS-CoV-2 infection. CASE REPORT We present the case of a 70-year-old woman with a past medical history of atrial fibrillation, sick sinus syndrome, breast cancer, gastroesophageal reflux disease, and anxiety, who developed a rare phenomenon of dual ANCA-positive pauci-immune glomerulonephritis following coronavirus disease 2019 (COVID-19). She initially presented with refractory sinusitis and a persistent cough. Over 5 months, she developed iron-deficiency anemia and, eventually, a rapid decline in renal function. Serologic testing revealed dual positivity for anti-proteinase 3 (PR3, c-ANCA) and anti-myeloperoxidase (MPO, p-ANCA). Renal biopsy confirmed pauci-immune glomerulonephritis. She was ultimately diagnosed with granulomatosis with polyangiitis (GPA). CONCLUSIONS This case highlights a potential post-infectious autoimmune phenomenon triggered by SARS-CoV-2 and underscores the importance of considering AAV in patients with unexplained systemic symptoms and renal dysfunction after COVID-19. Furthermore, the mechanism of AAV seroconversion and disease progression may be linked to the ability of SARS-CoV-2 to induce the formation of neutrophil extracellular traps (NETs) through both direct viral-neutrophil interactions and cytokine-mediated inflammation. Our findings contribute to the growing body of evidence linking viral infections to the emergence of autoimmune vasculitis.",
+      "chunk_index": 0,
+      "char_count": 1747,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "41239603",
+  "pmc_id": "PMC12622621",
+  "title": "Diagnostic dilemmas in acute type A aortic dissection with acute myocardial infarction: A fatal misdiagnosis case and improvement strategies.",
+  "authors": [
+    "Zhou Y",
+    "Chen H"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41239603",
+      "pmc_id": "PMC12622621",
+      "title": "Diagnostic dilemmas in acute type A aortic dissection with acute myocardial infarction: A fatal misdiagnosis case and improvement strategies.",
+      "authors": [
+        "Zhou Y",
+        "Chen H"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "RATIONALE: Acute type A aortic dissection (TA-AAD) is a life-threatening cardiovascular emergency, with 1% hourly mortality in untreated patients and urgent surgical intervention required upon diagnosis. However, its clinical manifestations overlap significantly with acute myocardial infarction (AMI), leading to persistently high misdiagnosis rates in practice. Existing clinical guidelines lack targeted differential protocols for coexistent TA-AAD and AMI, often resulting in misclassification (e.g., TA-AAD as AMI) and subsequent inappropriate treatment that raises mortality. Thus, case analysis is urgently needed to identify diagnostic dilemmas and optimize clinical pathways. PATIENT CONCERNS: This report analyzes a patient with Stanford TA-AAD who initially presented with acute anterior myocardial infarction (a high-risk case requiring mechanical circulatory support). The patient was admitted for persistent chest pain. DIAGNOSES: The patient had electrocardiogram findings of coved ST-segment elevation and significantly elevated myocardial enzymes, meeting ST-segment elevation myocardial infarction criteria. After percutaneous coronary intervention, refractory low cardiac output persisted, prompting extracorporeal membrane oxygenation support. Ascending aortic dissection was accidentally detected by bedside ultrasound, confirming TA-AAD. INTERVENTIONS: The patient underwent percutaneous coronary intervention and subsequent major vascular surgery. OUTCOMES: Despite surgical intervention, the patient ultimately died. LESSONS: This case underscores the need for clinicians to be alert to the coexistence of TA-AAD and AMI in chest pain patients: percutaneous coronary intervention may exacerbate dissection progression and surgical hemostatic difficulty, while misdiagnosis combined with inappropriate treatment markedly increases mortality. Analyzing this fatal misdiagnosis provides practical references for optimizing diagnostic/therapeutic workflows, promoting multidisciplinary team involvement in decision-making, and reducing misdiagnosis-related adverse outcomes - ultimately offering valuable clinical guidance for improving patient survival.",
+      "chunk_index": 0,
+      "char_count": 2174,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

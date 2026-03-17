@@ -1,0 +1,33 @@
+{
+  "pmid": "41517799",
+  "pmc_id": "PMC12794984",
+  "title": "The \"contrast agent separation\" sign in a patient on veno-arterial extracorporeal membrane oxygenation undergoing computed tomography scan angiography: A case report.",
+  "authors": [
+    "Lou Y",
+    "Jia X",
+    "Wu J",
+    "Ding C"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41517799",
+      "pmc_id": "PMC12794984",
+      "title": "The \"contrast agent separation\" sign in a patient on veno-arterial extracorporeal membrane oxygenation undergoing computed tomography scan angiography: A case report.",
+      "authors": [
+        "Lou Y",
+        "Jia X",
+        "Wu J",
+        "Ding C"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "RATIONALE: In computed tomography angiography (CTA), the phenomenon of contrast agent separation (CAS) is one of the key imaging features for diagnosing arterial dissection. This case highlights that the \"contrast agent separation\" (CAS) sign in CTA after veno-arterial extracorporeal membrane oxygenation (VA-ECMO) may result from retrograde perfusion exceeding native cardiac output, causing uneven contrast mixing and potential misdiagnosis as Type A aortic dissection (AD). CTA combined with transesophageal echocardiography (TEE) is crucial for accurate diagnosis and management of such acute aortic conditions. PATIENT CONCERNS: A 76-year-old man suddenly lost consciousness at home. After the arrival of the 120-emergency team, the patient was assessed to be in cardiac and respiratory arrest. Cardiopulmonary resuscitation (CPR) was initiated, followed by emergency endotracheal intubation. DIAGNOSES: Cardiopulmonary arrest, cardiogenic shock, iatrogenic Type B26 AD, dilated cardiomyopathy, coronary heart disease, and atrial fibrillation. INTERVENTIONS: After VA-ECMO, CTA, and TEE were performed. OUTCOMES: The patient's prognosis is extremely poor, the family members have made a decision to forgo further treatment. LESSONS: The CAS sign in CTA after VA-ECMO may result from retrograde perfusion exceeding native cardiac output, causing uneven contrast mixing and potential misdiagnosis as Type A AD. CTA combined with TEE is crucial for accurate diagnosis and management of such acute aortic conditions.",
+      "chunk_index": 0,
+      "char_count": 1518,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

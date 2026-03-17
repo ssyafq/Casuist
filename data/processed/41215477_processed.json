@@ -1,0 +1,31 @@
+{
+  "pmid": "41215477",
+  "pmc_id": null,
+  "title": "Case Report: Recurrent Acute Pancreatitis After Epidural Steroid Injections.",
+  "authors": [
+    "Fleming A",
+    "Fall H",
+    "Waldman S"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41215477",
+      "pmc_id": null,
+      "title": "Case Report: Recurrent Acute Pancreatitis After Epidural Steroid Injections.",
+      "authors": [
+        "Fleming A",
+        "Fall H",
+        "Waldman S"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Acute pancreatitis is a complex condition characterized by severe abdominal pain due to inflammation of the pancreas. In addition to pain, patients may present with symptoms such as nausea, vomiting, diarrhea, fever, and elevated pancreatic enzymes, including amylase and lipase. We report a case of recurrent acute pancreatitis precipitated by the administration of epidural steroid injections (ESIs), in the setting of a subsequent diagnosis of intraductal papillary mucinous neoplasm of the pancreas (IPMN).",
+      "chunk_index": 0,
+      "char_count": 510,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

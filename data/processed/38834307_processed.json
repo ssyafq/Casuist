@@ -1,0 +1,33 @@
+{
+  "pmid": "38834307",
+  "pmc_id": null,
+  "title": "Thyroid storm after coronavirus disease 2019 mRNA vaccination in a patient with a history of Graves' disease after coronavirus disease 2019 infection.",
+  "authors": [
+    "Saito M",
+    "Iijima T",
+    "Kurai H",
+    "Aso Y"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "38834307",
+      "pmc_id": null,
+      "title": "Thyroid storm after coronavirus disease 2019 mRNA vaccination in a patient with a history of Graves' disease after coronavirus disease 2019 infection.",
+      "authors": [
+        "Saito M",
+        "Iijima T",
+        "Kurai H",
+        "Aso Y"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We report a case where the patient may have developed Graves' disease after COVID-19 infection, and where the COVID-19 vaccination may have exacerbated the condition, inducing the onset of a thyroid storm. Although any association between the vaccine and the onset of thyroid disease is impossible to demonstrate through a single case, the antecedent COVID-19 infection and COVID-19 messenger ribonucleic acid vaccination may have synergistically contributed to the development of Graves' disease followed by thyroid storm.",
+      "chunk_index": 0,
+      "char_count": 523,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

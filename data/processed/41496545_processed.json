@@ -1,0 +1,50 @@
+{
+  "pmid": "41496545",
+  "pmc_id": null,
+  "title": "Pseudoaneurysm after prostate biopsy: case report.",
+  "authors": [
+    "Daly W",
+    "Pelzman D",
+    "Ogagan PD",
+    "Jackman SV"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41496545",
+      "pmc_id": null,
+      "title": "Pseudoaneurysm after prostate biopsy: case report.",
+      "authors": [
+        "Daly W",
+        "Pelzman D",
+        "Ogagan PD",
+        "Jackman SV"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Minor bleeding after prostate biopsy is a relatively common complication, but clinically significant hemorrhage happens rarely. Management of prostatic artery pseudoaneurysm has not been described in the literature. CASE DESCRIPTION: In this case, an 84-year-old man presented after prostate biopsy with rectal bleeding and required a massive transfusion. Ultimately, he was found to have a prostatic artery pseudoaneurysm, which to our knowledge is heretofore undescribed after prostate biopsy. Bleeding ultimately stopped spontaneously as the patient deferred angioembolization. He had not recurrent bleeding on follow up but is still deciding on treatment course for newly diagnosed prostate cancer.",
+      "chunk_index": 0,
+      "char_count": 702,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41496545",
+      "pmc_id": null,
+      "title": "Pseudoaneurysm after prostate biopsy: case report.",
+      "authors": [
+        "Daly W",
+        "Pelzman D",
+        "Ogagan PD",
+        "Jackman SV"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "transfusion. Ultimately, he was found to have a prostatic artery pseudoaneurysm, which to our knowledge is heretofore undescribed after prostate biopsy. Bleeding ultimately stopped spontaneously as the patient deferred angioembolization. He had not recurrent bleeding on follow up but is still deciding on treatment course for newly diagnosed prostate cancer.\n\nBleeding from prostatic artery pseudoaneurysm is a rare complication of prostate biopsy and can be managed with aggressive resuscitation and IR embolization if needed.",
+      "chunk_index": 1,
+      "char_count": 528,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

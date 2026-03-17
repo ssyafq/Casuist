@@ -1,0 +1,99 @@
+{
+  "pmid": "41195782",
+  "pmc_id": "PMC12834272",
+  "title": "Diagnosis and follow-up of a PCDH19 epilepsy patient.",
+  "authors": [
+    "Chen Y",
+    "Xia Y",
+    "Chen L",
+    "Liu Z",
+    "Li B",
+    "Zhou K",
+    "Yue Y"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41195782",
+      "pmc_id": "PMC12834272",
+      "title": "Diagnosis and follow-up of a PCDH19 epilepsy patient.",
+      "authors": [
+        "Chen Y",
+        "Xia Y",
+        "Chen L",
+        "Liu Z",
+        "Li B",
+        "Zhou K",
+        "Yue Y"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Developmental and epileptic encephalopathy 9 (DEE9) is an X-linked genetic disorder characterized by the onset of seizures during infancy. Mutations in protocadherin 19 ( PCDH19 ) are the main cause of DEE9. Our study aims to demonstrate the diagnostic process and long-term follow-up of a female pediatric case presenting with recurrent seizures.",
+      "chunk_index": 0,
+      "char_count": 347,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41195782",
+      "pmc_id": "PMC12834272",
+      "title": "Diagnosis and follow-up of a PCDH19 epilepsy patient.",
+      "authors": [
+        "Chen Y",
+        "Xia Y",
+        "Chen L",
+        "Liu Z",
+        "Li B",
+        "Zhou K",
+        "Yue Y"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "epileptic encephalopathy 9 (DEE9) is an X-linked genetic disorder characterized by the onset of seizures during infancy. Mutations in protocadherin 19 ( PCDH19 ) are the main cause of DEE9. Our study aims to demonstrate the diagnostic process and long-term follow-up of a female pediatric case presenting with recurrent seizures.\n\nIn the present study, a female child presented with recurrent epileptic seizures and findings of abnormal synchronous discharges on electroencephalograms. Whole exome sequencing (WES) was performed on the proband and her parents to identify potential genetic variants.",
+      "chunk_index": 1,
+      "char_count": 599,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41195782",
+      "pmc_id": "PMC12834272",
+      "title": "Diagnosis and follow-up of a PCDH19 epilepsy patient.",
+      "authors": [
+        "Chen Y",
+        "Xia Y",
+        "Chen L",
+        "Liu Z",
+        "Li B",
+        "Zhou K",
+        "Yue Y"
+      ],
+      "specialty": "seizure",
+      "section_type": "labs",
+      "text": "In the present study, a female child presented with recurrent epileptic seizures and findings of abnormal synchronous discharges on electroencephalograms. Whole exome sequencing (WES) was performed on the proband and her parents to identify potential genetic variants.\n\nA heterozygous variant (NM_001105243: c.695A>G) in PCDH19 was identified and validated using Sanger sequencing. Based on clinical features and genetic analyses, the patient was diagnosed with PCDH19 -female limited epilepsy. Furthermore, a 4-year follow-up was conducted to assess the impact of the pathogenic variant on phenotype and treatment outcomes. The patient exhibited normal intelligence, which differed with the clinical features reported in other studies involving the same variant.",
+      "chunk_index": 2,
+      "char_count": 763,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41195782",
+      "pmc_id": "PMC12834272",
+      "title": "Diagnosis and follow-up of a PCDH19 epilepsy patient.",
+      "authors": [
+        "Chen Y",
+        "Xia Y",
+        "Chen L",
+        "Liu Z",
+        "Li B",
+        "Zhou K",
+        "Yue Y"
+      ],
+      "specialty": "seizure",
+      "section_type": "diagnosis",
+      "text": "and genetic analyses, the patient was diagnosed with PCDH19 -female limited epilepsy. Furthermore, a 4-year follow-up was conducted to assess the impact of the pathogenic variant on phenotype and treatment outcomes. The patient exhibited normal intelligence, which differed with the clinical features reported in other studies involving the same variant.\n\nWES confirmed the diagnosis of DEE9, and subsequent follow-up highlighted the effectiveness of the treatment. Therefore, genetic testing can improve the diagnosis of DEE9, particularly in cases with atypical symptoms, and provide valuable insights for genetic counseling and clinical treatment strategies.",
+      "chunk_index": 3,
+      "char_count": 661,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "41116727",
+  "pmc_id": null,
+  "title": "[Troponin elevation without myocardial injury - a diagnostic pitfall in cases of analytical interference].",
+  "authors": [
+    "Mahmoud A",
+    "Hammarlund P",
+    "Ekstrom U",
+    "Mokhtari A",
+    "David Dolata C",
+    "Engberg A",
+    "Svensson J",
+    "Bjellerup P",
+    "Hammarsten O"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41116727",
+      "pmc_id": null,
+      "title": "[Troponin elevation without myocardial injury - a diagnostic pitfall in cases of analytical interference].",
+      "authors": [
+        "Mahmoud A",
+        "Hammarlund P",
+        "Ekstrom U",
+        "Mokhtari A",
+        "David Dolata C",
+        "Engberg A",
+        "Svensson J",
+        "Bjellerup P",
+        "Hammarsten O"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "High-sensitive cardiac troponins are essential biomarkers in the diagnostics of myocardial infarction. However, analytical interference such as macrotroponin, where troponin forms stable complexes with endogenous antibodies, can lead to persistently elevated levels without actual myocardial injury. The first case report presents a young woman with recurrent chest pain and prolonged troponin I elevation over several years, which ultimately could be attributed to macrotroponin I. The second case report describes a young man presenting with intermittent chest pain and stable troponin I elevation. Following extensive investigations, the elevation was ultimately attributed to macrotroponin. These cases highlight the clinical importance of recognizing this diagnostic pitfall, especially when elevated troponin level lacks correlation with symptoms, ECG or imaging findings. In case of suspected macrotroponin, contact your local laboratory for further investigation.",
+      "chunk_index": 0,
+      "char_count": 971,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

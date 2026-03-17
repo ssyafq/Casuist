@@ -1,0 +1,31 @@
+{
+  "pmid": "40844067",
+  "pmc_id": "PMC12419566",
+  "title": "Ticagrelor-induced acute isolated thrombocytopenia.",
+  "authors": [
+    "Poddar P",
+    "Podila A",
+    "Momin MAB"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40844067",
+      "pmc_id": "PMC12419566",
+      "title": "Ticagrelor-induced acute isolated thrombocytopenia.",
+      "authors": [
+        "Poddar P",
+        "Podila A",
+        "Momin MAB"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Ticagrelor is an oral antiplatelet drug. The most common ticagrelor side effects include bleeding, dyspnea, bradycardia and in rare cases, microangiopathic hemolytic anemia. Isolated thrombocytopenia followed by a single-bolus dosage of ticagrelor is extremely uncommon. We encountered a 68-year-old male who had experienced rapid onset of chest pain and sweating for a day. The initial cardiac assessment suggested acute coronary syndrome and other laboratory tests, including a hemogram, were normal. The patient developed severe thrombocytopenia after receiving a loading dose of ticagrelor, despite the fact that no other thrombocytopenia-causing medicines were given to him. After discontinuing ticagrelor, the patient's platelet count gradually recovered with no need for additional transfusions or unnecessary investigations.",
+      "chunk_index": 0,
+      "char_count": 832,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

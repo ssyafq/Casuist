@@ -1,0 +1,39 @@
+{
+  "pmid": "41276169",
+  "pmc_id": null,
+  "title": "Central nervous system cryptococcosis with brain stem hemorrhage during chemotherapy for pediatric acute myeloblastic leukemia patient.",
+  "authors": [
+    "Tomomatsu S",
+    "Nagai K",
+    "Tsuruta K",
+    "Honma Y",
+    "Kawakami S",
+    "Ochi F",
+    "Yamamoto E"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41276169",
+      "pmc_id": null,
+      "title": "Central nervous system cryptococcosis with brain stem hemorrhage during chemotherapy for pediatric acute myeloblastic leukemia patient.",
+      "authors": [
+        "Tomomatsu S",
+        "Nagai K",
+        "Tsuruta K",
+        "Honma Y",
+        "Kawakami S",
+        "Ochi F",
+        "Yamamoto E"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Cryptococcosis is a deep-seated fungal disease caused by the fungus Cryptococcus neoformans and is known to be a rare occurrence in cancer patients during chemotherapy. A 10-year-old girl was diagnosed with acute myeloid leukemia (AML), and intensive chemotherapy was initiated following the JPLSG-AML-20 protocol. Complete remission was achieved after the first induction therapy. She reached nadir following the third consolidation chemotherapy and suffered from high-grade fever. Subsequently, right hemiplegia and left abducens nerve palsy appeared, and MRI revealed two loci of T1 low/T2 high intensity in the brain stem area. Cerebrospinal fluid (CSF) analysis did not show any common inflammatory findings, but cryptococcus neoformans was detected by a Biofire(R) FilmArray(R) meningitis/encephalitis (ME) panel. She received a combination of liposomal amphotericin B for six weeks and 5-fluorocytosine for four weeks as induction therapy, followed by maintenance therapy with fluconazole for 12 months. During recovery from bone marrow suppression, the patient developed immune reconstitution inflammatory syndrome (IRIS) accompanied by worsening headache and vomiting, which improved with steroids. Right hemiplegia gradually improved within a month and left abducens nerve palsy resolved at 4 months after initiation of treatment. We experienced an atypical case of cryptococcal meningoencephalitis presenting with stroke-like symptoms during intensive chemotherapy. When a central nervous system (CNS) infection occurs during neutropenia, abnormalities in the CSF examination are less likely to be detected. Multiplex genetic testing of CSF may be considered a useful diagnostic adjunct in immunocompromised patients with neurologic symptoms.",
+      "chunk_index": 0,
+      "char_count": 1753,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

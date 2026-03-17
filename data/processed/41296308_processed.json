@@ -1,0 +1,47 @@
+{
+  "pmid": "41296308",
+  "pmc_id": null,
+  "title": "Intracranial IgG4-related Disease: Insights from Two Cases.",
+  "authors": [
+    "Khanna S",
+    "Yadav S",
+    "Balakrishnan C"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41296308",
+      "pmc_id": null,
+      "title": "Intracranial IgG4-related Disease: Insights from Two Cases.",
+      "authors": [
+        "Khanna S",
+        "Yadav S",
+        "Balakrishnan C"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Immunoglobulin G4-related disease (IgG4-RD) is a rare autoimmune fibroinflammatory condition that can affect multiple organs. Central nervous system (CNS) involvement is seen in only 2-4% of cases. Due to its rarity and heterogeneous presentation, it often mimics malignancies, infections, or other inflammatory conditions, leading to delayed diagnosis. We report two cases illustrating the spectrum of CNS IgG4-RD and highlight diagnostic and therapeutic considerations. Case 1: A 29-year-old male presented with new-onset generalized tonic-clonic seizures. Brain magnetic resonance imaging (MRI) revealed a left-sided, extra-axial dural-based enhancing lesion with vasogenic edema. Serum IgG4 was elevated (3.25 gm/dL), but whole body positron emission tomography-computed tomography (PET-CT) ruled out systemic involvement. Surgical resection of the lesion was performed. Histopathology revealed a lymphoplasmacytic infiltrate with fibrosis and an IgG4:IgG plasma cell ratio of 20%. The patient was treated with tapering corticosteroids and methotrexate, leading to complete radiological resolution and seizure control. Case 2: A 44-year-old woman with longstanding hypothyroidism presented with headache, tinnitus, polydipsia, and polyuria. Laboratory investigations revealed panhypopituitarism. Imaging revealed an enlarged pituitary with systemic fluorodeoxyglucose (FDG)-avid lesions on PET-CT. Serum IgG4 was elevated (3.01 gm/L). A diagnosis of probable IgG4-related hypophysitis with multisystem involvement was made. She was managed with pulse methylprednisolone followed by oral steroids, methotrexate, and desmopressin. Follow-up showed clinical and radiological improvement, and serum IgG4 levels normalized.",
+      "chunk_index": 0,
+      "char_count": 1722,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41296308",
+      "pmc_id": null,
+      "title": "Intracranial IgG4-related Disease: Insights from Two Cases.",
+      "authors": [
+        "Khanna S",
+        "Yadav S",
+        "Balakrishnan C"
+      ],
+      "specialty": "seizure",
+      "section_type": "discussion",
+      "text": "enlarged pituitary with systemic fluorodeoxyglucose (FDG)-avid lesions on PET-CT. Serum IgG4 was elevated (3.01 gm/L). A diagnosis of probable IgG4-related hypophysitis with multisystem involvement was made. She was managed with pulse methylprednisolone followed by oral steroids, methotrexate, and desmopressin. Follow-up showed clinical and radiological improvement, and serum IgG4 levels normalized.\n\nThese cases demonstrate the clinical heterogeneity of CNS IgG4-RD, ranging from isolated pachymeningitis mimicking neoplasia to multisystem hypophysitis with systemic uptake. While the 2020 diagnostic criteria emphasize an IgG4:IgG ratio >/=40%, case 1 underscores that lower ratios (e.g., 20%) may still be diagnostically relevant, particularly in meningeal disease. Both patients responded well to corticosteroids and methotrexate, supporting their role as effective first-line treatment. These cases add to the growing evidence base for CNS-specific IgG4-RD and emphasize the need for organ-specific diagnostic flexibility and long-term immunosuppressive strategies.",
+      "chunk_index": 1,
+      "char_count": 1073,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

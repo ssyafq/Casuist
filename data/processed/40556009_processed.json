@@ -1,0 +1,67 @@
+{
+  "pmid": "40556009",
+  "pmc_id": "PMC12188653",
+  "title": "Total thyroidectomy performed under general anesthesia with venovenous extracorporeal membrane oxygenation during a thyroid storm: a case report.",
+  "authors": [
+    "Lee HG",
+    "Bom JS",
+    "Lee L",
+    "Kim J"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40556009",
+      "pmc_id": "PMC12188653",
+      "title": "Total thyroidectomy performed under general anesthesia with venovenous extracorporeal membrane oxygenation during a thyroid storm: a case report.",
+      "authors": [
+        "Lee HG",
+        "Bom JS",
+        "Lee L",
+        "Kim J"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm (TS) is an endocrine emergency requiring aggressive medical management. In severe cases, hemodynamic instability may necessitate extracorporeal membrane oxygenation (ECMO) support as a bridge to definitive surgical treatment. ECMO is categorized into two types: venoarterial (V-A) ECMO, which provides both cardiac and pulmonary support, and venovenous (V-V) ECMO, which supports only pulmonary function. Surgery is generally not recommended for patients with unstable TS due to the high risk of complications, even when ECMO support is in place. Here, we present a case of a 44-year-old man initially improved with V-A ECMO for TS with cardiogenic shock, but later developed refractory hypoxemia due to pulmonary thromboembolism (PTE). He subsequently underwent emergency thyroidectomy with continuous support from V-V ECMO.",
+      "chunk_index": 0,
+      "char_count": 839,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "40556009",
+      "pmc_id": "PMC12188653",
+      "title": "Total thyroidectomy performed under general anesthesia with venovenous extracorporeal membrane oxygenation during a thyroid storm: a case report.",
+      "authors": [
+        "Lee HG",
+        "Bom JS",
+        "Lee L",
+        "Kim J"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "risk of complications, even when ECMO support is in place. Here, we present a case of a 44-year-old man initially improved with V-A ECMO for TS with cardiogenic shock, but later developed refractory hypoxemia due to pulmonary thromboembolism (PTE). He subsequently underwent emergency thyroidectomy with continuous support from V-V ECMO.\n\nA 44-year-old man presented to our hospital with complaints of palpitations. He had a recent history of coronavirus disease of 2019 (COVID-19) infection, which may have exacerbated undiagnosed hyperthyroidism, leading to thyroid storm and cardiogenic shock (left ventricular ejection fraction [LVEF], 13%). Heart failure improved with immediate medical management and V-A ECMO for 4 days, resulting in LVEF, 30%. V-A ECMO provide both respiratory and cardiac support, allowing myocardial recovery. Although the patient's cardiac output improved, uncontrolled tachycardia persisted. Medical treatment for hyperthyroidism-associated tachycardia was continued after V-A ECMO weaning but failed to achieve adequate rate control. Ten days after weaning V-A ECMO, the patient suddenly developed pulmonary thromboembolism and hypoxia despite ongoing heparinization. To manage refractory hypoxia, V-V ECMO was initiated, as it exclusively provides respiratory support. Given that persistent TS was the underlying cause of the patient's instability, we proceeded with thyroidectomy under general anesthesia with V-V ECMO support, despite the associated risks. On postoperative day 4, the patient was successfully weaned off V-V ECMO. By postoperative day 18, he was discharged without complications, with an improved LVEF of 52.5%.",
+      "chunk_index": 1,
+      "char_count": 1661,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "40556009",
+      "pmc_id": "PMC12188653",
+      "title": "Total thyroidectomy performed under general anesthesia with venovenous extracorporeal membrane oxygenation during a thyroid storm: a case report.",
+      "authors": [
+        "Lee HG",
+        "Bom JS",
+        "Lee L",
+        "Kim J"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "was the underlying cause of the patient's instability, we proceeded with thyroidectomy under general anesthesia with V-V ECMO support, despite the associated risks. On postoperative day 4, the patient was successfully weaned off V-V ECMO. By postoperative day 18, he was discharged without complications, with an improved LVEF of 52.5%.\n\nThis is the first reported case of total thyroidectomy performed while on V-V ECMO support for TS complicated by PTE. Although V-V ECMO is more susceptible to hemodynamic instability than V-A ECMO, this case demonstrates that thyroidectomy can be successfully performed with appropriate anesthesia management. Additionally, careful selection of the ECMO modality based on the patient's condition is crucial for optimal management.",
+      "chunk_index": 2,
+      "char_count": 768,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

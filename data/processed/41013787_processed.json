@@ -1,0 +1,71 @@
+{
+  "pmid": "41013787",
+  "pmc_id": "PMC12465383",
+  "title": "Emphysematous pyelonephritis in a diabetic child: a case report and review of the literature.",
+  "authors": [
+    "Bazargani B",
+    "Moghtaderi M",
+    "Esfandiary H",
+    "Ghanbarian F",
+    "Samieefar N"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41013787",
+      "pmc_id": "PMC12465383",
+      "title": "Emphysematous pyelonephritis in a diabetic child: a case report and review of the literature.",
+      "authors": [
+        "Bazargani B",
+        "Moghtaderi M",
+        "Esfandiary H",
+        "Ghanbarian F",
+        "Samieefar N"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Emphysematous pyelonephritis is a life-threatening condition characterized by gas accumulation within the kidney and the surrounding tissues, often resulting in tissue necrosis. Although frequently reported in adults, emphysematous pyelonephritis is an extremely rare condition in children, with only a few documented cases in the literature. We present the case of a child with insulin-dependent diabetes mellitus who had initially been admitted with a diagnosis of diabetic ketoacidosis that was later revealed to be emphysematous pyelonephritis.",
+      "chunk_index": 0,
+      "char_count": 548,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41013787",
+      "pmc_id": "PMC12465383",
+      "title": "Emphysematous pyelonephritis in a diabetic child: a case report and review of the literature.",
+      "authors": [
+        "Bazargani B",
+        "Moghtaderi M",
+        "Esfandiary H",
+        "Ghanbarian F",
+        "Samieefar N"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "in adults, emphysematous pyelonephritis is an extremely rare condition in children, with only a few documented cases in the literature. We present the case of a child with insulin-dependent diabetes mellitus who had initially been admitted with a diagnosis of diabetic ketoacidosis that was later revealed to be emphysematous pyelonephritis.\n\nAn Iranian 11-year-old girl with poorly controlled type 1 diabetes was referred to the Children's Medical Center with a computed tomography scan confirming emphysematous pyelonephritis (stage 4). The patient initially presented with abdominal and flank pain, fever, and fatigue, and the initial diagnosis was diabetic ketoacidosis. Despite undergoing management for diabetic ketoacidosis, the patient continued to exhibit signs of fever and illness. Further evaluation ruled out diabetic ketoacidosis, and active urine analysis indicated a kidney pathology. Imaging investigations confirmed the presence of gas within the pyelocaliceal system. In our center, the patient was treated with intravenous meropenem and vancomycin for 7 days and was discharged with improved health and normal kidney function.",
+      "chunk_index": 1,
+      "char_count": 1146,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41013787",
+      "pmc_id": "PMC12465383",
+      "title": "Emphysematous pyelonephritis in a diabetic child: a case report and review of the literature.",
+      "authors": [
+        "Bazargani B",
+        "Moghtaderi M",
+        "Esfandiary H",
+        "Ghanbarian F",
+        "Samieefar N"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "Further evaluation ruled out diabetic ketoacidosis, and active urine analysis indicated a kidney pathology. Imaging investigations confirmed the presence of gas within the pyelocaliceal system. In our center, the patient was treated with intravenous meropenem and vancomycin for 7 days and was discharged with improved health and normal kidney function.\n\nThis case underscores the significance of considering emphysematous pyelonephritis in children, particularly those with underlying conditions such as diabetes, even when initial presentations suggest other diagnoses such as diabetic ketoacidosis.",
+      "chunk_index": 2,
+      "char_count": 601,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

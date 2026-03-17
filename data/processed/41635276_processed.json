@@ -1,0 +1,31 @@
+{
+  "pmid": "41635276",
+  "pmc_id": null,
+  "title": "The Potential of Chronic Hypoxia Biomarkers to Guide Home Oxygen Therapy Prescription in COPD.",
+  "authors": [
+    "Lacasse Y",
+    "Maltais F",
+    "Casaburi R"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41635276",
+      "pmc_id": null,
+      "title": "The Potential of Chronic Hypoxia Biomarkers to Guide Home Oxygen Therapy Prescription in COPD.",
+      "authors": [
+        "Lacasse Y",
+        "Maltais F",
+        "Casaburi R"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Long-term oxygen therapy (LTOT), that is, home oxygen prescribed for at least 15-18 hours per day, improves survival in patients with COPD and severe hypoxemia. LTOT does not benefit all severely hypoxemic patients, however, a large proportion of patients who receive home oxygen do not benefit from therapy, whereas a number of patients who would benefit from home oxygen are denied therapy because they do not meet the current prescription criteria that are accepted worldwide. To overcome this problem, we suggest that the practice of LTOT prescription be individualized. Biomarkers of cellular or vascular dysfunction should complement the mere measurement of P(aO(2)) or S(p)(O(2)) to decide who should receive LTOT. In this article, we present clinical vignettes to illustrate the application of this proposal and describe a protocol for a clinical trial designed to test its validity.",
+      "chunk_index": 0,
+      "char_count": 891,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

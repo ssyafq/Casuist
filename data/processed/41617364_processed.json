@@ -1,0 +1,33 @@
+{
+  "pmid": "41617364",
+  "pmc_id": null,
+  "title": "A rare clinical presentation of pheochromocytoma: a young patient in severe cardiogenic shock with secondary Takotsubo syndrome.",
+  "authors": [
+    "Corraro A",
+    "Fleck M",
+    "Theil P",
+    "Schwendinger M"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41617364",
+      "pmc_id": null,
+      "title": "A rare clinical presentation of pheochromocytoma: a young patient in severe cardiogenic shock with secondary Takotsubo syndrome.",
+      "authors": [
+        "Corraro A",
+        "Fleck M",
+        "Theil P",
+        "Schwendinger M"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Pheochromocytoma is a rare catecholamine-secreting tumour that can cause transient cardiomyopathy resembling Takotsubo syndrome due to catecholamine excess. Its diagnosis is often challenging because of the tumour's rarity and the non-specific, often paroxysmal nature of symptoms. We present the case of a previously healthy woman in her 30s who developed non-specific symptoms, including nausea, vomiting and palpitations, progressing to cardiogenic shock with severely impaired biventricular function requiring mechanical circulatory support. Further investigations revealed a pheochromocytoma-induced Takotsubo syndrome, which was successfully treated with adrenalectomy. This case report supports current evidence that early recognition and aggressive supportive care, including mechanical circulatory support as a bridge to surgery, can lead to full recovery from severe catecholamine-induced cardiac dysfunction.",
+      "chunk_index": 0,
+      "char_count": 919,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

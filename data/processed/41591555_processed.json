@@ -1,0 +1,33 @@
+{
+  "pmid": "41591555",
+  "pmc_id": "PMC12847078",
+  "title": "Pulmonary thromboembolism in Glanzmann Thrombasthenia: a case report and systematic literature review.",
+  "authors": [
+    "Mohammad Alizade T",
+    "Karimi R",
+    "Kazemizadeh H",
+    "Khoshnam Rad N"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41591555",
+      "pmc_id": "PMC12847078",
+      "title": "Pulmonary thromboembolism in Glanzmann Thrombasthenia: a case report and systematic literature review.",
+      "authors": [
+        "Mohammad Alizade T",
+        "Karimi R",
+        "Kazemizadeh H",
+        "Khoshnam Rad N"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Glanzmann Thrombasthenia (GT) is a congenital platelet disorder characterized by a life-long bleeding tendency, historically considered protective against thrombosis. This report describes a rare case of pulmonary embolism (PE) in a patient with GT, challenging this assumption and highlighting a critical management paradox. A 55-year-old woman with GT underwent elective cervical discectomy. Her perioperative hemostatic regimen included a single prophylactic dose of recombinant Factor VIIa (90 microg/kg), platelet transfusions (preoperative and daily for 3 days), and tranexamic acid. Two months postoperatively, she presented with hemoptysis. CT pulmonary angiography confirmed bilateral segmental and subsegmental PE with pulmonary infarctions. Anticoagulation with apixaban was initiated, leading to symptom resolution and thrombus regression. Therapy was discontinued after four months following a spontaneous hemarthrosis, which was managed successfully. Provoked PE can occur in GT patients following major surgery and hemostatic support. Apixaban was effective for short-term treatment, but the subsequent bleeding complication highlights the narrow therapeutic window and the need to limit anticoagulation duration in this population.",
+      "chunk_index": 0,
+      "char_count": 1247,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "40638521",
+  "pmc_id": "PMC12244257",
+  "title": "Transient Extreme Axis Deviation in a Dog With Diabetic Ketoacidosis.",
+  "authors": [
+    "Yoo Y",
+    "Lee D",
+    "Chae Y",
+    "Yun T",
+    "Kang BT",
+    "Kim H"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40638521",
+      "pmc_id": "PMC12244257",
+      "title": "Transient Extreme Axis Deviation in a Dog With Diabetic Ketoacidosis.",
+      "authors": [
+        "Yoo Y",
+        "Lee D",
+        "Chae Y",
+        "Yun T",
+        "Kang BT",
+        "Kim H"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "A 7-year-old intact female mixed-breed dog weighing 15 kg with a 4-week history of polyuria, polydipsia, polyphagia, and weight loss was presented for severe anorexia and lethargy. Physical examination revealed severe dehydration, with a heart rate of 120 beats/min, respiratory rate of 24 breaths/min, and rectal temperature of 37.5 degrees C. Clinical assessment and laboratory tests confirmed diabetic ketoacidosis (DKA) characterised by severe hyperglycaemia, ketonemia, and metabolic acidosis with an increased anion gap. Electrocardiogram (ECG) findings were significant, showing regular sinus rhythm, negative QRS complexes in multiple leads, and an unusually shifted mean electrical axis at -101 degrees , indicative of extreme axis deviation (EAD). This rare finding highlights the need to evaluate EAD as a potential complication in dogs with DKA, particularly among those presenting with severe metabolic disturbance. Serum cardiac troponin I levels were elevated (0.5 ng/mL; reference interval: 0.03-0.07 ng/mL). Emergency echocardiography revealed no abnormalities. Intravenous fluid therapy and a precisely calibrated continuous rate infusion of insulin were initiated, with treatment dynamically adjusted based on continuous blood glucose monitoring and the dog's response. After the resolution of DKA, the ECG returned to a normal cardiac axis and T wave amplitudes, indicating the reversibility of the myocardial and ECG abnormalities. The serum cardiac troponin I level also normalised, confirming the resolution of myocardial injury. This case report describes the first documented instance of EAD associated with DKA in a dog, as well as its potential reversibility, thereby emphasising the necessity for assessing this rare electrocardiographic abnormality in dogs with life-threatening DKA.",
+      "chunk_index": 0,
+      "char_count": 1812,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

@@ -1,0 +1,63 @@
+{
+  "pmid": "41606631",
+  "pmc_id": null,
+  "title": "Taurine intake ameliorates lactic acidosis and hyperferritinemia occurring after mRNA SARS-CoV-2 vaccination in a patient with beta-thalassemia trait: a case report and review of literature.",
+  "authors": [
+    "Kyriakopoulos AM",
+    "McCullough PA",
+    "Seneff S"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41606631",
+      "pmc_id": null,
+      "title": "Taurine intake ameliorates lactic acidosis and hyperferritinemia occurring after mRNA SARS-CoV-2 vaccination in a patient with beta-thalassemia trait: a case report and review of literature.",
+      "authors": [
+        "Kyriakopoulos AM",
+        "McCullough PA",
+        "Seneff S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Taurine is a powerful antioxidant necessary for mitochondrial function. Lactic acidosis is a complication encountered in the condition mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes (MELAS), which can be successfully treated with supplemental taurine. Furthermore, taurine regulates the production of iron-dependent proteins such as ferritin that can act as chelating agents to sequester labile iron.",
+      "chunk_index": 0,
+      "char_count": 434,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41606631",
+      "pmc_id": null,
+      "title": "Taurine intake ameliorates lactic acidosis and hyperferritinemia occurring after mRNA SARS-CoV-2 vaccination in a patient with beta-thalassemia trait: a case report and review of literature.",
+      "authors": [
+        "Kyriakopoulos AM",
+        "McCullough PA",
+        "Seneff S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "for mitochondrial function. Lactic acidosis is a complication encountered in the condition mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes (MELAS), which can be successfully treated with supplemental taurine. Furthermore, taurine regulates the production of iron-dependent proteins such as ferritin that can act as chelating agents to sequester labile iron.\n\nA 38-year-old Greek male with a beta-zero thalassemia trait developed multiple severe symptoms soon after his first and only mRNA (Pfizer) SARS-CoV-2 vaccination that included hematological stress to be a candidate for blood transfusion. Amongst the hematological readings, the patient had lactate levels > 4 mmol/ml, indicating lactic acidosis, and ferritin levels > 820 ng/ml, representing hyperferritinemia. Moreover, the patient has organic acid and plasma metabolite levels in the urine that are indicative of mitochondrial dysfunction. Regular taurine intake (500 mg/day) for years helped the patient control lactate and ferritin levels and avoid more serious clinical decompensation.",
+      "chunk_index": 1,
+      "char_count": 1082,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41606631",
+      "pmc_id": null,
+      "title": "Taurine intake ameliorates lactic acidosis and hyperferritinemia occurring after mRNA SARS-CoV-2 vaccination in a patient with beta-thalassemia trait: a case report and review of literature.",
+      "authors": [
+        "Kyriakopoulos AM",
+        "McCullough PA",
+        "Seneff S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "lactic acidosis, and ferritin levels > 820 ng/ml, representing hyperferritinemia. Moreover, the patient has organic acid and plasma metabolite levels in the urine that are indicative of mitochondrial dysfunction. Regular taurine intake (500 mg/day) for years helped the patient control lactate and ferritin levels and avoid more serious clinical decompensation.\n\nRegular taurine intake helps to avoid lactic acidosis and reverse hyperferritinemia after mRNA SARS-CoV-2 vaccination in a patient with beta-zero thalassemia trait with no obvious genetic trait linked to mitochondrial myopathy, encephalopathy, lactic acidosis and stroke-like episodes. Taurine seemed to be protective for mitochondria.",
+      "chunk_index": 2,
+      "char_count": 698,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "41088598",
+  "pmc_id": "PMC12517774",
+  "title": "Combination of atorvastatin and ticagrelor associated with rhabdomyolysis: A case report.",
+  "authors": [
+    "Li B",
+    "Zhao L"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "41088598",
+      "pmc_id": "PMC12517774",
+      "title": "Combination of atorvastatin and ticagrelor associated with rhabdomyolysis: A case report.",
+      "authors": [
+        "Li B",
+        "Zhao L"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "RATIONALE: Statin-associated myalgia are common, but rhabdomyolysis remains a rare and severe adverse effect. There are scant reports, both domestically and internationally, on rhabdomyolysis induced by the combination of atorvastatin and ticagrelor. PATIENT CONCERNS: A 57-year-old male patient with acute coronary syndrome underwent emergency percutaneous coronary intervention surgery. He was prescribed ticagrelor (90 mg twice daily) and atorvastatin (40 mg once daily). Three days after treatment initiation, his creatine kinase, creatinine, and myoglobin levels increased markedly, and he developed acute renal failure. DIAGNOSES: Rhabdomyolysis was diagnosed based on the medication history, significantly elevated creatine kinase and myoglobin levels, and the onset of acute renal failure. INTERVENTIONS: Management included immediate drug discontinuation, aggressive fluid resuscitation, continuous renal replacement therapy, and extracorporeal membrane oxygenation. OUTCOMES: Despite these efforts, the patient died. LESSONS: This case aims to alert clinicians to the potential for this rare but fatal adverse effect, particularly in high-risk patients receiving aggressive statin therapy. It also discusses the rationale for considering alternative lipid-lowering strategies in acute coronary syndrome patients with multiple risk factors for statin-induced myotoxicity to mitigate the risk of rhabdomyolysis.",
+      "chunk_index": 0,
+      "char_count": 1419,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

@@ -1,0 +1,79 @@
+{
+  "pmid": "41700551",
+  "pmc_id": "PMC12910518",
+  "title": "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection.",
+  "authors": [
+    "Suzuki-Yamamoto R",
+    "Nakajima A",
+    "Furuya T",
+    "Koinuma T",
+    "Fuse A",
+    "Eguchi H",
+    "Shimo Y"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41700551",
+      "pmc_id": "PMC12910518",
+      "title": "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection.",
+      "authors": [
+        "Suzuki-Yamamoto R",
+        "Nakajima A",
+        "Furuya T",
+        "Koinuma T",
+        "Fuse A",
+        "Eguchi H",
+        "Shimo Y"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Although anti-Zic4 antibodies are associated with paraneoplastic cerebellar degeneration, predominantly in small-cell lung carcinoma, their role in postinfectious autoimmunity remains poorly understood.",
+      "chunk_index": 0,
+      "char_count": 202,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41700551",
+      "pmc_id": "PMC12910518",
+      "title": "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection.",
+      "authors": [
+        "Suzuki-Yamamoto R",
+        "Nakajima A",
+        "Furuya T",
+        "Koinuma T",
+        "Fuse A",
+        "Eguchi H",
+        "Shimo Y"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Although anti-Zic4 antibodies are associated with paraneoplastic cerebellar degeneration, predominantly in small-cell lung carcinoma, their role in postinfectious autoimmunity remains poorly understood.\n\nHere, we report a 53-year-old woman who developed progressive cerebellar degeneration following coronavirus disease 2019 (COVID-19), characterized by isolated anti-Zic4 antibody positivity in the absence of malignancy. Two months after developing mild respiratory symptoms, she developed dysarthria, imbalance, and gait ataxia. Neurological examination revealed gaze-evoked nystagmus, broad-based ataxia, and cerebellar dysmetria. Brain MRI demonstrated marked cerebellar atrophy, while cerebrospinal fluid analysis showed elevated protein, increased IgG index, and the presence of oligoclonal bands. Serological testing confirmed strong anti-Zic4 antibody positivity. Initial treatment with intravenous immunoglobulin and plasmapheresis achieved transient improvement and decreased antibody titers. However, 1 year later, recurrence of antibodies coincided with further cerebellar atrophy and posterior hypoperfusion on MRI and SPECT, despite maintenance immunotherapy with low-dose corticosteroids and periodic IVIG. Cognitive function was well preserved, highlighting the selective vulnerability of cerebellar circuits.",
+      "chunk_index": 1,
+      "char_count": 1326,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41700551",
+      "pmc_id": "PMC12910518",
+      "title": "Prolonged Anti-Zic4 Antibody-Positive Cerebellar Degeneration Following COVID-19 Infection.",
+      "authors": [
+        "Suzuki-Yamamoto R",
+        "Nakajima A",
+        "Furuya T",
+        "Koinuma T",
+        "Fuse A",
+        "Eguchi H",
+        "Shimo Y"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "immunoglobulin and plasmapheresis achieved transient improvement and decreased antibody titers. However, 1 year later, recurrence of antibodies coincided with further cerebellar atrophy and posterior hypoperfusion on MRI and SPECT, despite maintenance immunotherapy with low-dose corticosteroids and periodic IVIG. Cognitive function was well preserved, highlighting the selective vulnerability of cerebellar circuits.\n\nThis case illustrates an unusual phenotype of prolonged, isolated anti-Zic4 antibody-associated cerebellar degeneration triggered by SARS-CoV-2 infection, thus expanding the recognized clinical spectrum of Zic4-related disorders beyond paraneoplastic contexts. The underlying immunopathological mechanisms have yet to be elucidated. Notably, radiological progression was disproportionate to clinical stabilization, underscoring the necessity of long-term clinical/imaging surveillance. This case highlights the need for further studies to clarify pathophysiological links between COVID-19 and persistent autoimmune cerebellar degeneration.",
+      "chunk_index": 2,
+      "char_count": 1059,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

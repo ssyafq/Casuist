@@ -1,0 +1,49 @@
+{
+  "pmid": "41511136",
+  "pmc_id": null,
+  "title": "SUCCESSFUL USE OF PROLONGED INHALATIONAL SURFACTANT THERAPY IN AN EXTREMELY SEVERE PATIENT WITH COVID-19-ASSOCIATED ACUTE RESPIRATORY DISTRESS SYNDROME.",
+  "authors": [
+    "Syzdykbayev M",
+    "Tuleuov B",
+    "Kazymov M",
+    "Rustemova K",
+    "Alimkhanova G",
+    "Zheksenova A",
+    "Kazangapov R",
+    "Khamzina S",
+    "Abdikazimova S",
+    "Ismatov A",
+    "Khalelov S",
+    "Khripunov R"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41511136",
+      "pmc_id": null,
+      "title": "SUCCESSFUL USE OF PROLONGED INHALATIONAL SURFACTANT THERAPY IN AN EXTREMELY SEVERE PATIENT WITH COVID-19-ASSOCIATED ACUTE RESPIRATORY DISTRESS SYNDROME.",
+      "authors": [
+        "Syzdykbayev M",
+        "Tuleuov B",
+        "Kazymov M",
+        "Rustemova K",
+        "Alimkhanova G",
+        "Zheksenova A",
+        "Kazangapov R",
+        "Khamzina S",
+        "Abdikazimova S",
+        "Ismatov A",
+        "Khalelov S",
+        "Khripunov R"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Acute respiratory distress syndrome (ARDS) is a severe complication of COVID-19. During the pathogenesis of ARDS, a deficiency of alveolar surfactant could lead to severe hypoxemia. This report demonstrates that exogenous surfactant administration improves the overall clinical condition, reduces severe hypoxemia, and enhances the P/F ratio, thereby preventing the multiple organ dysfunction syndrome (MODS) that usually follows hypoxemia. In our experience, inhalational administration of surfactant preparations for one week was the key to successful treatment and recovery of extremely severe patients who would otherwise have had an unfavorable prognosis.",
+      "chunk_index": 0,
+      "char_count": 660,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

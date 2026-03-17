@@ -1,0 +1,41 @@
+{
+  "pmid": "41401679",
+  "pmc_id": null,
+  "title": "Unmasking the unexpected: Neuroinvasive listeriosis complicating influenza pneumonia.",
+  "authors": [
+    "Jean-Clement R",
+    "Marine D",
+    "Mathilde S",
+    "Christine B",
+    "Geoffroy B",
+    "Matthieu L",
+    "Thibaut B",
+    "Jean-Vivien S"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41401679",
+      "pmc_id": null,
+      "title": "Unmasking the unexpected: Neuroinvasive listeriosis complicating influenza pneumonia.",
+      "authors": [
+        "Jean-Clement R",
+        "Marine D",
+        "Mathilde S",
+        "Christine B",
+        "Geoffroy B",
+        "Matthieu L",
+        "Thibaut B",
+        "Jean-Vivien S"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "We report the case of an 85-year-old patient hospitalized for influenza-associated pneumonia who developed a sudden febrile coma. This unexpected neurological deterioration in a presumed viral illness created a complex diagnostic challenge. Given the patient's age and comorbidities, a bacterial co-infection was considered. Cerebrospinal fluid analysis and multiplex PCR enabled the rapid identification of Listeria monocytogenes, confirming listeria meningoencephalitis and allowing timely antimicrobial therapy. The patient had fully recovered at hospital discharge. To our knowledge, the association between influenza and neurolisteriosis has not been previously reported. This case highlights the difficulty of evaluating febrile coma in older adults, particularly when symptoms are attributed to influenza. It underscores the importance of a broad diagnostic approach, even with confirmed influenza. Rapid molecular testing was essential in identifying a treatable central nervous system infection and improving management and prognosis in this high-risk population.",
+      "chunk_index": 0,
+      "char_count": 1072,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

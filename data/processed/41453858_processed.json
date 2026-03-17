@@ -1,0 +1,71 @@
+{
+  "pmid": "41453858",
+  "pmc_id": "PMC12743054",
+  "title": "Haemoperitoneum in the setting of therapeutic anticoagulation and manual assisted cough for a patient with an acute cervical spinal cord injury and pulmonary embolus: a case report.",
+  "authors": [
+    "Bacolas Z",
+    "Ross J",
+    "Phyland T",
+    "Clements R",
+    "Rollinson T"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41453858",
+      "pmc_id": "PMC12743054",
+      "title": "Haemoperitoneum in the setting of therapeutic anticoagulation and manual assisted cough for a patient with an acute cervical spinal cord injury and pulmonary embolus: a case report.",
+      "authors": [
+        "Bacolas Z",
+        "Ross J",
+        "Phyland T",
+        "Clements R",
+        "Rollinson T"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Respiratory complications are the leading cause of morbidity and mortality in people with spinal cord injuries (SCI). Respiratory muscle weakness and altered mechanics occur in patients with cervical SCI, resulting in impaired airway clearance and low lung volumes. Respiratory physiotherapy includes cough augmentation techniques, such as manual assisted cough and/or mechanical insufflation-exsufflation (MI-E) to address these problems. Additionally, this population is at risk of pulmonary embolism, often receiving therapeutic anticoagulation.",
+      "chunk_index": 0,
+      "char_count": 548,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41453858",
+      "pmc_id": "PMC12743054",
+      "title": "Haemoperitoneum in the setting of therapeutic anticoagulation and manual assisted cough for a patient with an acute cervical spinal cord injury and pulmonary embolus: a case report.",
+      "authors": [
+        "Bacolas Z",
+        "Ross J",
+        "Phyland T",
+        "Clements R",
+        "Rollinson T"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "and altered mechanics occur in patients with cervical SCI, resulting in impaired airway clearance and low lung volumes. Respiratory physiotherapy includes cough augmentation techniques, such as manual assisted cough and/or mechanical insufflation-exsufflation (MI-E) to address these problems. Additionally, this population is at risk of pulmonary embolism, often receiving therapeutic anticoagulation.\n\nThis case study presents a rare presentation of a large haemoperitoneum in a 22-year-old male with an acute C4 SCI, undergoing regular MI-E and manual assisted coughs whilst therapeutically anticoagulated with enoxaparin for multiple subsegmental pulmonary emboli. Additional contributing factors include higher dose therapeutic anticoagulation in the setting of elevated body mass index and a requirement for frequent, firm manual assisted coughs. Whilst no surgical intervention was required, the patient was admitted to the intensive care unit for close monitoring and received blood transfusions.",
+      "chunk_index": 1,
+      "char_count": 1004,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41453858",
+      "pmc_id": "PMC12743054",
+      "title": "Haemoperitoneum in the setting of therapeutic anticoagulation and manual assisted cough for a patient with an acute cervical spinal cord injury and pulmonary embolus: a case report.",
+      "authors": [
+        "Bacolas Z",
+        "Ross J",
+        "Phyland T",
+        "Clements R",
+        "Rollinson T"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "discussion",
+      "text": "subsegmental pulmonary emboli. Additional contributing factors include higher dose therapeutic anticoagulation in the setting of elevated body mass index and a requirement for frequent, firm manual assisted coughs. Whilst no surgical intervention was required, the patient was admitted to the intensive care unit for close monitoring and received blood transfusions.\n\nThis report discusses the challenges encountered with managing respiratory compromise in patients with SCI, including the balance between therapeutic management of pulmonary emboli and the potentially under-appreciated risk of intra-abdominal haemorrhage with manual assisted coughs. This rare but serious complication highlights the need for careful risk-benefit analysis by clinicians providing respiratory physiotherapy in this patient population.",
+      "chunk_index": 2,
+      "char_count": 818,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

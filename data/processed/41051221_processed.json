@@ -1,0 +1,79 @@
+{
+  "pmid": "41051221",
+  "pmc_id": null,
+  "title": "A falsely low lactate: discrepancies in lactate measurement between blood gas and core laboratory instruments due to beta-hydroxybutyrate interference-a case report.",
+  "authors": [
+    "Alqurini NM",
+    "Adhikari B",
+    "Hagrass HA"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41051221",
+      "pmc_id": null,
+      "title": "A falsely low lactate: discrepancies in lactate measurement between blood gas and core laboratory instruments due to beta-hydroxybutyrate interference-a case report.",
+      "authors": [
+        "Alqurini NM",
+        "Adhikari B",
+        "Hagrass HA"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Laboratory tests play a crucial role in diagnosing and managing illness. Accurate interpretation, which includes evaluating false-negative and false-positive results, is essential for guiding appropriate clinical interventions and ensuring patient safety.",
+      "chunk_index": 0,
+      "char_count": 255,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41051221",
+      "pmc_id": null,
+      "title": "A falsely low lactate: discrepancies in lactate measurement between blood gas and core laboratory instruments due to beta-hydroxybutyrate interference-a case report.",
+      "authors": [
+        "Alqurini NM",
+        "Adhikari B",
+        "Hagrass HA"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Laboratory tests play a crucial role in diagnosing and managing illness. Accurate interpretation, which includes evaluating false-negative and false-positive results, is essential for guiding appropriate clinical interventions and ensuring patient safety.\n\nWe present a case involving clinically significant discrepancies in lactate measurements in a patient with acute myeloid leukemia and diabetic ketoacidosis.",
+      "chunk_index": 1,
+      "char_count": 413,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41051221",
+      "pmc_id": null,
+      "title": "A falsely low lactate: discrepancies in lactate measurement between blood gas and core laboratory instruments due to beta-hydroxybutyrate interference-a case report.",
+      "authors": [
+        "Alqurini NM",
+        "Adhikari B",
+        "Hagrass HA"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "labs",
+      "text": "We present a case involving clinically significant discrepancies in lactate measurements in a patient with acute myeloid leukemia and diabetic ketoacidosis.\n\nThese discrepancies were caused by interference from elevated levels of ketone bodies-specifically, beta-hydroxybutyrate-which may have delayed recognition of the severity of the patient's condition.",
+      "chunk_index": 2,
+      "char_count": 357,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41051221",
+      "pmc_id": null,
+      "title": "A falsely low lactate: discrepancies in lactate measurement between blood gas and core laboratory instruments due to beta-hydroxybutyrate interference-a case report.",
+      "authors": [
+        "Alqurini NM",
+        "Adhikari B",
+        "Hagrass HA"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "discussion",
+      "text": "These discrepancies were caused by interference from elevated levels of ketone bodies-specifically, beta-hydroxybutyrate-which may have delayed recognition of the severity of the patient's condition.\n\nDilution and spike experiments suggested potential interferences in core laboratory instruments using the Trinder reaction, leading to inaccurate lactate readings.",
+      "chunk_index": 3,
+      "char_count": 364,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

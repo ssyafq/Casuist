@@ -1,0 +1,33 @@
+{
+  "pmid": "41605554",
+  "pmc_id": null,
+  "title": "Use of intravenous immunoglobulin in combination with corticosteroids for immune checkpoint inhibitor pneumonitis.",
+  "authors": [
+    "Puttagunta N",
+    "Suleman S",
+    "Sharma D",
+    "Ahmad SE"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41605554",
+      "pmc_id": null,
+      "title": "Use of intravenous immunoglobulin in combination with corticosteroids for immune checkpoint inhibitor pneumonitis.",
+      "authors": [
+        "Puttagunta N",
+        "Suleman S",
+        "Sharma D",
+        "Ahmad SE"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Immune checkpoint inhibitor (ICI) pneumonitis is a potentially life-threatening immune-related adverse event associated with ICI therapy across various malignancies. ICIs enhance antitumour immunity by targeting inhibitory cell surface receptors, but this can lead to immune-mediated tissue damage. Prompt recognition is critical, as symptoms are often nonspecific and overlap with infectious or malignant processes.Standard treatment involves discontinuation of ICIs and initiation of corticosteroids. However, optimal management of steroid-refractory cases remains unclear, with intravenous immunoglobulin (IVIG) considered a second-line option.We present a case of a patient with hepatocellular carcinoma on durvalumab and tremelimumab who developed severe ICI pneumonitis and acute hypoxic respiratory failure. Notably, the patient was treated with upfront pulse-dose corticosteroids and IVIG-a combination not currently described in the literature. The patient's rapid clinical improvement without the need for intubation suggests this approach may be effective and warrants further investigation.",
+      "chunk_index": 0,
+      "char_count": 1102,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

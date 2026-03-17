@@ -1,0 +1,63 @@
+{
+  "pmid": "35370958",
+  "pmc_id": "PMC8964785",
+  "title": "Case Report: Occurrence of Thyroid Storm in a Young Patient With Recurrent Diabetic Ketoacidosis.",
+  "authors": [
+    "Iino T",
+    "Akatsuka M",
+    "Yamamoto S"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "35370958",
+      "pmc_id": "PMC8964785",
+      "title": "Case Report: Occurrence of Thyroid Storm in a Young Patient With Recurrent Diabetic Ketoacidosis.",
+      "authors": [
+        "Iino T",
+        "Akatsuka M",
+        "Yamamoto S"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm (TS) is a fatal disease that leads to multiple organ failure and requires prompt diagnosis. Diabetic ketoacidosis (DKA) is a trigger for thyroid crisis. However, TS and DKA rarely occur simultaneously. Moreover, owing to the rarity of the co-occurrence, the clinical course remains unclear. In this study, we present a case of TS that developed during the follow-up for repeated DKA in a young patient.",
+      "chunk_index": 0,
+      "char_count": 416,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35370958",
+      "pmc_id": "PMC8964785",
+      "title": "Case Report: Occurrence of Thyroid Storm in a Young Patient With Recurrent Diabetic Ketoacidosis.",
+      "authors": [
+        "Iino T",
+        "Akatsuka M",
+        "Yamamoto S"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Diabetic ketoacidosis (DKA) is a trigger for thyroid crisis. However, TS and DKA rarely occur simultaneously. Moreover, owing to the rarity of the co-occurrence, the clinical course remains unclear. In this study, we present a case of TS that developed during the follow-up for repeated DKA in a young patient.\n\nA 25-year-old man with a history of recurrent DKA was brought to the emergency room frequently with similar symptoms. DKA treatment was initiated, but his tachycardia and disturbance of consciousness did not improve. Further examination of the patient revealed a Burch-Wartofsky Point Scale score of 80 points, consistent with the Japan Thyroid Association criteria. Therefore, DKA coexisting with TS was diagnosed. Antithyroid medication, inorganic iodine, and corticosteroids were then started as treatment for TS, and beta-blockers were administered to manage tachycardia. With these treatments, the patient's health improved and he recovered.",
+      "chunk_index": 1,
+      "char_count": 958,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35370958",
+      "pmc_id": "PMC8964785",
+      "title": "Case Report: Occurrence of Thyroid Storm in a Young Patient With Recurrent Diabetic Ketoacidosis.",
+      "authors": [
+        "Iino T",
+        "Akatsuka M",
+        "Yamamoto S"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "Point Scale score of 80 points, consistent with the Japan Thyroid Association criteria. Therefore, DKA coexisting with TS was diagnosed. Antithyroid medication, inorganic iodine, and corticosteroids were then started as treatment for TS, and beta-blockers were administered to manage tachycardia. With these treatments, the patient's health improved and he recovered.\n\nIn severe cases of recurrent DKA, the presence of TS should be considered, and early treatment should be initiated before the patient's condition worsens.",
+      "chunk_index": 2,
+      "char_count": 523,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

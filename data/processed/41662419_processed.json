@@ -1,0 +1,71 @@
+{
+  "pmid": "41662419",
+  "pmc_id": null,
+  "title": "Unraveling the rarity: p16-positive and p53-positive locally advanced anal cancer in a person living with HIV.",
+  "authors": [
+    "Stanic JD",
+    "Jovanovic LD",
+    "Jankovic RM",
+    "Arsenijevic TJ",
+    "Nikitovic MR"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41662419",
+      "pmc_id": null,
+      "title": "Unraveling the rarity: p16-positive and p53-positive locally advanced anal cancer in a person living with HIV.",
+      "authors": [
+        "Stanic JD",
+        "Jovanovic LD",
+        "Jankovic RM",
+        "Arsenijevic TJ",
+        "Nikitovic MR"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Anal squamous cell carcinoma (ASCC) is rare in the general population but is associated with significant morbidity and mortality, particularly among people living with HIV (PLWH). Patient outcomes are influenced by human papillomavirus (HPV) status, immune function, and tumor biology.",
+      "chunk_index": 0,
+      "char_count": 285,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41662419",
+      "pmc_id": null,
+      "title": "Unraveling the rarity: p16-positive and p53-positive locally advanced anal cancer in a person living with HIV.",
+      "authors": [
+        "Stanic JD",
+        "Jovanovic LD",
+        "Jankovic RM",
+        "Arsenijevic TJ",
+        "Nikitovic MR"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Anal squamous cell carcinoma (ASCC) is rare in the general population but is associated with significant morbidity and mortality, particularly among people living with HIV (PLWH). Patient outcomes are influenced by human papillomavirus (HPV) status, immune function, and tumor biology.\n\nWe report a case of a 56-year-old man with long-standing HIV infection on stable antiretroviral therapy (ART), diagnosed with locally advanced ASCC (T4N1cM0). He received standard concurrent chemoradiotherapy (CRT) with mitomycin C and 5-fluorouracil (5-FU). Treatment was complicated by Grade 3 febrile leukopenia, Grade 2 radiodermatitis, and scrotal lymphedema. An institutional COVID-19 outbreak caused an unplanned treatment interruption, extending the overall CRT duration to 70 days; the patient did not contract COVID-19. Therapy was resumed without dose modification. Six months post-treatment, imaging and endoscopic evaluation revealed fibrotic changes without evidence of active disease. At twelve months, however, the patient developed rapid locoregional recurrence and pulmonary metastases, with fistula and abscess formation, necessitating palliative care. Retrospective immunohistochemical analysis of the original tumor revealed strong p16 expression (indicative of transcriptionally active high-risk HPV), aberrant p53 expression, and a markedly elevated Ki-67 index (99%), reflecting aggressive tumor biology.",
+      "chunk_index": 1,
+      "char_count": 1415,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41662419",
+      "pmc_id": null,
+      "title": "Unraveling the rarity: p16-positive and p53-positive locally advanced anal cancer in a person living with HIV.",
+      "authors": [
+        "Stanic JD",
+        "Jovanovic LD",
+        "Jankovic RM",
+        "Arsenijevic TJ",
+        "Nikitovic MR"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "months, however, the patient developed rapid locoregional recurrence and pulmonary metastases, with fistula and abscess formation, necessitating palliative care. Retrospective immunohistochemical analysis of the original tumor revealed strong p16 expression (indicative of transcriptionally active high-risk HPV), aberrant p53 expression, and a markedly elevated Ki-67 index (99%), reflecting aggressive tumor biology.\n\nThis case illustrates the challenges of managing ASCC in PLWH and underscores the need for optimized CRT protocols for this population. Reliable molecular biomarkers, including p16, p53, and Ki-67, may guide personalized therapy and improve prognostic stratification.",
+      "chunk_index": 2,
+      "char_count": 687,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

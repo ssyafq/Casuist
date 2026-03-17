@@ -1,0 +1,35 @@
+{
+  "pmid": "41338908",
+  "pmc_id": "PMC12683646",
+  "title": "Iatrogenic ST-segment elevation myocardial infarction in a trauma patient: coronary artery compression by a chest tube.",
+  "authors": [
+    "Mansvelder FJ",
+    "Everaars H",
+    "Veth TA",
+    "Halm JA",
+    "Bruns ERJ"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41338908",
+      "pmc_id": "PMC12683646",
+      "title": "Iatrogenic ST-segment elevation myocardial infarction in a trauma patient: coronary artery compression by a chest tube.",
+      "authors": [
+        "Mansvelder FJ",
+        "Everaars H",
+        "Veth TA",
+        "Halm JA",
+        "Bruns ERJ"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Chest tube placement is often a lifesaving but also a potentially hazardous intervention, particularly in trauma settings. A male bodybuilder in his 30s presented at the emergency department after a single-vehicle motorcycle accident. On presentation, the left side of the chest showed decreased movement and subcutaneous emphysema. A chest tube was inserted in the left fifth intercostal space. During insertion, the heart was objectively close to the introduction place, and a wide complex tachycardia was observed, which resolved spontaneously. The ECG thereafter showed ST-segment elevation in precordial leads.The patient was admitted to the intensive care department (ICU), and due to persisting electrocardiographic signs of transmural ischaemia in the vascular territory of the left anterior descending artery (LAD), invasive coronary angiography was performed. The angiogram showed reduced flow in the LAD due to mechanical compression of the artery by the chest tube. The drain was removed, on which the angiogram showed normalisation of coronary patency and blood flow.",
+      "chunk_index": 0,
+      "char_count": 1080,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

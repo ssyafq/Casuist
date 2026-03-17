@@ -1,0 +1,33 @@
+{
+  "pmid": "41296295",
+  "pmc_id": null,
+  "title": "A Curious Case of Abdominal Pain with Reset Osmostat and Rhabdomyolysis.",
+  "authors": [
+    "Anandan S",
+    "Soman S",
+    "Kumar JP",
+    "Shajee DS"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41296295",
+      "pmc_id": null,
+      "title": "A Curious Case of Abdominal Pain with Reset Osmostat and Rhabdomyolysis.",
+      "authors": [
+        "Anandan S",
+        "Soman S",
+        "Kumar JP",
+        "Shajee DS"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Acute intermittent porphyria (AIP) is a neurovisceral disease with multisystemic clinical manifestations, which are often nonspecific and highly variable. The triad of convulsions, abdominal pain, and hyponatremia in a young woman points toward acute porphyria. AIP should be suspected in all cases of abdominal pain if it is associated with seizures, hyponatremia, encephalopathy, autonomic hyperactivity, a history of passage of dark urine, or acute flaccid paralysis. Here we describe a case of AIP in a male patient who presented with abdominal pain, seizures, and hyponatremia. He had unusual features, such as rhabdomyolysis, hyponatremia due to reset osmostat, mild elevation of pancreatic and liver enzymes, mild renal dysfunction, and reversible biochemical hyperthyroidism.",
+      "chunk_index": 0,
+      "char_count": 783,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

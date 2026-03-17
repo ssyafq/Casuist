@@ -1,0 +1,74 @@
+{
+  "pmid": "41543090",
+  "pmc_id": null,
+  "title": "A Case Report of an Elderly Type 2 Diabetes Mellitus Complicated with Fulminant Type 1 Diabetes Mellitus.",
+  "authors": [
+    "Qiu Z",
+    "Hong P"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41543090",
+      "pmc_id": null,
+      "title": "A Case Report of an Elderly Type 2 Diabetes Mellitus Complicated with Fulminant Type 1 Diabetes Mellitus.",
+      "authors": [
+        "Qiu Z",
+        "Hong P"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Fulminant type 1 diabetes mellitus (FT1DM) is a new subtype of type 1 diabetes mellitus, first proposed by Japanese scholars. Its main clinical features include acute onset (< 1 week), pancreatic islet function failure, negative islet-related autoantibodies, and concurrent ketosis or diabetic ketoacidosis. A recent study in Japan indicated that the incidence of FT1DM accounts for 15 - 20% of all ketosis or ketoacidosis-related type 1 diabetes mellitus. However, cases of type 2 diabetes mellitus complicated with FT1DM are rarely reported.",
+      "chunk_index": 0,
+      "char_count": 543,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41543090",
+      "pmc_id": null,
+      "title": "A Case Report of an Elderly Type 2 Diabetes Mellitus Complicated with Fulminant Type 1 Diabetes Mellitus.",
+      "authors": [
+        "Qiu Z",
+        "Hong P"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "islet function failure, negative islet-related autoantibodies, and concurrent ketosis or diabetic ketoacidosis. A recent study in Japan indicated that the incidence of FT1DM accounts for 15 - 20% of all ketosis or ketoacidosis-related type 1 diabetes mellitus. However, cases of type 2 diabetes mellitus complicated with FT1DM are rarely reported.\n\nA comprehensive analysis of the clinical characteristics and diagnosis-treatment process was conducted by monitoring key indicators such as the patient's blood glucose, glycated hemoglobin, pancreatic islet function, amylase levels, and diabetic autoantibodies, and integrating this data with the patient's medical history and relevant literature.",
+      "chunk_index": 1,
+      "char_count": 696,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41543090",
+      "pmc_id": null,
+      "title": "A Case Report of an Elderly Type 2 Diabetes Mellitus Complicated with Fulminant Type 1 Diabetes Mellitus.",
+      "authors": [
+        "Qiu Z",
+        "Hong P"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "labs",
+      "text": "A comprehensive analysis of the clinical characteristics and diagnosis-treatment process was conducted by monitoring key indicators such as the patient's blood glucose, glycated hemoglobin, pancreatic islet function, amylase levels, and diabetic autoantibodies, and integrating this data with the patient's medical history and relevant literature.\n\nThe patient was diagnosed with type 2 diabetes mellitus complicated with fulminant type 1 diabetes mellitus.",
+      "chunk_index": 2,
+      "char_count": 457,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41543090",
+      "pmc_id": null,
+      "title": "A Case Report of an Elderly Type 2 Diabetes Mellitus Complicated with Fulminant Type 1 Diabetes Mellitus.",
+      "authors": [
+        "Qiu Z",
+        "Hong P"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "The patient was diagnosed with type 2 diabetes mellitus complicated with fulminant type 1 diabetes mellitus.\n\nClinicians should enhance their understanding of fulminant type 1 diabetes to achieve early diagnosis and treatment.",
+      "chunk_index": 3,
+      "char_count": 226,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

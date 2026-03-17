@@ -1,0 +1,27 @@
+{
+  "pmid": "41502404",
+  "pmc_id": null,
+  "title": "Prolonged remission of dermatomyositis and autoantibody negativization following SARS-CoV-2 infection in an elderly patient.",
+  "authors": [
+    "Nigro A"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41502404",
+      "pmc_id": null,
+      "title": "Prolonged remission of dermatomyositis and autoantibody negativization following SARS-CoV-2 infection in an elderly patient.",
+      "authors": [
+        "Nigro A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "This case report presents the clinical course of an 80-year-old patient diagnosed with dermatomyositis in 2014, initially managed successfully with methotrexate (MTX). In March 2022, the patient experienced a severe SARS-CoV-2 infection with significant pulmonary involvement, necessitating discontinuation of MTX. Notably, the patient maintained complete remission of dermatomyositis post-infection without relapse. Sustained negativization of autoantibodies, confirmed through multiple evaluations, was observed, while persistent capillaroscopic abnormalities suggested ongoing subclinical disease activity. This case underscores the potential immunomodulatory effects of SARS-CoV-2 on autoimmune diseases and highlights the need for further investigation into its role in immune modulation and disease quiescence.",
+      "chunk_index": 0,
+      "char_count": 816,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

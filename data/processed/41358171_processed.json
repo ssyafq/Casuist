@@ -1,0 +1,44 @@
+{
+  "pmid": "41358171",
+  "pmc_id": "PMC12678946",
+  "title": "Utilizing the EyeMax direct visualization system for the treatment of colonic diverticular bleeding: A case report.",
+  "authors": [
+    "Han TJ",
+    "Li JS"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41358171",
+      "pmc_id": "PMC12678946",
+      "title": "Utilizing the EyeMax direct visualization system for the treatment of colonic diverticular bleeding: A case report.",
+      "authors": [
+        "Han TJ",
+        "Li JS"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Colonic diverticular bleeding is a significant cause of acute overt lower gastrointestinal hemorrhage. Colonoscopy is commonly performed in patients with colonic diverticular bleeding to identify and treat the source of bleeding, which is crucial for effective management. CASE SUMMARY: We present the case of a 70-year-old male with acute painless hematochezia. Colonoscopy showed active bleeding originating from a diverticulum, and the EyeMax direct visualization system was used in the treatment of the colonic diverticular bleeding. No further evidence of bleeding was observed at the end of the procedure. The patient was discharged from hospital on the seventh day.",
+      "chunk_index": 0,
+      "char_count": 672,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41358171",
+      "pmc_id": "PMC12678946",
+      "title": "Utilizing the EyeMax direct visualization system for the treatment of colonic diverticular bleeding: A case report.",
+      "authors": [
+        "Han TJ",
+        "Li JS"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "acute painless hematochezia. Colonoscopy showed active bleeding originating from a diverticulum, and the EyeMax direct visualization system was used in the treatment of the colonic diverticular bleeding. No further evidence of bleeding was observed at the end of the procedure. The patient was discharged from hospital on the seventh day.\n\nThe EyeMax system proved advantageous in localizing the bleeding diverticulum, thereby facilitating successful hemostatic measures.",
+      "chunk_index": 1,
+      "char_count": 471,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

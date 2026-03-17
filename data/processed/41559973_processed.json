@@ -1,0 +1,51 @@
+{
+  "pmid": "41559973",
+  "pmc_id": "PMC12826222",
+  "title": "Severe burns complicated by EDKA, CDI, and NTIS: A case report and literature review.",
+  "authors": [
+    "Yan T",
+    "Hu D",
+    "Wang N",
+    "Lin Z",
+    "Li S",
+    "Wang M",
+    "Wen J",
+    "Liu R",
+    "Feng Q",
+    "Jia J",
+    "Shang R",
+    "Lin G",
+    "Xiao R"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41559973",
+      "pmc_id": "PMC12826222",
+      "title": "Severe burns complicated by EDKA, CDI, and NTIS: A case report and literature review.",
+      "authors": [
+        "Yan T",
+        "Hu D",
+        "Wang N",
+        "Lin Z",
+        "Li S",
+        "Wang M",
+        "Wen J",
+        "Liu R",
+        "Feng Q",
+        "Jia J",
+        "Shang R",
+        "Lin G",
+        "Xiao R"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "RATIONALE: Severe burns trigger sustained hypermetabolism marked by protein hypercatabolism, insulin resistance, and relative insulin deficiency. These effects are exacerbated in diabetic patients, increasing susceptibility to acute metabolic crises. PATIENT CONCERNS: We report the first case of a burn patient with type 2 diabetes mellitus (T2DM) concurrently presenting with euglycemic diabetic ketoacidosis (EDKA), central diabetes insipidus (CDI), and non-thyroidal illness syndrome (NTIS). Following severe burn and inhalation injury, he exhibited agitation, delirium, and hypotonic polyuria. DIAGNOSES: Lab tests confirmed EDKA and NTIS. The EDKA was resolved with standard treatment, but persistent polyuria prompted further evaluation. A positive water deprivation test with desmopressin challenge confirmed CDI, despite unremarkable pituitary MRI. INTERVENTIONS: Oral desmopressin acetate and hydrochlorothiazide reduced daily urine output to 3000 mL. Thyroid function normalized post-stabilization. The wound healing was achieved through 2 skin grafts. OUTCOMES: The patient received long-term oral administration of metformin, desmopressin acetate, and hydrochlorothiazide. Blood glucose and urine output were well controlled, with no adverse events observed. Only mild scarring was observed, and the patient successfully reintegrated into society and daily life following satisfactory functional recovery. LESSONS: Severe burns disrupt the neuro-immuno-endocrine axis through mechanisms such as stress, inflammation, infection, and inadequate caloric intake. This case highlights the necessity of metabolic monitoring and vigilance for metabolic crises in severely burned patients with diabetes. Key lessons include: EDKA, a rare endocrine emergency, should be suspected in cases of metabolic acidosis/elevated anion gap even in the absence of marked hyperglycemia; Persistent hypotonic polyuria unrelated to blood glucose warrants evaluation for diabetes insipidus, with a water deprivation test with desmopressin challenge distinguishing CDI from nephrogenic diabetes insipidus and osmotic diuresis; NTIS requires treatment only for the underlying condition without specific hormone interventions, though structural or functional thyroid pathologies must be excluded before attributing thyroid dysfunction solely to NTIS.",
+      "chunk_index": 0,
+      "char_count": 2336,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

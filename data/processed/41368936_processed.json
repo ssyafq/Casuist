@@ -1,0 +1,33 @@
+{
+  "pmid": "41368936",
+  "pmc_id": null,
+  "title": "Rhabdomyolysis Complicated by Acute Myocardial Infarction: A Case Report.",
+  "authors": [
+    "Zhang L",
+    "Zhang Z",
+    "Yu Y",
+    "Han X"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41368936",
+      "pmc_id": null,
+      "title": "Rhabdomyolysis Complicated by Acute Myocardial Infarction: A Case Report.",
+      "authors": [
+        "Zhang L",
+        "Zhang Z",
+        "Yu Y",
+        "Han X"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "A 27-year-old male patient presented with bilateral lower limb pain and dark brown urine after intense exercise, which lasted half a day. He had no history of cardiac diseases. On admission, abnormal creatine kinase levels and urine tests suggested rhabdomyolysis and electrocardiogram (ECG) was unremarkable. During treatment, the patient developed severe chest pain, sweating, nausea, and vomiting. ECG indicated ST-T elevation in the V2, V3, V4, and V5 leads. Combined with ECG findings, elevated myocardial enzymes suggested acute myocardial infarction (AMI). Coronary angiography revealed a severe stenosis in the proximal segment of left anterior descending branch (pLAD), just before the origin of the first diagonal branch (D1). Optical coherence tomography (OCT) indicated a significant amount of mixed thrombus at the lesion site. After balloon dilation, repeated thrombus aspiration, and in-situ thrombolysis, the thrombus size decreased, blood flow improved, and stent placement was deferred. The patient received intensified antiplatelet therapy. After 1 week, coronary angiography showed no blockage, and the patient was discharged after stabilization. No significant chest pain was observed during follow-up.",
+      "chunk_index": 0,
+      "char_count": 1223,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

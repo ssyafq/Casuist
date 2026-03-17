@@ -1,0 +1,89 @@
+{
+  "pmid": "41350669",
+  "pmc_id": "PMC12681173",
+  "title": "Allergic bronchopulmonary aspergillosis in patients with chronic obstructive pulmonary disease: a case series and literature review.",
+  "authors": [
+    "Ren J",
+    "Luo Y",
+    "Sun L",
+    "Chang C",
+    "Sun Y"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41350669",
+      "pmc_id": "PMC12681173",
+      "title": "Allergic bronchopulmonary aspergillosis in patients with chronic obstructive pulmonary disease: a case series and literature review.",
+      "authors": [
+        "Ren J",
+        "Luo Y",
+        "Sun L",
+        "Chang C",
+        "Sun Y"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Allergic bronchopulmonary aspergillosis (ABPA) is a complex hypersensitivity disorder caused by Aspergillus sensitization, mostly associated with asthma, but occasionally seen in patients with chronic obstructive pulmonary disease (COPD). This study aimed to analyze the clinical features, treatment responses, and long-term follow-up of patients with ABPA-COPD overlap syndrome.",
+      "chunk_index": 0,
+      "char_count": 379,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41350669",
+      "pmc_id": "PMC12681173",
+      "title": "Allergic bronchopulmonary aspergillosis in patients with chronic obstructive pulmonary disease: a case series and literature review.",
+      "authors": [
+        "Ren J",
+        "Luo Y",
+        "Sun L",
+        "Chang C",
+        "Sun Y"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Allergic bronchopulmonary aspergillosis (ABPA) is a complex hypersensitivity disorder caused by Aspergillus sensitization, mostly associated with asthma, but occasionally seen in patients with chronic obstructive pulmonary disease (COPD). This study aimed to analyze the clinical features, treatment responses, and long-term follow-up of patients with ABPA-COPD overlap syndrome.\n\nwe identified 6 cases of ABPA with underlying COPD from a cohort of ABPA in our hospital. We described symptoms, imaging findings, serology tests, pulmonary functions and treatment outcomes of these cases.",
+      "chunk_index": 1,
+      "char_count": 586,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41350669",
+      "pmc_id": "PMC12681173",
+      "title": "Allergic bronchopulmonary aspergillosis in patients with chronic obstructive pulmonary disease: a case series and literature review.",
+      "authors": [
+        "Ren J",
+        "Luo Y",
+        "Sun L",
+        "Chang C",
+        "Sun Y"
+      ],
+      "specialty": "COPD",
+      "section_type": "labs",
+      "text": "we identified 6 cases of ABPA with underlying COPD from a cohort of ABPA in our hospital. We described symptoms, imaging findings, serology tests, pulmonary functions and treatment outcomes of these cases.\n\nFrom January 1st, 2013 to December 31th, 2024, 63 cases of ABPA were diagnosed in our hospital, of them 6 (9.52%) were found to have underlying COPD. The 6 patients were all male, aging from 63 to 89 years, with 5 having a smoking history. The presenting symptoms included persistent cough, sputum and exertional dyspnea. The blood total IgE was markedly elevated (1230-2951 KU/L), and all tested positive for A. fumigatus-specific IgE. Blood eosinophil count was 90-1610 cells/microl. CT revealed bronchiectasis (predominantly lower lobes) and emphysema in all cases. Four patients responded well to oral corticosteroids, while 2 required omalizumab for disease control. After follow-up for 1-4 years, 4 patients remained stable, 1 had recurrent exacerbations, and 1 died due to multi-organ failure.",
+      "chunk_index": 2,
+      "char_count": 1007,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41350669",
+      "pmc_id": "PMC12681173",
+      "title": "Allergic bronchopulmonary aspergillosis in patients with chronic obstructive pulmonary disease: a case series and literature review.",
+      "authors": [
+        "Ren J",
+        "Luo Y",
+        "Sun L",
+        "Chang C",
+        "Sun Y"
+      ],
+      "specialty": "COPD",
+      "section_type": "diagnosis",
+      "text": "eosinophil count was 90-1610 cells/microl. CT revealed bronchiectasis (predominantly lower lobes) and emphysema in all cases. Four patients responded well to oral corticosteroids, while 2 required omalizumab for disease control. After follow-up for 1-4 years, 4 patients remained stable, 1 had recurrent exacerbations, and 1 died due to multi-organ failure.\n\nABPA should be considered in COPD patients with persistent or recurrent respiratory symptoms, higher blood eosinophils, particularly those with bronchiectasis on chest CT. ABPA represents a treatable trait in COPD patients. While corticosteroids remain the first-line therapy, treatment-resistant cases may benefit from biologic agents.",
+      "chunk_index": 3,
+      "char_count": 695,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

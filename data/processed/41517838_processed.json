@@ -1,0 +1,39 @@
+{
+  "pmid": "41517838",
+  "pmc_id": "PMC12817605",
+  "title": "Persistent SARS-CoV-2 Infection in an Immunocompromised Host Treated Successfully With the Japanese Herbal Medicine, Mao-to: A Case Report.",
+  "authors": [
+    "Yamada T",
+    "Sonoda S",
+    "Otsuka M",
+    "Shirai T",
+    "Tateishi T",
+    "Furusawa H",
+    "Miyazaki Y"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41517838",
+      "pmc_id": "PMC12817605",
+      "title": "Persistent SARS-CoV-2 Infection in an Immunocompromised Host Treated Successfully With the Japanese Herbal Medicine, Mao-to: A Case Report.",
+      "authors": [
+        "Yamada T",
+        "Sonoda S",
+        "Otsuka M",
+        "Shirai T",
+        "Tateishi T",
+        "Furusawa H",
+        "Miyazaki Y"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "BACKGROUND Persistent COVID-19 in immunocompromised patients, such as those with B-cell depletion or hematologic malignancies, is an important clinical challenge. Clinically, cases that do not respond to guideline-based antivirals, such as molnupiravir, remdesivir, and nirmatrelvir/ritonavir, are occasionally encountered, but effective therapeutic alternatives remain scarce. We report a case of persistent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection unresponsive to guideline-based antivirals, for which the traditional Japanese herbal medicine Mao-to (Ma-huang-tang) led to clinical improvement. CASE REPORT A 62-year-old man, who underwent treatment for follicular lymphoma with anti-cluster of differentiation-20 antibody and achieved remission, developed persistent SARS-CoV-2 infection. Despite 1 course of molnupiravir and nirmatrelvir/ritonavir each and multiple courses of remdesivir and corticosteroids each, SARS-CoV-2 infection persisted for over 2 months. Following these treatments, the SARS-CoV-2 polymerase chain reaction cycle threshold (Ct) value was 27.6, indicating active COVID-19. Given the lack of further treatment options and clinical stability, Mao-to (Ma-huang-tang), a Japanese herbal medicine (\"Kampo\"), was then administered as a commercially available extract granule (2.5 g, 3 times daily) for 14 days. The SARS-CoV-2 polymerase Ct value improved to 41, suggesting a marked reduction in viral load, with improved clinical symptoms. CONCLUSIONS Mao-to may offer a cost-effective adjunctive option for persistent COVID-19 in immunocompromised patients who fail to respond to conventional therapies. In addition, 14 days of Mao-to treatment cost approximately 1200 JPY (USD $8), significantly less than extended courses of standard antivirals. This case suggests the potential utility of traditional herbal medicine in managing persistent SARS-CoV-2 infections when conventional therapies fail.",
+      "chunk_index": 0,
+      "char_count": 1952,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

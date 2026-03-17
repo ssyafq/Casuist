@@ -1,0 +1,31 @@
+{
+  "pmid": "41399085",
+  "pmc_id": "PMC12711417",
+  "title": "[Central nervous system infection mimicking neuropsychiatric systemic lupus erythematosus: A case report].",
+  "authors": [
+    "Zhao K",
+    "Lu F",
+    "Wang Y"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41399085",
+      "pmc_id": "PMC12711417",
+      "title": "[Central nervous system infection mimicking neuropsychiatric systemic lupus erythematosus: A case report].",
+      "authors": [
+        "Zhao K",
+        "Lu F",
+        "Wang Y"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "This article presents a comprehensive case analysis of a young female patient with systemic lupus erythematosus (SLE) who developed neuropsychiatric symptoms during prolonged immunosuppressive therapy. The patient, maintained on glucocorticoids and cyclosporine, presented with fever, headache, and left-sided limb numbness. Cranial magnetic resonance imaging (MRI) revealed an acute inflammatory lesion in the right parietal lobe, leading to an initial clinical diagnosis of neuropsychiatric systemic lupus erythematosus (NPSLE). However, despite adjustments to the immunosuppressive regimen, her condition continued to deteriorate, manifesting as impaired consciousness and meningeal signs including neck stiffness. Subsequent laboratory investigations proved crucial for diagnostic reevaluation: Blood culture identified Listeria monocytogenes, and cerebrospinal fluid (CSF) analysis via next-generation sequencing (NGS) detected varicella-zoster virus (VZV). Targeted anti-infective therapy with meropenem and linezolid, combined with intravenous immunoglobulin support, resulted in significant improvement of neurological symptoms and radiological abnormalities, ultimately confirming central nervous system (CNS) mixed infection rather than NPSLE. This case underscored the critical importance of differentiating between CNS infection and NPSLE in immunosuppressed SLE patients. Clinical observations indicated that CNS infections typically presented with more pronounced systemic manifestations including high-grade fever, severe headache, and marked meningeal signs, accompanied by significantly elevated inflammatory markers. In contrast, NPSLE patients might exhibit fever but generally show lower overall lupus disease activity scores. CSF analysis played a pivotal diagnostic role: CNS infections commonly demonstrate significant pleocytosis, elevated protein levels, and reduced glucose concentrations, whereas NPSLE-related CSF changes were usually milder. Serial neuroimaging follow-up and treatment response assessment provided additional discriminatory value, as infectious lesions typically showed rapid resolution following appropriate antimicrobial therapy. The application of CSF NGS technology in this case enabled rapid identification of mixed pathogens, highlighting its advantage in diagnosing complex infections. Clinical management should integrate comprehensive evaluation of etiological, radiological, and therapeutic response characteristics to prevent misdiagnosis as NPSLE, which could lead to inappropriate intensification of immunosuppression and subsequent clinical deterioration. We recommend early multidisciplinary collaboration and proactive utilization of precision diagnostic techniques like CSF NGS to guide timely, targeted anti-infective strategies, ultimately improving the patient outcomes. This case provides valuable insights for clinicians regarding the differential diagnosis of CNS complications in immunocompromised patients, emphasizing the necessity of integrated modern diagnostic approaches for personalized therapeutic decision-making.",
+      "chunk_index": 0,
+      "char_count": 3092,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

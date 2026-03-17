@@ -1,0 +1,91 @@
+{
+  "pmid": "41436954",
+  "pmc_id": "PMC12837031",
+  "title": "A rare case report of disseminated Talaromyces marneffei infection presenting as acute pancreatitis in an HIV-1 infected patient.",
+  "authors": [
+    "Peng Y",
+    "Zhang M",
+    "Yang D",
+    "Shu Y",
+    "Lou J",
+    "Fan H",
+    "Li Z",
+    "Lei S",
+    "Dong X",
+    "Gao L"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41436954",
+      "pmc_id": "PMC12837031",
+      "title": "A rare case report of disseminated Talaromyces marneffei infection presenting as acute pancreatitis in an HIV-1 infected patient.",
+      "authors": [
+        "Peng Y",
+        "Zhang M",
+        "Yang D",
+        "Shu Y",
+        "Lou J",
+        "Fan H",
+        "Li Z",
+        "Lei S",
+        "Dong X",
+        "Gao L"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Talaromyces marneffei (TM) is a thermally dimorphic fungus endemic to Southeast Asia and a major opportunistic pathogen in HIV-1/AIDS patients. We report a rare case of disseminated TM infection presenting with yeast-like fungal structures on peripheral blood smear and complicated by acute pancreatitis.",
+      "chunk_index": 0,
+      "char_count": 304,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41436954",
+      "pmc_id": "PMC12837031",
+      "title": "A rare case report of disseminated Talaromyces marneffei infection presenting as acute pancreatitis in an HIV-1 infected patient.",
+      "authors": [
+        "Peng Y",
+        "Zhang M",
+        "Yang D",
+        "Shu Y",
+        "Lou J",
+        "Fan H",
+        "Li Z",
+        "Lei S",
+        "Dong X",
+        "Gao L"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Talaromyces marneffei (TM) is a thermally dimorphic fungus endemic to Southeast Asia and a major opportunistic pathogen in HIV-1/AIDS patients. We report a rare case of disseminated TM infection presenting with yeast-like fungal structures on peripheral blood smear and complicated by acute pancreatitis.\n\nA 52-year-old man with AIDS (CD4(+) count: 134 cells/muL) presented with prolonged fever, cough, and weight loss. Peripheral blood smear revealed numerous yeast-like fungal structures. Blood culture grew TM, confirmed by ITS sequencing(GenBank accession number: PX499650).Despite antifungal therapy, the patient developed severe acute pancreatitis(lipase 1746.9 U/L, > 3 times the upper limit of normal)and multiorgan failure.Extensive investigations excluded common infectious and non-infectious etiologies.The patient died on day 7.This is the first reported case of TM-induced acute pancreatitis likely triggered by fungal microembolization.",
+      "chunk_index": 1,
+      "char_count": 950,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41436954",
+      "pmc_id": "PMC12837031",
+      "title": "A rare case report of disseminated Talaromyces marneffei infection presenting as acute pancreatitis in an HIV-1 infected patient.",
+      "authors": [
+        "Peng Y",
+        "Zhang M",
+        "Yang D",
+        "Shu Y",
+        "Lou J",
+        "Fan H",
+        "Li Z",
+        "Lei S",
+        "Dong X",
+        "Gao L"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "sequencing(GenBank accession number: PX499650).Despite antifungal therapy, the patient developed severe acute pancreatitis(lipase 1746.9 U/L, > 3 times the upper limit of normal)and multiorgan failure.Extensive investigations excluded common infectious and non-infectious etiologies.The patient died on day 7.This is the first reported case of TM-induced acute pancreatitis likely triggered by fungal microembolization.\n\nTM should be considered in HIV patients with unexplained pancreatitis, especially in endemic areas. Peripheral blood smear may serve as a rapid diagnostic clue in disseminated infection,indicating potential organ involvement that may affect uncommon sites.",
+      "chunk_index": 2,
+      "char_count": 677,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

@@ -1,0 +1,71 @@
+{
+  "pmid": "35687767",
+  "pmc_id": "PMC9276427",
+  "title": "Non-diabetic ketoacidosis secondary to primary hyperthyroidism: A case report.",
+  "authors": [
+    "Al-Mashdali AF",
+    "Gul M",
+    "Umer W",
+    "Omar A",
+    "Jones A"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "35687767",
+      "pmc_id": "PMC9276427",
+      "title": "Non-diabetic ketoacidosis secondary to primary hyperthyroidism: A case report.",
+      "authors": [
+        "Al-Mashdali AF",
+        "Gul M",
+        "Umer W",
+        "Omar A",
+        "Jones A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "There are variable complications of hyperthyroidism, including atrial fibrillation, heart failure, osteoporosis, and thyroid storm. One infrequent complication of hyperthyroidism is non-diabetic ketoacidosis (NDKA). To the best of our knowledge, our case is the third report of NDKA related to thyrotoxicosis. PATIENT CONCERN: We describe a case of a 41-year-old African lady with no past medical history presented to our hospital with severe abdominal pain and vomiting for three weeks. This was associated with decreased appetite and weight loss.",
+      "chunk_index": 0,
+      "char_count": 548,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35687767",
+      "pmc_id": "PMC9276427",
+      "title": "Non-diabetic ketoacidosis secondary to primary hyperthyroidism: A case report.",
+      "authors": [
+        "Al-Mashdali AF",
+        "Gul M",
+        "Umer W",
+        "Omar A",
+        "Jones A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "knowledge, our case is the third report of NDKA related to thyrotoxicosis. PATIENT CONCERN: We describe a case of a 41-year-old African lady with no past medical history presented to our hospital with severe abdominal pain and vomiting for three weeks. This was associated with decreased appetite and weight loss.\n\nLaboratory findings were significant for high anion gap metabolic acidosis, positive ketones in the urine, and high serum B-hydroxybutyrate. The blood glucose readings and HbA1c were within normal limits. Also, serum lactic acid and salicylate levels were within the normal range. The diagnosis of NDKA was made. Later, the thyroid functions test (TFT) confirmed the diagnosis of primary hyperthyroidism. INTERVENTION AND OUTCOMES: The patient was managed initially with intravenous fluid and antiemetics. Then, she was started on propranolol and carbimazole. After which, her symptoms improved dramatically, and the metabolic acidosis (with serum ketones) were corrected within a few days of starting anti-thyroid medications.",
+      "chunk_index": 1,
+      "char_count": 1042,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "35687767",
+      "pmc_id": "PMC9276427",
+      "title": "Non-diabetic ketoacidosis secondary to primary hyperthyroidism: A case report.",
+      "authors": [
+        "Al-Mashdali AF",
+        "Gul M",
+        "Umer W",
+        "Omar A",
+        "Jones A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "confirmed the diagnosis of primary hyperthyroidism. INTERVENTION AND OUTCOMES: The patient was managed initially with intravenous fluid and antiemetics. Then, she was started on propranolol and carbimazole. After which, her symptoms improved dramatically, and the metabolic acidosis (with serum ketones) were corrected within a few days of starting anti-thyroid medications.\n\nDespite its rarity, NDKA can be associated with severe thyrotoxicosis. Vigorous intravenous hydration and anti-thyroid medication are the mainstay treatment. TFT should be requested in a patient with unexplained NDKA.",
+      "chunk_index": 2,
+      "char_count": 593,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

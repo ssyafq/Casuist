@@ -1,0 +1,37 @@
+{
+  "pmid": "41276393",
+  "pmc_id": null,
+  "title": "In-Acupuncture-induced Pneumothorax and Takotsubo Cardiomyopathy.",
+  "authors": [
+    "Sawan MA",
+    "Sayegh MN",
+    "Al Turk A",
+    "Kindya B",
+    "Raj L",
+    "Nicholson WJ"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41276393",
+      "pmc_id": null,
+      "title": "In-Acupuncture-induced Pneumothorax and Takotsubo Cardiomyopathy.",
+      "authors": [
+        "Sawan MA",
+        "Sayegh MN",
+        "Al Turk A",
+        "Kindya B",
+        "Raj L",
+        "Nicholson WJ"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Takotsubo cardiomyopathy is seen after intense emotional or physical triggers. The authors present a 72-year-old woman who experienced acute substernal chest pain and dyspnea after an acupuncture session. Electrocardiogram revealed anterolateral ST elevations, and chest radiograph revealed pneumothorax.",
+      "chunk_index": 0,
+      "char_count": 304,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

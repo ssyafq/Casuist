@@ -1,0 +1,43 @@
+{
+  "pmid": "36853160",
+  "pmc_id": null,
+  "title": "[A strange case of double stroke: Dr. Jekyll and Mr. Hyde].",
+  "authors": [
+    "Riva L",
+    "Canovi L",
+    "Bugani G",
+    "Gentile M",
+    "Forlivesi S",
+    "Gentile L",
+    "Simonetti L",
+    "Zini A",
+    "Casella G"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "36853160",
+      "pmc_id": null,
+      "title": "[A strange case of double stroke: Dr. Jekyll and Mr. Hyde].",
+      "authors": [
+        "Riva L",
+        "Canovi L",
+        "Bugani G",
+        "Gentile M",
+        "Forlivesi S",
+        "Gentile L",
+        "Simonetti L",
+        "Zini A",
+        "Casella G"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "The etiological diagnosis of ischemic stroke is crucial for secondary prevention, but often complex for the patients' cardiovascular comorbidities, each of which may cause a stroke. We report the case of an 84-year-old patient with severe left ventricular systolic dysfunction due to dilated cardiomyopathy and implantable cardioverter-defibrillator in primary prevention, hospitalized for atherothrombotic ischemic stroke treated conservatively and later by carotid thromboendarterectomy for ulcerated plaque of the right internal carotid artery. A week after discharge, an embolic ischemic stroke occurred due to thrombosis of the left atrial appendage in absence of atrial fibrillation. A careful analysis of the patient's cardiovascular risk factors, clinical signs and neuroimages allowed for the etiological diagnosis of both cerebral ischemic events. The case is also peculiar because of left atrial appendage thrombus formation in the context of severe left ventricular systolic dysfunction in absence of atrial fibrillation. In the same patient, the recurrent stroke was not due to the same cause and, owing to the complexity of the differential diagnosis, a multidisciplinary neurological and cardiological approach is pivotal for the management of these patients.",
+      "chunk_index": 0,
+      "char_count": 1274,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

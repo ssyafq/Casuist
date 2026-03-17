@@ -1,0 +1,104 @@
+{
+  "pmid": "41705616",
+  "pmc_id": null,
+  "title": "[The role of the ubiquitin-proteasome system in the development of acute myocardial injury. Case report].",
+  "authors": [
+    "Kudlay DA",
+    "Tarasov VV",
+    "Smolyarchuk EA",
+    "Shchekin VS",
+    "Zavadich KA",
+    "Korunas VI",
+    "Krylova ID",
+    "Samorodov AV"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41705616",
+      "pmc_id": null,
+      "title": "[The role of the ubiquitin-proteasome system in the development of acute myocardial injury. Case report].",
+      "authors": [
+        "Kudlay DA",
+        "Tarasov VV",
+        "Smolyarchuk EA",
+        "Shchekin VS",
+        "Zavadich KA",
+        "Korunas VI",
+        "Krylova ID",
+        "Samorodov AV"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Acute myocardial injury (AMI) is a universal pathological process that complicates both cardiac and non-cardiac pathologies. However, understanding of the molecular mechanisms underlying the various types of AMI remains insufficient. One of the current concepts for the development of AMI is the regulation of the ubiquitin-proteasome system (UPS), which mediates apoptosis and the adaptive response to injury. However, the patterns of its activation in the myocardium in various clinical situations remain poorly understood. AIM: To evaluate and compare the expression of ubiquitin and the deubiquitinating enzymes USP28/USP40 in patients who have suffered acute myocardial injury of various etiologies. MATERIALS AND",
+      "chunk_index": 0,
+      "char_count": 718,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41705616",
+      "pmc_id": null,
+      "title": "[The role of the ubiquitin-proteasome system in the development of acute myocardial injury. Case report].",
+      "authors": [
+        "Kudlay DA",
+        "Tarasov VV",
+        "Smolyarchuk EA",
+        "Shchekin VS",
+        "Zavadich KA",
+        "Korunas VI",
+        "Krylova ID",
+        "Samorodov AV"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "apoptosis and the adaptive response to injury. However, the patterns of its activation in the myocardium in various clinical situations remain poorly understood. AIM: To evaluate and compare the expression of ubiquitin and the deubiquitinating enzymes USP28/USP40 in patients who have suffered acute myocardial injury of various etiologies. MATERIALS AND\n\nAs part of a single-center prospective cohort study (RNF-NSFC \"Assessment of the Role of Deubiquitinating Enzymes in Myocardial Ischemia-Reperfusion Injury and Development of Cardioprotective Agents\", 2024-2026), three clinical cases were analyzed at the Clinic of the Federal State Budgetary Educational Institution of Higher Education Bashkir State Medical University of the Ministry of Health of the Russian Federation (Ufa) during the period 2024-2025. The analysis assessed and compared the dynamics of UPS activity depending on the mechanism of myocardial injury.",
+      "chunk_index": 1,
+      "char_count": 925,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41705616",
+      "pmc_id": null,
+      "title": "[The role of the ubiquitin-proteasome system in the development of acute myocardial injury. Case report].",
+      "authors": [
+        "Kudlay DA",
+        "Tarasov VV",
+        "Smolyarchuk EA",
+        "Shchekin VS",
+        "Zavadich KA",
+        "Korunas VI",
+        "Krylova ID",
+        "Samorodov AV"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "labs",
+      "text": "were analyzed at the Clinic of the Federal State Budgetary Educational Institution of Higher Education Bashkir State Medical University of the Ministry of Health of the Russian Federation (Ufa) during the period 2024-2025. The analysis assessed and compared the dynamics of UPS activity depending on the mechanism of myocardial injury.\n\nDifferent causes of acute myocardial infarction demonstrate differential involvement of UPS components in the pathogenesis of coronary and non-coronary myocardial injury. IHC staining of ubiquitin in clinical cases demonstrates overexpression in the perifocal necrotic zone compared to areas more distant from necrosis, and moderate cytoplasmic and nuclear expression in myocardium without acute ischemic injury.",
+      "chunk_index": 2,
+      "char_count": 749,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41705616",
+      "pmc_id": null,
+      "title": "[The role of the ubiquitin-proteasome system in the development of acute myocardial injury. Case report].",
+      "authors": [
+        "Kudlay DA",
+        "Tarasov VV",
+        "Smolyarchuk EA",
+        "Shchekin VS",
+        "Zavadich KA",
+        "Korunas VI",
+        "Krylova ID",
+        "Samorodov AV"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "myocardial infarction demonstrate differential involvement of UPS components in the pathogenesis of coronary and non-coronary myocardial injury. IHC staining of ubiquitin in clinical cases demonstrates overexpression in the perifocal necrotic zone compared to areas more distant from necrosis, and moderate cytoplasmic and nuclear expression in myocardium without acute ischemic injury.\n\nThe prospects for further study of ubiquitin and deubiquitinating enzymes (USP28, USP40) in the search for potential targets for differential diagnosis and targeted therapy of AMI of various etiologies have been determined.",
+      "chunk_index": 3,
+      "char_count": 611,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

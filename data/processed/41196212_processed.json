@@ -1,0 +1,59 @@
+{
+  "pmid": "41196212",
+  "pmc_id": null,
+  "title": "[Not Available].",
+  "authors": [
+    "Mack CE",
+    "Nordmo E",
+    "Sjulstad AS",
+    "Bakkejord GK",
+    "Finvag A",
+    "Ciopat OG",
+    "Storm B"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41196212",
+      "pmc_id": null,
+      "title": "[Not Available].",
+      "authors": [
+        "Mack CE",
+        "Nordmo E",
+        "Sjulstad AS",
+        "Bakkejord GK",
+        "Finvag A",
+        "Ciopat OG",
+        "Storm B"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Obesity is a growing concern, leading to widespread use of weight-loss medications. Awareness of potential side effects and drug interactions is crucial when patients present with unexplained symptoms.",
+      "chunk_index": 0,
+      "char_count": 201,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41196212",
+      "pmc_id": null,
+      "title": "[Not Available].",
+      "authors": [
+        "Mack CE",
+        "Nordmo E",
+        "Sjulstad AS",
+        "Bakkejord GK",
+        "Finvag A",
+        "Ciopat OG",
+        "Storm B"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Obesity is a growing concern, leading to widespread use of weight-loss medications. Awareness of potential side effects and drug interactions is crucial when patients present with unexplained symptoms.\n\nWe report the case of a woman in her fifties who was admitted to hospital following a generalised tonic-clonic seizure that progressed to status epilepticus. She had been taking a bupropion/naltrexone combination for weight loss over the preceding three months, along with escitalopram for anxiety. Upon admission, she also exhibited fever, unstable blood pressure and nausea, with no evidence of infection. Initial treatment included valproate and sedation, followed by levetiracetam and lacosamide. By day three, EEG showed no epileptic activity; however, she remained agitated and exhibited nystagmus, rigidity, hyperreflexia, subclonus, hyperthermia and hypertension. Serotonin syndrome was suspected, and treatment with cooling, sedation and cyproheptadine was initiated. Investigations including CT, MRI, lumbar puncture and repeated blood tests revealed no alternative causes. She gradually improved and made a full recovery. INTERPRETATION: Bupropion increases the risk of seizures, and case reports link it to serotonin syndrome. Escitalopram also raises the risk of seizures and is a recognised cause of serotonin syndrome. Additionally, valproate may impact serotonin activity and increase serum concentration of bupropion's active metabolite, potentially exacerbating the condition.",
+      "chunk_index": 1,
+      "char_count": 1497,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

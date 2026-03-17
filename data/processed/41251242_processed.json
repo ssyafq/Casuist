@@ -1,0 +1,29 @@
+{
+  "pmid": "41251242",
+  "pmc_id": null,
+  "title": "[Unilateral tongue angioedema induced by acetylsalicylic acid].",
+  "authors": [
+    "Sonntag A",
+    "Gaardbo JC"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "41251242",
+      "pmc_id": null,
+      "title": "[Unilateral tongue angioedema induced by acetylsalicylic acid].",
+      "authors": [
+        "Sonntag A",
+        "Gaardbo JC"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Unilateral tongue angioedema is a rare condition with potential risk of airway obstruction. This case report presents a 71-year-old woman with acute coronary syndrome who developed unilateral tongue swelling one hour after administration of acetylsalicylic acid (ASA). The symptoms resolved after treatment with glucocorticoid and an antihistamine, suggesting a histamine-mediated mechanism. Only one previous case of ASA-induced unilateral tongue angioedema has been described in the literature (2006). Early recognition and discontinuation of the triggering drug is essential, and allergy testing should be considered.",
+      "chunk_index": 0,
+      "char_count": 620,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

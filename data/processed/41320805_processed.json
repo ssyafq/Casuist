@@ -1,0 +1,71 @@
+{
+  "pmid": "41320805",
+  "pmc_id": "PMC12852325",
+  "title": "Successful Use of Haploidentical HSCT in a Child With Schimke Immuno-Osseous Dysplasia Who Developed PTLD After Kidney Transplantation.",
+  "authors": [
+    "Pehlivanoglu C",
+    "Erbey F",
+    "Unlugedik O",
+    "Akyollu B",
+    "Yilmaz E",
+    "Karakukcu M",
+    "Sozmen BO",
+    "Eltan SB",
+    "Yildiz N",
+    "Kocak B",
+    "Bilge I"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41320805",
+      "pmc_id": "PMC12852325",
+      "title": "Successful Use of Haploidentical HSCT in a Child With Schimke Immuno-Osseous Dysplasia Who Developed PTLD After Kidney Transplantation.",
+      "authors": [
+        "Pehlivanoglu C",
+        "Erbey F",
+        "Unlugedik O",
+        "Akyollu B",
+        "Yilmaz E",
+        "Karakukcu M",
+        "Sozmen BO",
+        "Eltan SB",
+        "Yildiz N",
+        "Kocak B",
+        "Bilge I"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Schimke Immuno-Osseous Dysplasia Is a Rare Autosomal Recessive Multisystem Disorder Caused by Biallelic Pathogenic Variants in the SMARCAL1 Gene, Which Encodes a DNA Annealing Helicase Essential for Replication Fork Stability and Genomic Maintenance. Loss of SMARCAL1 Function Leads to Genomic Instability, Resulting in a Characteristic Clinical Triad of Disproportionate Short Stature, Steroid-Resistant Nephrotic Syndrome and Immunodeficiency. Kidney Transplantation Is the Standard Treatment for End-Stage Renal Disease in Schimke Immuno-Osseous Dysplasia. However, the Underlying Genomic Fragility and Immunodeficiency Heighten the Risk of Post-Transplant Complications, Particularly Epstein-Barr Virus-Associated Post-Transplant Lymphoproliferative Disorder. METHOD: We Report the Case of a 7-Year-Old Girl With Genetically Confirmed Schimke Immuno-Osseous Dysplasia Who Developed Epstein-Barr Virus-Positive Diffuse Large B-Cell Lymphoma Eight Months Following Maternal Kidney Transplantation, Despite Reduced-Intensity Immunosuppression. Rituximab Therapy Resulted in Complete Remission, but Required the Withdrawal of all Immunosuppressive Agents, Thereby Posing a Risk of Kidney Graft Loss. RESULT: In the Context of Primary Immunodeficiency and the Development of Post-Transplant Lymphoproliferative Disorder in Such a Setting, the Patient Subsequently Underwent Haploidentical Hematopoietic Stem Cell Transplantation From the Mother, Using an alphabeta T-Cell-Depleted Graft and a Nephrotoxicity-Sparing Conditioning Regimen. Full Donor Chimerism Was Achieved by Day 28. Immune Reconstitution Occurred Within One Year. At 27 Months After Hematopoietic Stem Cell Transplantation She Remains in Remission With Preserved Kidney Function and no Ongoing Immunosuppression.",
+      "chunk_index": 0,
+      "char_count": 1778,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41320805",
+      "pmc_id": "PMC12852325",
+      "title": "Successful Use of Haploidentical HSCT in a Child With Schimke Immuno-Osseous Dysplasia Who Developed PTLD After Kidney Transplantation.",
+      "authors": [
+        "Pehlivanoglu C",
+        "Erbey F",
+        "Unlugedik O",
+        "Akyollu B",
+        "Yilmaz E",
+        "Karakukcu M",
+        "Sozmen BO",
+        "Eltan SB",
+        "Yildiz N",
+        "Kocak B",
+        "Bilge I"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "diagnosis",
+      "text": "Stem Cell Transplantation From the Mother, Using an alphabeta T-Cell-Depleted Graft and a Nephrotoxicity-Sparing Conditioning Regimen. Full Donor Chimerism Was Achieved by Day 28. Immune Reconstitution Occurred Within One Year. At 27 Months After Hematopoietic Stem Cell Transplantation She Remains in Remission With Preserved Kidney Function and no Ongoing Immunosuppression.\n\nThis Case Highlights the Feasibility of Haploidentical Hematopoietic Stem Cell Transplantation as a Curative Salvage Strategy for Immunosuppression-Free Survival After Kidney Transplantation in Patients With Schimke Immuno-Osseous Dysplasia.",
+      "chunk_index": 1,
+      "char_count": 619,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

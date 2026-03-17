@@ -1,0 +1,37 @@
+{
+  "pmid": "40193660",
+  "pmc_id": "PMC11977724",
+  "title": "Uncovering non-autoimmune hypothyroidism: A case report of rhabdomyolysis and myocarditis mimicking acute coronary syndrome.",
+  "authors": [
+    "Jeon H",
+    "Lee S",
+    "Jung S",
+    "Jang H",
+    "Chang SH",
+    "Kim HJ"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40193660",
+      "pmc_id": "PMC11977724",
+      "title": "Uncovering non-autoimmune hypothyroidism: A case report of rhabdomyolysis and myocarditis mimicking acute coronary syndrome.",
+      "authors": [
+        "Jeon H",
+        "Lee S",
+        "Jung S",
+        "Jang H",
+        "Chang SH",
+        "Kim HJ"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "RATIONALE: Non-autoimmune hypothyroidism is a rare but significant cause of rhabdomyolysis and myocarditis, which can mimic acute coronary syndrome. Early recognition and treatment of hypothyroidism are crucial, especially in patients with chronic kidney disease (CKD), where delayed diagnosis may lead to life-threatening complications such as acute kidney injury. PATIENT CONCERNS: A 71-year-old male with diabetes, CKD stage G3aA3, and a history of chronic myelogenous leukemia presented with myalgia, anorexia, and anuria. He also reported intermittent chest pain for 1 month, progressing to severe symptoms including decreased urine output and anuria. DIAGNOSES: Laboratory findings revealed acute kidney injury (serum creatinine: 12.14 mg/dL), extreme elevations in muscle enzymes (creatine kinase: 250,000 IU/L), and cardiac biomarkers (troponin-T: 543 ng/L). Initial management did not improve his condition. On day 15, thyroid function tests confirmed non-autoimmune hypothyroidism (TSH: 55.58 muIU/mL, free T4: 0.06 ng/dL). INTERVENTIONS: The patient underwent hemodialysis and conservative treatment initially, followed by levothyroxine replacement therapy on day 16. OUTCOMES: Renal function, urine output, and muscle enzyme levels gradually improved after thyroid hormone supplementation. By discharge on day 40, the patient's serum creatinine decreased to 3.08 mg/dL, and hemodialysis was discontinued. At 7 months posttreatment, his renal function stabilized at CKD stage G3bA2 with normal thyroid function. LESSONS: This case highlights the importance of considering hypothyroidism in patients with unexplained rhabdomyolysis and persistent cardiac symptoms, particularly in those with CKD. Early thyroid function testing can lead to timely treatment and improved outcomes in such complex cases.",
+      "chunk_index": 0,
+      "char_count": 1811,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "41137144",
+  "pmc_id": "PMC12553254",
+  "title": "Acute type A aortic dissection complicated by acute pancreatitis and abdominal hemorrhage: a case report of following exploratory laparotomy.",
+  "authors": [
+    "Wang W",
+    "Liu T",
+    "Zhang Q",
+    "Lin C"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41137144",
+      "pmc_id": "PMC12553254",
+      "title": "Acute type A aortic dissection complicated by acute pancreatitis and abdominal hemorrhage: a case report of following exploratory laparotomy.",
+      "authors": [
+        "Wang W",
+        "Liu T",
+        "Zhang Q",
+        "Lin C"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "There are few reports of postoperative acute pancreatitis (AP) in patients with acute type A aortic dissection (ATAAD), but we reported a case of ATAAD complicated by AP and later reoperation for intraperitoneal hemorrhage. We discussed the causes of AP in this patient and summarized some of the experiences of postoperative management of patients with ATAAD involving the celiac trunk and/or superior mesenteric artery. CASE PRESENTATIONS: A 44-year-old male patient was diagnosed with ATAAD and underwent partial resection of the ascending aorta with graft replacement and total aortic arch graft replacement with stented elephant trunk surgery 8 h after admission, and the operation was successful. Due to poor oxygenation function of acute respiratory distress syndrome (ARDS) after surgery, the patient was treated with mechanical ventilation for a long time, which was followed by bloodborne infection and systemic inflammatory response syndrome. Abdominal distension occurred 20 days after surgery, and was diagnosed as acute pancreatitis (AP), and intraperitoneal bleeding occurred on the 39th postoperative day during conservative treatment. On the 40th day after surgery, the patient underwent exploratory laparotomy, during which multiple abscesses around the pancreas were found, and the venous vessels in the tail of the pancreas were eroded, ruptured and hemorrhaged by infected lesions, and the abdominal abscess was cut and drained and the spleen was removed. The patient gradually recovered and was discharged on the 65th day after surgery. No special discomfort was reported during the outpatient follow-up.",
+      "chunk_index": 0,
+      "char_count": 1626,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41137144",
+      "pmc_id": "PMC12553254",
+      "title": "Acute type A aortic dissection complicated by acute pancreatitis and abdominal hemorrhage: a case report of following exploratory laparotomy.",
+      "authors": [
+        "Wang W",
+        "Liu T",
+        "Zhang Q",
+        "Lin C"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "vessels in the tail of the pancreas were eroded, ruptured and hemorrhaged by infected lesions, and the abdominal abscess was cut and drained and the spleen was removed. The patient gradually recovered and was discharged on the 65th day after surgery. No special discomfort was reported during the outpatient follow-up.\n\nThis case suggests that for ATAAD patients involving the abdominal trunk and/or superior mesenteric artery, especially those with systemic inflammatory response syndrome, dynamic serum amylase and abdominal CT examination are necessary to help us diagnose AP earlier and detect its complications.",
+      "chunk_index": 1,
+      "char_count": 616,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

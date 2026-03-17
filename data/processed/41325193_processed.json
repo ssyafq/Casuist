@@ -1,0 +1,35 @@
+{
+  "pmid": "41325193",
+  "pmc_id": null,
+  "title": "A Case of Primary Amebic Meningitis with Acute Myocarditis.",
+  "authors": [
+    "Zhang Y",
+    "Fu Q",
+    "Cui J",
+    "Zhuoma D",
+    "Luo R"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41325193",
+      "pmc_id": null,
+      "title": "A Case of Primary Amebic Meningitis with Acute Myocarditis.",
+      "authors": [
+        "Zhang Y",
+        "Fu Q",
+        "Cui J",
+        "Zhuoma D",
+        "Luo R"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Primary amebic meningitis is a rare, acute, fatal central nervous system disease caused by Naegleria fowleri infection. In the past, the resulting damage to the central nervous system has received more attention, whereas the impact on the heart has been less extensively described. This case involved a patient with a diagnosis of amoebic meningitis, in whom severe myocarditis was subsequently discovered. After ruling out alternative pathogens, the myocarditis was established as being secondary to the amoebic infection. The patient was admitted to the hospital due to fever, headache, and vomiting, and gradually became unconscious. Cerebrospinal fluid examination revealed haemorrhagic suppurative meningitis, and Hongkiin second-generation sequencing of cerebrospinal fluid and blood pathogens resulted in the detection of Naegleria fowleri; thus, a diagnosis of primary amebic meningitis was made. Electrocardiogram, myocardial injury marker analysis, and bedside transthoracic echocardiography were performed to diagnose acute myocarditis. Despite active treatment, respiratory and circulatory failure, shock, and eventually brain herniation and brain death rapidly occurred.",
+      "chunk_index": 0,
+      "char_count": 1183,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

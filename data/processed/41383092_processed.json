@@ -1,0 +1,37 @@
+{
+  "pmid": "41383092",
+  "pmc_id": "PMC12698948",
+  "title": "Syndrome of Inappropriate Secretion of Antidiuretic Hormone in a Dog With Meningoencephalitis of Unknown Etiology.",
+  "authors": [
+    "Lee Y",
+    "Park J",
+    "Chae Y",
+    "Yun T",
+    "Kim H",
+    "Kang BT"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41383092",
+      "pmc_id": "PMC12698948",
+      "title": "Syndrome of Inappropriate Secretion of Antidiuretic Hormone in a Dog With Meningoencephalitis of Unknown Etiology.",
+      "authors": [
+        "Lee Y",
+        "Park J",
+        "Chae Y",
+        "Yun T",
+        "Kim H",
+        "Kang BT"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "A 5-year-old castrated male Maltese dog presented with generalized tonic-clonic cluster seizures. The seizures first occurred 10 days prior and progressed gradually. Upon presentation, the dog exhibited signs of obtundation, head turn and tetraparesis. Magnetic resonance imaging showed diffuse multifocal lesions of the cerebral white and grey matter extending from the left frontal lobe to the occipital lobe, along with ventriculomegaly. The dog was diagnosed with meningoencephalitis of unknown etiology (MUE) concurrent with hydrocephalus. Treatment was initiated with immunosuppressants and antiseizure medication. Blood tests during treatment indicated hyponatremia and hypochloremia. Additionally, plasma hypoosmolality, high urine osmolality and natriuresis were identified. Moreover, based on physical examination, the dog was considered euvolemic. The dog had normal adrenal, thyroid and renal functions. Water restriction led to a mild improvement of hyponatremia, and the dog was diagnosed with a syndrome of inappropriate secretion of the antidiuretic hormone (SIADH). Although the electrolyte imbalance partially improved with water restriction, the dog experienced severe thirst. Consequently, tolvaptan, a vasopressin receptor antagonist, was administered at 3 mg/kg PO daily, and water restriction was eased. Hyponatremia improved with these treatments. On day 130, the seizure recurred, leading the owner to discontinue treatment; subsequently, the dog was lost to follow-up. In veterinary medicine, SIADH associated with brain diseases is often assumed to be attributed to hypothalamic-pituitary axis dysfunction, though inflammatory conditions can also cause hyponatremia. This report presents a case of SIADH accompanied by MUE, highlighting the role of inflammation as a cause of SIADH in dogs.",
+      "chunk_index": 0,
+      "char_count": 1817,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

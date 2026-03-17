@@ -1,0 +1,79 @@
+{
+  "pmid": "41493244",
+  "pmc_id": null,
+  "title": "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination.",
+  "authors": [
+    "Gibons R",
+    "Harding T",
+    "Ginsburg E",
+    "Houpe J",
+    "Miller A",
+    "Scott I",
+    "Bernhardt M"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41493244",
+      "pmc_id": null,
+      "title": "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination.",
+      "authors": [
+        "Gibons R",
+        "Harding T",
+        "Ginsburg E",
+        "Houpe J",
+        "Miller A",
+        "Scott I",
+        "Bernhardt M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Although drugs are a common cause of hyperpigmentation, the pathogenesis is unclear and varies based on the offending agent. Classic medications associated with hyperpigmentation secondary to increased melanin deposition include tetracyclines, prostaglandins, nicotine, and antimalarial medications. We report the case of a 70-year-old female who developed photodistributed hyperpigmentation due to increased melanin deposition following COVID-19 vaccination.",
+      "chunk_index": 0,
+      "char_count": 459,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41493244",
+      "pmc_id": null,
+      "title": "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination.",
+      "authors": [
+        "Gibons R",
+        "Harding T",
+        "Ginsburg E",
+        "Houpe J",
+        "Miller A",
+        "Scott I",
+        "Bernhardt M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "of hyperpigmentation, the pathogenesis is unclear and varies based on the offending agent. Classic medications associated with hyperpigmentation secondary to increased melanin deposition include tetracyclines, prostaglandins, nicotine, and antimalarial medications. We report the case of a 70-year-old female who developed photodistributed hyperpigmentation due to increased melanin deposition following COVID-19 vaccination.\n\nA 70-year-old female presented with a one-year history of diffuse blue-grey hyperpigmentation in a photodistributed pattern. Eight months prior to onset, she received her third COVID-19 booster vaccine. The patient had never undergone therapy with medications classically implicated in the condition. A punch biopsy of the left cheek demonstrated brown pigment deposition with both superficial perivascular and deep focal interstitial and perivascular distribution. Fontana-Masson stain positivity in the setting of Prussian blue negativity was suggestive of increased melanin pigment deposition as the cause of her hyperpigmentation. Extensive laboratory workup was unremarkable.",
+      "chunk_index": 1,
+      "char_count": 1107,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41493244",
+      "pmc_id": null,
+      "title": "Photodistributed Hyperpigmentation Associated With COVID-19 Vaccination.",
+      "authors": [
+        "Gibons R",
+        "Harding T",
+        "Ginsburg E",
+        "Houpe J",
+        "Miller A",
+        "Scott I",
+        "Bernhardt M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "discussion",
+      "text": "A punch biopsy of the left cheek demonstrated brown pigment deposition with both superficial perivascular and deep focal interstitial and perivascular distribution. Fontana-Masson stain positivity in the setting of Prussian blue negativity was suggestive of increased melanin pigment deposition as the cause of her hyperpigmentation. Extensive laboratory workup was unremarkable.\n\nWhile the COVID-19 vaccine has been associated with a variety of cutaneous reactions, there is little evidence describing drug-induced hyperpigmentation after vaccination. Although we cannot definitively establish a causal relationship between the patient's COVID-19 vaccination and the development of her photoinduced hyperpigmentation, an in-office literature review suggested the correlation of these two events. The timing of the vaccine relative to the onset of pigmentary changes and the absence of other identifiable metabolic triggers elevate COVID-19 vaccination as a plausible offending agent. This report is intended to raise awareness of a rare but cosmetically disfiguring potential complication of COVID-19 vaccination. &nbsp.",
+      "chunk_index": 2,
+      "char_count": 1121,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

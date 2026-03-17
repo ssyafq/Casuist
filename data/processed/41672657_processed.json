@@ -1,0 +1,35 @@
+{
+  "pmid": "41672657",
+  "pmc_id": "PMC12917310",
+  "title": "A 36-Year-Old Man With Hemoptysis and Fevers.",
+  "authors": [
+    "Mitchell S",
+    "Rojas OG",
+    "Mathavan A",
+    "Mathavan A",
+    "Ataya A"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41672657",
+      "pmc_id": "PMC12917310",
+      "title": "A 36-Year-Old Man With Hemoptysis and Fevers.",
+      "authors": [
+        "Mitchell S",
+        "Rojas OG",
+        "Mathavan A",
+        "Mathavan A",
+        "Ataya A"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "A 36-year-old man with medical history of inferior vena cava thrombus and recurrent pulmonary embolism (PE) presents to the emergency room with fever, malaise, and night sweats for 3 days and hemoptysis (approximately half a tablespoon) in the last 24 hours. He reports the first diagnosis of inferior vena cava thrombus in December 2022, when he presented with similar symptoms and was started on apixaban. Since then, he had 3 additional episodes in the following 6 months in which he was found to have recurrent PEs despite compliance with anticoagulation and changes in regimen (warfarin then enoxaparin). However, this is the first episode of hemoptysis. Patient has never smoked and denies personal and family history of coagulopathies or cancer.",
+      "chunk_index": 0,
+      "char_count": 752,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

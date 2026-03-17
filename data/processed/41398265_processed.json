@@ -1,0 +1,91 @@
+{
+  "pmid": "41398265",
+  "pmc_id": "PMC12829110",
+  "title": "Ascending bacterial optic neuritis and meningoencephalitis following tooth extraction in a cat.",
+  "authors": [
+    "Reeh S",
+    "Piroth AC",
+    "Mikic M",
+    "Becker S",
+    "Stoff M",
+    "Beineke A",
+    "Verspohl J",
+    "Busse C",
+    "Nessler J",
+    "Tipold A"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41398265",
+      "pmc_id": "PMC12829110",
+      "title": "Ascending bacterial optic neuritis and meningoencephalitis following tooth extraction in a cat.",
+      "authors": [
+        "Reeh S",
+        "Piroth AC",
+        "Mikic M",
+        "Becker S",
+        "Stoff M",
+        "Beineke A",
+        "Verspohl J",
+        "Busse C",
+        "Nessler J",
+        "Tipold A"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Dental procedures in cats are routinely performed, with complications rarely reported. However, when complications do occur, they can be severe, potentially resulting in penetrating ocular trauma, often leading to vision loss and subsequent enucleation. This report describes retrobulbar abscessation, ascending bacterial optic neuritis, and bacterial meningoencephalitis as a complication following routine tooth extraction in a cat.",
+      "chunk_index": 0,
+      "char_count": 434,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41398265",
+      "pmc_id": "PMC12829110",
+      "title": "Ascending bacterial optic neuritis and meningoencephalitis following tooth extraction in a cat.",
+      "authors": [
+        "Reeh S",
+        "Piroth AC",
+        "Mikic M",
+        "Becker S",
+        "Stoff M",
+        "Beineke A",
+        "Verspohl J",
+        "Busse C",
+        "Nessler J",
+        "Tipold A"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "performed, with complications rarely reported. However, when complications do occur, they can be severe, potentially resulting in penetrating ocular trauma, often leading to vision loss and subsequent enucleation. This report describes retrobulbar abscessation, ascending bacterial optic neuritis, and bacterial meningoencephalitis as a complication following routine tooth extraction in a cat.\n\nA 12-year-old cat was presented six days after a routine dental procedure due to left-sided eye swelling, inappetence, and lethargy. General and ophthalmic examination revealed absent vision, hyphema, and exophthalmos of the left eye, suspected to be secondary to ocular trauma. During hospitalization, the cat's mental status deteriorated, and a generalized epileptic seizure was observed. Due to the poor prognosis, the owners elected euthanasia. A postmortem MRI of the skull revealed retrobulbar and optic nerve inflammation, meningoencephalitis, and a suspected intracranial abscess potentially associated with the recent dental extraction. Necropsy confirmed a retrobulbar abscess, ascending bacterial optic neuritis, and bacterial meningoencephalitis.",
+      "chunk_index": 1,
+      "char_count": 1154,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41398265",
+      "pmc_id": "PMC12829110",
+      "title": "Ascending bacterial optic neuritis and meningoencephalitis following tooth extraction in a cat.",
+      "authors": [
+        "Reeh S",
+        "Piroth AC",
+        "Mikic M",
+        "Becker S",
+        "Stoff M",
+        "Beineke A",
+        "Verspohl J",
+        "Busse C",
+        "Nessler J",
+        "Tipold A"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "epileptic seizure was observed. Due to the poor prognosis, the owners elected euthanasia. A postmortem MRI of the skull revealed retrobulbar and optic nerve inflammation, meningoencephalitis, and a suspected intracranial abscess potentially associated with the recent dental extraction. Necropsy confirmed a retrobulbar abscess, ascending bacterial optic neuritis, and bacterial meningoencephalitis.\n\nBacterial meningitis and encephalitis should be considered as differential diagnoses in cats presenting with ocular changes and intracranial neurologic signs following routine dental procedures.",
+      "chunk_index": 2,
+      "char_count": 595,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

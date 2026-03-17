@@ -1,0 +1,31 @@
+{
+  "pmid": "40762341",
+  "pmc_id": null,
+  "title": "[Cardiac arrest secondary to thyroid storm].",
+  "authors": [
+    "Napolitano D",
+    "Corman V",
+    "Bertrand X"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40762341",
+      "pmc_id": null,
+      "title": "[Cardiac arrest secondary to thyroid storm].",
+      "authors": [
+        "Napolitano D",
+        "Corman V",
+        "Bertrand X"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm is a rare but severe complication of thyrotoxicosis, posing a life-threatening risk to patients. The causes are numerous, ranging from Graves' disease and toxic goiter to amiodarone use or even following trauma. In the event of a thyroid storm, clinical manifestations may be multiple. Cardiovascular complications are the most critical and may lead to cardio-respiratory arrest. This clinical entity is difficult to diagnose, often resulting in delayed management. In addition to symptomatic management, treatment primarily includes antithyroid drugs and beta-blockers as well in case of thyroid storm glucocorticoids to block the conversion of T4 to T3. Thyroid surgery or radioactive iodine therapy are also part of the therapeutic armamentarium. Hemodynamic support via extracorporeal membrane oxygenation (ECMO) may be considered in cases of collapse. Given the severity of thyroid storm, it is essential to consider this diagnosis in any patient presenting with symptoms compatible with hyperthyroidism.",
+      "chunk_index": 0,
+      "char_count": 1023,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

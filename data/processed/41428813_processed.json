@@ -1,0 +1,35 @@
+{
+  "pmid": "41428813",
+  "pmc_id": null,
+  "title": "18 F-FAPI-42 PET/CT Finding in a Patient With Pancreatic Ductal Adenocarcinoma Encapsulated by Immunoglobulin G4-related Autoimmune Pancreatitis Located at the Pancreatic Body.",
+  "authors": [
+    "Wang S",
+    "Zhao Y",
+    "Cui Y",
+    "Li Y",
+    "Li X"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41428813",
+      "pmc_id": null,
+      "title": "18 F-FAPI-42 PET/CT Finding in a Patient With Pancreatic Ductal Adenocarcinoma Encapsulated by Immunoglobulin G4-related Autoimmune Pancreatitis Located at the Pancreatic Body.",
+      "authors": [
+        "Wang S",
+        "Zhao Y",
+        "Cui Y",
+        "Li Y",
+        "Li X"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Pancreatic ductal adenocarcinoma (PDAC) encapsulated by IgG4-related autoimmune pancreatitis (AIP) manifests as a rare presentation. A 67-year-old man with IgG4-AIP underwent two 18 F-FAPI-42 PET/CT visualizations. The first PET/CT showed diffuse and intense FAPI uptake in the pancreas. PET/CT follow-up after a period of glucocorticoid treatment suggested focal and intense FAPI uptake along the pancreatic body. The final pathologic diagnosis after surgery was PDAC encapsulated by IgG4-AIP. 18 F-FAPI-42 PET/CT can visualize the progression of diseases and detect patients' treatment responses, which can be used for clinical management of PDAC encapsulated by IgG4-AIP patients.",
+      "chunk_index": 0,
+      "char_count": 683,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

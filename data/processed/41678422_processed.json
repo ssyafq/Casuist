@@ -1,0 +1,35 @@
+{
+  "pmid": "41678422",
+  "pmc_id": "PMC12911094",
+  "title": "Acute Hemorrhagic Necrotizing Encephalopathy in a COVID-19 Patient With a Response to Intravenous Immunoglobulin Therapy.",
+  "authors": [
+    "Almeer FS",
+    "Alkoheji HK",
+    "Zayed ME",
+    "Al-Hilly AJ",
+    "Abduljabar Hussein O"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41678422",
+      "pmc_id": "PMC12911094",
+      "title": "Acute Hemorrhagic Necrotizing Encephalopathy in a COVID-19 Patient With a Response to Intravenous Immunoglobulin Therapy.",
+      "authors": [
+        "Almeer FS",
+        "Alkoheji HK",
+        "Zayed ME",
+        "Al-Hilly AJ",
+        "Abduljabar Hussein O"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "BACKGROUND Acute hemorrhagic necrotizing encephalopathy (AHNE) is a rare, immune-mediated condition that follows viral infection and has a poor prognosis. Previously reported cases of AHNE have described a favorable clinical response to intravenous immunoglobulin (IVIG) therapy combined with corticosteroids. This report describes the case of a 67-year-old Bahraini man with AHNE associated with Coronavirus Disease-19 (COVID-19) with a response to IVIG therapy. CASE REPORT We report a 67-year-old Bahraini man with type 2 diabetes, hypertension, and a prior hemi-colectomy, presenting with acute febrile encephalopathy and a positive SARS-CoV-2 test result. The patient presented with confusion and rapid neurological decline. A magnetic resonance imaging (MRI) scan demonstrated symmetrical hemorrhagic lesions in the bilateral thalami, pons, and periventricular white matter, consistent with AHNE. Despite high-dose intravenous methylprednisolone, his condition worsened. Subsequent intravenous immunoglobulin therapy (IVIG) led to gradual neurological improvement. After a 4-month hospital stay with intensive rehabilitation, he was discharged ambulatory with minimal assistance, residual spastic dysarthria, and pyramidal weakness. A follow-up brain MRI scan showed marked lesion regression. CONCLUSIONS This case highlights the need to consider AHNE in adults with unexplained acute encephalopathy, especially amid recent viral infections like SARS-CoV-2. The patient's improvement with IVIG draws attention to its potential therapeutic role in selected adults, while also revealing the limitations of pediatric prognostic tools such as Acute Necrotizing Encephalopathy severity score (ANE-SS) in this population. Further research is needed to clarify AHNE pathophysiology, define adult-specific outcome predictors, and establish standardized diagnostic and treatment protocols.",
+      "chunk_index": 0,
+      "char_count": 1886,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

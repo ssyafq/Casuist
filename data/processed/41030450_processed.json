@@ -1,0 +1,51 @@
+{
+  "pmid": "41030450",
+  "pmc_id": "PMC12477141",
+  "title": "DKA with negative DM-autoantibodies, complicated by GBS and RESLES: a case report and literature review.",
+  "authors": [
+    "Tian N",
+    "Yang Y",
+    "Liu Q",
+    "Ma Z",
+    "Wang Y",
+    "Li X",
+    "Wang X",
+    "Jin Y",
+    "Chen R",
+    "Li Y",
+    "She F",
+    "Mou F",
+    "Zhang Q"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41030450",
+      "pmc_id": "PMC12477141",
+      "title": "DKA with negative DM-autoantibodies, complicated by GBS and RESLES: a case report and literature review.",
+      "authors": [
+        "Tian N",
+        "Yang Y",
+        "Liu Q",
+        "Ma Z",
+        "Wang Y",
+        "Li X",
+        "Wang X",
+        "Jin Y",
+        "Chen R",
+        "Li Y",
+        "She F",
+        "Mou F",
+        "Zhang Q"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Guillain-Barre syndrome (GBS) is an autoimmune-mediated disorder characterized by acute, multifocal peripheral neuropathies, typically triggered by infections, autoimmune diseases, or immunosuppressive therapies. In this report, we describe a patient newly diagnosed with diabetes mellitus (DM) and diabetic ketoacidosis (DKA), who presented with negative insulin-related autoantibodies and no identifiable infectious etiology. It is suggested that DKA may independently contribute to the development of GBS. Additionally, DKA can lead to the reversible splenial lesion syndrome (RESLES). We present a case of GBS with atypical features consistent with the acute motor axonal neuropathy (AMAN) variant.",
+      "chunk_index": 0,
+      "char_count": 702,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

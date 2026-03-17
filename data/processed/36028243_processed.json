@@ -1,0 +1,33 @@
+{
+  "pmid": "36028243",
+  "pmc_id": "PMC9422848",
+  "title": "Impending myocardial ischaemia during thyroid storm diagnosed through Wellens' syndrome.",
+  "authors": [
+    "Patra S",
+    "Kaliyappan A",
+    "Kaushik A",
+    "Roy A"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "36028243",
+      "pmc_id": "PMC9422848",
+      "title": "Impending myocardial ischaemia during thyroid storm diagnosed through Wellens' syndrome.",
+      "authors": [
+        "Patra S",
+        "Kaliyappan A",
+        "Kaushik A",
+        "Roy A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We present a case of thyroid storm precipitated by discontinuation of antithyroid drugs. The patient developed a concurrent acute coronary event during the resolution period of the thyroid storm. After 48 hours of prudent management of thyroid storm, the patient's sensorium and haemodynamics were stabilised but he had persistent mild chest discomfort and developed new-onset jaw pain. On admission, ECG showed sinus tachycardia. In consideration of persistent mild chest discomfort and new-onset jaw pain, serial ECGs were performed which revealed biphasic T waves in V2-V3 suggestive of Wellens' syndrome type A. This indicated a critical stenosis of the left anterior descending (LAD) coronary artery and impending myocardial ischaemia. The patient underwent urgent coronary catheterisation, which revealed 80% stenosis of proximal LAD and was subsequently revascularised resolving his symptoms. This case underscores the significance of serial ECG monitoring even after the acute phase of thyroid crisis, which helped in timely identification of Wellens' syndrome.",
+      "chunk_index": 0,
+      "char_count": 1069,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

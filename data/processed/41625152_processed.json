@@ -1,0 +1,56 @@
+{
+  "pmid": "41625152",
+  "pmc_id": "PMC12855551",
+  "title": "Streptococcus pyogenes and EBV coinfection in severe adult meningoencephalitis: a rare diagnosis in a diabetic patient.",
+  "authors": [
+    "Yang X",
+    "Li Z",
+    "Dai X",
+    "Chai T",
+    "Huang S",
+    "Hu F"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41625152",
+      "pmc_id": "PMC12855551",
+      "title": "Streptococcus pyogenes and EBV coinfection in severe adult meningoencephalitis: a rare diagnosis in a diabetic patient.",
+      "authors": [
+        "Yang X",
+        "Li Z",
+        "Dai X",
+        "Chai T",
+        "Huang S",
+        "Hu F"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Intracranial infection caused by Streptococcus pyogenes is extremely rare in adults. We report a case of Streptococcus pyogenes combined with Epstein-Barr virus (EBV) infection in cerebrospinal fluid (CSF), which was diagnosed by targeted next-generation sequencing (tNGS). The findings were subsequently confirmed by capillary electrophoresis (CE) and quantitative real-time PCR (qPCR), respectively. Meanwhile, digital PCR (dPCR) detection indicated the presence of Streptococcus species DNA in the blood. Brain magnetic resonance imaging (MRI) suggested the possibility of meningitis. The patient's condition improved significantly following combined antibacterial and antiviral therapy. CASE SUMMARY: A 67-year-old female patient with a history of diabetes mellitus for over ten years presented with fever, vomiting, and impaired consciousness. CSF analysis showed significantly elevated cell count, elevated neutrophil percentage, and increased lactate dehydrogenase (LDH) levels. The tNGS result of CSF indicated Streptococcus pyogenes and EBV coinfection, meanwhile, dPCR of peripheral blood suggested the presence of Streptococcus species. The patient was therefore diagnosed with intracranial infection, sepsis, and septic shock. The antimicrobial therapy was promptly adjusted to include combined antibacterial and antiviral treatment. Following intervention, the patient's symptoms gradually improved. Subsequent CSF analysis and tNGS testing demonstrated normalization of cell count and LDH levels, a significant decrease in the detection level of Streptococcus pyogenes, and negative detection of EBV.",
+      "chunk_index": 0,
+      "char_count": 1614,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41625152",
+      "pmc_id": "PMC12855551",
+      "title": "Streptococcus pyogenes and EBV coinfection in severe adult meningoencephalitis: a rare diagnosis in a diabetic patient.",
+      "authors": [
+        "Yang X",
+        "Li Z",
+        "Dai X",
+        "Chai T",
+        "Huang S",
+        "Hu F"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "shock. The antimicrobial therapy was promptly adjusted to include combined antibacterial and antiviral treatment. Following intervention, the patient's symptoms gradually improved. Subsequent CSF analysis and tNGS testing demonstrated normalization of cell count and LDH levels, a significant decrease in the detection level of Streptococcus pyogenes, and negative detection of EBV.\n\nIntracranial coinfection involving Streptococcus pyogenes and EBV is exceptionally rare in adults. Early clinical manifestations are often nonspecific, yet the disease can progress rapidly, underscoring the critical importance of prompt and accurate pathogen identification. The widespread application of tNGS has significantly enhanced early diagnostic capabilities in cases of intracranial infection.",
+      "chunk_index": 1,
+      "char_count": 786,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

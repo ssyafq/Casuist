@@ -1,0 +1,33 @@
+{
+  "pmid": "41384746",
+  "pmc_id": null,
+  "title": "Metachronous Cardio-Cerebral Infarction: A Rehabilitation Conundrum in Dual Pathology Recovery.",
+  "authors": [
+    "Ngimron AF",
+    "Zainudin MF",
+    "Rusli MRM",
+    "Roslan NFA"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41384746",
+      "pmc_id": null,
+      "title": "Metachronous Cardio-Cerebral Infarction: A Rehabilitation Conundrum in Dual Pathology Recovery.",
+      "authors": [
+        "Ngimron AF",
+        "Zainudin MF",
+        "Rusli MRM",
+        "Roslan NFA"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Cardio-cerebral infarction, the simultaneous (synchronous) or sequential (metachronous) occurrence of acute ischemic stroke and acute myocardial infarction, poses significant challenges in both acute care and rehabilitation. We describe a 52-yr-old man who presented with acute myocardial infarction followed by ischemic stroke diagnosed within hours, representing metachronous cardio-cerebral infarction. After initial thrombolysis and delayed percutaneous coronary intervention, he demonstrated significant cognitive and language impairments that limited participation in a standard outpatient cardiac rehabilitation program. A combined inpatient stroke-cardiac rehabilitation approach was implemented, incorporating attention process training, speech-language therapy, transcranial direct current stimulation, pharmacological neuromodulation with piracetam, and tailored aerobic reconditioning. After 4 wks of integrated therapy, the patient showed improvements in cognitive function, communication and exercise tolerance. This case illustrates the feasibility and necessity of an integrated, interdisciplinary rehabilitation model in cardio-cerebral infarction. Further research is required to develop structured rehabilitation protocols for this rare but complex condition.",
+      "chunk_index": 0,
+      "char_count": 1278,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "40439560",
+  "pmc_id": "PMC12422895",
+  "title": "A case of diabetic ketoacidosis triggered by immune checkpoint inhibitors in the treatment of recurrent nasopharyngeal carcinoma.",
+  "authors": [
+    "Xian S",
+    "Yang L",
+    "Wang C",
+    "Cao J",
+    "Jiang D",
+    "Huang J"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40439560",
+      "pmc_id": "PMC12422895",
+      "title": "A case of diabetic ketoacidosis triggered by immune checkpoint inhibitors in the treatment of recurrent nasopharyngeal carcinoma.",
+      "authors": [
+        "Xian S",
+        "Yang L",
+        "Wang C",
+        "Cao J",
+        "Jiang D",
+        "Huang J"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Immune-related adverse events (irAEs) caused by immune checkpoint inhibitors (ICIs) have been widely documented. Diabetic ketoacidosis (DKA), a severe irAEs, has not been previously reported in patients with nasopharyngeal carcinoma (NPC). This case report describes the development of DKA during maintenance immunotherapy with tislelizumab in a patient with recurrent NPC. A 41-year-old female patient with recurrent NPC (rT3N0M0, 8 th edition of AJCC staging) experienced DKA during her 13 th session of maintenance treatment with the ICI tislelizumab. After urgent consultation with an endocrinologist, immune-related DKA was diagnosed, and immune checkpoint inhibitor-related diabetes was confirmed. Prompt treatment with hypoglycemic agents, fluid infusion, and correction of water-electrolyte and acid-base balance was administered. The patient's blood glucose was stabilized within 6 days, and she was discharged without complications. This is the first reported case of DKA in a patient with NPC receiving tislelizumab maintenance immunotherapy. Clinicians should enhance their understanding and monitoring of adverse events in patients treated with ICIs, focusing on early diagnosis and appropriate intervention.",
+      "chunk_index": 0,
+      "char_count": 1221,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

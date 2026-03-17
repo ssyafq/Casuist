@@ -1,0 +1,33 @@
+{
+  "pmid": "41381198",
+  "pmc_id": null,
+  "title": "Juvenile/adult-onset POLG-related disease unmasked by valproate-associated fulminant hepatic failure.",
+  "authors": [
+    "Mathavan A",
+    "Rathi K",
+    "Mundhra LJ",
+    "Mathavan A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41381198",
+      "pmc_id": null,
+      "title": "Juvenile/adult-onset POLG-related disease unmasked by valproate-associated fulminant hepatic failure.",
+      "authors": [
+        "Mathavan A",
+        "Rathi K",
+        "Mundhra LJ",
+        "Mathavan A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "DNA polymerase subunit gamma-1 (POLG)-related disease is a heterogeneous spectrum of mitochondrial disorders with neurologic and hepatic manifestations. We report a woman in her 20s who developed refractory seizures followed by fulminant hepatic failure after valproic acid exposure. Laboratory evaluation revealed low copper indices without evidence of Wilson disease, neuroimaging demonstrated evolving posterior-predominant abnormalities, and liver biopsy showed acute hepatitis with microvesicular change and 'two-toned' hepatocytes. Rapid whole-genome sequencing identified compound-heterozygous POLG variants c.1399G>A p.(Ala467Thr) and c.2243G>C p.(Trp748Ser), confirming a juvenile/adult-onset POLG-related disorder. This case highlights key diagnostic pitfalls, including potential misdirection of copper studies and risk of valproate hepatotoxicity in patients with unrecognised POLG variants. Supportive clues like occipital-predominant electroencephalogram/MRI changes, rapid neurologic-hepatic progression and hepatic microvesicular pathology can aid early suspicion but are not universally present. Prompt genetic testing and multidisciplinary follow-up are essential to guide management, avoid harmful therapies and anticipate the trajectory of this multisystem disease.",
+      "chunk_index": 0,
+      "char_count": 1285,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

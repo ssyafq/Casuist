@@ -1,0 +1,33 @@
+{
+  "pmid": "41513282",
+  "pmc_id": "PMC12887155",
+  "title": "Central hypoventilation and choking episodes revealing Chiari malformation type I.",
+  "authors": [
+    "Mousa AM",
+    "Mahmoud M",
+    "AlShuraiaan GM",
+    "Bitar ZI"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41513282",
+      "pmc_id": "PMC12887155",
+      "title": "Central hypoventilation and choking episodes revealing Chiari malformation type I.",
+      "authors": [
+        "Mousa AM",
+        "Mahmoud M",
+        "AlShuraiaan GM",
+        "Bitar ZI"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "A woman in her early 40s presented with a 7-year history of recurrent choking episodes affecting solids and liquids, nocturnal choking episodes occurring 3-4 times weekly, and chronic occipital headaches spanning 14 years. Home monitoring during the COVID-19 pandemic incidentally revealed episodes of severe oxygen desaturation (70%-80%) without respiratory distress. Multiple laryngoscopies and endoscopies performed to investigate the choking episodes were normal. Review of a 14-year-old CT scan of the head performed for unrelated trauma revealed a previously overlooked crowded foramen magnum. MRI of the head and neck confirmed Chiari malformation type I (CMI) with 11 mm cerebellar tonsillar descent. Sleep study demonstrated mild sleep apnoea (apnoea-hypopnoea index 6.0) with predominantly central events (72%). This case illustrates that CMI can present with respiratory symptoms that closely mimic acquired central hypoventilation syndrome (Ondine's curse), emphasising the importance of considering structural brain abnormalities in patients with unexplained respiratory dysfunction.",
+      "chunk_index": 0,
+      "char_count": 1096,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

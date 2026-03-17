@@ -1,0 +1,33 @@
+{
+  "pmid": "41545225",
+  "pmc_id": null,
+  "title": "Sequential radiation-induced and immune checkpoint inhibitor-induced pneumonitis in a patient with breast carcinoma.",
+  "authors": [
+    "Abdul Hamid MF",
+    "Che Rahim MJ",
+    "Arif N",
+    "Mohamad Jailaini MF"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41545225",
+      "pmc_id": null,
+      "title": "Sequential radiation-induced and immune checkpoint inhibitor-induced pneumonitis in a patient with breast carcinoma.",
+      "authors": [
+        "Abdul Hamid MF",
+        "Che Rahim MJ",
+        "Arif N",
+        "Mohamad Jailaini MF"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "We report a woman in her early 60s with right breast carcinoma who received chemotherapy, whole breast radiotherapy and pembrolizumab (immune checkpoint inhibitor). During the sixth pembrolizumab cycle, she developed progressive cough and exertional dyspnoea. CT of the thorax revealed a right upper lobe consolidation with air bronchogram and surrounding ground-glass opacities, while bronchoalveolar lavage excluded infection and malignancy. A diagnosis of overlapping radiation-induced and pembrolizumab-induced pneumonitis was made. Oral corticosteroids led to rapid clinical improvement, with radiological resolution and spirometry improvement within 3 months. This case illustrates the diagnostic challenge of differentiating immune-related from radiation-induced pneumonitis, particularly when therapies are administered sequentially. It also emphasises the importance of careful evaluation and timing of pembrolizumab initiation after radiotherapy to mitigate pneumonitis risk. Systematic exclusion of alternative causes, awareness of dual pathology and prompt corticosteroid therapy remain critical to ensure favourable outcomes in patients undergoing multimodal cancer treatment.",
+      "chunk_index": 0,
+      "char_count": 1189,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

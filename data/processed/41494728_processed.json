@@ -1,0 +1,31 @@
+{
+  "pmid": "41494728",
+  "pmc_id": null,
+  "title": "Management of an inferior vena cava thrombus with comorbid intracranial haemorrhage and cerebral amyloid angiopathy.",
+  "authors": [
+    "MacKay K",
+    "Dinh CA",
+    "Dugani SB"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41494728",
+      "pmc_id": null,
+      "title": "Management of an inferior vena cava thrombus with comorbid intracranial haemorrhage and cerebral amyloid angiopathy.",
+      "authors": [
+        "MacKay K",
+        "Dinh CA",
+        "Dugani SB"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "We highlight the complex management considerations in a patient with cerebral amyloid angiopathy who developed venous thromboembolism, explicitly navigating the balance between risks of thromboembolism and bleeding with anticoagulation therapy. This case highlights a man in his 70s who presented to the emergency department with an acute right frontal intracerebral haemorrhage secondary to cerebral amyloid angiopathy with an acute segmental pulmonary embolism managed with an inferior vena cava (IVC) filter. During hospitalisation, the patient developed a large expansile thrombus extending inferior from the IVC filter to the right popliteal vein. This necessitated the initiation of anticoagulation therapy, beginning with unfractionated heparin, transitioning to enoxaparin and ultimately to apixaban. He was treated with 3 months of anticoagulation with no haemorrhagic complications. The patient's successful outcome underscored the potential for safe and effective anticoagulation management in this complex clinical scenario.",
+      "chunk_index": 0,
+      "char_count": 1036,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

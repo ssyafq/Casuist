@@ -1,0 +1,87 @@
+{
+  "pmid": "41514395",
+  "pmc_id": "PMC12849275",
+  "title": "Unmasking EGPA with near fatal diffuse alveolar haemorrhage in severe eosinophilic asthma under treatment with benralizumab: a case report.",
+  "authors": [
+    "Drick N",
+    "Kaireit TF",
+    "Ruwisch J",
+    "Schallhorn S",
+    "Bauersachs J",
+    "Schenk H",
+    "Hoeper MM",
+    "Witte T",
+    "Seeliger B"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41514395",
+      "pmc_id": "PMC12849275",
+      "title": "Unmasking EGPA with near fatal diffuse alveolar haemorrhage in severe eosinophilic asthma under treatment with benralizumab: a case report.",
+      "authors": [
+        "Drick N",
+        "Kaireit TF",
+        "Ruwisch J",
+        "Schallhorn S",
+        "Bauersachs J",
+        "Schenk H",
+        "Hoeper MM",
+        "Witte T",
+        "Seeliger B"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Eosinophils are key factors to the pathogenesis of severe eosinophilic asthma and eosinophilic granulomatosis with polyangiitis (EGPA). Monoclonal antibodies targeting the interleukin-5 (IL-5) pathway (mepolizumab and benralizumab) often lead to rapid symptom control and enable tapering of oral corticosteroids (OCS) in many patients.",
+      "chunk_index": 0,
+      "char_count": 335,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41514395",
+      "pmc_id": "PMC12849275",
+      "title": "Unmasking EGPA with near fatal diffuse alveolar haemorrhage in severe eosinophilic asthma under treatment with benralizumab: a case report.",
+      "authors": [
+        "Drick N",
+        "Kaireit TF",
+        "Ruwisch J",
+        "Schallhorn S",
+        "Bauersachs J",
+        "Schenk H",
+        "Hoeper MM",
+        "Witte T",
+        "Seeliger B"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Eosinophils are key factors to the pathogenesis of severe eosinophilic asthma and eosinophilic granulomatosis with polyangiitis (EGPA). Monoclonal antibodies targeting the interleukin-5 (IL-5) pathway (mepolizumab and benralizumab) often lead to rapid symptom control and enable tapering of oral corticosteroids (OCS) in many patients.\n\nWe present the case of a 51-year-old male patient with severe eosinophilic asthma, peripheral blood eosinophilia, and ear, nose, and throat (ENT) involvement, treated with benralizumab (30 mg every 8 weeks) and oral corticosteroids. During tapering of corticosteroids, the patient developed diffuse alveolar haemorrhage as a manifestation of overt vasculitis. Subsequently, elevated troponin T levels were detected, and further diagnostic work-up revealed both myocardial involvement consistent with EGPA and an acute myocardial infarction due to occlusion of the left anterior descending (LAD) artery.",
+      "chunk_index": 1,
+      "char_count": 939,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41514395",
+      "pmc_id": "PMC12849275",
+      "title": "Unmasking EGPA with near fatal diffuse alveolar haemorrhage in severe eosinophilic asthma under treatment with benralizumab: a case report.",
+      "authors": [
+        "Drick N",
+        "Kaireit TF",
+        "Ruwisch J",
+        "Schallhorn S",
+        "Bauersachs J",
+        "Schenk H",
+        "Hoeper MM",
+        "Witte T",
+        "Seeliger B"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "corticosteroids. During tapering of corticosteroids, the patient developed diffuse alveolar haemorrhage as a manifestation of overt vasculitis. Subsequently, elevated troponin T levels were detected, and further diagnostic work-up revealed both myocardial involvement consistent with EGPA and an acute myocardial infarction due to occlusion of the left anterior descending (LAD) artery.\n\nCentral immunopathogenic pathways involved in vasculitis are not targeted by IL-5 antibodies and vasculitic manifestations may relapse or even newly emerge despite ongoing biological therapy. Elevated troponin levels in EGPA patients should only be attributed to EGPA once other potential causes of myocardial injury are ruled out.",
+      "chunk_index": 2,
+      "char_count": 719,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

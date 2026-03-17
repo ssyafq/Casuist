@@ -1,0 +1,71 @@
+{
+  "pmid": "41480892",
+  "pmc_id": null,
+  "title": "Methotrexate-associated pneumonitis: usefulness of lung ultrasound.",
+  "authors": [
+    "Cortes JS",
+    "Correa J",
+    "Carvajal W",
+    "Aponte W",
+    "Cajas LJ"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41480892",
+      "pmc_id": null,
+      "title": "Methotrexate-associated pneumonitis: usefulness of lung ultrasound.",
+      "authors": [
+        "Cortes JS",
+        "Correa J",
+        "Carvajal W",
+        "Aponte W",
+        "Cajas LJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Methotrexate-associated pneumonitis (MTX-Pneu) is a rare, idiosyncratic hypersensitivity reaction that can occur in patients receiving methotrexate for rheumatoid arthritis. Although uncommon, MTX-Pneu may present acutely and requires prompt recognition.",
+      "chunk_index": 0,
+      "char_count": 254,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41480892",
+      "pmc_id": null,
+      "title": "Methotrexate-associated pneumonitis: usefulness of lung ultrasound.",
+      "authors": [
+        "Cortes JS",
+        "Correa J",
+        "Carvajal W",
+        "Aponte W",
+        "Cajas LJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Methotrexate-associated pneumonitis (MTX-Pneu) is a rare, idiosyncratic hypersensitivity reaction that can occur in patients receiving methotrexate for rheumatoid arthritis. Although uncommon, MTX-Pneu may present acutely and requires prompt recognition.\n\nA 75-year-old woman with late-onset, seropositive rheumatoid arthritis started treatment with methotrexate and prednisolone. Two weeks later, she developed fever, cough, and dyspnea. Lung ultrasound and chest computed tomography revealed bilateral pulmonary involvement. Methotrexate was discontinued and the corticosteroid dose was increased. One month later, clinical symptoms and imaging findings had fully resolved, confirming MTX-Pneu.",
+      "chunk_index": 1,
+      "char_count": 696,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41480892",
+      "pmc_id": null,
+      "title": "Methotrexate-associated pneumonitis: usefulness of lung ultrasound.",
+      "authors": [
+        "Cortes JS",
+        "Correa J",
+        "Carvajal W",
+        "Aponte W",
+        "Cajas LJ"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "seropositive rheumatoid arthritis started treatment with methotrexate and prednisolone. Two weeks later, she developed fever, cough, and dyspnea. Lung ultrasound and chest computed tomography revealed bilateral pulmonary involvement. Methotrexate was discontinued and the corticosteroid dose was increased. One month later, clinical symptoms and imaging findings had fully resolved, confirming MTX-Pneu.\n\nMethotrexate-associated pneumonitis is an idiosyncratic hypersensitivity reaction with a low incidence and is independent of the development of rheumatoid arthritis-associated interstitial lung disease. Early discontinuation of methotrexate and corticosteroid therapy are key to management, and prognosis is generally favorable. This case highlights the potential role of lung ultrasound as a rapid bedside tool for detection and monitoring of MTX-Pneu.",
+      "chunk_index": 2,
+      "char_count": 858,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

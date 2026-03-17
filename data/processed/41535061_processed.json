@@ -1,0 +1,33 @@
+{
+  "pmid": "41535061",
+  "pmc_id": null,
+  "title": "Genotypic and radiological expansion of CONDSIAS.",
+  "authors": [
+    "Roy S",
+    "Desai N",
+    "Ali B",
+    "Udani V"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41535061",
+      "pmc_id": null,
+      "title": "Genotypic and radiological expansion of CONDSIAS.",
+      "authors": [
+        "Roy S",
+        "Desai N",
+        "Ali B",
+        "Udani V"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures, is a rare genetic cause of childhood neuroregression and ataxia. A girl in early childhood, born of third-degree consanguinity, presented with paroxysmal torticollis starting around 2 years of age, which worsened subsequently, accompanied by ataxia, titubation, dystonia, dyskinesias, seizures and encephalopathy. The brain MRI initially showed signal abnormalities in the periventricular white matter and bilateral putamina, with restricted diffusion seen in the latter. While the putaminal changes disappeared in later scans, other findings progressed to severe generalised atrophy. Molecular analysis identified a novel homozygous mutation in the adenosine diphosphate-ribosyl serine hydrolase gene (chr1: g.36093274G>T; c.980G>T), with confirmed parental carrier status. This report broadens the understanding of the genetic and radiological diversity of this disorder and highlights its highly variable presentation. The phenotypic overlap with many paroxysmal neurological diseases requires a high suspicion for early diagnosis.",
+      "chunk_index": 0,
+      "char_count": 1121,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41101790",
+  "pmc_id": null,
+  "title": "Oesophageal duplication cyst resembling congenital lobar emphysema.",
+  "authors": [
+    "Bisht S",
+    "Bafna S",
+    "Bafna T",
+    "Handu A"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41101790",
+      "pmc_id": null,
+      "title": "Oesophageal duplication cyst resembling congenital lobar emphysema.",
+      "authors": [
+        "Bisht S",
+        "Bafna S",
+        "Bafna T",
+        "Handu A"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "A female infant presented with a month-long history of dry cough, along with two episodes of fever and increased work of breathing, requiring hospital admission and oxygen therapy. On examination, she had severe acute malnutrition, mild tachypnoea, chest retractions and reduced air entry in the left lower lung zone with occasional wheezing, though oxygen saturation was normal on room air. Chest X-ray showed left lung hyperinflation with mediastinal shift to the right. A plain CT chest done outside showed left lung hyperlucency, and bronchoscopy revealed near-complete blockage of the left main bronchus. Contrast chest CT identified a hypodense lesion in the subcarinal area, compressing the oesophagus and left main bronchus and abutting the aorta. She underwent right posterolateral thoracotomy with cyst excision and chest drain placement. Histopathology confirmed an oesophageal duplication cyst. On follow-up, left lung aeration significantly improved.",
+      "chunk_index": 0,
+      "char_count": 963,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

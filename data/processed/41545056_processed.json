@@ -1,0 +1,31 @@
+{
+  "pmid": "41545056",
+  "pmc_id": null,
+  "title": "Role of long-acting injectables in perinatally acquired HIV, with persistent viraemia and non-nucleoside reverse transcriptase inhibitor resistance.",
+  "authors": [
+    "Grant A",
+    "Keegan S",
+    "Kulasegaram R"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41545056",
+      "pmc_id": null,
+      "title": "Role of long-acting injectables in perinatally acquired HIV, with persistent viraemia and non-nucleoside reverse transcriptase inhibitor resistance.",
+      "authors": [
+        "Grant A",
+        "Keegan S",
+        "Kulasegaram R"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "This case describes successful management of a man with perinatally acquired HIV complicated by incomplete adherence, multidrug-resistant HIV and opportunistic infections-cryptococcal meningitis and mycobacterium avium intracellulare. Initial treatment included antifungal and antimycobacterials with oral antiretroviral therapy (ART), but persistent high HIV viral load (>100 000 copies/mL) prompted initiation of long-acting injectable ART (LAI-ART) with cabotegravir and rilpivirine combined with adjunct oral nucleoside reverse transcriptase inhibitor therapy (emtricitabine/tenofovir). This combination is expected to have reduced antiviral activity secondary to resistant mutations; notably, high-level resistance to emtricitabine and intermediate resistance to rilpivirine. To attenuate further resistance, 4-weekly dosing of LAI-ART was used. This regimen led to viral suppression within 4 weeks, which remains suppressed (>1 year) and successful immune reconstitution (CD4 cell count of 209 cells/microL/18.7%), despite challenges with adherence to oral medications. This case highlights the feasibility and effectiveness of LAI-ART in managing complex resistance and adherence in perinatally acquired HIV.",
+      "chunk_index": 0,
+      "char_count": 1215,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "41288221",
+  "pmc_id": null,
+  "title": "[Successful repeated endovascular procedure for TIPS thrombosis].",
+  "authors": [
+    "Dzhurakulov SR",
+    "Vechorko VI",
+    "Faibushevich AG",
+    "Tashliev KV",
+    "Fakhriev ZA"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41288221",
+      "pmc_id": null,
+      "title": "[Successful repeated endovascular procedure for TIPS thrombosis].",
+      "authors": [
+        "Dzhurakulov SR",
+        "Vechorko VI",
+        "Faibushevich AG",
+        "Tashliev KV",
+        "Fakhriev ZA"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Transjugular intrahepatic portosystemic shunt (TIPS) is a minimally invasive and effective treatment for gastrointestinal variceal bleeding and refractory ascites associated with portal hypertension. However, TIPS dysfunction occurs for various reasons and can lead to recurrent complications. In such cases, repeated endovascular intervention can be performed for portal hypertension. This article presents one of the methods of endovascular correction (Y-stenting) for TIPS thrombosis.",
+      "chunk_index": 0,
+      "char_count": 487,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

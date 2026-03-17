@@ -1,0 +1,45 @@
+{
+  "pmid": "41411871",
+  "pmc_id": null,
+  "title": "Borrelia crocidurae meningoencephalitis in a young Senegalense man returning to Tenerife, Canary Islands.",
+  "authors": [
+    "Mateo Leon C",
+    "Rodriguez Martin S",
+    "Garcia Martinez de Artola D",
+    "Portillo A",
+    "Lara Perez M",
+    "Escudero R",
+    "Sole Violan C",
+    "Santibanez P",
+    "Martin Trueba J",
+    "Oteo JA"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41411871",
+      "pmc_id": null,
+      "title": "Borrelia crocidurae meningoencephalitis in a young Senegalense man returning to Tenerife, Canary Islands.",
+      "authors": [
+        "Mateo Leon C",
+        "Rodriguez Martin S",
+        "Garcia Martinez de Artola D",
+        "Portillo A",
+        "Lara Perez M",
+        "Escudero R",
+        "Sole Violan C",
+        "Santibanez P",
+        "Martin Trueba J",
+        "Oteo JA"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Borrelia crocidurae infection is considered endemic in West Africa. We describe a B. crocidurae meningoencephalitis in a young Senegalese man returning to the Canary Islands from his home country. Clinical suspicion in patients from endemic areas and molecular diagnostic techniques are essential for accurate identification of this pathogen.",
+      "chunk_index": 0,
+      "char_count": 342,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

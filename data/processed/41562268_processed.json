@@ -1,0 +1,41 @@
+{
+  "pmid": "41562268",
+  "pmc_id": null,
+  "title": "Lower limb functional electrical stimulation improves stair stepping in an individual with stroke: a case report.",
+  "authors": [
+    "States G",
+    "Golabek J",
+    "Gagnier B",
+    "Lombardo L",
+    "Pinault G",
+    "Selkirk S",
+    "Triolo R",
+    "Makowski N"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41562268",
+      "pmc_id": null,
+      "title": "Lower limb functional electrical stimulation improves stair stepping in an individual with stroke: a case report.",
+      "authors": [
+        "States G",
+        "Golabek J",
+        "Gagnier B",
+        "Lombardo L",
+        "Pinault G",
+        "Selkirk S",
+        "Triolo R",
+        "Makowski N"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "This case report details the potential benefits of an implanted neural stimulation system for walking to assist stair climbing after stroke. A 12-channel stimulation system was implanted in a stroke survivor for walking. Despite biweekly gait training with functional electrical stimulation (FES) that yielded locomotor improvements, the participant did not feel comfortable attempting stair climbing due to the lack of stability and fear of falling. During physical therapy, he previously limited his attempts at stair climbing to a step-to strategy with the paretic limb. The participant agreed to attempt stair climbing in a controlled environment with and without FES and displayed a marked improvement with stimulation, including increased hip/knee flexion, higher toe clearance, and the ability to use a step-over-step strategy which reduced his ascent time. This case report highlights the potential of using a multi-joint FES system for improving functions beyond walking in individuals with hemiplegia.",
+      "chunk_index": 0,
+      "char_count": 1011,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

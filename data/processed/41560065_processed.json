@@ -1,0 +1,67 @@
+{
+  "pmid": "41560065",
+  "pmc_id": "PMC12826139",
+  "title": "Recurrent gastric variceal bleeding due to wandering spleen - complete resolution following laparoscopic splenectomy: A case report.",
+  "authors": [
+    "Jin BC",
+    "Seo SY",
+    "Baek HS",
+    "Kim SW"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41560065",
+      "pmc_id": "PMC12826139",
+      "title": "Recurrent gastric variceal bleeding due to wandering spleen - complete resolution following laparoscopic splenectomy: A case report.",
+      "authors": [
+        "Jin BC",
+        "Seo SY",
+        "Baek HS",
+        "Kim SW"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Wandering spleen is a rare clinical entity caused by laxity or absence of splenic suspensory ligaments, predisposing to torsion of the vascular pedicle and subsequent vascular compromise. In unusual cases, splenic vein torsion may lead to left-sided (sinistral) portal hypertension with isolated gastric varices in the absence of cirrhosis. Although uncommon, variceal bleeding from this mechanism can be severe and requires timely recognition.",
+      "chunk_index": 0,
+      "char_count": 444,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41560065",
+      "pmc_id": "PMC12826139",
+      "title": "Recurrent gastric variceal bleeding due to wandering spleen - complete resolution following laparoscopic splenectomy: A case report.",
+      "authors": [
+        "Jin BC",
+        "Seo SY",
+        "Baek HS",
+        "Kim SW"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "splenic suspensory ligaments, predisposing to torsion of the vascular pedicle and subsequent vascular compromise. In unusual cases, splenic vein torsion may lead to left-sided (sinistral) portal hypertension with isolated gastric varices in the absence of cirrhosis. Although uncommon, variceal bleeding from this mechanism can be severe and requires timely recognition.\n\nWe report a 56-year-old man who presented with recurrent melena. Esophagogastroduodenoscopy revealed large fundic gastric varices without esophageal varices, and cross-sectional imaging identified a wandering spleen displaced into the pelvic cavity with venous congestion but no evidence of liver disease. Endoscopic cyanoacrylate injection provided temporary hemostasis; however, because of persistent vascular compromise and risk of rebleeding, laparoscopic splenectomy was performed. The postoperative course was uneventful, and follow-up computed tomography 5 months later confirmed complete resolution of perigastric varices and splenic venous congestion, demonstrating the reversibility of sinistral portal hypertension once splenic outflow obstruction is corrected.",
+      "chunk_index": 1,
+      "char_count": 1144,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41560065",
+      "pmc_id": "PMC12826139",
+      "title": "Recurrent gastric variceal bleeding due to wandering spleen - complete resolution following laparoscopic splenectomy: A case report.",
+      "authors": [
+        "Jin BC",
+        "Seo SY",
+        "Baek HS",
+        "Kim SW"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "hemostasis; however, because of persistent vascular compromise and risk of rebleeding, laparoscopic splenectomy was performed. The postoperative course was uneventful, and follow-up computed tomography 5 months later confirmed complete resolution of perigastric varices and splenic venous congestion, demonstrating the reversibility of sinistral portal hypertension once splenic outflow obstruction is corrected.\n\nWandering spleen with splenic vein torsion should be considered in patients presenting with isolated gastric varices and no signs of liver cirrhosis. While endoscopic therapy may achieve transient hemostasis, it does not correct the underlying hemodynamic disturbance. Splenectomy represents the definitive treatment, achieving durable hemodynamic correction and preventing further bleeding. Early recognition and surgical management are therefore essential for optimal outcomes in this rare but clinically significant condition.",
+      "chunk_index": 2,
+      "char_count": 943,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "41671627",
+  "pmc_id": null,
+  "title": "Real-world occurrence of severe gastrointestinal bleeding in patients receiving amivantamab plus lazertinib: A two-case series among 25 consecutive cases.",
+  "authors": [
+    "Hashimoto K",
+    "Takahara M",
+    "Ishii R",
+    "Uno T",
+    "Yamaguchi O",
+    "Mouri A",
+    "Imai H",
+    "Kagamu H",
+    "Kaira K"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41671627",
+      "pmc_id": null,
+      "title": "Real-world occurrence of severe gastrointestinal bleeding in patients receiving amivantamab plus lazertinib: A two-case series among 25 consecutive cases.",
+      "authors": [
+        "Hashimoto K",
+        "Takahara M",
+        "Ishii R",
+        "Uno T",
+        "Yamaguchi O",
+        "Mouri A",
+        "Imai H",
+        "Kagamu H",
+        "Kaira K"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Amivantamab plus lazertinib is an emerging targeted therapy directed against epidermal growth factor receptor (EGFR) and mesenchymal-epithelial transition pathways for the treatment of EGFR-mutated non-small cell lung cancer. Although clinical trials have not reported significant gastrointestinal bleeding (GIB), we describe two real-world cases (representing 8% of 25 treated patients) who developed life-threatening GIB during therapy. Both patients exhibited progressive hypoalbuminemia and gastrointestinal mucosal edema preceding the onset of bleeding. Contrast-enhanced computed tomography and endoscopic evaluation demonstrated diffuse bowel wall edema and multiple mucosal ulcers. Both the patients received apixaban. One patient recovered with supportive management, while the other died of hemorrhagic shock. These findings suggest that real-world patients, who are often older, treated in later lines of therapy, and using concomitant anticoagulants, may be more vulnerable to severe gastrointestinal complications than those enrolled in controlled clinical trials. Close monitoring of serum albumin levels and gastrointestinal symptoms is recommended to prevent potentially fatal complications.",
+      "chunk_index": 0,
+      "char_count": 1207,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

@@ -1,0 +1,62 @@
+{
+  "pmid": "40537294",
+  "pmc_id": "PMC12319625",
+  "title": "A Case of Concurrent Metformin-Associated Lactic Acidosis and Euglycemic Diabetic Ketoacidosis.",
+  "authors": [
+    "Tomita D",
+    "Bamba Y",
+    "Kuwabara N",
+    "Akakabe S",
+    "Matsubayashi Y",
+    "Nakagawa S",
+    "Sone H",
+    "Nishiyama K"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40537294",
+      "pmc_id": "PMC12319625",
+      "title": "A Case of Concurrent Metformin-Associated Lactic Acidosis and Euglycemic Diabetic Ketoacidosis.",
+      "authors": [
+        "Tomita D",
+        "Bamba Y",
+        "Kuwabara N",
+        "Akakabe S",
+        "Matsubayashi Y",
+        "Nakagawa S",
+        "Sone H",
+        "Nishiyama K"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Combination therapy with metformin and sodium-glucose cotransporter 2 (SGLT2) inhibitors is strongly recommended for adults with type 2 diabetes mellitus who have inadequate glycemic control. These inhibitors are particularly indicated for patients with a history or high risk of atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease. Consequently, the number of patients receiving both metformin and SGLT2 inhibitors is expected to increase. However, these treatments pose a risk of life-threatening acidoses, specifically metformin-associated lactic acidosis (MALA) and euglycemic diabetic ketoacidosis (euDKA), which require prompt differentiation and distinct treatments.",
+      "chunk_index": 0,
+      "char_count": 702,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40537294",
+      "pmc_id": "PMC12319625",
+      "title": "A Case of Concurrent Metformin-Associated Lactic Acidosis and Euglycemic Diabetic Ketoacidosis.",
+      "authors": [
+        "Tomita D",
+        "Bamba Y",
+        "Kuwabara N",
+        "Akakabe S",
+        "Matsubayashi Y",
+        "Nakagawa S",
+        "Sone H",
+        "Nishiyama K"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "atherosclerotic cardiovascular disease, heart failure, or chronic kidney disease. Consequently, the number of patients receiving both metformin and SGLT2 inhibitors is expected to increase. However, these treatments pose a risk of life-threatening acidoses, specifically metformin-associated lactic acidosis (MALA) and euglycemic diabetic ketoacidosis (euDKA), which require prompt differentiation and distinct treatments.\n\nWe present the case of a woman in her 50s with chronic heart failure who had been treated for type 2 diabetes for 15 years. After dehydration caused by working in hot conditions and fluid restriction, she presented with dehydration, fatigue, respiratory distress, hypotension, tachypnea, hypothermia, acute renal failure, hypoglycemia, and severe metabolic acidosis. Despite supportive care, lactic acidosis persisted, leading to a diagnosis of MALA. Hemodialysis improved lactate levels, but a persistent anion gap and elevated beta-hydroxybutyrate level confirmed euDKA. Metabolic abnormalities resolved with continuous insulin infusion and the patient was discharged without sequelae. WHY SHOULD AN EMERGENCY PHYSICIAN BE AWARE OF THIS?: The combination of MALA and euDKA represents rare but potentially fatal conditions requiring distinct diagnostic and therapeutic approaches. With their growing use for type 2 diabetes management and cardiovascular/kidney benefits, emergency physicians are more likely to encounter complications associated with these medications.",
+      "chunk_index": 1,
+      "char_count": 1494,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

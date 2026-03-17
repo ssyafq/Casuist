@@ -1,0 +1,53 @@
+{
+  "pmid": "41296309",
+  "pmc_id": null,
+  "title": "Atypical Presentation of Myelin Oligodendrocyte Glycoprotein Antibody Disease as Pyrexia of Unknown Origin with Meningitis: A Case Report.",
+  "authors": [
+    "Padhiyar VN",
+    "Pahuja VJ",
+    "Maitra A",
+    "Chaudhary NV",
+    "Singhal T"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41296309",
+      "pmc_id": null,
+      "title": "Atypical Presentation of Myelin Oligodendrocyte Glycoprotein Antibody Disease as Pyrexia of Unknown Origin with Meningitis: A Case Report.",
+      "authors": [
+        "Padhiyar VN",
+        "Pahuja VJ",
+        "Maitra A",
+        "Chaudhary NV",
+        "Singhal T"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) is a rare autoimmune neuroinflammatory disorder. While it typically presents as optic neuritis, myelitis, or acute disseminated encephalomyelitis (ADEM), its manifestation as pyrexia of unknown origin (PUO) with subsequent meningitis is extremely rare. CASE DESCRIPTION: We report a 17-year-old male who presented with persistent fever and headache, without focal neurological deficits. Extensive infectious workup was inconclusive. Cerebrospinal fluid (CSF) analysis revealed mild pleocytosis, and empirical antibiotics were initiated without clinical improvement. A repeat CSF analysis demonstrated worsening pleocytosis, prompting an expanded autoimmune and neuroinflammatory panel. MOG-IgG antibodies were detected in both serum and CSF, confirming the diagnosis of MOGAD. The patient responded well to high-dose corticosteroids followed by mycophenolate mofetil for maintenance therapy.",
+      "chunk_index": 0,
+      "char_count": 963,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41296309",
+      "pmc_id": null,
+      "title": "Atypical Presentation of Myelin Oligodendrocyte Glycoprotein Antibody Disease as Pyrexia of Unknown Origin with Meningitis: A Case Report.",
+      "authors": [
+        "Padhiyar VN",
+        "Pahuja VJ",
+        "Maitra A",
+        "Chaudhary NV",
+        "Singhal T"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "and empirical antibiotics were initiated without clinical improvement. A repeat CSF analysis demonstrated worsening pleocytosis, prompting an expanded autoimmune and neuroinflammatory panel. MOG-IgG antibodies were detected in both serum and CSF, confirming the diagnosis of MOGAD. The patient responded well to high-dose corticosteroids followed by mycophenolate mofetil for maintenance therapy.\n\nThis case highlights the importance of considering MOGAD in patients with unexplained fever and headache with inflammatory CSF. Early recognition and prompt immunotherapy initiation are essential for optimal outcomes. A favorable outcome was observed following timely immunotherapy.",
+      "chunk_index": 1,
+      "char_count": 680,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

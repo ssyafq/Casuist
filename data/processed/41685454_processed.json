@@ -1,0 +1,33 @@
+{
+  "pmid": "41685454",
+  "pmc_id": null,
+  "title": "[Chronic pulmonary aspergillosis as a complication of lung cavities and prednisolone treatment].",
+  "authors": [
+    "Jorgensen MLB",
+    "Fally M",
+    "Victor A",
+    "Podlekareva D"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41685454",
+      "pmc_id": null,
+      "title": "[Chronic pulmonary aspergillosis as a complication of lung cavities and prednisolone treatment].",
+      "authors": [
+        "Jorgensen MLB",
+        "Fally M",
+        "Victor A",
+        "Podlekareva D"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "This case report describes a 68-year-old woman with COPD and emphysema who developed persistent lung cavities following severe community-acquired pneumonia. She subsequently received repeated courses of prednisolone due to clinical suspicion of an organising process, suspected recurrence thereof, and COPD exacerbations. The patient developed chronic cavitary pulmonary aspergillosis, confirmed by imaging and microbiology. She responded well to long-term azole therapy, with both radiological and symptomatic improvement, as well as normalisation of Aspergillus fumigatus IgG.",
+      "chunk_index": 0,
+      "char_count": 578,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

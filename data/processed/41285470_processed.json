@@ -1,0 +1,33 @@
+{
+  "pmid": "41285470",
+  "pmc_id": null,
+  "title": "[A case of inadvertent administration of recombinant tissue-type plasminogen activator to a patient with nonconvulsive status epilepticus and cerebral embolism].",
+  "authors": [
+    "Araki A",
+    "Asano K",
+    "Morozumi S",
+    "Yasui K"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41285470",
+      "pmc_id": null,
+      "title": "[A case of inadvertent administration of recombinant tissue-type plasminogen activator to a patient with nonconvulsive status epilepticus and cerebral embolism].",
+      "authors": [
+        "Araki A",
+        "Asano K",
+        "Morozumi S",
+        "Yasui K"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "An 83-year-old woman visited our hospital 44 \u200dmin after losing the ability to speak. She had total aphasia with Glasgow Coma Scale of E4V1M2 but no conjugate deviation, paralysis, or seizures. MRI diffusion-weighted images showed high-signal intensity lesions in the left temporoparietal lobe and pulvinar and aortogenic cerebral embolism in the right hemisphere; however, no occlusive lesions were observed in the cerebral vessels. Hyperacute cerebral infarction could not be ruled out, and an intravenous recombinant tissue-type plasminogen activator (rt-PA) was administered. The patient's history was obtained the next day, and she was found to have alexia, preceding visual symptoms, and lack of memory at the time of her arrival at the hospital. Based on the T(2) star-weighted images and electroencephalogram, the patient was diagnosed with nonconvulsive status epilepticus originating from an old subcortical hemorrhage. Rt-PA did not cause any severe adverse event. Although speed is required during intravenous rt-PA infusion, stroke mimics can be confused with cerebral infarction even if an MRI is performed; therefore, it is necessary to pay attention to these findings.",
+      "chunk_index": 0,
+      "char_count": 1183,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

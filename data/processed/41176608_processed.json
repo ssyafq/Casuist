@@ -1,0 +1,31 @@
+{
+  "pmid": "41176608",
+  "pmc_id": "PMC12590859",
+  "title": "Management of High-Risk Pulmonary Thromboembolism Using Conventional Catheter Devices: A Case Report.",
+  "authors": [
+    "Tomioka T",
+    "Satoh R",
+    "Goto H"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41176608",
+      "pmc_id": "PMC12590859",
+      "title": "Management of High-Risk Pulmonary Thromboembolism Using Conventional Catheter Devices: A Case Report.",
+      "authors": [
+        "Tomioka T",
+        "Satoh R",
+        "Goto H"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "BACKGROUND Although risk stratification-based treatments in patients with acute pulmonary thromboembolism (PTE) are established, the mortality of high-risk PTE remains high. Catheter-directed therapy (CDT) is an option for patients with high-risk PTE for whom conservative therapies, such as administration of thrombolytics and anticoagulants, are insufficient. However, these devices are highly specialized and expensive, and therefore typically available only in advanced medical facilities. We describe a case of a patient with high-risk PTE rescued with CDT through thrombectomy, thrombolysis, and fragmentation performed with conventional devices available in general hospitals. We describe the procedure and its limitations. CASE REPORT A 72-year-old woman developed high-risk PTE accompanied by cardiogenic shock following bed rest during conservative therapy of a femoral neck fracture. Despite the administration of thrombolytics and an anticoagulant, hemodynamics did not improve. We then performed CDT, first using stiff wire for endovascular aortic repair to advance the guiding sheath to the right pulmonary artery and then using conventional devices, such as a PTCA guiding catheter and pigtail catheter for thrombectomy and thrombolysis/fragmentation. Vital signs briefly worsened after thrombus fragmentation, due to distal embolism, but improved with rapid fluid injection. The patient recovered form cardiogenic shock 4 days after CDT and was eventually discharged ambulatory after undergoing femoral replacement. CONCLUSIONS We described a case of a high-risk PTE patient successfully rescued by CDT using conventional devices. Difficulties in advancing the catheter and in distal embolism were solved with a little ingenuity, demonstrating that CDT can be performed with conventional devices in a general hospital.",
+      "chunk_index": 0,
+      "char_count": 1834,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

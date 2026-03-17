@@ -1,0 +1,67 @@
+{
+  "pmid": "41521307",
+  "pmc_id": null,
+  "title": "Misdiagnosed tuberculous myelitis turned out to be spinal malignant peripheral nerve sheath tumor: a case report.",
+  "authors": [
+    "Ye R",
+    "Guo K",
+    "Zhou D",
+    "Hong Z"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41521307",
+      "pmc_id": null,
+      "title": "Misdiagnosed tuberculous myelitis turned out to be spinal malignant peripheral nerve sheath tumor: a case report.",
+      "authors": [
+        "Ye R",
+        "Guo K",
+        "Zhou D",
+        "Hong Z"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Malignant peripheral nerve sheath tumors (MPNSTs) are rare, aggressive soft tissue sarcomas. Spinal involvement is uncommon, representing only 2-3% of all cases, and is typically associated with poor prognosis. Early diagnosis is challenging due to non-specific clinical and imaging findings.",
+      "chunk_index": 0,
+      "char_count": 292,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41521307",
+      "pmc_id": null,
+      "title": "Misdiagnosed tuberculous myelitis turned out to be spinal malignant peripheral nerve sheath tumor: a case report.",
+      "authors": [
+        "Ye R",
+        "Guo K",
+        "Zhou D",
+        "Hong Z"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Malignant peripheral nerve sheath tumors (MPNSTs) are rare, aggressive soft tissue sarcomas. Spinal involvement is uncommon, representing only 2-3% of all cases, and is typically associated with poor prognosis. Early diagnosis is challenging due to non-specific clinical and imaging findings.\n\nA 34-year-old woman presented with progressive lower limb weakness and numbness. Cerebrospinal fluid analysis revealed elevated protein and decreased glucose and chloride levels. MRI showed spinal meningeal enhancement, initially suggestive of tuberculous myelitis. Despite prolonged anti-tuberculous treatment, her condition worsened. Repeat imaging revealed an intradural extramedullary mass compressing the spinal cord. Surgical biopsy confirmed MPNST based on spindle-shaped tumor cells and complete loss of H3K27me3 expression.",
+      "chunk_index": 1,
+      "char_count": 826,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41521307",
+      "pmc_id": null,
+      "title": "Misdiagnosed tuberculous myelitis turned out to be spinal malignant peripheral nerve sheath tumor: a case report.",
+      "authors": [
+        "Ye R",
+        "Guo K",
+        "Zhou D",
+        "Hong Z"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "protein and decreased glucose and chloride levels. MRI showed spinal meningeal enhancement, initially suggestive of tuberculous myelitis. Despite prolonged anti-tuberculous treatment, her condition worsened. Repeat imaging revealed an intradural extramedullary mass compressing the spinal cord. Surgical biopsy confirmed MPNST based on spindle-shaped tumor cells and complete loss of H3K27me3 expression.\n\nThis case illustrates the diagnostic challenges of spinal MPNSTs, which may mimic tuberculous myelitis. When clinical features and imaging are inconclusive and response to treatment is poor, early histopathological examination remains essential for accurate diagnosis and timely management.",
+      "chunk_index": 2,
+      "char_count": 696,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

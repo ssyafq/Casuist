@@ -1,0 +1,35 @@
+{
+  "pmid": "41163254",
+  "pmc_id": "PMC12584595",
+  "title": "Recognizing Wellens Syndrome in Emergency Medical Care - A Case Report.",
+  "authors": [
+    "Niksic E",
+    "Husovic D",
+    "Lukac-Radoncic E",
+    "Vucelj S",
+    "Nurovic A"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41163254",
+      "pmc_id": "PMC12584595",
+      "title": "Recognizing Wellens Syndrome in Emergency Medical Care - A Case Report.",
+      "authors": [
+        "Niksic E",
+        "Husovic D",
+        "Lukac-Radoncic E",
+        "Vucelj S",
+        "Nurovic A"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "BACKGROUND Wellens syndrome is a clinical entity characterized by specific electrocardiographic changes, often indicating critical stenosis in the high part of the left anterior descending coronary artery (LAD), posing a high risk for myocardial infarction if untreated. Two electrocardiogram (ECG) patterns are described: Type A and Type B. CASE REPORT A 55-year-old female patient presented in emergency care with severe chest tightness and shortness of breath. Initial ECG showed sinus rhythm, a heart rate of 84/minute and no ST-segment changes. She was treated symptomatically and placed under observation. A follow-up ECG revealed biphasic, inverted T waves in precordial leads V2-V5, consistent with Wellens Type A. Coronary angiography demonstrated moderate (40%) diffuse narrowing of the proximal LAD, which was potentially functionally significant given the patient's symptoms and ECG findings, as well as mild subocclusion of diagonal branches 1 and 2. The left circumflex artery had 50% stenosis. Obtuse marginal branch 2 had 50% stenosis. The right coronary artery showed significant (70%) mid-segment stenosis. These findings indicate that Wellens-type ECG changes may occur in the setting of multi-vessel coronary artery disease and are not always linked to a single critical LAD lesion. CONCLUSIONS Early Wellens syndrome recognition is crucial as this syndrome can lead to myocardial infarction. All patients with chest pain should be closely monitored with ECGs during pain episodes and pain-free intervals, and angiographic findings should be interpreted in the context of possible multi-vessel disease.",
+      "chunk_index": 0,
+      "char_count": 1622,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

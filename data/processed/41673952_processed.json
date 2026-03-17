@@ -1,0 +1,43 @@
+{
+  "pmid": "41673952",
+  "pmc_id": null,
+  "title": "GRIN2D-Related Developmental and Epileptic Encephalopathy Associated With Polymorphic Seizures Including Epileptic Spasms.",
+  "authors": [
+    "Obregon Gomez LR",
+    "Juanes M",
+    "Touzon MS",
+    "Romero A",
+    "Maenza L",
+    "Borgani K",
+    "Alonso C",
+    "Reyes G",
+    "Caraballo R"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41673952",
+      "pmc_id": null,
+      "title": "GRIN2D-Related Developmental and Epileptic Encephalopathy Associated With Polymorphic Seizures Including Epileptic Spasms.",
+      "authors": [
+        "Obregon Gomez LR",
+        "Juanes M",
+        "Touzon MS",
+        "Romero A",
+        "Maenza L",
+        "Borgani K",
+        "Alonso C",
+        "Reyes G",
+        "Caraballo R"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Alterations in genes involved in glutamatergic neurotransmission are associated with developmental and epileptic encephalopathies (DEE). One of the most extensively studied pathways involves N-methyl-D-aspartate receptors (NMDAR), which play a key role in brain development, synaptic plasticity, learning and memory. We present the case of an 11-month-old boy with DEE who began at 2 months of age with afebrile focal-to-generalized tonic seizures and focal activity on electroencephalography (EEG). The patient showed developmental delay, resistance to antiseizure medications and frequent, multiple seizure types-including motor focal seizures, epileptic spasms with and without hypsarrhythmia and generalized seizures-together with abnormal movements and EEG findings consistent with epileptic encephalopathy. Whole-exome sequencing identified a de novo likely pathogenic variant in the GRIN2D gene, affecting one of the transmembrane domains (M3), which is essential for normal NMDAR function and harbours most of the pathogenic variants reported to date. Our case represents the 14th documented case in the literature to date of a patient with GRIN2D-related DEE, contributing to the phenotypic characterization of this entity.",
+      "chunk_index": 0,
+      "char_count": 1232,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

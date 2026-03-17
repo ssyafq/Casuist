@@ -1,0 +1,27 @@
+{
+  "pmid": "40413587",
+  "pmc_id": null,
+  "title": "[TYPE 1 DIABETES MELLITUS AND MONOGENIC DIABETES - CAN THE TWO WALK TOGETHER?].",
+  "authors": [
+    "Aviran Barak N"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40413587",
+      "pmc_id": null,
+      "title": "[TYPE 1 DIABETES MELLITUS AND MONOGENIC DIABETES - CAN THE TWO WALK TOGETHER?].",
+      "authors": [
+        "Aviran Barak N"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "This is a case of a 35-year-old man, diagnosed with type 1 diabetes mellitus (DM) at the age of 16 after hospitalization due to diabetic ketoacidosis (DKA) and positive glutamic acid decarboxylase (GAD) antibodies. His diabetes was never well controlled and there is a strong family history of diabetes and prediabetes as described. He asked to be checked for monogenic diabetes, so we conducted an exome panel for this condition. Surprisingly, the genetic testing was clearly positive for the heterozygote Glucokinase (GCK) gene, a highly pathogenic maturity-onset diabetes of the young (MODY) type 2. All family members were referred to complete exome panel, which is not yet complete. In the literature the author found a few similar case reports. The genetic defect in MODY2 diabetes is in the phosphorylation of glucose to glucose 6 phosphate which acts as a glucose sensor; this causes insulin secretion in higher glucose levels.",
+      "chunk_index": 0,
+      "char_count": 935,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

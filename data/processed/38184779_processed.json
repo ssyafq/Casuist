@@ -1,0 +1,33 @@
+{
+  "pmid": "38184779",
+  "pmc_id": "PMC10783956",
+  "title": "Graves' Disease Exacerbation with Impending Thyroid Storm After SARS-CoV-2 Infection: A Case Report.",
+  "authors": [
+    "Sebastian WP",
+    "Parisa A",
+    "Pandya M",
+    "Anees A"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "38184779",
+      "pmc_id": "PMC10783956",
+      "title": "Graves' Disease Exacerbation with Impending Thyroid Storm After SARS-CoV-2 Infection: A Case Report.",
+      "authors": [
+        "Sebastian WP",
+        "Parisa A",
+        "Pandya M",
+        "Anees A"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "BACKGROUND Since the COVID-19 pandemic, several cases of COVID-19 have been linked to the development of autoimmune disorders, including of the thyroid. Graves' disease (GD) is a rare complication that can occur following SARS-CoV-2 infection. Reports have linked COVID-19 to new onset and exacerbation of GD. We present a case of a 42-year-old woman with a history of GD presenting with impending thyroid storm 3 weeks following a diagnosis of COVID-19. CASE REPORT A 42-year-old woman with a history of GD presented to the Emergency Department (ED) for an acute exacerbation of hyperthyroidism 3 weeks after SARS-CoV-2 infection was diagnosed on a home test. Symptoms included daily headaches, increased bilateral eye pressure, fatigue, muscle weakness, episodes of confusion and agitation, persistent heart palpitations, and goiter. Elevated free T4 of 5.57, free T3 of 15.68, total T3 of 4.43, and near-absent thyroid stimulating hormone were noted. The Burch-Wartofsky scale was 40, which was concerning for an impending thyroid storm; however, at the time of admission, she was not in a thyroid storm. Treatment included propylthiouracil, potassium iodide oral solution, and propranolol, with symptom improvement. Due to prior history of intolerance to antithyroid medications and recent exacerbation, a thyroidectomy was performed once she was in a euthyroid state. CONCLUSIONS Our case demonstrates the importance of recognizing COVID-19 as an etiology or a trigger for new onset or exacerbation of GD. Our case highlights that being vigilant to recognize the association between COVID-19 and thyroid abnormalities for early diagnosis and treatment is imperative.",
+      "chunk_index": 0,
+      "char_count": 1671,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

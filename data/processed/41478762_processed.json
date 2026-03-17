@@ -1,0 +1,71 @@
+{
+  "pmid": "41478762",
+  "pmc_id": null,
+  "title": "Mycoplasma pneumoniae pneumonia associated with severe neutropenia.",
+  "authors": [
+    "Abbas D",
+    "Blot-Cossard A",
+    "Giusti D",
+    "Servettaz A",
+    "Bani-Sadr F"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41478762",
+      "pmc_id": null,
+      "title": "Mycoplasma pneumoniae pneumonia associated with severe neutropenia.",
+      "authors": [
+        "Abbas D",
+        "Blot-Cossard A",
+        "Giusti D",
+        "Servettaz A",
+        "Bani-Sadr F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Cold agglutinin haemolytic anaemia, aplastic anaemia, immune thrombocytopaenia and hemophagocytosis are well-established complications of Mycoplasma pneumoniae infection. In contrast, severe neutropenia has rarely been described.",
+      "chunk_index": 0,
+      "char_count": 229,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41478762",
+      "pmc_id": null,
+      "title": "Mycoplasma pneumoniae pneumonia associated with severe neutropenia.",
+      "authors": [
+        "Abbas D",
+        "Blot-Cossard A",
+        "Giusti D",
+        "Servettaz A",
+        "Bani-Sadr F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Cold agglutinin haemolytic anaemia, aplastic anaemia, immune thrombocytopaenia and hemophagocytosis are well-established complications of Mycoplasma pneumoniae infection. In contrast, severe neutropenia has rarely been described.\n\nWe report the case of a 71-year-old with systemic lupus erythematosus who presented with severe febrile neutropenia (0.2G/L) and mild thrombocytopenia (75 G/L) revealing M. pneumoniae pneumonia. Erythema multiforme appeared secondary. Granulocyte autoantibodies were negative. Neutropenia and thrombocytopenia resolved within three days after azithromycin initiation.",
+      "chunk_index": 1,
+      "char_count": 598,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41478762",
+      "pmc_id": null,
+      "title": "Mycoplasma pneumoniae pneumonia associated with severe neutropenia.",
+      "authors": [
+        "Abbas D",
+        "Blot-Cossard A",
+        "Giusti D",
+        "Servettaz A",
+        "Bani-Sadr F"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "discussion",
+      "text": "We report the case of a 71-year-old with systemic lupus erythematosus who presented with severe febrile neutropenia (0.2G/L) and mild thrombocytopenia (75 G/L) revealing M. pneumoniae pneumonia. Erythema multiforme appeared secondary. Granulocyte autoantibodies were negative. Neutropenia and thrombocytopenia resolved within three days after azithromycin initiation.\n\nFour other cases of M. pneumoniae pneumonia presenting with severe febrile neutropenia have been reported in the literature. They were associated with thrombocytopenia and/or anemia in all cases. Granulocyte autoantibodies were positive in 2 cases. This rare case highlights the importance of considering M. pneumoniae infection in the differential diagnosis of febrile neutropenia and illustrates that rapid resolution of neutropenia can be observed under antibiotic therapy alone.",
+      "chunk_index": 2,
+      "char_count": 851,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

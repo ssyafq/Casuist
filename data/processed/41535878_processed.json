@@ -1,0 +1,67 @@
+{
+  "pmid": "41535878",
+  "pmc_id": "PMC12888635",
+  "title": "Primary pulmonary hypoplasia masquerading as pneumonia in a preterm neonate and creating a diagnostic challenge: a case report.",
+  "authors": [
+    "Mishra N",
+    "Sukumar S",
+    "Singh K",
+    "Shukla A"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41535878",
+      "pmc_id": "PMC12888635",
+      "title": "Primary pulmonary hypoplasia masquerading as pneumonia in a preterm neonate and creating a diagnostic challenge: a case report.",
+      "authors": [
+        "Mishra N",
+        "Sukumar S",
+        "Singh K",
+        "Shukla A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Pulmonary hypoplasia is a rare congenital lung disorder characterized by the incomplete development of lung tissue. This condition can be classified as primary or secondary to other congenital anomalies, with primary pulmonary hypoplasia being considerably rarer than the secondary form. Severe cases often manifest as respiratory failure in the immediate newborn period. While secondary pulmonary hypoplasia is often antenatally detected, primary cases-such as ours-may evade prenatal imaging, presenting as refractory neonatal respiratory distress. Secondary causes, such as oligohydramnios and intrathoracic space-occupying lesions, should always be actively looked for in a suspected case of pulmonary hypoplasia.",
+      "chunk_index": 0,
+      "char_count": 717,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41535878",
+      "pmc_id": "PMC12888635",
+      "title": "Primary pulmonary hypoplasia masquerading as pneumonia in a preterm neonate and creating a diagnostic challenge: a case report.",
+      "authors": [
+        "Mishra N",
+        "Sukumar S",
+        "Singh K",
+        "Shukla A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "respiratory failure in the immediate newborn period. While secondary pulmonary hypoplasia is often antenatally detected, primary cases-such as ours-may evade prenatal imaging, presenting as refractory neonatal respiratory distress. Secondary causes, such as oligohydramnios and intrathoracic space-occupying lesions, should always be actively looked for in a suspected case of pulmonary hypoplasia.\n\nWe present a case of a 31-week preterm neonate (1620 g) from India with normal antenatal scans who developed severe respiratory distress at birth, requiring invasive ventilation (peak inspiratory pressure, 16; positive end-expiratory pressure, 6). Chest asymmetry and mediastinal shift on imaging suggested hypoplasia. The baby was initially managed for congenital pneumonia with no response to antibiotics. There was a restriction of chest movements on the right side. The baby had severe respiratory acidosis and was kept on invasive ventilation. A complete homogeneous lung opacity with an ipsilateral shift of the trachea on chest radiography clinched the diagnosis, and it was further confirmed with a chest computed tomography scan. Two-dimensional echocardiography and ultrasound of the whole abdomen were normal.",
+      "chunk_index": 1,
+      "char_count": 1220,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41535878",
+      "pmc_id": "PMC12888635",
+      "title": "Primary pulmonary hypoplasia masquerading as pneumonia in a preterm neonate and creating a diagnostic challenge: a case report.",
+      "authors": [
+        "Mishra N",
+        "Sukumar S",
+        "Singh K",
+        "Shukla A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "baby had severe respiratory acidosis and was kept on invasive ventilation. A complete homogeneous lung opacity with an ipsilateral shift of the trachea on chest radiography clinched the diagnosis, and it was further confirmed with a chest computed tomography scan. Two-dimensional echocardiography and ultrasound of the whole abdomen were normal.\n\nGiven the rarity of primary pulmonary hypoplasia, this condition is often missed by pediatricians, leading to injudicious use of antibiotics and failure to correctly inform the parents about the condition. This case underscores the need for early computed tomography imaging in preterm neonates with unexplained respiratory failure to differentiate hypoplasia from infections, mitigate futile treatments, and guide parental counseling. Clinical features, a negative sepsis workup, and nonresponse to antibiotics can provide clues to diagnosing pulmonary hypoplasia. Simple bedside investigations, such as chest radiographs, should be heavily relied upon, especially in resource-poor settings.",
+      "chunk_index": 2,
+      "char_count": 1040,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

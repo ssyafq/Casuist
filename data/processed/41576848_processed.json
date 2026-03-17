@@ -1,0 +1,65 @@
+{
+  "pmid": "41576848",
+  "pmc_id": null,
+  "title": "Histiocytic myocarditis: A rare and complex cause of cardiogenic shock.",
+  "authors": [
+    "D'Anna T",
+    "Belmonte B",
+    "Orlando E",
+    "Formisano E",
+    "Malta G",
+    "Argo A",
+    "Zerbo S",
+    "Florena AM",
+    "Maresi E"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41576848",
+      "pmc_id": null,
+      "title": "Histiocytic myocarditis: A rare and complex cause of cardiogenic shock.",
+      "authors": [
+        "D'Anna T",
+        "Belmonte B",
+        "Orlando E",
+        "Formisano E",
+        "Malta G",
+        "Argo A",
+        "Zerbo S",
+        "Florena AM",
+        "Maresi E"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Histiocytic Myocardial Inflammatory Disease (HMID) is a rare and under-recognized form of myocarditis, characterized by predominant histiocytic infiltration within the myocardial tissue. Unlike more common lymphocytic and eosinophilic forms, HMID remains diagnostically challenging, particularly in children. Here we present a pediatric case, outlining the clinical course and the difficulties encountered, and highlighting the histopathological and immunohistochemical features essential for establishing the diagnosis. CASE DESCRIPTION: A 4-year-old girl accompanied by her parents, who showed up at the hospital with persistent fever, abdominal pain, and vomiting. A cardiac evaluation revealed a mild pericardial effusion with preserved systolic function. Doctors treated her with corticosteroids and broad-spectrum antibiotics, but her condition rapidly deteriorated, resulting in cardiogenic shock and death from cardiac arrest. We performed a forensic autopsy that included histopathological examination and immunohistochemical analysis of the cardiac muscle (in particular in the right ventricle). The CD68 positivity highlighted the presence of a diffuse infiltrate of hystiocites. CD3, CD4, CD8, and CD20 staining showed only scarce lymphocyte representation. The child's history gave no hint of autoimmune or inflammatory disease, underscoring the abrupt and unexpected nature of her illness.",
+      "chunk_index": 0,
+      "char_count": 1403,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41576848",
+      "pmc_id": null,
+      "title": "Histiocytic myocarditis: A rare and complex cause of cardiogenic shock.",
+      "authors": [
+        "D'Anna T",
+        "Belmonte B",
+        "Orlando E",
+        "Formisano E",
+        "Malta G",
+        "Argo A",
+        "Zerbo S",
+        "Florena AM",
+        "Maresi E"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "discussion",
+      "text": "muscle (in particular in the right ventricle). The CD68 positivity highlighted the presence of a diffuse infiltrate of hystiocites. CD3, CD4, CD8, and CD20 staining showed only scarce lymphocyte representation. The child's history gave no hint of autoimmune or inflammatory disease, underscoring the abrupt and unexpected nature of her illness.\n\nHMID is rare but can mimic common myocarditis, complicating diagnosis. Its fulminant course requires early recognition and confirmation by histopathology and immunohistochemistry. This case shows the importance of recognizing HMID in pediatric cardiogenic shock or sudden cardiac death of unclear cause.",
+      "chunk_index": 1,
+      "char_count": 649,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

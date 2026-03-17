@@ -1,0 +1,31 @@
+{
+  "pmid": "36578885",
+  "pmc_id": "PMC9758544",
+  "title": "Fatal Case of Possible Thyroid Crisis Induced by SARS-CoV-2 Infection: A Case Report.",
+  "authors": [
+    "Hamzah F",
+    "Aman AM",
+    "Iskandar H"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "36578885",
+      "pmc_id": "PMC9758544",
+      "title": "Fatal Case of Possible Thyroid Crisis Induced by SARS-CoV-2 Infection: A Case Report.",
+      "authors": [
+        "Hamzah F",
+        "Aman AM",
+        "Iskandar H"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid crisis is an emergency due to impaired thyroid function caused by various conditions, particularly infections such as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that result in the dysfunction of various vital organs. We report a case of a 31-year-old Indonesian female with a 2-year history of hyperthyroidism with elevated thyroid-stimulating hormone (TSH) receptor antibodies. (TRAb) who developed thyroid crisis possibly in association with SARS-CoV-2 pneumonia, sepsis, and disseminated intravascular coagulation (DIC). Prior to admission, she was treated for her hyperthyroidism with propylthiouracil and had been in stable remission for a year. She was admitted to the Emergency Room with complaints of watery stools, icteric sclerae, jaundice, coughing, and shortness of breath. The physical examination showed a World Health Organization (WHO) performance score of 4, delirium, blood pressure within normal limits, tachycardia, tachypnea, axillary temperature of 36.7 degrees C, icteric sclerae, jaundice, and exophthalmos. There was a 3 cm palpable nodule on the right side of the neck. Auscultation of the lungs revealed bilateral pulmonary rales. Abdominal examination noted a palpable liver and enlarged spleen. Laboratory tests showed thrombocytopenia, electrolyte imbalance, hypoalbuminemia and elevated transaminases. The thyroid function tests showed a suppressed TSH level with an elevated free thyroxine (FT4) level. The SARS-CoV-2 polymerase chain reaction (PCR) swab test was positive. Initial patient management was with supportive therapy that included favipiravir and anti-hyperthyroidism medication; however, despite these interventions, her condition continued to deteriorate and she died after a few hours. This case demonstrates no difference in therapy between patients with thyroid crises and COVID-19 or other infections. Proper and timely treatment is important for reducing mortality rates.",
+      "chunk_index": 0,
+      "char_count": 1948,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

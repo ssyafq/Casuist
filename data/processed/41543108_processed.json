@@ -1,0 +1,84 @@
+{
+  "pmid": "41543108",
+  "pmc_id": null,
+  "title": "Tropheryma whipplei Infection Presenting Initially with Chest Pain.",
+  "authors": [
+    "Xu S",
+    "Fan Y",
+    "Chen Z",
+    "Deng ZP"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41543108",
+      "pmc_id": null,
+      "title": "Tropheryma whipplei Infection Presenting Initially with Chest Pain.",
+      "authors": [
+        "Xu S",
+        "Fan Y",
+        "Chen Z",
+        "Deng ZP"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Tropheryma whipplei is a rare pathogenic bacterium, a Gram-positive actinomycete widely distributed in the natural environment. It mainly infects individuals with immunodeficiency, but is rarely observed in individuals with normal immune function. Most patients present with non-specific symptoms, and since it is not feasible to culture the bacteria using conventional methods, diagnosing this infection is very difficult. In this case, next-generation sequencing (NGS) detection via bronchoscopy confirmed the final diagnosis of Tropheryma whipplei infection.",
+      "chunk_index": 0,
+      "char_count": 561,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41543108",
+      "pmc_id": null,
+      "title": "Tropheryma whipplei Infection Presenting Initially with Chest Pain.",
+      "authors": [
+        "Xu S",
+        "Fan Y",
+        "Chen Z",
+        "Deng ZP"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "rarely observed in individuals with normal immune function. Most patients present with non-specific symptoms, and since it is not feasible to culture the bacteria using conventional methods, diagnosing this infection is very difficult. In this case, next-generation sequencing (NGS) detection via bronchoscopy confirmed the final diagnosis of Tropheryma whipplei infection.\n\nBronchoscopy and next-generation sequencing were used.",
+      "chunk_index": 1,
+      "char_count": 429,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41543108",
+      "pmc_id": null,
+      "title": "Tropheryma whipplei Infection Presenting Initially with Chest Pain.",
+      "authors": [
+        "Xu S",
+        "Fan Y",
+        "Chen Z",
+        "Deng ZP"
+      ],
+      "specialty": "chest pain",
+      "section_type": "labs",
+      "text": "Bronchoscopy and next-generation sequencing were used.\n\nThrough bronchoscopy, NGS of bronchoalveolar lavage fluid indicated the presence of Tropheryma whipplei. Therefore, anti-infective treatment was administered.",
+      "chunk_index": 2,
+      "char_count": 214,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41543108",
+      "pmc_id": null,
+      "title": "Tropheryma whipplei Infection Presenting Initially with Chest Pain.",
+      "authors": [
+        "Xu S",
+        "Fan Y",
+        "Chen Z",
+        "Deng ZP"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "Through bronchoscopy, NGS of bronchoalveolar lavage fluid indicated the presence of Tropheryma whipplei. Therefore, anti-infective treatment was administered.\n\nFor cases of long-standing chest pain of unknown origin with abnormal findings on chest imaging, it is crucial to stabilize the patient's condition while identifying the underlying cause. Prompt implementation of relevant diagnostic procedures, such as bronchoscopy, is essential for establishing a diagnosis.",
+      "chunk_index": 3,
+      "char_count": 469,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

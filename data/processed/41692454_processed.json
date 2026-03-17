@@ -1,0 +1,35 @@
+{
+  "pmid": "41692454",
+  "pmc_id": null,
+  "title": "Complex Visual Hallucinations in Post-stroke Epilepsy: A Case Report and Literature Review.",
+  "authors": [
+    "Fujita S",
+    "Oyama G",
+    "Kawasaki H",
+    "Okada M",
+    "Yamamoto T"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41692454",
+      "pmc_id": null,
+      "title": "Complex Visual Hallucinations in Post-stroke Epilepsy: A Case Report and Literature Review.",
+      "authors": [
+        "Fujita S",
+        "Oyama G",
+        "Kawasaki H",
+        "Okada M",
+        "Yamamoto T"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "We herein report an 82-year-old man with post-stroke epilepsy (PSE) who presented with persistent complex visual hallucinations (CVH) involving past episodic scenes. Electroencephalography revealed epileptic discharges in the right posterior temporal and parietal regions. The symptoms resolved with levetiracetam and were maintained with zonisamide. A literature review suggested that CVH may occur when epileptic activity spreads to non-dominant temporal or parietal regions. In conclusion, CVH may reflect visual memory and retention and can be accompanied by psychiatric symptoms. Improved recognition of CVH as a manifestation of PSE may help avoid misdiagnoses and lead to appropriate treatment.",
+      "chunk_index": 0,
+      "char_count": 701,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

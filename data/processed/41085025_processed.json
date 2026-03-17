@@ -1,0 +1,45 @@
+{
+  "pmid": "41085025",
+  "pmc_id": null,
+  "title": "A Case of Pancreatic Ductal Adenocarcinoma in PRSS1-Associated Hereditary Pancreatitis in the Absence of High-Grade PanIN: Suggestive of Chromothripsis-Like Tumor Evolution.",
+  "authors": [
+    "Norose T",
+    "Ohike N",
+    "Nakahara K",
+    "Tateishi K",
+    "Kobayashi S",
+    "Arai H",
+    "Sunakawa Y",
+    "Sugiura Y",
+    "Koizumi H",
+    "Koike J"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41085025",
+      "pmc_id": null,
+      "title": "A Case of Pancreatic Ductal Adenocarcinoma in PRSS1-Associated Hereditary Pancreatitis in the Absence of High-Grade PanIN: Suggestive of Chromothripsis-Like Tumor Evolution.",
+      "authors": [
+        "Norose T",
+        "Ohike N",
+        "Nakahara K",
+        "Tateishi K",
+        "Kobayashi S",
+        "Arai H",
+        "Sunakawa Y",
+        "Sugiura Y",
+        "Koizumi H",
+        "Koike J"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "We report a case of pancreatic ductal adenocarcinoma (PDAC) in a 51-year-old woman with PRSS1-associated hereditary pancreatitis (HP) and a history of chronic alcohol and tobacco use. Following neoadjuvant chemotherapy, she underwent total pancreatectomy. Histological analysis of the entire pancreas revealed no high-grade PanINs and scattered low-grade PanINs, with and without KRAS mutations, indicating molecular heterogeneity. Genomic profiling identified multiple driver alterations, comprising both clonal and subclonal events, including mutations in KRAS, CDKN2A/B, SMAD4, ATRX, MSH3, and the TERT promoter. Immunohistochemistry showed strong nuclear p53 overexpression despite the absence of TP53 mutation, suggesting a chromosomal instability phenotype. These findings support the hypothesis of a chromothripsis-like catastrophic genomic event contributing to rapid oncogenesis, bypassing the conventional PanIN sequence. The background of chronic inflammation, advanced lipomatous atrophy, and environmental exposures may have facilitated this transformation. This case underscores the need to consider alternative, nonlinear pathways of PDAC development in genetically predisposed individuals and highlights the potential utility of molecular surveillance for early detection and risk stratification.",
+      "chunk_index": 0,
+      "char_count": 1312,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

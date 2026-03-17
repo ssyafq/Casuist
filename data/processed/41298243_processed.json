@@ -1,0 +1,37 @@
+{
+  "pmid": "41298243",
+  "pmc_id": null,
+  "title": "Congenital absence of the right coronary artery in a patient with corrected congenital heart disease.",
+  "authors": [
+    "Gutemberg PH",
+    "Ferraz R",
+    "de Assis AC",
+    "de Almeida VJ",
+    "Cavallari M",
+    "Vital KM"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41298243",
+      "pmc_id": null,
+      "title": "Congenital absence of the right coronary artery in a patient with corrected congenital heart disease.",
+      "authors": [
+        "Gutemberg PH",
+        "Ferraz R",
+        "de Assis AC",
+        "de Almeida VJ",
+        "Cavallari M",
+        "Vital KM"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Congenital absence of the right coronary artery (RCA) is an extremely rare coronary anomaly that may occur in isolation or in association with other congenital heart defects. We report the case of a woman in her early 30s with a history of surgically corrected congenital heart disease, who was diagnosed with RCA agenesis during evaluation for mild anginal symptoms. Coronary CT angiography revealed the absence of the RCA origin, which was confirmed by coronary angiography. No obstructive coronary lesions were identified. Given her stable condition and absence of myocardial ischaemia, a conservative approach was chosen. The patient remained asymptomatic on follow-up. This case underscores the importance of recognising coronary anomalies in young patients with chest pain, as accurate diagnosis can guide appropriate management and prevent potential complications.",
+      "chunk_index": 0,
+      "char_count": 871,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

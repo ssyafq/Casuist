@@ -1,0 +1,89 @@
+{
+  "pmid": "41520705",
+  "pmc_id": null,
+  "title": "Analysis of social problems for discharge in acute care hospitalization.",
+  "authors": [
+    "Jimenez-Puente A",
+    "Martin-Escalante MD",
+    "Noureddine-Lopez M",
+    "Rivas-Ruiz F",
+    "Rubio-Gallo A"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41520705",
+      "pmc_id": null,
+      "title": "Analysis of social problems for discharge in acute care hospitalization.",
+      "authors": [
+        "Jimenez-Puente A",
+        "Martin-Escalante MD",
+        "Noureddine-Lopez M",
+        "Rivas-Ruiz F",
+        "Rubio-Gallo A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Patients who remain hospitalized due to the absence of adequate social support for discharge represent a growing challenge in an aging society where traditional family care networks are increasingly weakened.",
+      "chunk_index": 0,
+      "char_count": 208,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41520705",
+      "pmc_id": null,
+      "title": "Analysis of social problems for discharge in acute care hospitalization.",
+      "authors": [
+        "Jimenez-Puente A",
+        "Martin-Escalante MD",
+        "Noureddine-Lopez M",
+        "Rivas-Ruiz F",
+        "Rubio-Gallo A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Patients who remain hospitalized due to the absence of adequate social support for discharge represent a growing challenge in an aging society where traditional family care networks are increasingly weakened.\n\nWe conducted a study in an acute care hospital in southern Spain, focusing on inpatients referred to the Social Work Department in whom social problems were identified as barriers to discharge (SPD). Data were reviewed from 2006 onwards, as well as across two 24-month periods: before and after the COVID-19 pandemic.",
+      "chunk_index": 1,
+      "char_count": 527,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41520705",
+      "pmc_id": null,
+      "title": "Analysis of social problems for discharge in acute care hospitalization.",
+      "authors": [
+        "Jimenez-Puente A",
+        "Martin-Escalante MD",
+        "Noureddine-Lopez M",
+        "Rivas-Ruiz F",
+        "Rubio-Gallo A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "labs",
+      "text": "conducted a study in an acute care hospital in southern Spain, focusing on inpatients referred to the Social Work Department in whom social problems were identified as barriers to discharge (SPD). Data were reviewed from 2006 onwards, as well as across two 24-month periods: before and after the COVID-19 pandemic.\n\n2288 discharges with SPD were analyzed. From 2006 to 2024, the number of beds occupied by patients with SPD increased by an average of 0.62 beds per day each year. The rise was particularly marked in 2022 and 2024, when 1.3% of all hospital discharges were delayed due to SPD, equivalent to 11 beds occupied daily. Internal Medicine was the specialty with the highest proportion of patients with SPD: 4%.",
+      "chunk_index": 2,
+      "char_count": 720,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41520705",
+      "pmc_id": null,
+      "title": "Analysis of social problems for discharge in acute care hospitalization.",
+      "authors": [
+        "Jimenez-Puente A",
+        "Martin-Escalante MD",
+        "Noureddine-Lopez M",
+        "Rivas-Ruiz F",
+        "Rubio-Gallo A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "by an average of 0.62 beds per day each year. The rise was particularly marked in 2022 and 2024, when 1.3% of all hospital discharges were delayed due to SPD, equivalent to 11 beds occupied daily. Internal Medicine was the specialty with the highest proportion of patients with SPD: 4%.\n\nHospital stays prolonged by social problems represent a substantial burden and show a clear upward trend. The underlying causes are multifactorial, mainly related to social circumstances and the clinical complexity of patients.",
+      "chunk_index": 3,
+      "char_count": 515,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

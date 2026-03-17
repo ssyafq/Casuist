@@ -1,0 +1,41 @@
+{
+  "pmid": "41551825",
+  "pmc_id": "PMC12809231",
+  "title": "Reducing agents for induction and maintenance therapy achieve long-term remission of refractory ulcerative colitis: A case report and review of literature.",
+  "authors": [
+    "Sylvestre PB"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41551825",
+      "pmc_id": "PMC12809231",
+      "title": "Reducing agents for induction and maintenance therapy achieve long-term remission of refractory ulcerative colitis: A case report and review of literature.",
+      "authors": [
+        "Sylvestre PB"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Ulcerative colitis (UC) is a chronic and debilitating inflammatory bowel disease. Cumulative evidence indicates that excess hydrogen peroxide, a potent neutrophilic chemotactic agent, produced by colonic epithelial cells has a causal role leading to infiltration of neutrophils into the colonic mucosa and subsequent development of UC. This evidence-based mechanism identifies hydrogen peroxide as a therapeutic target for reducing agents in the treatment of UC. CASE SUMMARY: Presented is a 41-year-old female with a 26-year history of refractory UC. Having developed steroid dependence and never achieving complete remission on treatment by conventional and advanced therapies, she began treatment with oral R-dihydrolipoic acid (RDLA), a lipid-soluble reducing agent with intracellular site of action. Within a week, rectal bleeding ceased. She was asymptomatic for three years until a highly stressful experience, when she noticed blood in her stool. RDLA was discontinued, and she began treatment with oral sodium thiosulfate pentahydrate (STS), a reducing agent with extracellular site of action. After a week, rectal bleeding ceased, and she resumed oral RDLA and discontinued STS. To date, she remains asymptomatic with normal stool calprotectin while on RDLA.",
+      "chunk_index": 0,
+      "char_count": 1268,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41551825",
+      "pmc_id": "PMC12809231",
+      "title": "Reducing agents for induction and maintenance therapy achieve long-term remission of refractory ulcerative colitis: A case report and review of literature.",
+      "authors": [
+        "Sylvestre PB"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "in her stool. RDLA was discontinued, and she began treatment with oral sodium thiosulfate pentahydrate (STS), a reducing agent with extracellular site of action. After a week, rectal bleeding ceased, and she resumed oral RDLA and discontinued STS. To date, she remains asymptomatic with normal stool calprotectin while on RDLA.\n\nSTS and RDLA are reducing agents that serve as highly effective and safe therapy for the induction and maintenance of remission in UC, even in patients refractory or poorly controlled by conventional and advanced therapies. Should preliminary findings be validated by subsequent clinical trials, the use of reducing agents could potentially prevent thousands of colectomies and represent a paradigm shift in the treatment of UC.",
+      "chunk_index": 1,
+      "char_count": 757,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

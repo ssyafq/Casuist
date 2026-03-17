@@ -1,0 +1,41 @@
+{
+  "pmid": "39588605",
+  "pmc_id": null,
+  "title": "[ST-elevation myocardial infarction caused by stent fracture: a case report].",
+  "authors": [
+    "Mazzotta M",
+    "Rosati R",
+    "Cosentini F",
+    "Regazzoni V",
+    "Pedroni P",
+    "Spotti A",
+    "Loffi M",
+    "Danzi GB"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39588605",
+      "pmc_id": null,
+      "title": "[ST-elevation myocardial infarction caused by stent fracture: a case report].",
+      "authors": [
+        "Mazzotta M",
+        "Rosati R",
+        "Cosentini F",
+        "Regazzoni V",
+        "Pedroni P",
+        "Spotti A",
+        "Loffi M",
+        "Danzi GB"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Coronary stent fracture is an infrequent event, with an incidence ranging from 1% to 8%. In rare cases, this complication may result in acute occlusion of the affected coronary artery. We report the case of a patient who experienced acute coronary syndrome following a stent fracture implanted 3 years previously. Myocardial infarction was caused by thrombosis occluding the vessel and probably triggered by endothelial injury caused by the protruding metal strut of the fractured stent. Vessel tortuosity, hinge motion, overlapping stents, increased stent length, smaller stent diameter and high post-dilation pressure are risk factors for stent fracture. In conclusion, to ensure proper recognition of this often-misunderstood clinical entity, it is necessary to be aware of its occurrence.",
+      "chunk_index": 0,
+      "char_count": 792,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

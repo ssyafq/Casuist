@@ -1,0 +1,33 @@
+{
+  "pmid": "40368723",
+  "pmc_id": null,
+  "title": "Clinical case series: Spontaneous coronary artery dissection with thrombosis among young individuals with high lipoprotein(a).",
+  "authors": [
+    "Koczo A",
+    "Medoff B",
+    "Levenson JE",
+    "Saeed A"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40368723",
+      "pmc_id": null,
+      "title": "Clinical case series: Spontaneous coronary artery dissection with thrombosis among young individuals with high lipoprotein(a).",
+      "authors": [
+        "Koczo A",
+        "Medoff B",
+        "Levenson JE",
+        "Saeed A"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Young individuals who present with acute coronary syndrome (ACS) are often devoid of typical traditional atherosclerotic risk factors. As such, they pose challenges to risk stratify for diagnostic imaging and for pathogenetic etiology. We describe 2 patients who presented with ACS and found to have spontaneous coronary artery dissection with thrombosis without significant atherosclerotic burden, but high lipoprotein(a) levels.",
+      "chunk_index": 0,
+      "char_count": 430,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

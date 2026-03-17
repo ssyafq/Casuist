@@ -1,0 +1,41 @@
+{
+  "pmid": "30969319",
+  "pmc_id": "PMC9165848",
+  "title": "Four Cases of Cholesterol Management Informed by the 2018 American Heart Association/American College of Cardiology Multisociety Guideline on the Management of Blood Cholesterol.",
+  "authors": [
+    "Chuzi S",
+    "Pfenniger A",
+    "Lloyd-Jones DM",
+    "Blumenthal RS",
+    "Smith SC Jr",
+    "Virani SS",
+    "Grundy SM",
+    "Stone NJ"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "30969319",
+      "pmc_id": "PMC9165848",
+      "title": "Four Cases of Cholesterol Management Informed by the 2018 American Heart Association/American College of Cardiology Multisociety Guideline on the Management of Blood Cholesterol.",
+      "authors": [
+        "Chuzi S",
+        "Pfenniger A",
+        "Lloyd-Jones DM",
+        "Blumenthal RS",
+        "Smith SC Jr",
+        "Virani SS",
+        "Grundy SM",
+        "Stone NJ"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "These 4 hypothetical cases highlight some of the new features in the 2018 American Heart Association/American College of Cardiology multisociety cholesterol management guidelines. Topics include management issues in a secondary prevention patient judged to be at very high risk of another event, a patient with familial hypercholesterolemia with a low-density lipoprotein cholesterol level of 190 mg/dL or greater (to convert to millimoles per liter, multiply by 0.0259), a primary prevention patient with intermediate (7.5%-19.9%) 10-year atherosclerotic cardiovascular risk, and a patient who has statin-associated adverse effects. A multiple-choice format is used to engage clinicians in selecting the best choice based on guidance from the new 2018 cholesterol management guidelines.",
+      "chunk_index": 0,
+      "char_count": 787,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

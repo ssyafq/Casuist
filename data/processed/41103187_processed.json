@@ -1,0 +1,37 @@
+{
+  "pmid": "41103187",
+  "pmc_id": "PMC12531741",
+  "title": "Double Filtration Plasmapheresis for Thyroid Storm With Encephalopathy: A Case Report.",
+  "authors": [
+    "Lin Q",
+    "Jin H",
+    "Xu Y",
+    "Xie Y",
+    "Zhou Y",
+    "Lu R"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "41103187",
+      "pmc_id": "PMC12531741",
+      "title": "Double Filtration Plasmapheresis for Thyroid Storm With Encephalopathy: A Case Report.",
+      "authors": [
+        "Lin Q",
+        "Jin H",
+        "Xu Y",
+        "Xie Y",
+        "Zhou Y",
+        "Lu R"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm is a life-threatening endocrine emergency with a mortality rate of up to 17%. Standard treatment includes antithyroid drugs (ATD), beta-blockers, and glucocorticoids. However, some patients may require blood purification therapies, such as plasmapheresis, due to the ineffectiveness of standard treatments or contraindications like agranulocytosis. We report the case of a 38-year-old female with Graves' disease who was admitted for thyroid storm (Burch-Wartofsky score of 70) combined with encephalopathy, presenting with impaired consciousness, seizures, and leukopenia (1.82 x 10(9)/L). Due to contraindications for ATD, she was treated with double filtration plasmapheresis (DFPP). After three sessions, her anti-thyrotropin receptor antibodies (TRAb > 40-29.8 IU/L) and thyroid hormones (FT4 88.7-19.7 pmol/L) significantly decreased, and her consciousness improved. She was later transitioned successfully to oral ATD upon discharge. Plasmapheresis can rapidly remove thyroid hormones and autoantibodies, particularly useful in cases where ATD is ineffective or contraindicated. While international reports predominantly describe plasma exchange (PE), this case is the first to suggest the efficacy and safety of DFPP in treating thyroid storm with thyrotoxic encephalopathy. DFPP selectively removes large-molecule antibodies while minimizing the use of blood products and albumin loss. For severe thyroid storm patients, early plasmapheresis may improve prognosis; however, the optimal timing, modality, and dosing require further investigation.",
+      "chunk_index": 0,
+      "char_count": 1568,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "40736923",
+  "pmc_id": "PMC12309405",
+  "title": "Second-Degree Atrioventricular Block With Steroid-Induced Diabetes Mellitus in a Miniature Poodle.",
+  "authors": [
+    "Kim C",
+    "Lee D",
+    "Chae Y",
+    "Yun T",
+    "Kang BT",
+    "Kim H"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40736923",
+      "pmc_id": "PMC12309405",
+      "title": "Second-Degree Atrioventricular Block With Steroid-Induced Diabetes Mellitus in a Miniature Poodle.",
+      "authors": [
+        "Kim C",
+        "Lee D",
+        "Chae Y",
+        "Yun T",
+        "Kang BT",
+        "Kim H"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "An 8-year-old castrated male Miniature Poodle was referred due to polyuria, polydipsia and urinary incontinence, following 12 days of prednisolone administration (0.25 mg/kg q12h) for otitis externa. Upon physical examination, an abnormal heart rhythm was detected on cardiac auscultation without any associated clinical signs. Owing to suspected conduction abnormalities, electrocardiography (ECG) was performed, which revealed a Mobitz Type II second-degree atrioventricular (AV) block. Blood analysis revealed hyperglycaemia (> 500 mg/dL; reference interval [RI] = 65-118 mg/dL), elevated fructosamine (361 micromol/L; RI = 177-314 micromol/L) and beta-hydroxybutyric acid concentrations (5.4 mmol/L; RI </= 2.5 mmol/L), leading to a diagnosis of diabetic ketosis. To manage the diabetic ketosis, porcine lente insulin (Caninsulin, MSD) was administered at a dose of 0.33 U/kg q12h. Three days after initiating insulin therapy, the clinical signs improved, a stable blood glucose curve with a nadir of 150 mg/dL was observed, and the beta-hydroxybutyric acid concentration decreased to 1.4 mmol/L. Follow-up ECG confirmed resolution of the AV block. Subsequently, the diabetes mellitus (DM) was well managed, and the AV block did not recur. A strong association between DM and AV block is reported in humans. However, studies investigating the relationship between DM and AV block in veterinary medicine are limited. This case report describes the potential for acute-onset DM to induce cardiac conduction disturbances in dogs.",
+      "chunk_index": 0,
+      "char_count": 1530,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

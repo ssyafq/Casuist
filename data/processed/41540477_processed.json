@@ -1,0 +1,75 @@
+{
+  "pmid": "41540477",
+  "pmc_id": "PMC12892479",
+  "title": "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst and atraumatic splenic rupture: a case report.",
+  "authors": [
+    "Luo C",
+    "Lu Z",
+    "Liang J",
+    "Lu T",
+    "Gao M",
+    "He T"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41540477",
+      "pmc_id": "PMC12892479",
+      "title": "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst and atraumatic splenic rupture: a case report.",
+      "authors": [
+        "Luo C",
+        "Lu Z",
+        "Liang J",
+        "Lu T",
+        "Gao M",
+        "He T"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Acute pancreatitis is an uncommon but clinically important complication in people living with HIV (PLWH) and has been linked to HIV itself, older nucleoside reverse transcriptase inhibitors, protease inhibitors via hypertriglyceridemia, and multiple opportunistic or metabolic comorbidities. Atraumatic splenic rupture (ASR) is rare and has been described in association with acute or chronic pancreatitis and, more rarely, with HIV infection. However, the coexistence of chronic HIV infection, pancreatitis with pancreatic tail pseudocyst, and ASR has seldom been reported. We present a complex case highlighting the interaction between long-standing HIV infection, chronic pancreatitis, and splenic injury. To our knowledge, no previous report has described chronic HIV infection complicated simultaneously by acute-on-chronic pancreatitis, a pancreatic tail pseudocyst, and atraumatic splenic rupture.",
+      "chunk_index": 0,
+      "char_count": 904,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41540477",
+      "pmc_id": "PMC12892479",
+      "title": "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst and atraumatic splenic rupture: a case report.",
+      "authors": [
+        "Luo C",
+        "Lu Z",
+        "Liang J",
+        "Lu T",
+        "Gao M",
+        "He T"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "pancreatic tail pseudocyst, and ASR has seldom been reported. We present a complex case highlighting the interaction between long-standing HIV infection, chronic pancreatitis, and splenic injury. To our knowledge, no previous report has described chronic HIV infection complicated simultaneously by acute-on-chronic pancreatitis, a pancreatic tail pseudocyst, and atraumatic splenic rupture.\n\nA 35-year-old man with a 9-year history of HIV infection on antiretroviral therapy (ART) presented with acute worsening of upper abdominal pain and dizziness on the background of intermittent epigastric pain over one year. He had no history of abdominal trauma, alcohol abuse, gallstones, or hypertriglyceridemia, and had never received didanosine or stavudine. Initial assessment revealed pallor, hypotension, generalized abdominal tenderness with peritoneal signs, severe anemia, leukocytosis, and markedly elevated serum amylase and lipase levels. Contrast-enhanced abdominal CT showed hemoperitoneum, irregular laceration and heterogeneous enhancement of the spleen, chronic pancreatitis with atrophic, calcified pancreas and dilated main pancreatic duct, and a pseudocyst in the pancreatic tail abutting the splenic hilum. Emergency laparotomy revealed approximately 1500 mL of hemoperitoneum, a ruptured upper pole splenic laceration extending towards the hilum, and a pancreatic tail pseudocyst adherent to the splenic hilum. Splenectomy plus distal pancreatectomy with drainage were performed. Pathology confirmed chronic pancreatitis with pseudocyst formation and splenic rupture without malignancy. Postoperative recovery was uneventful apart from reactive thrombocytosis, which was managed with antiplatelet therapy. The patient remained well with no recurrence of pancreatitis or splenic complications at 15-month follow-up.",
+      "chunk_index": 1,
+      "char_count": 1829,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41540477",
+      "pmc_id": "PMC12892479",
+      "title": "Chronic HIV infection complicated by pancreatitis, pancreatic tail pseudocyst and atraumatic splenic rupture: a case report.",
+      "authors": [
+        "Luo C",
+        "Lu Z",
+        "Liang J",
+        "Lu T",
+        "Gao M",
+        "He T"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "hilum. Splenectomy plus distal pancreatectomy with drainage were performed. Pathology confirmed chronic pancreatitis with pseudocyst formation and splenic rupture without malignancy. Postoperative recovery was uneventful apart from reactive thrombocytosis, which was managed with antiplatelet therapy. The patient remained well with no recurrence of pancreatitis or splenic complications at 15-month follow-up.\n\nThis case illustrates a plausible \"pancreas-spleen axis\" in which chronic pancreatitis with a pancreatic tail pseudocyst leads to local vascular and parenchymal fragility, predisposing to ASR in a patient with chronic HIV infection and incomplete immune reconstitution. It emphasizes the need to consider ASR in PLWH presenting with acute abdomen, particularly when imaging shows pancreatic tail pathology. Early CT, prompt surgical decision-making, and multidisciplinary management between infectious disease specialists and surgeons are critical for favorable outcomes.",
+      "chunk_index": 2,
+      "char_count": 983,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

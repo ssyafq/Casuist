@@ -1,0 +1,94 @@
+{
+  "pmid": "41642355",
+  "pmc_id": null,
+  "title": "A patient with anti-IgLON5 disease associated with cerebral hemorrhage, multiple ischemic strokes, and kidney failure: case report.",
+  "authors": [
+    "Sajin V",
+    "Bohringer MP",
+    "Ebert J",
+    "Wandinger KP",
+    "Mindorf S",
+    "Walther EU"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41642355",
+      "pmc_id": null,
+      "title": "A patient with anti-IgLON5 disease associated with cerebral hemorrhage, multiple ischemic strokes, and kidney failure: case report.",
+      "authors": [
+        "Sajin V",
+        "Bohringer MP",
+        "Ebert J",
+        "Wandinger KP",
+        "Mindorf S",
+        "Walther EU"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Anti-IgLON5 disease is a recently discovered, rare autoimmune disorder of the nervous system associated with autoantibodies against IgLON5. It manifests with sleep disorders, bulbar syndrome, gait instability, cognitive impairment, and/ or movement disorders. Survival rate and lower long-term disability progression depend on the early initiation of immunotherapy.",
+      "chunk_index": 0,
+      "char_count": 365,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41642355",
+      "pmc_id": null,
+      "title": "A patient with anti-IgLON5 disease associated with cerebral hemorrhage, multiple ischemic strokes, and kidney failure: case report.",
+      "authors": [
+        "Sajin V",
+        "Bohringer MP",
+        "Ebert J",
+        "Wandinger KP",
+        "Mindorf S",
+        "Walther EU"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Anti-IgLON5 disease is a recently discovered, rare autoimmune disorder of the nervous system associated with autoantibodies against IgLON5. It manifests with sleep disorders, bulbar syndrome, gait instability, cognitive impairment, and/ or movement disorders. Survival rate and lower long-term disability progression depend on the early initiation of immunotherapy.\n\nWe describe a male patient with therapy-resistant anti-IgLON5 disease associated with sleep apnea, limb tremor, cerebral hemorrhage, epileptic seizures, psychiatric symptoms, multiple ischemic strokes, and kidney failure. In the further course of the disease, he developed dysphagia, respiratory failure requiring tracheotomy, and persistently reduced state of wakefulness. Despite immunotherapy with high doses of prednisolone and repeated administration of intravenous immunoglobulins, the patient continued to deteriorate. Consequently, we switched to rituximab. Six weeks later, the patient showed a continuous improvement and delirium resolved. Two months after second dose of rituximab, the tracheostoma could be removed. The patient was discharged home with a continuous positive airway pressure (CPAP) mask and percutaneous endoscopic gastrostomy (PEG). In the subsequent six months, sleep apnea, dysphagia, and cognition improved further. No more seizures occurred. The treatment with rituximab was continued.",
+      "chunk_index": 1,
+      "char_count": 1385,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41642355",
+      "pmc_id": null,
+      "title": "A patient with anti-IgLON5 disease associated with cerebral hemorrhage, multiple ischemic strokes, and kidney failure: case report.",
+      "authors": [
+        "Sajin V",
+        "Bohringer MP",
+        "Ebert J",
+        "Wandinger KP",
+        "Mindorf S",
+        "Walther EU"
+      ],
+      "specialty": "stroke",
+      "section_type": "discussion",
+      "text": "after second dose of rituximab, the tracheostoma could be removed. The patient was discharged home with a continuous positive airway pressure (CPAP) mask and percutaneous endoscopic gastrostomy (PEG). In the subsequent six months, sleep apnea, dysphagia, and cognition improved further. No more seizures occurred. The treatment with rituximab was continued.\n\nOur patient showed a combination of both typical and unusual symptoms of anti-IgLON5 disease. Sleep apnea and psychiatric features suggested the direction of diagnostic investigations. Positive IgLON5 antibodies in serum and cerebrospinal fluid, detected with the cell-based immunofluorescence assay, were the base of diagnosis. Since steroids and intravenous immunoglobulins led just to a brief temporary improvement, the treatment was escalated to rituximab following the current published recommendations.",
+      "chunk_index": 2,
+      "char_count": 867,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41642355",
+      "pmc_id": null,
+      "title": "A patient with anti-IgLON5 disease associated with cerebral hemorrhage, multiple ischemic strokes, and kidney failure: case report.",
+      "authors": [
+        "Sajin V",
+        "Bohringer MP",
+        "Ebert J",
+        "Wandinger KP",
+        "Mindorf S",
+        "Walther EU"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "psychiatric features suggested the direction of diagnostic investigations. Positive IgLON5 antibodies in serum and cerebrospinal fluid, detected with the cell-based immunofluorescence assay, were the base of diagnosis. Since steroids and intravenous immunoglobulins led just to a brief temporary improvement, the treatment was escalated to rituximab following the current published recommendations.\n\nAnti-IgLON5 disease is rare, its pathophysiology is not completely understood yet, and the prognosis is usually poor. Nevertheless, the early recognition and early initiation of therapy can be life-saving. Second-line immunosuppressive drugs, such as rituximab, should be considered in patients resistant to steroids and intravenous immunoglobulins. In our patient, the coexistence of high titers of IgLON5 antibodies in serum with ischemic strokes, cerebral hemorrhage, and systemic problems (such as renal failure) suggests new aspects in the pathophysiology of anti-IgLON5 disease, possibly via microvasculitis. A good response to rituximab supports the B lymphocytic cells' involvement in this disease. The continuous decrease of IgLON5 antibodies associated with the clinical improvement should be investigated as potential prognostic factor. With our case, we contribute to expand knowledge about the anti-IgLON5 disease's spectrum and define future diagnostic and study directions.",
+      "chunk_index": 3,
+      "char_count": 1388,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

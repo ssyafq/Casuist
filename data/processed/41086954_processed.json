@@ -1,0 +1,33 @@
+{
+  "pmid": "41086954",
+  "pmc_id": null,
+  "title": "High complement expression on extracellular vesicles in Covid-19 patients without pulmonary embolism leading to death. Case report.",
+  "authors": [
+    "Taxiarchis A",
+    "Antovic J",
+    "Rooyackers O",
+    "Dumitrescu G"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41086954",
+      "pmc_id": null,
+      "title": "High complement expression on extracellular vesicles in Covid-19 patients without pulmonary embolism leading to death. Case report.",
+      "authors": [
+        "Taxiarchis A",
+        "Antovic J",
+        "Rooyackers O",
+        "Dumitrescu G"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "This case report analyzes two severe COVID-19 patients without pulmonary embolism, revealing persistently elevated levels of extracellular vesicles (EVs) carrying tissue factor (TF+), complement proteins (C3a+, TCC+), and endothelial markers (CD144+, CD54+). Temporal trends in these EV subpopulations correlated with clinical deterioration, suggesting their role in endothelial injury, complement hyperactivation, and thromboinflammation. Notably, TF+EV dynamics aligned with anticoagulant treatment responses, while MPO+EVs reflected neutrophil activity without thrombotic complications. Despite differences in patient characteristics, these findings propose that patient-specific EV profiles may serve as potential indicators of disease progression, warranting targeted studies to validate their biomarker potential in severe COVID-19.",
+      "chunk_index": 0,
+      "char_count": 838,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

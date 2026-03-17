@@ -1,0 +1,83 @@
+{
+  "pmid": "41555436",
+  "pmc_id": "PMC12903493",
+  "title": "Rectal melanoma: managing a rare cause of rectal bleeding: case report and review of the literature.",
+  "authors": [
+    "Kirchweger A",
+    "Danhel L",
+    "Havranek L",
+    "Kratzer T",
+    "Punkenhofer P",
+    "Punzengruber A",
+    "Rezaie D",
+    "Shalamberidze D",
+    "Tatalovic S",
+    "Wurm M",
+    "Kupferthaler A",
+    "Nell S",
+    "Fugger R",
+    "Biebl M",
+    "Kirchweger P"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41555436",
+      "pmc_id": "PMC12903493",
+      "title": "Rectal melanoma: managing a rare cause of rectal bleeding: case report and review of the literature.",
+      "authors": [
+        "Kirchweger A",
+        "Danhel L",
+        "Havranek L",
+        "Kratzer T",
+        "Punkenhofer P",
+        "Punzengruber A",
+        "Rezaie D",
+        "Shalamberidze D",
+        "Tatalovic S",
+        "Wurm M",
+        "Kupferthaler A",
+        "Nell S",
+        "Fugger R",
+        "Biebl M",
+        "Kirchweger P"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Anorectal melanoma is rare and has a poor prognosis. Symptoms are often non-specific, such as bloody diarrhea, anal pain or bowel habit changes. Diagnosis requires tissue sample with immunohistochemistry because of the difficulty of clinical differentiation from other tumor entities since many lesions are amelanotic. Many patients are diagnosed at an advanced stage, precluding surgical treatment. Owing to the rareness of the disease and the lack of data there are no clear treatment guidelines available. A 90-year-old female sought emergency care due to rectal bleeding and changes in bowel habits. A CT scan revealed a substantial rectal tumor with nearby lymph node involvement and suspected liver and adrenal gland metastases. Endoscopy revealed a semicircular lesion, which was identified as a necrotic amelanotic tumor expressing Melan-A and S-100; immunohistochemically confirming malignant melanoma. Given the patients' overall condition, the tumor board recommended best supportive care. Recurrent severe bleeding necessitated transfusions, but surgical intervention for symptom control was not feasible due to her general health. Thus, palliative endovascular coil embolization of the tumor -supplying arteries was successfully performed for bleeding control. However, the patient died from disease progression three months later without further bleeding.",
+      "chunk_index": 0,
+      "char_count": 1369,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41555436",
+      "pmc_id": "PMC12903493",
+      "title": "Rectal melanoma: managing a rare cause of rectal bleeding: case report and review of the literature.",
+      "authors": [
+        "Kirchweger A",
+        "Danhel L",
+        "Havranek L",
+        "Kratzer T",
+        "Punkenhofer P",
+        "Punzengruber A",
+        "Rezaie D",
+        "Shalamberidze D",
+        "Tatalovic S",
+        "Wurm M",
+        "Kupferthaler A",
+        "Nell S",
+        "Fugger R",
+        "Biebl M",
+        "Kirchweger P"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "supportive care. Recurrent severe bleeding necessitated transfusions, but surgical intervention for symptom control was not feasible due to her general health. Thus, palliative endovascular coil embolization of the tumor -supplying arteries was successfully performed for bleeding control. However, the patient died from disease progression three months later without further bleeding.\n\nThe diagnosis of this rare manifestation of melanoma is technically challenging and rectal melanomas are often clinically misinterpreted as conditions such as hemorrhoidal disease. To date, there is no standardized therapy, but surgical intervention should be considered for local control. The role of adjuvant radiotherapy, chemotherapy, or immunotherapy in this disease has not yet been determined. Coil embolization can be a viable palliative treatment alternative for recurrent bleeding in patients unfit for surgery, which, has not been reported specifically for rectal melanoma.",
+      "chunk_index": 1,
+      "char_count": 971,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

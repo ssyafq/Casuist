@@ -1,0 +1,33 @@
+{
+  "pmid": "41107050",
+  "pmc_id": null,
+  "title": "Chorea and seizures in a patient with a rare VPS13A gene mutation and neuroacanthocytosis.",
+  "authors": [
+    "Srinivasan VA",
+    "Moorthy J",
+    "Kamalasekar K",
+    "Rajendran B"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41107050",
+      "pmc_id": null,
+      "title": "Chorea and seizures in a patient with a rare VPS13A gene mutation and neuroacanthocytosis.",
+      "authors": [
+        "Srinivasan VA",
+        "Moorthy J",
+        "Kamalasekar K",
+        "Rajendran B"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Choreo-acanthocytosis (hAc) is an autosomal-recessive, neurodegenerative disorder, often presenting as movement disorder, seizures and behavioural changes. This case report describes a male patient who presented with progressive movement disorder, long-standing seizures and cognitive impairment. Neurological examination and neuroimaging revealed features suspicious for basal ganglia degeneration. Routine metabolic and infectious investigations were negative. Genetic testing identified a likely pathogenic VPS13A variant (c.799C>T, p.Arg267Ter), a rare genetic mutation associated with ChAc. This report highlights the complexities of diagnosis, differential considerations, the importance of genetic testing in atypical movement disorders, therapeutic strategies,and the detrimental impact of the VPS13A gene mutation on the patient's quality of life. This case also tries to expand the known mutational spectrum of the VPS13A gene and its varied clinical presentation.",
+      "chunk_index": 0,
+      "char_count": 974,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

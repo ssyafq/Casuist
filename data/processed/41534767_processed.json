@@ -1,0 +1,99 @@
+{
+  "pmid": "41534767",
+  "pmc_id": null,
+  "title": "The association of recurrent stroke and immunoglobulin G4-related arteritis in the central nervous system: a case report.",
+  "authors": [
+    "Huang Q",
+    "Shen H",
+    "Xing P",
+    "Jiang Y",
+    "Xu X",
+    "Li Q",
+    "Zhang Y"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41534767",
+      "pmc_id": null,
+      "title": "The association of recurrent stroke and immunoglobulin G4-related arteritis in the central nervous system: a case report.",
+      "authors": [
+        "Huang Q",
+        "Shen H",
+        "Xing P",
+        "Jiang Y",
+        "Xu X",
+        "Li Q",
+        "Zhang Y"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Immunoglobulin G4-related disease (IgG4-RD) is a systemic immune-mediated fibroinflammatory disease. Histopathology is the key to diagnosis. Although aortitis/periaortitis is a phenotype of IgG4-related disease, the relationship between cerebrovascular disease and IgG4-related disease remains unclear.",
+      "chunk_index": 0,
+      "char_count": 302,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41534767",
+      "pmc_id": null,
+      "title": "The association of recurrent stroke and immunoglobulin G4-related arteritis in the central nervous system: a case report.",
+      "authors": [
+        "Huang Q",
+        "Shen H",
+        "Xing P",
+        "Jiang Y",
+        "Xu X",
+        "Li Q",
+        "Zhang Y"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Immunoglobulin G4-related disease (IgG4-RD) is a systemic immune-mediated fibroinflammatory disease. Histopathology is the key to diagnosis. Although aortitis/periaortitis is a phenotype of IgG4-related disease, the relationship between cerebrovascular disease and IgG4-related disease remains unclear.\n\nWe report a 60-year-old man with recurrent stroke induced by IgG4-related arteritis and present the pathological findings of the patient's superficial temporal artery and middle cerebral artery.",
+      "chunk_index": 1,
+      "char_count": 498,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41534767",
+      "pmc_id": null,
+      "title": "The association of recurrent stroke and immunoglobulin G4-related arteritis in the central nervous system: a case report.",
+      "authors": [
+        "Huang Q",
+        "Shen H",
+        "Xing P",
+        "Jiang Y",
+        "Xu X",
+        "Li Q",
+        "Zhang Y"
+      ],
+      "specialty": "stroke",
+      "section_type": "labs",
+      "text": "We report a 60-year-old man with recurrent stroke induced by IgG4-related arteritis and present the pathological findings of the patient's superficial temporal artery and middle cerebral artery.\n\nImmunohistochemistry demonstrated scattered plasma cells in the intima and adventitia of the superficial temporal artery, with a small number of IgG4-positive cells observed (10-15 cells per high-power field).",
+      "chunk_index": 2,
+      "char_count": 405,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41534767",
+      "pmc_id": null,
+      "title": "The association of recurrent stroke and immunoglobulin G4-related arteritis in the central nervous system: a case report.",
+      "authors": [
+        "Huang Q",
+        "Shen H",
+        "Xing P",
+        "Jiang Y",
+        "Xu X",
+        "Li Q",
+        "Zhang Y"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "Immunohistochemistry demonstrated scattered plasma cells in the intima and adventitia of the superficial temporal artery, with a small number of IgG4-positive cells observed (10-15 cells per high-power field).\n\nCase reports and studies examining the association between IgG4-related neurological arteritis and stroke are limited. Although a definitive link between IgG4-related arteritis (IgG4-RA) and stroke has not been established, IgG4-related arteritis should be considered as an etiology in patients with recurrent idiopathic stroke.",
+      "chunk_index": 3,
+      "char_count": 539,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

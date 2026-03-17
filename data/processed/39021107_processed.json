@@ -1,0 +1,35 @@
+{
+  "pmid": "39021107",
+  "pmc_id": null,
+  "title": "[False positive on macrotroponin].",
+  "authors": [
+    "Mach B",
+    "Laurencet ME",
+    "Pagano S",
+    "Roffi M",
+    "Vuilleumier N"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39021107",
+      "pmc_id": null,
+      "title": "[False positive on macrotroponin].",
+      "authors": [
+        "Mach B",
+        "Laurencet ME",
+        "Pagano S",
+        "Roffi M",
+        "Vuilleumier N"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "The determination of I and T subunits of cardiac troponin isoforms are the biochemical gold standard for the detection of myocardial distress. The advent of so-called highly sensitive measurements has optimized the diagnosis of acute coronary syndromes at the cost of making the diagnostic approach more complex and increasing sensitivity to analytical interference. This article presents a case of macrotroponinemia, characterized by circulating IgG-troponin T immunocomplexes, in order to raise prescribers' awareness of the critical interpretation of high and persistent cardiac troponin values.",
+      "chunk_index": 0,
+      "char_count": 598,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

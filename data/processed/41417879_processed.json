@@ -1,0 +1,44 @@
+{
+  "pmid": "41417879",
+  "pmc_id": "PMC12774441",
+  "title": "[Rare cases of stress cardiomyopathy triggered by pulmonary embolism and reverse Takotsubo].",
+  "authors": [
+    "Schlie-Villa W",
+    "Bonilla-Mondragon E"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41417879",
+      "pmc_id": "PMC12774441",
+      "title": "[Rare cases of stress cardiomyopathy triggered by pulmonary embolism and reverse Takotsubo].",
+      "authors": [
+        "Schlie-Villa W",
+        "Bonilla-Mondragon E"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Takotsubo syndrome is a potentially fatal cardiomyopathy, characterized by systolic dysfunction with apical hypokinesia and basal hypercontractility in the absence of coronary lesions. It is triggered by physical or emotional stress and accounts for 2% of acute coronary syndromes; it is more common in older women. Its pathophysiology is not entirely clear, although the adrenergic hypothesis is the most accepted: a cardiotoxic effect is proposed due to beta-adrenergic stimulation, with an imbalance in oxygen supply and demand and dysregulation of calcium-dependent proteins. However, certain comorbidities can mask the condition. The objective was to describe anomalous presentations of Takotsubo syndrome and briefly review its variants to familiarize cardiologists with unusual patterns. CLINICAL CASES: The first case was about a 68-year-old man with angina, hemodynamic instability, and prominent T waves in V2-V4, with no coronary lesions. A ventriculogram showed systolic dysfunction and basal hypokinesia. Second case was about an 81-year-old woman with pulmonary embolism presented with systolic dysfunction with apical hypokinesia after thrombectomy.",
+      "chunk_index": 0,
+      "char_count": 1164,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41417879",
+      "pmc_id": "PMC12774441",
+      "title": "[Rare cases of stress cardiomyopathy triggered by pulmonary embolism and reverse Takotsubo].",
+      "authors": [
+        "Schlie-Villa W",
+        "Bonilla-Mondragon E"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "diagnosis",
+      "text": "CASES: The first case was about a 68-year-old man with angina, hemodynamic instability, and prominent T waves in V2-V4, with no coronary lesions. A ventriculogram showed systolic dysfunction and basal hypokinesia. Second case was about an 81-year-old woman with pulmonary embolism presented with systolic dysfunction with apical hypokinesia after thrombectomy.\n\nStress cardiomyopathy can have atypical presentations, which is why it should be suspected in the presence of a ventricular dysfunction with no apparent cause.",
+      "chunk_index": 1,
+      "char_count": 521,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

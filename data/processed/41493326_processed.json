@@ -1,0 +1,43 @@
+{
+  "pmid": "41493326",
+  "pmc_id": null,
+  "title": "Auto-Immune Pancreatitis with Pseudo-Tumoral Mass Induced by Pembrolizumab in a Woman suffering from Metastatic Urothelial Carcinoma: Case Report and Literature survey.",
+  "authors": [
+    "Bastens G",
+    "Bletard N",
+    "Matus G",
+    "Jehaes F",
+    "Plomteux O",
+    "Renier F",
+    "Materne R",
+    "Bastens B",
+    "Focan C"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41493326",
+      "pmc_id": null,
+      "title": "Auto-Immune Pancreatitis with Pseudo-Tumoral Mass Induced by Pembrolizumab in a Woman suffering from Metastatic Urothelial Carcinoma: Case Report and Literature survey.",
+      "authors": [
+        "Bastens G",
+        "Bletard N",
+        "Matus G",
+        "Jehaes F",
+        "Plomteux O",
+        "Renier F",
+        "Materne R",
+        "Bastens B",
+        "Focan C"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Immune checkpoint inhibitors (ICIs) have revolutionized cancer therapy but may induce rare immune-related adverse events including pancreatitis (ICI-PI-), which occurs in 2-4% of cases. Such ICI-PI may necessitate treatment discontinuation. We report the rare case of a 51-year-old female with Lynch syndrome treated with pembrolizumab for metastatic urothelial carcinoma. A pancreatic mass was identified during follow-up by PET/CT. Pathology from endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) could not exclude adenocarcinoma. Surgical resection revealed pathology consistent with type II autoimmune pancreatitis (AIP) in a case which represent by definition , a type III ICI-PI. We explore diagnostic criteria focusing on clinical, serological, histological as well as medical imaging features and management.",
+      "chunk_index": 0,
+      "char_count": 828,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

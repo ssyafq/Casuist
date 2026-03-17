@@ -1,0 +1,35 @@
+{
+  "pmid": "41571394",
+  "pmc_id": null,
+  "title": "Congenital methaemoglobinaemia, an incidental finding and a diagnostic confounder.",
+  "authors": [
+    "Miruzzi L",
+    "Micallef S",
+    "Attard KA",
+    "Farrugia D",
+    "Camilleri DJ"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41571394",
+      "pmc_id": null,
+      "title": "Congenital methaemoglobinaemia, an incidental finding and a diagnostic confounder.",
+      "authors": [
+        "Miruzzi L",
+        "Micallef S",
+        "Attard KA",
+        "Farrugia D",
+        "Camilleri DJ"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Methaemoglobinaemia is characterised by the oxidation of the iron component in haemoglobin from a ferrous (Fe(2)(+)) to a ferric (Fe(3)(+)) state, forming methaemoglobin (MetHb) and reducing oxygen delivery to tissues. We present the case of a woman in her 70s with chronic obstructive pulmonary disease (COPD) who presented with left-sided mastitis unresponsive to treatment and persistent hypoxia (peripheral oxygen saturation, 86%) despite clear chest imaging. Arterial blood gas analysis revealed an elevated MetHb level of 26.5%. Although she was taking cetirizine and indapamide, both of which have theoretical potential to induce acquired methaemoglobinaemia, genetic testing identified a homozygous pathogenic variant in cytochrome b5 reductase, confirming type 1 methaemoglobinaemia. Treatment with methylene blue initially reduced MetHb levels; however, recurrence necessitated the use of ascorbic acid and supportive care, including oxygen supplementation. The MetHb level was successfully reduced to 1.9%, the patient's condition improved, and she was discharged home with follow-up care. In conclusion, although methaemoglobinaemia is rare, it can lead to significant hypoxia and should be considered in cases where there is a discrepancy between pulse oximeter readings and arterial blood gas results. In patients with COPD, it can mimic an exacerbation, thus delaying recognition. This case highlights the importance of considering congenital enzyme deficiencies, even with presentation later in life and in the presence of possible drug-related triggers.",
+      "chunk_index": 0,
+      "char_count": 1570,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

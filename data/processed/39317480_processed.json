@@ -1,0 +1,31 @@
+{
+  "pmid": "39317480",
+  "pmc_id": "PMC12451889",
+  "title": "Missed opportunity in acute coronary syndrome.",
+  "authors": [
+    "Satti Z",
+    "Salim T",
+    "Egred M"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39317480",
+      "pmc_id": "PMC12451889",
+      "title": "Missed opportunity in acute coronary syndrome.",
+      "authors": [
+        "Satti Z",
+        "Salim T",
+        "Egred M"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "A man in late adolescence of Asian descent was admitted with cardiac-sounding chest pain and a history of flu-like symptoms a week prior to presentation with negative screening for the SARS-CoV-2 virus. His ECG showed lateral T-wave changes and pre-excitation pattern suggestive of an accessory pathway. High-sensitivity troponin T peak was significantly elevated to 2550 ng/L (normal reference range 0-11). He was initially treated for a suspected perimyocarditis. Transthoracic echocardiography revealed moderate left ventricular systolic dysfunction with regional wall motion abnormalities suggestive of coronary artery disease. Cardiac magnetic resonance imaging showed subendocardial delayed gadolinium enhancement with ischaemia and viability in the left circumflex (LCx) territory. He was then sent for a CT coronary angiogram for a suspected spontaneous coronary artery dissection, and subsequently, he discussed with our team and accepted for immediate transfer. He underwent coronary angiography and intravascular ultrasound-guided percutaneous coronary intervention to his LCx artery with a drug-coated balloon. Following that, and after a discussion with the electrophysiology team, he had an attempt at ablating his accessory pathway with partial success. He was discharged home in a stable condition.",
+      "chunk_index": 0,
+      "char_count": 1314,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

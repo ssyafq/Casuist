@@ -1,0 +1,33 @@
+{
+  "pmid": "41662718",
+  "pmc_id": null,
+  "title": "How Would You Manage This Patient With Idiopathic Acute Pancreatitis? Grand Rounds Discussion From Beth Israel Deaconess Medical Center.",
+  "authors": [
+    "Kanjee Z",
+    "Vege SS",
+    "Sheth SG",
+    "Cool JA"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41662718",
+      "pmc_id": null,
+      "title": "How Would You Manage This Patient With Idiopathic Acute Pancreatitis? Grand Rounds Discussion From Beth Israel Deaconess Medical Center.",
+      "authors": [
+        "Kanjee Z",
+        "Vege SS",
+        "Sheth SG",
+        "Cool JA"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Acute pancreatitis is among the most frequent gastroenterologic reasons for hospitalization in the United States. This condition is associated with significant morbidity, including recurrent acute pancreatitis and chronic pancreatitis. Although most patient cases are due to biliary disease and ethanol, approximately 18% are idiopathic. Diagnostic and management options for idiopathic acute pancreatitis include genetic testing for a number of associated mutations and cholecystectomy to treat subclinical or undetected biliary disease. Endoscopic retrograde cholangiopancreatography, often with concomitant endoscopic sphincterotomy, is also sometimes considered in the management of idiopathic recurrent acute pancreatitis, although the role of this invasive procedure is generally limited. Here, 2 pancreatologists and coauthors of a recent American College of Gastroenterology guideline on the management of acute pancreatitis discuss issues related to genetic testing, cholecystectomy, and endoscopic retrograde cholangiopancreatography with endoscopic sphincterotomy for patients with acute idiopathic pancreatitis in general, and for a young woman recently diagnosed with this condition.",
+      "chunk_index": 0,
+      "char_count": 1196,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

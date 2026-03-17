@@ -1,0 +1,35 @@
+{
+  "pmid": "41192964",
+  "pmc_id": "PMC12587477",
+  "title": "Congenital disorder of glycosylation type IIb in an infant with developmental and epileptic encephalopathy.",
+  "authors": [
+    "Shwetabh RK",
+    "Singh A",
+    "Mandal K",
+    "Naranje K",
+    "Verma A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41192964",
+      "pmc_id": "PMC12587477",
+      "title": "Congenital disorder of glycosylation type IIb in an infant with developmental and epileptic encephalopathy.",
+      "authors": [
+        "Shwetabh RK",
+        "Singh A",
+        "Mandal K",
+        "Naranje K",
+        "Verma A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "We report a term infant presenting in early infancy with progressive developmental delay, feeding difficulties, recurrent seizures and failure to thrive. The infant initially exhibited symptoms from early neonatal age, including vomiting, lethargy and seizures, necessitating multiple hospitalisations. Progressive neurological deterioration, hepatomegaly, bilateral nephromegaly, hypothyroidism, gastro-oesophageal reflux disease and auditory neuropathy were noted. MRI showed cerebral atrophy and dilated ventricles. Extensive investigations ruled out infections, metabolic acidosis and structural brain malformations. Whole exome sequencing identified a homozygous missense mutation in the mannosyl-oligosaccharide glucosidase (MOGS) gene (c.2090T>C; p.Leu697Ser), previously reported in MOGS CDG (congenital disorder of glycosylation type IIb). A mannose-based diet led to partial improvement. This case highlights the importance of considering neurometabolic conditions such as CDG in infants with early-onset developmental and epileptic encephalopathy and multisystem involvement. Early diagnosis and supportive multidisciplinary care are vital for improving outcomes and guiding family counselling.",
+      "chunk_index": 0,
+      "char_count": 1205,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

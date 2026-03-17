@@ -1,0 +1,75 @@
+{
+  "pmid": "41390369",
+  "pmc_id": "PMC12817846",
+  "title": "From urinary tract infection to deafness: community-acquired meningitis in an adult caused by hypervirulent Klebsiella pneumoniae-a case report.",
+  "authors": [
+    "Yuan X",
+    "Fang M",
+    "Lan W",
+    "Zhou X",
+    "Yang S",
+    "Wang T"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41390369",
+      "pmc_id": "PMC12817846",
+      "title": "From urinary tract infection to deafness: community-acquired meningitis in an adult caused by hypervirulent Klebsiella pneumoniae-a case report.",
+      "authors": [
+        "Yuan X",
+        "Fang M",
+        "Lan W",
+        "Zhou X",
+        "Yang S",
+        "Wang T"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Hypervirulent Klebsiella pneumoniae (hvKP) is an emerging pathogen capable of causing lethal metastatic infections in healthy individuals. While liver abscesses are well-described, the urinary tract is increasingly recognized as a primary portal for hematogenous dissemination.",
+      "chunk_index": 0,
+      "char_count": 277,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41390369",
+      "pmc_id": "PMC12817846",
+      "title": "From urinary tract infection to deafness: community-acquired meningitis in an adult caused by hypervirulent Klebsiella pneumoniae-a case report.",
+      "authors": [
+        "Yuan X",
+        "Fang M",
+        "Lan W",
+        "Zhou X",
+        "Yang S",
+        "Wang T"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Hypervirulent Klebsiella pneumoniae (hvKP) is an emerging pathogen capable of causing lethal metastatic infections in healthy individuals. While liver abscesses are well-described, the urinary tract is increasingly recognized as a primary portal for hematogenous dissemination.\n\nA 46-year-old man with previously undiagnosed diabetes mellitus presented with community-acquired urinary tract infection (CA-UTI) that rapidly progressed to bilateral sensorineural deafness and meningitis. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) identified K. pneumoniae harboring hypervirulence genes rmpA and iucA. Blood, urine, and CSF cultures yielded an ESBL-negative, pansensitive hvKP strain. Brain MRI revealed septic emboli, consistent with hematogenous dissemination.",
+      "chunk_index": 1,
+      "char_count": 792,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41390369",
+      "pmc_id": "PMC12817846",
+      "title": "From urinary tract infection to deafness: community-acquired meningitis in an adult caused by hypervirulent Klebsiella pneumoniae-a case report.",
+      "authors": [
+        "Yuan X",
+        "Fang M",
+        "Lan W",
+        "Zhou X",
+        "Yang S",
+        "Wang T"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "urinary tract infection (CA-UTI) that rapidly progressed to bilateral sensorineural deafness and meningitis. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) identified K. pneumoniae harboring hypervirulence genes rmpA and iucA. Blood, urine, and CSF cultures yielded an ESBL-negative, pansensitive hvKP strain. Brain MRI revealed septic emboli, consistent with hematogenous dissemination.\n\nThis case highlights the urinary tract as an underrecognized but lethal source of hvKP dissemination, particularly in diabetic patients. The rapid neurologic decline and permanent deafness highlight the need for early recognition and aggressive management. Virulence gene profiling should complement routine susceptibility testing. mNGS enabled rapid pathogen identification and guided targeted therapy. Clinicians must remain vigilant for CNS complications in diabetic patients with CA-UTI.",
+      "chunk_index": 2,
+      "char_count": 908,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

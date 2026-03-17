@@ -1,0 +1,33 @@
+{
+  "pmid": "41428761",
+  "pmc_id": null,
+  "title": "A Picture is Worth a Thousand Clinical Assessments: Use of Video-Based Pose Estimation to Augment Post-Stroke Upper Limb Assessment of Bilateral Tasks.",
+  "authors": [
+    "Hawe RL",
+    "Ziccardi S",
+    "Asante D",
+    "Guy SJ"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41428761",
+      "pmc_id": null,
+      "title": "A Picture is Worth a Thousand Clinical Assessments: Use of Video-Based Pose Estimation to Augment Post-Stroke Upper Limb Assessment of Bilateral Tasks.",
+      "authors": [
+        "Hawe RL",
+        "Ziccardi S",
+        "Asante D",
+        "Guy SJ"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Clinical assessments of the post-stroke upper limbs have several limitations in that they focus primarily on unilateral movements, rely on observer-based ordinal scales, and give limited insight into movement quality. Human pose estimation uses computer vision to extract motion data from videos, making it a clinically feasible tool to assess movement and overcome many challenges of traditional clinical assessments. Our objective of this work was to demonstrate the use of video-based pose estimation to enhance the assessment of bilateral tasks in individuals post-stroke through visualizations and quantitative metrics. Using single camera video recordings of the Chedoke Hand and Arm Activity Inventory in two individuals with chronic stroke and one neurologically intact individual, we demonstrate differences in movement patterns including increased compensatory movements of proximal joints and asymmetries. We were able to detect differences that the traditional assessment scoring could not, demonstrating the potential of computer vision to enhance clinical assessment.",
+      "chunk_index": 0,
+      "char_count": 1081,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

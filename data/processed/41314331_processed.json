@@ -1,0 +1,43 @@
+{
+  "pmid": "41314331",
+  "pmc_id": null,
+  "title": "Hepatitis B virus detected in cerebrospinal fluid of an immunocompetent adolescent with meningoencephalitis.",
+  "authors": [
+    "Dong DV",
+    "Linh LTK",
+    "Cao LC",
+    "Linh NTK",
+    "Huyen LT",
+    "Wedemeyer H",
+    "Kremsner PG",
+    "Song LH",
+    "Velavan TP"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41314331",
+      "pmc_id": null,
+      "title": "Hepatitis B virus detected in cerebrospinal fluid of an immunocompetent adolescent with meningoencephalitis.",
+      "authors": [
+        "Dong DV",
+        "Linh LTK",
+        "Cao LC",
+        "Linh NTK",
+        "Huyen LT",
+        "Wedemeyer H",
+        "Kremsner PG",
+        "Song LH",
+        "Velavan TP"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Hepatitis B virus (HBV) infection remains a major global health burden, particularly in low- and middle-income countries (LMICs). Although primarily hepatotropic, HBV has occasionally been linked to extrahepatic and neurological manifestations. We report a 16-year-old immunocompetent female from Vietnam presenting with acute meningoencephalitis of unknown origin. Conventional microbiological and molecular tests were negative. Retrospective next-generation sequencing of cerebrospinal fluid revealed HBV genotype B2, with a viral load of 3.2 x 10(4) copies/mL confirmed by quantitative PCR and a positive hepatitis B surface antigen result. This represents the first documented case of HBV-associated meningoencephalitis in Vietnam. The findings highlight the diagnostic utility of unbiased sequencing in unexplained CNS infections and emphasize the need for systematic studies on HBV neurotropism, compartmentalization, and therapeutic management.",
+      "chunk_index": 0,
+      "char_count": 951,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

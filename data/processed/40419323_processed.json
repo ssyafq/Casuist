@@ -1,0 +1,35 @@
+{
+  "pmid": "40419323",
+  "pmc_id": null,
+  "title": "Ventilator-Assisted Preoxygenation for Patients With Diabetic Ketoacidosis: A Novel Case Series.",
+  "authors": [
+    "Latona A",
+    "Pellatt R",
+    "Wedgwood D",
+    "Keijzers G",
+    "Grant S"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40419323",
+      "pmc_id": null,
+      "title": "Ventilator-Assisted Preoxygenation for Patients With Diabetic Ketoacidosis: A Novel Case Series.",
+      "authors": [
+        "Latona A",
+        "Pellatt R",
+        "Wedgwood D",
+        "Keijzers G",
+        "Grant S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Patients with diabetic ketoacidosis (DKA) are at risk for adverse peri-intubation events. In severe metabolic acidosis, respiratory compensation with hyperventilation may already be maximized. During intubation, aggressive apneic ventilation is required to mitigate the worsening acidemia and prevent cardiovascular collapse. Ventilator-assisted preoxygenation (VAPOX) is a method of preoxygenation and apneic ventilation in which the ventilator delivers pressure-supported minute ventilation during preoxygenation and after the onset of paralysis, until laryngoscopy is attempted. In patients with DKA, VAPOX can be programmed to deliver high minute-volume ventilation during apnea to compensate for metabolic acidosis. This study describes the use of VAPOX during intubation in critically ill patients with DKA in a retrieval setting. We demonstrated the novel use of the Hamilton T1 ventilator in critical DKA physiology, a technique not yet reported in the DKA literature.",
+      "chunk_index": 0,
+      "char_count": 976,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

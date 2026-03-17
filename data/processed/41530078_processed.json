@@ -1,0 +1,35 @@
+{
+  "pmid": "41530078",
+  "pmc_id": null,
+  "title": "[Anomalous biliopancreatic junction, a rare etiology of recurrent pancreatitis].",
+  "authors": [
+    "Duarte Misol DR",
+    "Prada Rivera MF",
+    "Celedon Moy J",
+    "Medina Ortega MA",
+    "Perez Orozco JM"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41530078",
+      "pmc_id": null,
+      "title": "[Anomalous biliopancreatic junction, a rare etiology of recurrent pancreatitis].",
+      "authors": [
+        "Duarte Misol DR",
+        "Prada Rivera MF",
+        "Celedon Moy J",
+        "Medina Ortega MA",
+        "Perez Orozco JM"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Anomalous biliopancreatic junction is a very rare condition, with very low incidences in Asia, 1:1000 inhabitants and even lower in the West, up to 1:100,000. Endoscopic retrograde cholangiopancreatography is the diagnostic imaging technique of choice. This condition involves the junction of the biliary and pancreatic ducts outside the duodenal wall, predisposing patients to reflux of bile and pancreatic juice, which increases the risk of recurrent acute pancreatitis. Therefore, timely diagnosis and appropriate treatment are crucial.",
+      "chunk_index": 0,
+      "char_count": 539,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

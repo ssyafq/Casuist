@@ -1,0 +1,35 @@
+{
+  "pmid": "41401963",
+  "pmc_id": "PMC12708068",
+  "title": "[A case of Harel-Yoon syndrome with seizures caused by an ATAD3A variant].",
+  "authors": [
+    "Yang Q",
+    "Pan Z",
+    "Chen C",
+    "Yin F",
+    "Peng J"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41401963",
+      "pmc_id": "PMC12708068",
+      "title": "[A case of Harel-Yoon syndrome with seizures caused by an ATAD3A variant].",
+      "authors": [
+        "Yang Q",
+        "Pan Z",
+        "Chen C",
+        "Yin F",
+        "Peng J"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "A 3-year-10-month-old boy was admitted with a history of intermittent seizures for over one year. Global developmental delay, facial dysmorphism, and axial hypotonia were observed, with multiple seizure types including epileptic spasms and myoclonic seizures. Severe developmental delay was indicated by the Gesell Developmental Schedule, and electroencephalography showed generalized spikes and spike-and-slow-wave discharges. A de novo heterozygous missense variant in ATAD3A, c.1582C>T (p.Arg528Trp), was identified and classified as pathogenic, and a diagnosis of Harel-Yoon syndrome was made. After administration of antiseizure medications, seizures were controlled and motor development improved compared with baseline. To our knowledge, this seizure phenotype is the first report in the Chinese literature of Harel-Yoon syndrome due to a heterozygous ATAD3A variant. This case expands the clinical phenotypic spectrum of ATAD3A and provides a reference for diagnosis and management.",
+      "chunk_index": 0,
+      "char_count": 990,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

@@ -1,0 +1,79 @@
+{
+  "pmid": "41710874",
+  "pmc_id": "PMC12910313",
+  "title": "Case Report: Early-onset VEXAS syndrome with recurrent pulmonary inflammation and myelodysplasia: a diagnostic and therapeutic challenge.",
+  "authors": [
+    "Jin X",
+    "Jiang X",
+    "Liu Y",
+    "Chen M",
+    "Dai J",
+    "Xu J",
+    "Shen M"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41710874",
+      "pmc_id": "PMC12910313",
+      "title": "Case Report: Early-onset VEXAS syndrome with recurrent pulmonary inflammation and myelodysplasia: a diagnostic and therapeutic challenge.",
+      "authors": [
+        "Jin X",
+        "Jiang X",
+        "Liu Y",
+        "Chen M",
+        "Dai J",
+        "Xu J",
+        "Shen M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome is a newly recognized adult-onset autoinflammatory disorder caused by somatic mutations in the UBA1 gene. It typically presents in older males with systemic inflammation, hematologic abnormalities, and a relapsing, treatment-refractory course. Reports in younger patients remain rare, and pulmonary involvement is often misdiagnosed as infection.",
+      "chunk_index": 0,
+      "char_count": 420,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41710874",
+      "pmc_id": "PMC12910313",
+      "title": "Case Report: Early-onset VEXAS syndrome with recurrent pulmonary inflammation and myelodysplasia: a diagnostic and therapeutic challenge.",
+      "authors": [
+        "Jin X",
+        "Jiang X",
+        "Liu Y",
+        "Chen M",
+        "Dai J",
+        "Xu J",
+        "Shen M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "enzyme, X-linked, autoinflammatory, somatic) syndrome is a newly recognized adult-onset autoinflammatory disorder caused by somatic mutations in the UBA1 gene. It typically presents in older males with systemic inflammation, hematologic abnormalities, and a relapsing, treatment-refractory course. Reports in younger patients remain rare, and pulmonary involvement is often misdiagnosed as infection.\n\nWe present a 30-year-old man with a two-year history of recurrent scleritis, fever, cough, auricular chondritis, rash, and transfusion-dependent macrocytic anemia. Despite multiple immunosuppressants and broad-spectrum antimicrobials, symptoms persisted. Imaging revealed relapsing bilateral ground-glass pulmonary infiltrates, and repeated microbiologic studies were negative. Bone marrow showed vacuolated precursors and cytogenetic abnormalities. A somatic UBA1 mutation (NM_003334 exon3 c.121A>G p.M41V) was detected with high variant allele frequency in blood and marrow, and notably, also in bronchoalveolar lavage cells. The patient was diagnosed with VEXAS syndrome with early myelodysplastic features. Tocilizumab induced transient improvement, but disease relapse followed. He is currently being evaluated for allogeneic hematopoietic stem cell transplantation (AHSCT).",
+      "chunk_index": 1,
+      "char_count": 1281,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41710874",
+      "pmc_id": "PMC12910313",
+      "title": "Case Report: Early-onset VEXAS syndrome with recurrent pulmonary inflammation and myelodysplasia: a diagnostic and therapeutic challenge.",
+      "authors": [
+        "Jin X",
+        "Jiang X",
+        "Liu Y",
+        "Chen M",
+        "Dai J",
+        "Xu J",
+        "Shen M"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "p.M41V) was detected with high variant allele frequency in blood and marrow, and notably, also in bronchoalveolar lavage cells. The patient was diagnosed with VEXAS syndrome with early myelodysplastic features. Tocilizumab induced transient improvement, but disease relapse followed. He is currently being evaluated for allogeneic hematopoietic stem cell transplantation (AHSCT).\n\nThis case represents one of the youngest patients reported with VEXAS syndrome and provides rare evidence of UBA1 mutation in pulmonary cells, supporting the concept of tissue-level clonal inflammation. It highlights the importance of considering VEXAS in younger patients with unexplained systemic inflammation, cytopenias, and non-infectious pulmonary infiltrates, and supports early genetic testing and multidisciplinary management.",
+      "chunk_index": 2,
+      "char_count": 816,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

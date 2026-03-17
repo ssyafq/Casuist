@@ -1,0 +1,33 @@
+{
+  "pmid": "41592878",
+  "pmc_id": null,
+  "title": "Elevated salivary amylase levels in paediatric acute recurrent pancreatitis: possible involvement of CFTR mutations.",
+  "authors": [
+    "Honda H",
+    "Nagatani K",
+    "Ozaki E",
+    "Eguchi M"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41592878",
+      "pmc_id": null,
+      "title": "Elevated salivary amylase levels in paediatric acute recurrent pancreatitis: possible involvement of CFTR mutations.",
+      "authors": [
+        "Honda H",
+        "Nagatani K",
+        "Ozaki E",
+        "Eguchi M"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "We report a paediatric case of acute recurrent pancreatitis (ARP) with persistently elevated salivary-type amylase levels, an uncommon biochemical pattern in ARP. Genetic analysis, focused on pancreatitis-related genes, identified heterozygous mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene (p.Ala72Thr and p.Leu1156Phe). Although the patient showed no typical features or a family history of cystic fibrosis, partial CFTR dysfunction likely led to recurrent pancreatitis with ductal dilatation. Isozyme analysis should be considered when amylase levels remain disproportionately elevated relative to lipase levels, as a predominance of salivary-type amylase may indicate CFTR-related disease and warrant early genetic testing to guide diagnosis and management.",
+      "chunk_index": 0,
+      "char_count": 795,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

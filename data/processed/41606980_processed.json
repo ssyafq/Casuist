@@ -1,0 +1,47 @@
+{
+  "pmid": "41606980",
+  "pmc_id": null,
+  "title": "[Clinical characteristics and investigation for the first death case of group Y epidemic cerebrospinal meningitis in Henan Province, 2024].",
+  "authors": [
+    "Li J",
+    "Ji YF",
+    "Zhang XX",
+    "Kong JN",
+    "Wang XL",
+    "Yuan GL",
+    "Zhang XY",
+    "Liu Q",
+    "Guo YH",
+    "Zhang YY",
+    "Diao LQ"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41606980",
+      "pmc_id": null,
+      "title": "[Clinical characteristics and investigation for the first death case of group Y epidemic cerebrospinal meningitis in Henan Province, 2024].",
+      "authors": [
+        "Li J",
+        "Ji YF",
+        "Zhang XX",
+        "Kong JN",
+        "Wang XL",
+        "Yuan GL",
+        "Zhang XY",
+        "Liu Q",
+        "Guo YH",
+        "Zhang YY",
+        "Diao LQ"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "On November 22, 2024, Henan Province reported the first fatal case of serogroup Y meningococcal disease. The case was a 14-year-old male student from a boarding school in Dengfeng City, Zhengzhou. He developed symptoms on November 20, 2024, primarily presenting with disturbed consciousness, pallor, and other signs of circulatory failure, but without meningeal irritation. He was diagnosed with meningococcal disease (fulminant type) on November 22 and died on the same day. The patient had no history of vaccination against Neisseria meningitidis serogroup Y. He had enrolled in the school on August 1, 2024, and had no activity outside the campus from enrollment until he left for medical treatment on November 21, 2024. The Neisseria meningitidis isolate from the case was ST-1655, belonging to the CC23 clonal complex. The carrier rate of Neisseria meningitidis among 20 close contacts was 25% (5/20). Prophylactic medication and a 7-day medical observation were implemented, and no secondary cases occurred. In December 2024, a survey of Neisseria meningitidis carriage among healthy individuals in the school was conducted, showing a carrier rate of 56.34% (40/71). After the winter break, a follow-up carriage survey was conducted in the same population on March 3, 2025. The loss-to-follow-up rate was 25.35%, and the carrier rate was 67.92% (36/53).",
+      "chunk_index": 0,
+      "char_count": 1359,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

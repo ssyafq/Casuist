@@ -1,0 +1,33 @@
+{
+  "pmid": "36918211",
+  "pmc_id": "PMC10016297",
+  "title": "Takotsubo cardiomyopathy with left ventricle thrombus caused by subacute thyroiditis.",
+  "authors": [
+    "Yamazaki D",
+    "Osaki Y",
+    "Suzuki H",
+    "Shimano H"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "36918211",
+      "pmc_id": "PMC10016297",
+      "title": "Takotsubo cardiomyopathy with left ventricle thrombus caused by subacute thyroiditis.",
+      "authors": [
+        "Yamazaki D",
+        "Osaki Y",
+        "Suzuki H",
+        "Shimano H"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We report a rare case of takotsubo cardiomyopathy caused by subacute thyroiditis in a man in his 50s. He went to the doctor with complaints of loss of appetite, diarrhoea, chills and general malaise. He had consciousness disturbance, thyrotoxicosis and thyroid-stimulating hormone (TSH) suppression. Thyroglobulin and C reactive protein levels in the blood were elevated, but TSH receptor antibody, thyroid-stimulating antibody, antithyroglobulin antibody and antithyroid peroxidase antibody were not. We began treatment with prednisolone and propranolol after he was diagnosed with thyroid storm caused by subacute thyroiditis. The ECG revealed inverted T waves on the fifth day after admission. He was newly diagnosed with takotsubo cardiomyopathy on the day. A large thrombus was detected in the left ventricle, requiring anticoagulation therapy. Thus, even if there are no findings of takotsubo cardiomyopathy or thrombus at the onset of thyroid storm, appropriate monitoring is required because they can develop during the treatment course.",
+      "chunk_index": 0,
+      "char_count": 1045,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41571388",
+  "pmc_id": null,
+  "title": "Unusual association: Sturge-Weber syndrome with Klippel-Trenaunay syndrome.",
+  "authors": [
+    "Gowda VK",
+    "Verma MP",
+    "Krishna D",
+    "Nayyer A"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41571388",
+      "pmc_id": null,
+      "title": "Unusual association: Sturge-Weber syndrome with Klippel-Trenaunay syndrome.",
+      "authors": [
+        "Gowda VK",
+        "Verma MP",
+        "Krishna D",
+        "Nayyer A"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Sturge-Weber syndrome (SWS) and Klippel-Trenaunay syndrome (KTS) are rare vascular malformation disorders characterised by distinct clinical features but overlapping pathogenic mechanisms, involving somatic mosaic mutations and dysregulation of the mTOR pathway. SWS typically presents with facial port-wine stains, leptomeningeal angiomas and glaucoma, while KTS is characterised by limb hypertrophy, varicosities and venous malformations without central nervous system involvement. We report an unusual case of a middle childhood boy with features of both syndromes, including extensive facial and truncal port-wine stains, seizures, glaucoma, limb hypertrophy and venous anomalies. Imaging and clinical findings confirmed the coexistence of SWS and KTS phenotypes, highlighting the diagnostic complexity of overlap syndromes. Exome sequencing did not reveal any pathogenic variants. Multidisciplinary management, including seizure control, glaucoma care, vascular interventions and psychosocial support, remains crucial. Recognition of such overlap syndromes broadens understanding of their pathogenesis and opens avenues for targeted therapies such as mTOR inhibitors.",
+      "chunk_index": 0,
+      "char_count": 1172,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

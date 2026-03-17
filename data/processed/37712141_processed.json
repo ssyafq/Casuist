@@ -1,0 +1,53 @@
+{
+  "pmid": "37712141",
+  "pmc_id": null,
+  "title": "The effect of plasma exchange on serum levels of lacosamide: A case report.",
+  "authors": [
+    "Peters BJ",
+    "Brown AE",
+    "Thornton NM",
+    "Winters JL",
+    "Chalmers SJ"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "37712141",
+      "pmc_id": null,
+      "title": "The effect of plasma exchange on serum levels of lacosamide: A case report.",
+      "authors": [
+        "Peters BJ",
+        "Brown AE",
+        "Thornton NM",
+        "Winters JL",
+        "Chalmers SJ"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "We describe the case of a 22-year-old male who developed thyroid storm necessitating therapeutic plasma exchange (TPE). The patient's past medical history was complicated by epilepsy, for which he took lacosamide. Little evidence was available to guide lacosamide dosing during TPE. Because of an exacerbation of the patient's underlying epilepsy in the context of the thyroid storm, we conducted therapeutic medication monitoring of lacosamide concentrations to guide management. SUMMARY: We arranged for measurement of the lacosamide concentration immediately before TPE (5.1 mug/mL) and 2.5 hours after the initial measurement (3.4 mug/mL) to determine the amount of lacosamide removed by TPE. Utilizing population pharmacokinetic parameters, we calculated the expected concentration and compared this to the measured concentration. The difference between these values was used to determine the percentage removed via TPE compared to the expected post-TPE concentration. We found that one TPE session removed an additional 20% of serum lacosamide.",
+      "chunk_index": 0,
+      "char_count": 1050,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "37712141",
+      "pmc_id": null,
+      "title": "The effect of plasma exchange on serum levels of lacosamide: A case report.",
+      "authors": [
+        "Peters BJ",
+        "Brown AE",
+        "Thornton NM",
+        "Winters JL",
+        "Chalmers SJ"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "TPE. Utilizing population pharmacokinetic parameters, we calculated the expected concentration and compared this to the measured concentration. The difference between these values was used to determine the percentage removed via TPE compared to the expected post-TPE concentration. We found that one TPE session removed an additional 20% of serum lacosamide.\n\nTPE appeared to remove an additional 20% of lacosamide when compared to the expected post-TPE concentration.",
+      "chunk_index": 1,
+      "char_count": 468,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "40532062",
+  "pmc_id": null,
+  "title": "An Unusual Presentation of a Left Anterior Descending Artery Obstruction, A Deadly Disease.",
+  "authors": [
+    "Duran-Melendez OE",
+    "Zorrilla-Caballero F",
+    "Gonzalez-Sanchez J"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40532062",
+      "pmc_id": null,
+      "title": "An Unusual Presentation of a Left Anterior Descending Artery Obstruction, A Deadly Disease.",
+      "authors": [
+        "Duran-Melendez OE",
+        "Zorrilla-Caballero F",
+        "Gonzalez-Sanchez J"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "This case report highlights the potential of continuous ST segment monitoring (C-STM) in the emergency department (ED) for identifying transient ischemic changes in patients with acute coronary syndrome (ACS). We present a case of a 62-year-old male with type 2 diabetes and hypertension who presented with chest pain, that resolved prior to arrival. Despite an initially non-diagnostic ECG, C-STM detected transient hyperacute T waves and mild ST elevations, prompting further investigation, and ultimately leading to successful percutaneous coronary intervention (PCI) for a critical left anterior descending (LAD) coronary artery lesion. Our case emphasizes the importance of high clinical suspicion, continuous monitoring, and timely intervention in patients with ACS, even when initial presentations are atypical. It also raises the question of which ACS patients benefit from C-STM.",
+      "chunk_index": 0,
+      "char_count": 888,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

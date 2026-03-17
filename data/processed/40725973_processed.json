@@ -1,0 +1,65 @@
+{
+  "pmid": "40725973",
+  "pmc_id": "PMC12303445",
+  "title": "Euglycemic DKA in a DPP-4 inhibitor patient following traumatic brain injury: A complex ICU glucose management challenge.",
+  "authors": [
+    "Shammas I",
+    "Seyaj M",
+    "Altell K",
+    "Sobeih R",
+    "Asafrah L",
+    "Burqan M",
+    "Abuhalawa M",
+    "Shahateet M",
+    "Itkaidek S"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40725973",
+      "pmc_id": "PMC12303445",
+      "title": "Euglycemic DKA in a DPP-4 inhibitor patient following traumatic brain injury: A complex ICU glucose management challenge.",
+      "authors": [
+        "Shammas I",
+        "Seyaj M",
+        "Altell K",
+        "Sobeih R",
+        "Asafrah L",
+        "Burqan M",
+        "Abuhalawa M",
+        "Shahateet M",
+        "Itkaidek S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "Despite the blood glucose level being within normal range, the patient's clinical presentation, including severe acidosis (pH 7.16), low bicarbonate (2.8 mmol/L), elevated anion gap (24.9 mmol/L), and urinary ketones, pointed to EuDKA. The patient's use of Sitagliptin, a DPP-4 inhibitor, was identified as a likely precipitating factor. INTERVENTIONS: Timely interventions, including fluid resuscitation, insulin therapy, and electrolyte correction, were promptly administered to manage the patient's metabolic abnormalities.",
+      "chunk_index": 0,
+      "char_count": 526,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40725973",
+      "pmc_id": "PMC12303445",
+      "title": "Euglycemic DKA in a DPP-4 inhibitor patient following traumatic brain injury: A complex ICU glucose management challenge.",
+      "authors": [
+        "Shammas I",
+        "Seyaj M",
+        "Altell K",
+        "Sobeih R",
+        "Asafrah L",
+        "Burqan M",
+        "Abuhalawa M",
+        "Shahateet M",
+        "Itkaidek S"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "discussion",
+      "text": "low bicarbonate (2.8 mmol/L), elevated anion gap (24.9 mmol/L), and urinary ketones, pointed to EuDKA. The patient's use of Sitagliptin, a DPP-4 inhibitor, was identified as a likely precipitating factor. INTERVENTIONS: Timely interventions, including fluid resuscitation, insulin therapy, and electrolyte correction, were promptly administered to manage the patient's metabolic abnormalities.\n\nAfter receiving intensive treatment, the patient made a full recovery with normalization of metabolic parameters and no long-term complications. LESSONS: This case emphasizes the importance of maintaining a high index of suspicion for EuDKA in trauma patients, particularly those on DPP-4 inhibitors. Early recognition and prompt intervention are crucial to preventing complications and ensuring positive outcomes. Further research is needed to explore the mechanisms linking DPP-4 inhibitors with EuDKA, especially in the context of metabolic stress like traumatic brain injury.",
+      "chunk_index": 1,
+      "char_count": 974,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "41312902",
+  "pmc_id": null,
+  "title": "[Christmas tree - Case of the month].",
+  "authors": [
+    "Palsson O",
+    "Ludviksdottir D"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41312902",
+      "pmc_id": null,
+      "title": "[Christmas tree - Case of the month].",
+      "authors": [
+        "Palsson O",
+        "Ludviksdottir D"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "This case report describes a patient presenting with anterior chest pain, cough and polyarthritis with significant systemic inflammatory reaction. On FDG-PET scanning there was significant uptake in the the costochondral cartilage, trachea and joints leading to a diagnosis of relapsing polychondritis.",
+      "chunk_index": 0,
+      "char_count": 302,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

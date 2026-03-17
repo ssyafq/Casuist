@@ -1,0 +1,79 @@
+{
+  "pmid": "41609152",
+  "pmc_id": null,
+  "title": "Increased Cerebrospinal Fluid Adenosine Deaminase Activities in a Gouty Patient With Varicella-Zoster Virus Meningitis.",
+  "authors": [
+    "Ku BD",
+    "Ku HM",
+    "Kwon JS"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41609152",
+      "pmc_id": null,
+      "title": "Increased Cerebrospinal Fluid Adenosine Deaminase Activities in a Gouty Patient With Varicella-Zoster Virus Meningitis.",
+      "authors": [
+        "Ku BD",
+        "Ku HM",
+        "Kwon JS"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Increased adenosine deaminase (ADA) activity in cerebrospinal fluid (CSF) has been used as a biomarker of tuberculous meningitis and other etiologies, including viral, fungal, and neoplastic meningitis. Gout can influence inflammatory pathways, altering biochemical markers such as ADA. This report describes a unique case of varicella-zoster virus (VZV) meningitis with gout associated with elevated ADA levels.",
+      "chunk_index": 0,
+      "char_count": 412,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41609152",
+      "pmc_id": null,
+      "title": "Increased Cerebrospinal Fluid Adenosine Deaminase Activities in a Gouty Patient With Varicella-Zoster Virus Meningitis.",
+      "authors": [
+        "Ku BD",
+        "Ku HM",
+        "Kwon JS"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "cerebrospinal fluid (CSF) has been used as a biomarker of tuberculous meningitis and other etiologies, including viral, fungal, and neoplastic meningitis. Gout can influence inflammatory pathways, altering biochemical markers such as ADA. This report describes a unique case of varicella-zoster virus (VZV) meningitis with gout associated with elevated ADA levels.\n\nA 37-year-old man presented with a one-week history of headache, fever, and chills. His medical history included gout, diagnosed three years earlier. CSF analysis from the first lumbar puncture revealed lymphocytic pleocytosis, elevated protein, mildly decreased glucose, and ADA activity of 7.4 IU/L. The patient developed worsening headache and vomiting, prompting a second lumbar puncture. Repeat CSF analysis showed persistent lymphocytosis, mildly decreased glucose, and increased ADA activity (9.1 IU/L). The patient also experienced an acute gout flare during hospitalization, which required antigout therapy. The subsequent CSF polymerase chain reaction (PCR) confirmed VZV meningitis.",
+      "chunk_index": 1,
+      "char_count": 1059,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41609152",
+      "pmc_id": null,
+      "title": "Increased Cerebrospinal Fluid Adenosine Deaminase Activities in a Gouty Patient With Varicella-Zoster Virus Meningitis.",
+      "authors": [
+        "Ku BD",
+        "Ku HM",
+        "Kwon JS"
+      ],
+      "specialty": "meningitis",
+      "section_type": "labs",
+      "text": "patient developed worsening headache and vomiting, prompting a second lumbar puncture. Repeat CSF analysis showed persistent lymphocytosis, mildly decreased glucose, and increased ADA activity (9.1 IU/L). The patient also experienced an acute gout flare during hospitalization, which required antigout therapy. The subsequent CSF polymerase chain reaction (PCR) confirmed VZV meningitis.\n\nThe patient responded well to symptomatic treatment. Serum ADA levels were also elevated (14.7 IU/L), likely reflecting systemic inflammation due to gout.",
+      "chunk_index": 2,
+      "char_count": 543,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41609152",
+      "pmc_id": null,
+      "title": "Increased Cerebrospinal Fluid Adenosine Deaminase Activities in a Gouty Patient With Varicella-Zoster Virus Meningitis.",
+      "authors": [
+        "Ku BD",
+        "Ku HM",
+        "Kwon JS"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "The patient responded well to symptomatic treatment. Serum ADA levels were also elevated (14.7 IU/L), likely reflecting systemic inflammation due to gout.\n\nSystemic inflammation, which includes the meninges and joints, had been postulated to increase protein diffusion through the vascular walls and had been associated with increased ADA activity in CSF and serum. To the best of our knowledge, this is one of the few reports on VZV meningitis and gout associated with elevated ADA levels.",
+      "chunk_index": 3,
+      "char_count": 490,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "41178113",
+  "pmc_id": "PMC12594021",
+  "title": "Right Ventricular Volume Overload Mimicking Pulmonary Embolism: A Case of Intraoperative Fluid Absorption-Induced Ventricular Interdependence.",
+  "authors": [
+    "Wang C",
+    "Fan Y",
+    "Wang J",
+    "Chen Y",
+    "Cui Y",
+    "Zhang H"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41178113",
+      "pmc_id": "PMC12594021",
+      "title": "Right Ventricular Volume Overload Mimicking Pulmonary Embolism: A Case of Intraoperative Fluid Absorption-Induced Ventricular Interdependence.",
+      "authors": [
+        "Wang C",
+        "Fan Y",
+        "Wang J",
+        "Chen Y",
+        "Cui Y",
+        "Zhang H"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "BACKGROUND Ventricular interdependence - mediated by shared pericardial and septal mechanics - can precipitate biventricular dysfunction during acute right ventricular (RV) volume overload. RV dilation impairs left ventricular (LV) compliance through diastolic constraint, elevating pulmonary pressures and triggering a self-perpetuating cycle of cardiopulmonary compromise. This hemodynamic cascade generates echocardiographic signs indistinguishable from pulmonary embolism (PE). CASE REPORT A 75-year-old woman with hypertension and diabetes developed acute hypoxia, tachycardia (110/min), and tachypnea (35/min) during ureteroscopic lithotripsy, accompanied by a positive fluid balance of 2430 mL from irrigation absorption. Bedside echocardiography revealed RV dilation, McConnell's sign, D-shaped LV, severe tricuspid regurgitation, elevated systolic pulmonary artery pressure (58 mmHg), 60/60 sign, and fused mitral E/A waves - findings highly suggestive of PE. Laboratory tests showed metabolic acidosis (pH 7.32), hypoxemia (PaO(2)/FiO(2) 132 mmHg), and markedly elevated NT-proBNP (3892 pg/mL). Pulmonary CT angiography excluded thromboembolism but confirmed bilateral pulmonary edema. The diagnosis of fluid absorption-induced cardiogenic pulmonary edema was established. Aggressive diuresis and respiratory support led to symptom resolution, with normalized RV/LV ratio (34 mm --> 23 mm) and NT-proBNP (136 pg/mL) on follow-up. CONCLUSIONS Acute volume overload from intraoperative fluid absorption exacerbates RV failure through ventricular interdependence, producing PE-mimicking echocardiographic signs. This case demonstrates that RV dilation, septal flattening, and pulmonary hypertension - classically associated with PE - can originate from non-thromboembolic etiologies. Clinicians must utilize multimodal imaging (echocardiography + CTPA) to discriminate fluid overload syndrome from PE. Preventive strategies, including real-time intraoperative fluid balance monitoring and renal pelvic pressure control, are critical to mitigate hemodynamic decompensation during endoscopic procedures, thereby avoiding misdiagnosis and optimizing critical care outcomes.",
+      "chunk_index": 0,
+      "char_count": 2177,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

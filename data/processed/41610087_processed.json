@@ -1,0 +1,39 @@
+{
+  "pmid": "41610087",
+  "pmc_id": "PMC12870168",
+  "title": "Takotsubo Syndrome Triggered by Immune Checkpoint Inhibitor-Induced Pneumonitis: A Multidisciplinary Diagnostic and Therapeutic Challenge.",
+  "authors": [
+    "Kaldas M",
+    "Shah M",
+    "Ivanova V",
+    "Alnaimat S",
+    "Pashaieva D",
+    "Williams R",
+    "Radhakrishnan A"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41610087",
+      "pmc_id": "PMC12870168",
+      "title": "Takotsubo Syndrome Triggered by Immune Checkpoint Inhibitor-Induced Pneumonitis: A Multidisciplinary Diagnostic and Therapeutic Challenge.",
+      "authors": [
+        "Kaldas M",
+        "Shah M",
+        "Ivanova V",
+        "Alnaimat S",
+        "Pashaieva D",
+        "Williams R",
+        "Radhakrishnan A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "BACKGROUND Immune checkpoint inhibitor (ICI) myocarditis imposes immunotherapy discontinuation due to concerns of poor outcomes. We present a case of ICI cardiomyopathy for which ICI re-challenge was safely performed. According to the World Health Organization (WHO), only 13 cases of takotsubo cardiomyopathy (TTS) have been associated with ICI use. We report a rare case of this. CASE REPORT A 64-year-old woman with history of stage IV squamous cell carcinoma of the right lung presented with symptoms of heart failure and worsening dyspnea. Her symptoms started 2 weeks after her first round of chemotherapy with carboplatin, paclitaxel, and pembrolizumab. Electrocardiography (EKG) revealed right bundle branch block with ST elevations, troponin peaked at 424 ng/L, and proBNP 865 pg/mL. A transthoracic echocardiogram (TTE) showed left ventricle ejection fraction (LVEF) of 35% to 39% along with akinesis of all the mid- to apical left ventricle (LV) wall segments. CONCLUSIONS Not all ICI-related heart failure is myocarditis. This case highlights the utility of CMR and endomyocardial biopsy to aid diagnosis of TTS. TTS and ICI myocarditis may appear similar on CMR, with prominent edema, although the regional distribution may help finalize the diagnosis. Endomyocardial biopsies can be helpful to identify pro-inflammatory macrophages as possible mediators in the association between oncology treatment and development of TTS. This interesting case highlights the utility of further advanced cardiac testing before making the diagnosing of ICI myocarditis and potentially withholding life-saving cancer therapy.",
+      "chunk_index": 0,
+      "char_count": 1622,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

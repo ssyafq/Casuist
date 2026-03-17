@@ -1,0 +1,94 @@
+{
+  "pmid": "41543107",
+  "pmc_id": null,
+  "title": "Hidden Mercury Poisoning Causing Pulmonary Embolism, Nephrotic Syndrome, and Hypothyroidism.",
+  "authors": [
+    "Luo JF",
+    "Chen QC",
+    "Zhang T",
+    "Zhang D",
+    "Li XD",
+    "Ge YL"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41543107",
+      "pmc_id": null,
+      "title": "Hidden Mercury Poisoning Causing Pulmonary Embolism, Nephrotic Syndrome, and Hypothyroidism.",
+      "authors": [
+        "Luo JF",
+        "Chen QC",
+        "Zhang T",
+        "Zhang D",
+        "Li XD",
+        "Ge YL"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "Mercury is a highly toxic heavy metal, and mercury poisoning often presents with different symptoms in multiple systems. While lung and kidney damage have been studied separately, involvement of the endocrine system has rarely been reported. We report on a case with pulmonary embolism, nephrotic syndrome, and hypothyroidism in a woman who used a mercury-containing whitening cream.",
+      "chunk_index": 0,
+      "char_count": 383,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41543107",
+      "pmc_id": null,
+      "title": "Hidden Mercury Poisoning Causing Pulmonary Embolism, Nephrotic Syndrome, and Hypothyroidism.",
+      "authors": [
+        "Luo JF",
+        "Chen QC",
+        "Zhang T",
+        "Zhang D",
+        "Li XD",
+        "Ge YL"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "and mercury poisoning often presents with different symptoms in multiple systems. While lung and kidney damage have been studied separately, involvement of the endocrine system has rarely been reported. We report on a case with pulmonary embolism, nephrotic syndrome, and hypothyroidism in a woman who used a mercury-containing whitening cream.\n\nChest enhancement CT; Laboratory tests.",
+      "chunk_index": 1,
+      "char_count": 385,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41543107",
+      "pmc_id": null,
+      "title": "Hidden Mercury Poisoning Causing Pulmonary Embolism, Nephrotic Syndrome, and Hypothyroidism.",
+      "authors": [
+        "Luo JF",
+        "Chen QC",
+        "Zhang T",
+        "Zhang D",
+        "Li XD",
+        "Ge YL"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "labs",
+      "text": "Chest enhancement CT; Laboratory tests.\n\nChest enhancement CT suggested the presence of pulmonary embolism. Laboratory tests suggested nephrotic syndrome and hypothyroidism, and blood and urine were positive for mercury. The patient made a full recovery after treatment with immunosuppressants and mercury chelators.",
+      "chunk_index": 2,
+      "char_count": 316,
+      "subspecialty": "pulmonary embolism"
+    },
+    {
+      "pmid": "41543107",
+      "pmc_id": null,
+      "title": "Hidden Mercury Poisoning Causing Pulmonary Embolism, Nephrotic Syndrome, and Hypothyroidism.",
+      "authors": [
+        "Luo JF",
+        "Chen QC",
+        "Zhang T",
+        "Zhang D",
+        "Li XD",
+        "Ge YL"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "diagnosis",
+      "text": "Chest enhancement CT suggested the presence of pulmonary embolism. Laboratory tests suggested nephrotic syndrome and hypothyroidism, and blood and urine were positive for mercury. The patient made a full recovery after treatment with immunosuppressants and mercury chelators.\n\nThis case demonstrates the need for greater public awareness and stricter regulatory action to prevent health hazards associated with mercury in skin-lightening products.",
+      "chunk_index": 3,
+      "char_count": 447,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

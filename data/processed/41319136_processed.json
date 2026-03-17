@@ -1,0 +1,33 @@
+{
+  "pmid": "41319136",
+  "pmc_id": null,
+  "title": "Successful Management of Stent Underexpansion Using Intravascular Lithotripsy Followed by High-Pressure Balloon Dilation.",
+  "authors": [
+    "Kise M",
+    "Okamoto N",
+    "Egami Y",
+    "Nishino M"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41319136",
+      "pmc_id": null,
+      "title": "Successful Management of Stent Underexpansion Using Intravascular Lithotripsy Followed by High-Pressure Balloon Dilation.",
+      "authors": [
+        "Kise M",
+        "Okamoto N",
+        "Egami Y",
+        "Nishino M"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Stent underexpansion is a significant risk factor for stent thrombosis and restenosis. The efficacy and safety of intravascular lithotripsy (IVL) after stent implantation have not been well established. This report presents a case of a 60-year-old man with non-ST elevation myocardial infarction who underwent emergency revascularization for a severely calcified lesion in the left circumflex artery. Despite initial stent implantation, intravascular ultrasound demonstrated stent underexpansion. IVL was employed as a bailout strategy, followed by high-pressure balloon dilation. This case highlights the potential of IVL, in conjunction with high-pressure balloon dilation, as a safe and effective treatment option for stent underexpansion in severely calcified lesions.",
+      "chunk_index": 0,
+      "char_count": 772,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

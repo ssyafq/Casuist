@@ -1,0 +1,33 @@
+{
+  "pmid": "40831195",
+  "pmc_id": null,
+  "title": "A Case of Effort Angina Pectoris in a Patient With Nickel Allergy Treated With CobaltCrom-Sirolimus-Eluting Stent and PROBIO Coating.",
+  "authors": [
+    "Wada N",
+    "Nomura T",
+    "Kato Y",
+    "Tatsumi T"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40831195",
+      "pmc_id": null,
+      "title": "A Case of Effort Angina Pectoris in a Patient With Nickel Allergy Treated With CobaltCrom-Sirolimus-Eluting Stent and PROBIO Coating.",
+      "authors": [
+        "Wada N",
+        "Nomura T",
+        "Kato Y",
+        "Tatsumi T"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Epidemiological studies in the general European population have shown high prevalence rates for nickel (Ni) allergy, despite its wide usage. As commercially available coronary stents contain Ni, they are contraindicated in patients with metal allergies. Although PROBIO coating can suppress the elution of metal ions, its real-world use in patients with metal allergies has not been reported. A 73-year-old man presenting with exertional chest pain was referred to our cardiology clinic. Coronary computed tomography revealed severe stenosis of the right coronary artery (RCA), and coronary angiography (CAG) revealed severe stenotic lesions in the proximal and distal RCA. As the patient reported a metal allergy, patch tests were performed on 15 metal components and five stents. Moderate allergic reactions to Ni- and CoCr-EES were confirmed. The patient refused to undergo coronary artery bypass surgery; hence, we performed percutaneous coronary intervention (PCI) with an initial stent-avoidant approach. Because intravascular ultrasound showed positive remodeling, a plaque with echo attenuation, and a mural thrombus at the culprit lesion, we decided to directly implant a CoCr-SES with PROBIO coating Orsiro Mission (BIOTRONIK, Berlin, Germany) 3.5 x 26 mm. Follow-up CAG 56 days after PCI showed good stent patency. Optical coherence tomography imaging showed coverage of 92% (1155/1249) of the struts (29% embedded) and no obvious thrombus formation. Follow-up CAG 408 days after PCI showed coverage of 98% (958/979) of the struts (70% embedded) and no peri-stent contrast staining. Therefore, CoCr-SESs with PROBIO coating may be an effective treatment option in patients with metal allergies; however, this is a case report, and further research and registry data are required.",
+      "chunk_index": 0,
+      "char_count": 1790,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

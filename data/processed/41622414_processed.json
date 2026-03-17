@@ -1,0 +1,33 @@
+{
+  "pmid": "41622414",
+  "pmc_id": null,
+  "title": "Potential Applications of Inhaled Insulin in Diabetic Ketoacidosis Prevention and During Exercise: Two Case Presentations.",
+  "authors": [
+    "Riddell MC",
+    "Parkin CG",
+    "Turner LV",
+    "Akturk HK"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41622414",
+      "pmc_id": null,
+      "title": "Potential Applications of Inhaled Insulin in Diabetic Ketoacidosis Prevention and During Exercise: Two Case Presentations.",
+      "authors": [
+        "Riddell MC",
+        "Parkin CG",
+        "Turner LV",
+        "Akturk HK"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Reliance on endogenous insulin remains a significant challenge for individuals with type 1 diabetes (T1D). Although current rapid-acting insulin analogs (RAA) and ultra-rapid-acting insulin analogs (URAA) can provide effective postprandial glycemic control, inaccurate calculation of carbohydrates and mistiming of insulin injections can result in postprandial glucose spikes or early hypoglycemia. Their long duration of action also raises concerns about insulin stacking, which may result in late postprandial hypoglycemia. Unlike injected or infused rapid-acting insulins, Technosphere(R) insulin (TI) may bypass the slower absorption and hepatic degradation associated with subcutaneous delivery, ensuring faster systemic availability, however definitive studies have not been conducted. This characteristic of TI aligns closely with the timing of ketone body production, enabling timely intervention to prevent progression to full-blown ketoacidosis. The RAA and URAA profile characteristics are also problematic for individuals who engage in regular physical activity, often resulting in hypoglycemia, hyperglycemia, or both. This article reviews the challenges and potential dangers associated with managing T1D and discusses how TI, the only commercially available inhaled insulin, may overcome the inherent limitations of current RAA and URAA therapies.",
+      "chunk_index": 0,
+      "char_count": 1362,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

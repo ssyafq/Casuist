@@ -1,0 +1,33 @@
+{
+  "pmid": "41257614",
+  "pmc_id": "PMC12628617",
+  "title": "Concentration of contezolid in cerebrospinal fluid and serum in a patient with renal allograft tuberculosis and tuberculous meningoencephalitis.",
+  "authors": [
+    "Liu W",
+    "He T",
+    "Qin H",
+    "Zhang P"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41257614",
+      "pmc_id": "PMC12628617",
+      "title": "Concentration of contezolid in cerebrospinal fluid and serum in a patient with renal allograft tuberculosis and tuberculous meningoencephalitis.",
+      "authors": [
+        "Liu W",
+        "He T",
+        "Qin H",
+        "Zhang P"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Tuberculosis is a challenging and severe infection among solid organ transplant recipients. Contezolid, a new oxazolidinone antimicrobial, has exhibited potent activity against Mycobacterium tuberculosis with a safety profile superior to linezolid, which is constrained by adverse effects such as myelosuppression and peripheral neuropathy. We present here a case of a renal recipient who suffered from allograft tuberculosis and tuberculous meningitis. A contezolid-included regimen successfully treated him with no drug-related adverse effects and drug-drug interaction. Concentration of contezolid in serum and cerebrospinal fluid at various time points during treatment was monitored. Given the increased risk of TB in patients with organ transplantation and limited evidence of contezolid for tuberculous meningitis, further clinical studies are needed to investigate the appropriate dosage and application of contezolid in patients with the most devastating type of extra-pulmonary TB.Clinical trial number Not applicable.",
+      "chunk_index": 0,
+      "char_count": 1028,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

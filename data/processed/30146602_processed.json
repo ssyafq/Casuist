@@ -1,0 +1,37 @@
+{
+  "pmid": "30146602",
+  "pmc_id": "PMC6395142",
+  "title": "Idiopathic Ventricular Fibrillation Manifesting Delta-wave during Hypothermia Treatment.",
+  "authors": [
+    "Miyoshi M",
+    "Kondo H",
+    "Shinohara T",
+    "Yufu K",
+    "Nakagawa M",
+    "Takahashi N"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "30146602",
+      "pmc_id": "PMC6395142",
+      "title": "Idiopathic Ventricular Fibrillation Manifesting Delta-wave during Hypothermia Treatment.",
+      "authors": [
+        "Miyoshi M",
+        "Kondo H",
+        "Shinohara T",
+        "Yufu K",
+        "Nakagawa M",
+        "Takahashi N"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "We herein report a case of a 53-year-old man who survived cardiac arrest due to ventricular fibrillation (VF). When admitted to the hospital, his 12-lead electrocardiogram did not show Brugada-like ST elevation, early repolarization or delta-wave, in any leads. During the treatment of hypothermia, the manifestation of delta-wave was documented, which disappeared after the cessation of this treatment. A cardiac evaluation showed no structural heart disease, and electrophysiology studies did not demonstrate conduction via accessary pathway. Although the etiology of VF could not be determined, the most probable diagnosis was idiopathic VF. The patient was fitted with an implantable cardioverter-defibrillator.",
+      "chunk_index": 0,
+      "char_count": 715,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

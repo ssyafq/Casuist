@@ -1,0 +1,79 @@
+{
+  "pmid": "41162205",
+  "pmc_id": null,
+  "title": "[Gastrointestinal hemorrhage due to a probable warfarin/oseltamivir drug interaction: A case report].",
+  "authors": [
+    "Abisror J",
+    "Asgari R",
+    "de Baynast Q",
+    "Le Beller C",
+    "Karam N",
+    "Sabatier B",
+    "Caruba T"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41162205",
+      "pmc_id": null,
+      "title": "[Gastrointestinal hemorrhage due to a probable warfarin/oseltamivir drug interaction: A case report].",
+      "authors": [
+        "Abisror J",
+        "Asgari R",
+        "de Baynast Q",
+        "Le Beller C",
+        "Karam N",
+        "Sabatier B",
+        "Caruba T"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Bleeding while on vitamin K antagonist therapy is one of the main causes of iatrogenic hospitalization. There are few reports of a drug-drug interactions resulting in a serious bleeding complications between warfarin and oseltamivir.",
+      "chunk_index": 0,
+      "char_count": 233,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41162205",
+      "pmc_id": null,
+      "title": "[Gastrointestinal hemorrhage due to a probable warfarin/oseltamivir drug interaction: A case report].",
+      "authors": [
+        "Abisror J",
+        "Asgari R",
+        "de Baynast Q",
+        "Le Beller C",
+        "Karam N",
+        "Sabatier B",
+        "Caruba T"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Bleeding while on vitamin K antagonist therapy is one of the main causes of iatrogenic hospitalization. There are few reports of a drug-drug interactions resulting in a serious bleeding complications between warfarin and oseltamivir.\n\nWe report the case of a 64-year-old woman hospitalized with anemia. She was on warfarin for mechanical heart valve prostheses (usual international normalized ratio, INR: 2.5-3.5) and had moderate renal insufficiency. Treatment with oseltamivir for influenza was introduced, leading to a rapid increase in the INR value within less than a week and a recurrence of digestive bleeding. Symptomatic management (antagonization with vitamin K and prothrombin complex concentrate) led to correction of the overdose.",
+      "chunk_index": 1,
+      "char_count": 743,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41162205",
+      "pmc_id": null,
+      "title": "[Gastrointestinal hemorrhage due to a probable warfarin/oseltamivir drug interaction: A case report].",
+      "authors": [
+        "Abisror J",
+        "Asgari R",
+        "de Baynast Q",
+        "Le Beller C",
+        "Karam N",
+        "Sabatier B",
+        "Caruba T"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "INR: 2.5-3.5) and had moderate renal insufficiency. Treatment with oseltamivir for influenza was introduced, leading to a rapid increase in the INR value within less than a week and a recurrence of digestive bleeding. Symptomatic management (antagonization with vitamin K and prothrombin complex concentrate) led to correction of the overdose.\n\nWhen oseltamivir is introduced in a patient receiving warfarin, we suggest close monitoring of the INR, especially in the case of renal insufficiency, from initiation to the elimination of the oseltamivir (3 days after discontinuation).",
+      "chunk_index": 2,
+      "char_count": 581,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

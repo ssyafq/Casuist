@@ -1,0 +1,35 @@
+{
+  "pmid": "41326822",
+  "pmc_id": null,
+  "title": "A pediatric case of severe bacterial central nervous system infection successfully treated with continuous ventriculospinal drainage.",
+  "authors": [
+    "Kitamura S",
+    "Kanaya K",
+    "Nakamura K",
+    "Kuwabara H",
+    "Horiuchi T"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41326822",
+      "pmc_id": null,
+      "title": "A pediatric case of severe bacterial central nervous system infection successfully treated with continuous ventriculospinal drainage.",
+      "authors": [
+        "Kitamura S",
+        "Kanaya K",
+        "Nakamura K",
+        "Kuwabara H",
+        "Horiuchi T"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Bacterial infections of the central nervous system (CNS) in children are associated with high morbidity, particularly when complicated by antibiotic resistance or impaired cerebrospinal fluid (CSF) dynamics. We report a 14-year-old boy with systemic Streptococcus intermedius infection who developed bacterial meningitis, ventriculitis, and communicating hydrocephalus despite broad-spectrum intravenous antibiotics and ventricular drainage. Persistent inflammation and recurrent hydrocephalus with ventricular catheter obstruction necessitated an alternative strategy. Continuous intraventricular-lumbar intrathecal antibiotic perfusion using vancomycin and gentamicin was initiated to achieve uniform antibiotic distribution and steady CSF circulation. This approach resulted in gradual radiological and clinical improvement, with full neurological recovery and no recurrence during follow-up. This case demonstrates the potential efficacy and safety of continuous dual-drain perfusion as a salvage therapy in refractory pediatric CNS infections and suggests that it may help prevent permanent CSF diversion.",
+      "chunk_index": 0,
+      "char_count": 1110,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

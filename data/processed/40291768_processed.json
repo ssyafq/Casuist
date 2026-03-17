@@ -1,0 +1,33 @@
+{
+  "pmid": "40291768",
+  "pmc_id": "PMC12032518",
+  "title": "Case Report: Methimazole-Induced Parotitis - An Unusual Presentation.",
+  "authors": [
+    "Rana R",
+    "Krier E",
+    "Tauseef A",
+    "Dufani J"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40291768",
+      "pmc_id": "PMC12032518",
+      "title": "Case Report: Methimazole-Induced Parotitis - An Unusual Presentation.",
+      "authors": [
+        "Rana R",
+        "Krier E",
+        "Tauseef A",
+        "Dufani J"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "A 56-year-old female with a medical history of unspecified hyperthyroidism and a recent thyroid storm presented to the ED with tachycardia, hypertension, and bilateral enlarged parotid glands. During a previous hospitalization, she was diagnosed with unspecified hyperthyroidism and started on methimazole. During hospitalization, laboratory findings suggested Graves' disease with an acute thyroid storm. The patient also complained of enlarged parotid glands bilaterally. CT tomography of the neck revealed no calculi of the parotid glands but showed extensive fatty replacement, possibly related to methimazole use. Treatment with propranolol and IV hydrocortisone improved thyroid function. Due to the suspicion of methimazole-induced parotitis, she was transitioned to a reduced methimazole dosage for treatment of Graves' disease, which subsequently improved her parotitis. Methimazole, the standard initial treatment for Graves' disease, is generally well-tolerated. It can cause adverse reactions; however, parotitis is very rare and has been documented in only a few case reports. Owing to the limited number of reports, its incidence is currently unknown. Here, we present a case of methimazole-induced parotitis as an unusual presentation of thyroid storm. Drug-induced reactions can only be considered once common causes of parotitis such as viral infection, obstruction, and autoimmune diseases are ruled out. Treatment involves dosage adjustments and supportive care. Methimazole-induced parotitis is often misdiagnosed and overlooked because of the lack of reported cases. This necessitates future research into the reaction mechanisms and optimal treatment.",
+      "chunk_index": 0,
+      "char_count": 1673,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

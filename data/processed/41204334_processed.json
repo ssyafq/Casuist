@@ -1,0 +1,75 @@
+{
+  "pmid": "41204334",
+  "pmc_id": "PMC12595616",
+  "title": "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease: a case report.",
+  "authors": [
+    "Elzain H",
+    "Karar MNM",
+    "Mostafa MA",
+    "Redha JH",
+    "Babiker AB",
+    "Alasousi N"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41204334",
+      "pmc_id": "PMC12595616",
+      "title": "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease: a case report.",
+      "authors": [
+        "Elzain H",
+        "Karar MNM",
+        "Mostafa MA",
+        "Redha JH",
+        "Babiker AB",
+        "Alasousi N"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Takotsubo cardiomyopathy, also known as stress-induced cardiomyopathy, is a transient cardiac condition characterized by acute but reversible left ventricular dysfunction, typically triggered by emotional or physical stress. While Takotsubo cardiomyopathy usually occurs in the absence of significant coronary artery disease, its coexistence with severe coronary artery disease is uncommon and presents diagnostic and therapeutic challenges.",
+      "chunk_index": 0,
+      "char_count": 441,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41204334",
+      "pmc_id": "PMC12595616",
+      "title": "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease: a case report.",
+      "authors": [
+        "Elzain H",
+        "Karar MNM",
+        "Mostafa MA",
+        "Redha JH",
+        "Babiker AB",
+        "Alasousi N"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "stress-induced cardiomyopathy, is a transient cardiac condition characterized by acute but reversible left ventricular dysfunction, typically triggered by emotional or physical stress. While Takotsubo cardiomyopathy usually occurs in the absence of significant coronary artery disease, its coexistence with severe coronary artery disease is uncommon and presents diagnostic and therapeutic challenges.\n\nWe report the case of a 56-year-old Asian woman with a history of hypertension and diabetes who presented with acute chest pain following an intense emotional and physical altercation. On admission, she was hemodynamically stable, with electrocardiogram showing minor ST-segment elevation in the anterior leads and modest troponin rise. Bedside echocardiography revealed apical akinesia suggestive of Takotsubo cardiomyopathy. Coronary angiography demonstrated high-risk multivessel coronary artery disease, including significant left main disease. Cardiac function rapidly improved within 5 days, with normalization of left ventricular ejection fraction and global longitudinal strain, consistent with Takotsubo cardiomyopathy. Given her refusal of coronary artery bypass grafting, percutaneous coronary intervention to the left main and left anterior descending was successfully performed. She was discharged home on optimal medical therapy in stable condition.",
+      "chunk_index": 1,
+      "char_count": 1366,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41204334",
+      "pmc_id": "PMC12595616",
+      "title": "Takotsubo cardiomyopathy with rapid left ventricular recovery unmasking asymptomatic but significant coronary artery disease: a case report.",
+      "authors": [
+        "Elzain H",
+        "Karar MNM",
+        "Mostafa MA",
+        "Redha JH",
+        "Babiker AB",
+        "Alasousi N"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "5 days, with normalization of left ventricular ejection fraction and global longitudinal strain, consistent with Takotsubo cardiomyopathy. Given her refusal of coronary artery bypass grafting, percutaneous coronary intervention to the left main and left anterior descending was successfully performed. She was discharged home on optimal medical therapy in stable condition.\n\nThis case highlights the diagnostic complexity when Takotsubo cardiomyopathy coexists with severe coronary artery disease. It emphasizes the importance of considering Takotsubo cardiomyopathy in patients with acute chest pain even in the presence of significant coronary lesions, as Takotsubo cardiomyopathy may unmask otherwise silent but clinically important coronary artery disease.",
+      "chunk_index": 2,
+      "char_count": 760,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

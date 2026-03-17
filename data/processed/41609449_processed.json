@@ -1,0 +1,33 @@
+{
+  "pmid": "41609449",
+  "pmc_id": null,
+  "title": "[Molecular Detection of Neisseria meningitidis Serogroup C in an Adolescent with Atypical Presentation: A Silent Threat].",
+  "authors": [
+    "Yaman M",
+    "Topbasoglu N",
+    "Atac D",
+    "Ilki A"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41609449",
+      "pmc_id": null,
+      "title": "[Molecular Detection of Neisseria meningitidis Serogroup C in an Adolescent with Atypical Presentation: A Silent Threat].",
+      "authors": [
+        "Yaman M",
+        "Topbasoglu N",
+        "Atac D",
+        "Ilki A"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Neisseria meningitidis is an important pathogen that can cause invasive meningococcal diseases, especially with serogroups A, B, C, W and Y, which can be seen endemic or sporadic. Early diagnosis and treatment of invasive meningococcal disease is life-saving. Delay in diagnosis of meningitis infection, especially in the adolescent age group, which initially presents with atypical symptoms, can further increase the risk of morbidity and mortality. In this case report the clinical evaluation and diagnostic process of a 15-year-old female patient who admitted to the emergency department with abdominal pain, fever, cough and hallucinations and was initially considered to have an abdominal pathology was presented. Based on systematic clinical evaluations in the pediatric emergency department, a preliminary diagnosis of meningitis was established and cerebrospinal fluid (CSF) was obtained via lumbar puncture for diagnostic confirmation. The purulent-appearing CSF sample was analyzed using the Bio-Speedy(R) Meningitis/Encephalitis quantitative polymerase chain reaction (qPCR) MX-17 Panel (Bioeksen, Turkiye) multiplex PCR kit, which identified N.meningitidis as the causative pathogen. We used an real-time (RT)- PCR-based method to identify the serogroup of N.meningitidis and identified as serogroup C. Based on these findings, empirical treatment with ceftriaxone [2 g intravenous (IV)] was initiated and vancomycin (15 mg/kg IV) was subsequently added following the observation of abundant leukocytes in direct examination of cerebrospinal fluid.Chemoprophylaxis was administered to close contacts. The appearance of ecchymotic rashes and laboratory parameters were closely monitored throughout the clinical course. Prompt molecular diagnosis, coupled with efficacious antimicrobial therapy and intensive supportive care enabled the patient's discharge without neurological sequelae. In this case report, we emphasized the potential for meningitis infections to present with atypical clinical courses, the critical importance of rapid molecular diagnostic methods and the necessity of vaccination as a fundamental contribution to the protection of public health.",
+      "chunk_index": 0,
+      "char_count": 2176,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

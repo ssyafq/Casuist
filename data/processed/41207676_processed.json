@@ -1,0 +1,45 @@
+{
+  "pmid": "41207676",
+  "pmc_id": null,
+  "title": "[Duodenal diverticular bleeding in a patient with situs inversus totalis: a case report].",
+  "authors": [
+    "Nishitani T",
+    "Segawa T",
+    "Tanaka K",
+    "Matsuda T",
+    "Okamoto M",
+    "Shimono Y",
+    "Oyadomari T",
+    "Ryuge N",
+    "Iwata Y",
+    "Okada A"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41207676",
+      "pmc_id": null,
+      "title": "[Duodenal diverticular bleeding in a patient with situs inversus totalis: a case report].",
+      "authors": [
+        "Nishitani T",
+        "Segawa T",
+        "Tanaka K",
+        "Matsuda T",
+        "Okamoto M",
+        "Shimono Y",
+        "Oyadomari T",
+        "Ryuge N",
+        "Iwata Y",
+        "Okada A"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "A 79-year-old female presented to the emergency department with complaints of abdominal pain and hematemesis/melena. Blood tests revealed anemia (hemoglobin:10.0g/dl). Abdominal plain computed tomography demonstrated situs inversus totalis and a cystic structure with high attenuation extending from the descending to the horizontal portion of the duodenum, suggesting duodenal diverticular bleeding. An emergency upper gastrointestinal endoscopy was performed, which revealed an exposed vessel in the descending part of the duodenum after the removal of blood clots. Hemostasis was successfully achieved using the endoscopic clipping method. This case highlights that even in patients with situs inversus totalis, where endoscopic manipulation can be difficult, careful technique modifications and procedural planning can facilitate successful endoscopic hemostasis.",
+      "chunk_index": 0,
+      "char_count": 867,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

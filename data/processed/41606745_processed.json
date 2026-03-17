@@ -1,0 +1,75 @@
+{
+  "pmid": "41606745",
+  "pmc_id": null,
+  "title": "Primary mediastinal mucormycosis presenting with hoarseness: a case report.",
+  "authors": [
+    "Lu M",
+    "Nie F",
+    "Zhang J",
+    "Zou T",
+    "Li P",
+    "Xiang T"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41606745",
+      "pmc_id": null,
+      "title": "Primary mediastinal mucormycosis presenting with hoarseness: a case report.",
+      "authors": [
+        "Lu M",
+        "Nie F",
+        "Zhang J",
+        "Zou T",
+        "Li P",
+        "Xiang T"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Mucormycosis is a rare, rapidly progressive fungal infection caused by molds of the order Mucorales, most commonly Rhizopus species. While it predominantly affects immunocompromised patients, mediastinal mucormycosis is exceptionally rare, with fewer than 50 cases reported, and has a high mortality rate. Diagnosis is challenging owing to nonspecific clinical and radiologic findings, often mimicking malignancies such as lymphoma or thymoma. This study aims to report a rare case of primary mediastinal mucormycosis presenting with hoarseness and to highlight the diagnostic challenges and successful nonsurgical management.",
+      "chunk_index": 0,
+      "char_count": 626,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41606745",
+      "pmc_id": null,
+      "title": "Primary mediastinal mucormycosis presenting with hoarseness: a case report.",
+      "authors": [
+        "Lu M",
+        "Nie F",
+        "Zhang J",
+        "Zou T",
+        "Li P",
+        "Xiang T"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "reported, and has a high mortality rate. Diagnosis is challenging owing to nonspecific clinical and radiologic findings, often mimicking malignancies such as lymphoma or thymoma. This study aims to report a rare case of primary mediastinal mucormycosis presenting with hoarseness and to highlight the diagnostic challenges and successful nonsurgical management.\n\nWe report a case of mediastinal mucormycosis in a 76-year-old mainland Chinese man with chronic obstructive pulmonary disease. His initial symptom was progressive hoarseness, likely due to recurrent laryngeal nerve involvement, a rare presentation for mediastinal mucormycosis. Contrast-enhanced chest computed tomography revealed a mass in the left hilar and upper mediastinal regions, suggestive of lung carcinoma. However, a computed tomography-guided mediastinal biopsy confirmed the presence of nonseptate, ribbon-like hyphae, consistent with mucormycosis. The patient was treated with intravenous amphotericin B followed by oral isavuconazole, resulting in marked lesion regression and symptomatic improvement after 6 months of antifungal therapy. In this case, surgery was not attempted because the infection was localized to the mediastinum, making surgical debridement technically unfeasible.",
+      "chunk_index": 1,
+      "char_count": 1264,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41606745",
+      "pmc_id": null,
+      "title": "Primary mediastinal mucormycosis presenting with hoarseness: a case report.",
+      "authors": [
+        "Lu M",
+        "Nie F",
+        "Zhang J",
+        "Zou T",
+        "Li P",
+        "Xiang T"
+      ],
+      "specialty": "COPD",
+      "section_type": "diagnosis",
+      "text": "hyphae, consistent with mucormycosis. The patient was treated with intravenous amphotericin B followed by oral isavuconazole, resulting in marked lesion regression and symptomatic improvement after 6 months of antifungal therapy. In this case, surgery was not attempted because the infection was localized to the mediastinum, making surgical debridement technically unfeasible.\n\nMediastinal mucormycosis, though rare, should be considered in patients with atypical presentations including hoarseness, particularly those with chronic illnesses. Early diagnosis through tissue biopsy and timely antifungal treatment is essential for better prognosis.",
+      "chunk_index": 2,
+      "char_count": 648,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

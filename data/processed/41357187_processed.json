@@ -1,0 +1,109 @@
+{
+  "pmid": "41357187",
+  "pmc_id": "PMC12675475",
+  "title": "A case report of eosinophilic granulomatosis with polyangiitis in children with cerebella infarction as the first symptom and literature review.",
+  "authors": [
+    "Chen D",
+    "He X",
+    "Shen Y",
+    "Gao Y",
+    "Chen D",
+    "Hang S",
+    "Wang X",
+    "Li N",
+    "Xu D"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41357187",
+      "pmc_id": "PMC12675475",
+      "title": "A case report of eosinophilic granulomatosis with polyangiitis in children with cerebella infarction as the first symptom and literature review.",
+      "authors": [
+        "Chen D",
+        "He X",
+        "Shen Y",
+        "Gao Y",
+        "Chen D",
+        "Hang S",
+        "Wang X",
+        "Li N",
+        "Xu D"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "This case report presents a pediatric case of eosinophilic granulomatosis with polyangiitis (EGPA) presenting with cerebella infarction as the initial symptom. The study aims to summarize the clinical features and treatment advancements of this condition, enhancing clinicians 'understanding and reducing misdiagnosis and missed diagnosis.",
+      "chunk_index": 0,
+      "char_count": 339,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41357187",
+      "pmc_id": "PMC12675475",
+      "title": "A case report of eosinophilic granulomatosis with polyangiitis in children with cerebella infarction as the first symptom and literature review.",
+      "authors": [
+        "Chen D",
+        "He X",
+        "Shen Y",
+        "Gao Y",
+        "Chen D",
+        "Hang S",
+        "Wang X",
+        "Li N",
+        "Xu D"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "This case report presents a pediatric case of eosinophilic granulomatosis with polyangiitis (EGPA) presenting with cerebella infarction as the initial symptom. The study aims to summarize the clinical features and treatment advancements of this condition, enhancing clinicians 'understanding and reducing misdiagnosis and missed diagnosis.\n\nA 9-year-old male patient admitted to the Rheumatology Department of Anhui Provincial Children's Hospital was evaluated for \"Dizziness, vomiting for one day, and consciousness impairment for half a day.\" The patient had recurrent bilateral lower limb rashes and asthma attacks over the past year. Blood tests revealed elevated eosinophil levels and IgE antibodies, while bone marrow cytology showed increased eosinophil counts. Brain MRI demonstrated cerebral infarction, herniation, and suspected thrombosis, with skin biopsy confirming vasculitis characteristics. Through retrospective analysis of clinical data and literature review, this study comprehensively summarizes EGPA's clinical features and treatment progress.",
+      "chunk_index": 1,
+      "char_count": 1064,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41357187",
+      "pmc_id": "PMC12675475",
+      "title": "A case report of eosinophilic granulomatosis with polyangiitis in children with cerebella infarction as the first symptom and literature review.",
+      "authors": [
+        "Chen D",
+        "He X",
+        "Shen Y",
+        "Gao Y",
+        "Chen D",
+        "Hang S",
+        "Wang X",
+        "Li N",
+        "Xu D"
+      ],
+      "specialty": "stroke",
+      "section_type": "labs",
+      "text": "tests revealed elevated eosinophil levels and IgE antibodies, while bone marrow cytology showed increased eosinophil counts. Brain MRI demonstrated cerebral infarction, herniation, and suspected thrombosis, with skin biopsy confirming vasculitis characteristics. Through retrospective analysis of clinical data and literature review, this study comprehensively summarizes EGPA's clinical features and treatment progress.\n\nThe patient presented with cerebella infarction as the initial symptom, accompanied by central nervous system involvement, skin manifestations, hematological disorders, and vasculitis. With a history of asthma attacks, eosinophil counts during hospitalization peaked at 4.9x10;9/L (compared to baseline levels>1x10;9/L). After thorough evaluation for infections, malignancies, diffuse connective tissue diseases, immunodeficiency disorders, and inherited metabolic disorders, EGPA was confirmed. Treatment included anti-inflammatory steroids, cyclophosphamide (CTX) induction therapy, anticoagulation, followed by mycophenolate mofetil (MMF) maintenance at therapeutic doses, supplemented with rituximab. Current follow-up shows normalized eosinophil counts, restored muscle strength, resolution of skin rashes without recurrence, and favorable clinical response.",
+      "chunk_index": 2,
+      "char_count": 1285,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41357187",
+      "pmc_id": "PMC12675475",
+      "title": "A case report of eosinophilic granulomatosis with polyangiitis in children with cerebella infarction as the first symptom and literature review.",
+      "authors": [
+        "Chen D",
+        "He X",
+        "Shen Y",
+        "Gao Y",
+        "Chen D",
+        "Hang S",
+        "Wang X",
+        "Li N",
+        "Xu D"
+      ],
+      "specialty": "stroke",
+      "section_type": "diagnosis",
+      "text": "diseases, immunodeficiency disorders, and inherited metabolic disorders, EGPA was confirmed. Treatment included anti-inflammatory steroids, cyclophosphamide (CTX) induction therapy, anticoagulation, followed by mycophenolate mofetil (MMF) maintenance at therapeutic doses, supplemented with rituximab. Current follow-up shows normalized eosinophil counts, restored muscle strength, resolution of skin rashes without recurrence, and favorable clinical response.\n\nEGPA presents diverse clinical features. Cerebella infarction as the first neurological manifestation in children is rare. Eosinophilia serves as a characteristic feature. When pediatric asthma patients exhibit neurological symptoms, EGPA should be considered. For cases with central nervous system involvement, combined steroid therapy with cyclophosphamide pulse induction proves effective.",
+      "chunk_index": 3,
+      "char_count": 854,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

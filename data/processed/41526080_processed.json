@@ -1,0 +1,33 @@
+{
+  "pmid": "41526080",
+  "pmc_id": null,
+  "title": "Occult cryptococcal meningitis presenting as myelopathy from an arachnoid cyst.",
+  "authors": [
+    "Leon S",
+    "Karkare AN",
+    "Gluski J",
+    "Petrov D"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41526080",
+      "pmc_id": null,
+      "title": "Occult cryptococcal meningitis presenting as myelopathy from an arachnoid cyst.",
+      "authors": [
+        "Leon S",
+        "Karkare AN",
+        "Gluski J",
+        "Petrov D"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "An immunocompromised patient presented with acute-on-chronic back pain following minor trauma. The pain was accompanied by worsening right-sided weakness, paraesthesias, progressive gait impairment and hyperreflexia concerning for compressive myelopathy. The patient's spouse also reported months of increasing forgetfulness. Imaging revealed a thoracic arachnoid cyst, which was treated by fenestration and resection of the cyst via laminoplasty. At the time of surgery, the thickened cyst wall was sent off for pathological evaluation. Postoperatively, pathology identified yeast consistent with cryptococcus; a subsequent lumbar puncture confirmed the diagnosis. Aside from mild cognitive impairment and a transient episode of delirium, the patient had no prior cognitive nor cranial nerve deficits. This case highlights the importance of considering subacute, low-grade infection in the differential diagnosis of de novo arachnoid cysts in immunocompromised patients.",
+      "chunk_index": 0,
+      "char_count": 971,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

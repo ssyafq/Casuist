@@ -1,0 +1,31 @@
+{
+  "pmid": "41021446",
+  "pmc_id": "PMC12494298",
+  "title": "Severe Myoclonus Masking Thyroid Storm Following Etomidate Administration: A Case Report.",
+  "authors": [
+    "Wang T",
+    "Wang Y",
+    "Zhu X"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "41021446",
+      "pmc_id": "PMC12494298",
+      "title": "Severe Myoclonus Masking Thyroid Storm Following Etomidate Administration: A Case Report.",
+      "authors": [
+        "Wang T",
+        "Wang Y",
+        "Zhu X"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "BACKGROUND Etomidate administration can induce thyroid storm-like symptoms, including tachycardia, palpitations, muscle weakness, tremors, hypermetabolism, and excessive sweating. The incidence of myoclonus after etomidate use is 50-80%, necessitating vigilant monitoring and management of patients. In contrast, thyroid storm is a critical complication of hyperthyroidism, involving a sudden surge in thyroid hormone levels, causing high fever, hypertension, severe arrhythmia, nervous system disturbances, and gastrointestinal symptoms, which require prompt medical attention to avert fatal outcomes. CASE REPORT A 37-year-old man underwent electronic bronchoscopy under general anesthesia due to pulmonary infection. Following induction with etomidate, he had severe myoclonus coupled with marked tachycardia, with a heart rate of 160-180 beats per minute. Despite intensifying the anesthesia, there was no notable amelioration in the myoclonus or tachycardia. Repeated administration of beta-blockers only managed to reduce the heart rate to approximately 150 beats per minute. The severe myoclonus and tachycardia persisted for about 20 minutes. Initially, we suspected that the severe myoclonus was a reaction to the etomidate injection. However, after conducting a more thorough history and laboratory tests, he was diagnosed with hyperthyroidism. On the first postoperative night, he had severe hypokalemia and bilateral lower-limb weakness, with muscle strength rated at 2 out of 5. Consequently, we concluded that this case involved severe myoclonus triggered by etomidate during general anesthesia, which obscured the symptoms of a thyroid storm. CONCLUSIONS This case provides a profound lesson and emphasizes the need for a comprehensive and vigilant approach in managing patients with hyperthyroidism undergoing surgical procedures.",
+      "chunk_index": 0,
+      "char_count": 1846,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

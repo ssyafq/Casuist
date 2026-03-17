@@ -1,0 +1,35 @@
+{
+  "pmid": "41694386",
+  "pmc_id": "PMC12901459",
+  "title": "Severe DRESS syndrome with hemophagocytic lymphohistiocytosis and cryptococcal meningitis: a case report and diagnostic challenge.",
+  "authors": [
+    "Yan S",
+    "Gan YT",
+    "Li JJ",
+    "Sheng Y",
+    "Shi BJ"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41694386",
+      "pmc_id": "PMC12901459",
+      "title": "Severe DRESS syndrome with hemophagocytic lymphohistiocytosis and cryptococcal meningitis: a case report and diagnostic challenge.",
+      "authors": [
+        "Yan S",
+        "Gan YT",
+        "Li JJ",
+        "Sheng Y",
+        "Shi BJ"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "We report a rare and severe case of drug reaction with eosinophilia and systemic symptoms (DRESS) in a 72-year-old woman, complicated by hemophagocytic lymphohistiocytosis (HLH) and cryptococcal meningitis. The patient initially presented with fever, rash, eosinophilia, and liver dysfunction following antibiotic exposure. Despite corticosteroid therapy, she developed progressive cytopenias and neurological symptoms. Further evaluation confirmed HLH and cryptococcal infection. Treatment included intravenous immunoglobulin, antifungal agents, and multidisciplinary supportive care, resulting in gradual recovery. This case highlights the diagnostic complexity of overlapping immunologic and infectious conditions and underscores the importance of early recognition and coordinated management in patients with severe drug hypersensitivity reactions.",
+      "chunk_index": 0,
+      "char_count": 852,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

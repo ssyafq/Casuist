@@ -1,0 +1,33 @@
+{
+  "pmid": "41716509",
+  "pmc_id": "PMC12915465",
+  "title": "Candida glabrata (Nakaseomyces glabratus) as a component of aspiration pneumonia in a dog with megaesophagus.",
+  "authors": [
+    "Kornya M",
+    "Kashevska-Gozdek M",
+    "Sun Y",
+    "Bersenas A"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41716509",
+      "pmc_id": "PMC12915465",
+      "title": "Candida glabrata (Nakaseomyces glabratus) as a component of aspiration pneumonia in a dog with megaesophagus.",
+      "authors": [
+        "Kornya M",
+        "Kashevska-Gozdek M",
+        "Sun Y",
+        "Bersenas A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Candida glabrata is a yeast that is a commensal of mucosal surfaces and can cause opportunistic infection in several species. Unlike other Candida species, it is commonly resistant to azoles. Candida pneumonia has been reported in humans, with unclear prevalence, but is very rare in dogs. This report describes an 11-year-old spayed female Dogo Argentino dog with megaesophagus that was managed with mechanical ventilation for aspiration pneumonia. The dog had been treated previously with omeprazole and amoxicillin-clavulanic acid for 2.5 wk. Airway cytology showed inflammation and numerous yeast organisms most consistent with Candida. Therapy with fluconazole was initiated, but the dog's condition deteriorated and it was euthanized. Candida glabrata and polymicrobial infection were identified on airway culture and postmortem culture of lung tissue. Histologic examination of the lungs showed severe pneumonia with yeast organisms present within macrophages, consistent with infection. Key clinical message: Candida should be considered as a possible contributing agent in dogs with aspiration pneumonia, especially those treated with antimicrobials and gastroprotectants.",
+      "chunk_index": 0,
+      "char_count": 1181,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

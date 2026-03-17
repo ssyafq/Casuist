@@ -1,0 +1,59 @@
+{
+  "pmid": "41582129",
+  "pmc_id": "PMC12879340",
+  "title": "Isolated pectoralis minor tear at the costal origin: a case-based review of the literature.",
+  "authors": [
+    "Ziroglu N",
+    "Koluman AC"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41582129",
+      "pmc_id": "PMC12879340",
+      "title": "Isolated pectoralis minor tear at the costal origin: a case-based review of the literature.",
+      "authors": [
+        "Ziroglu N",
+        "Koluman AC"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Isolated tears of the pectoralis minor (PMi) are rare and often misdiagnosed as pectoralis major or costochondral injuries. Since the first report in 2004, only eleven cases have been described in the English-language literature, all involving the myotendinous junction or coracoid insertion. A tear at the costal origin has not previously been reported.",
+      "chunk_index": 0,
+      "char_count": 354,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41582129",
+      "pmc_id": "PMC12879340",
+      "title": "Isolated pectoralis minor tear at the costal origin: a case-based review of the literature.",
+      "authors": [
+        "Ziroglu N",
+        "Koluman AC"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "the pectoralis minor (PMi) are rare and often misdiagnosed as pectoralis major or costochondral injuries. Since the first report in 2004, only eleven cases have been described in the English-language literature, all involving the myotendinous junction or coracoid insertion. A tear at the costal origin has not previously been reported.\n\nA 46-year-old male developed acute anterior chest pain after pulling a heavy hospital bed. Physical examination revealed focal tenderness over the third to fifth ribs and pain with resisted internal rotation. Magnetic resonance imaging demonstrated a partial tear of the pectoralis minor at its costal origin with associated rib bone marrow edema, while the coracoid insertion and pectoralis major were intact. The patient was treated nonoperatively with analgesics and a structured physiotherapy program emphasizing scapular stabilization, resulting in complete symptom resolution within six weeks. LITERATURE REVIEW: A structured search of PubMed and Scopus identified eleven previously reported cases of isolated PMi tear published between 2004 and 2021. Most injuries occurred in contact or overhead athletes and involved the myotendinous or insertional region. All cases were managed conservatively with favorable clinical outcomes.",
+      "chunk_index": 1,
+      "char_count": 1275,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "41582129",
+      "pmc_id": "PMC12879340",
+      "title": "Isolated pectoralis minor tear at the costal origin: a case-based review of the literature.",
+      "authors": [
+        "Ziroglu N",
+        "Koluman AC"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "within six weeks. LITERATURE REVIEW: A structured search of PubMed and Scopus identified eleven previously reported cases of isolated PMi tear published between 2004 and 2021. Most injuries occurred in contact or overhead athletes and involved the myotendinous or insertional region. All cases were managed conservatively with favorable clinical outcomes.\n\nThis case represents the first documented costal origin tear of the pectoralis minor, associated with rib bone marrow edema following a low-energy, non-sporting mechanism. The findings expand the anatomical spectrum of PMi injuries and highlight the importance of considering this diagnosis in patients with anterior chest wall pain and an intact pectoralis major. MRI is essential for accurate localization of the lesion and exclusion of concomitant injury. Conservative management remains an effective treatment strategy.",
+      "chunk_index": 2,
+      "char_count": 880,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

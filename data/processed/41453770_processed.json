@@ -1,0 +1,31 @@
+{
+  "pmid": "41453770",
+  "pmc_id": null,
+  "title": "Pericardial fat necrosis: an underdiagnosed cause of acute chest pain.",
+  "authors": [
+    "Bansal KR",
+    "Crook R",
+    "Cooper W"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "41453770",
+      "pmc_id": null,
+      "title": "Pericardial fat necrosis: an underdiagnosed cause of acute chest pain.",
+      "authors": [
+        "Bansal KR",
+        "Crook R",
+        "Cooper W"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Pericardial fat necrosis (PFN) is a rare, benign cause of acute pleuritic chest pain, sharing symptomatic overlap with more serious cardiopulmonary conditions. We present a case of a woman in her early 50s who experienced progressive, left-sided pleuritic chest pain. Initial investigations, including an ECG, troponin and D-dimer, were negative. On re-presentation, inflammatory markers were raised and a small left pleural effusion was noted. CT pulmonary angiography, performed to exclude pulmonary embolism, revealed focal pericardial fat inflammation, retrospectively diagnosed as PFN. Follow-up imaging demonstrated complete resolution, consistent with the self-limiting nature of the condition. This case highlights the diagnostic challenge posed by PFN, given its non-specific symptoms which often mimic more serious acute pathology. Given that many patients undergo CT imaging as part of their work-up, awareness of PFN can prevent unnecessary, and potentially invasive, further investigations.",
+      "chunk_index": 0,
+      "char_count": 1003,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

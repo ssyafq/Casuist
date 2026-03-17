@@ -1,0 +1,113 @@
+{
+  "pmid": "41520703",
+  "pmc_id": null,
+  "title": "Patients after acute myocardial infarction: potential of semaglutide in prognosis for reducing events and mortality.",
+  "authors": [
+    "Velasco A",
+    "Pascual Ramos I",
+    "Rodriguez Alonso P",
+    "Denche Sanz C",
+    "Tello R",
+    "Solis J"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41520703",
+      "pmc_id": null,
+      "title": "Patients after acute myocardial infarction: potential of semaglutide in prognosis for reducing events and mortality.",
+      "authors": [
+        "Velasco A",
+        "Pascual Ramos I",
+        "Rodriguez Alonso P",
+        "Denche Sanz C",
+        "Tello R",
+        "Solis J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "GLP-1 receptor agonists, such as semaglutide, have demonstrated cardiovascular benefits in trials such as SELECT and SOUL. This study assesses the proportion of post-myocardial infarction patients who meet eligibility criteria to benefit from semaglutide.",
+      "chunk_index": 0,
+      "char_count": 255,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41520703",
+      "pmc_id": null,
+      "title": "Patients after acute myocardial infarction: potential of semaglutide in prognosis for reducing events and mortality.",
+      "authors": [
+        "Velasco A",
+        "Pascual Ramos I",
+        "Rodriguez Alonso P",
+        "Denche Sanz C",
+        "Tello R",
+        "Solis J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "GLP-1 receptor agonists, such as semaglutide, have demonstrated cardiovascular benefits in trials such as SELECT and SOUL. This study assesses the proportion of post-myocardial infarction patients who meet eligibility criteria to benefit from semaglutide.\n\nA retrospective, single-centre observational study was conducted including 100 consecutive patients following myocardial infarction. Clinical, demographic, and laboratory data were analysed. Eligibility was assessed using the criteria from the SELECT trial (body mass index >/=27kg/m(2), no diabetes, established atherosclerotic disease) and the SOUL trial (type 2 diabetes mellitus and atherosclerotic cardiovascular disease).",
+      "chunk_index": 1,
+      "char_count": 684,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41520703",
+      "pmc_id": null,
+      "title": "Patients after acute myocardial infarction: potential of semaglutide in prognosis for reducing events and mortality.",
+      "authors": [
+        "Velasco A",
+        "Pascual Ramos I",
+        "Rodriguez Alonso P",
+        "Denche Sanz C",
+        "Tello R",
+        "Solis J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "labs",
+      "text": "single-centre observational study was conducted including 100 consecutive patients following myocardial infarction. Clinical, demographic, and laboratory data were analysed. Eligibility was assessed using the criteria from the SELECT trial (body mass index >/=27kg/m(2), no diabetes, established atherosclerotic disease) and the SOUL trial (type 2 diabetes mellitus and atherosclerotic cardiovascular disease).\n\nSELECT criteria were met by 42 patients, SOUL criteria by 34, and both by 76. This combined group was characterised by older age, greater comorbidity burden (hypertension, dyslipidaemia, type 2 diabetes mellitus), higher body mass index, and a more atherogenic lipid profile.",
+      "chunk_index": 2,
+      "char_count": 687,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41520703",
+      "pmc_id": null,
+      "title": "Patients after acute myocardial infarction: potential of semaglutide in prognosis for reducing events and mortality.",
+      "authors": [
+        "Velasco A",
+        "Pascual Ramos I",
+        "Rodriguez Alonso P",
+        "Denche Sanz C",
+        "Tello R",
+        "Solis J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "discussion",
+      "text": "SELECT criteria were met by 42 patients, SOUL criteria by 34, and both by 76. This combined group was characterised by older age, greater comorbidity burden (hypertension, dyslipidaemia, type 2 diabetes mellitus), higher body mass index, and a more atherogenic lipid profile.\n\nThe high proportion of eligible patients suggests that these trials truly represent real-world clinical practice. The SELECT+SOUL group exhibited features consistent with metabolic syndrome, potentially explaining their elevated cardiovascular risk and the likely benefit from semaglutide.",
+      "chunk_index": 3,
+      "char_count": 566,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41520703",
+      "pmc_id": null,
+      "title": "Patients after acute myocardial infarction: potential of semaglutide in prognosis for reducing events and mortality.",
+      "authors": [
+        "Velasco A",
+        "Pascual Ramos I",
+        "Rodriguez Alonso P",
+        "Denche Sanz C",
+        "Tello R",
+        "Solis J"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "The high proportion of eligible patients suggests that these trials truly represent real-world clinical practice. The SELECT+SOUL group exhibited features consistent with metabolic syndrome, potentially explaining their elevated cardiovascular risk and the likely benefit from semaglutide.\n\nSemaglutide shows high potential for prescription in specialties managing patients with cardiovascular events, identifying a target group with characteristics typical of metabolic syndrome.",
+      "chunk_index": 4,
+      "char_count": 480,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

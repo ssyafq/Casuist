@@ -1,0 +1,29 @@
+{
+  "pmid": "40156126",
+  "pmc_id": "PMC12209801",
+  "title": "Real-time thermal coronary angiography in coronary artery bypass grafting.",
+  "authors": [
+    "Nazer RI",
+    "Albarrati AM"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40156126",
+      "pmc_id": "PMC12209801",
+      "title": "Real-time thermal coronary angiography in coronary artery bypass grafting.",
+      "authors": [
+        "Nazer RI",
+        "Albarrati AM"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Intraoperative graft interrogation is crucial for ensuring graft patency and optimizing surgical outcomes in coronary artery bypass grafting (CABG). Various intraoperative imaging techniques aid in assessing graft function, allowing for immediate correction of technical issues and reducing postoperative complications. A 38-year-old male smoker presented with acute coronary syndrome, characterized by central chest pain radiating to the left shoulder and ST-segment depression on electrocardiogram. Elevated troponin confirmed the diagnosis, and coronary angiography revealed significant 3-vessel disease. The patient underwent urgent CABG using bilateral internal mammary arteries as a Y-graft to the left anterior descending artery and the first diagonal branch. Additional grafts to the posterior descending artery and first obtuse marginal branch were performed using saphenous vein segments. Intraoperative graft patency was assessed using a real-time thermal imaging camera, providing non-invasive visualization of myocardial blood flow without contrast agents or disruption of the surgical workflow. This unique technique allowed immediate confirmation of graft functionality, ensuring quality assurance during CABG. Thermal imaging potentially represents a state-of-the-art tool for improving graft quality and surgical outcomes, offering a simple, effective alternative to conventional intraoperative imaging methods.",
+      "chunk_index": 0,
+      "char_count": 1428,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

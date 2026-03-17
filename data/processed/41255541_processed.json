@@ -1,0 +1,29 @@
+{
+  "pmid": "41255541",
+  "pmc_id": "PMC12620193",
+  "title": "Case Report: NEUROD1 c.-108G>C mutation in a ketosis-prone MODY6 patient: implications for genetic testing and DPP-4 inhibitor therapy.",
+  "authors": [
+    "Shao Z",
+    "Xu L"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41255541",
+      "pmc_id": "PMC12620193",
+      "title": "Case Report: NEUROD1 c.-108G>C mutation in a ketosis-prone MODY6 patient: implications for genetic testing and DPP-4 inhibitor therapy.",
+      "authors": [
+        "Shao Z",
+        "Xu L"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "This paper presents the diagnostic and therapeutic course of a 26-year-old male patient with maturity-onset diabetes of the young type 6 (MODY6) complicated by diabetic ketosis, resulting from a heterozygous neurogenic differentiation factor 1 (NEUROD1) c.-108G>C mutation. The patient was admitted due to \"dry mouth, polydipsia, and polyuria lasting for 2 months.\" The diagnosis of MODY6 was established based on blood glucose levels, glycosylated hemoglobin results, familial co-segregation of the variant (maternally inherited), and genetic sequencing data. This study analyzes the similarities and discrepancies between this case and classic MODY6, highlights the diagnostic significance of genetic testing in atypical cases, and puts forward the indications for genetic testing in clinically suspected MODY cases. Following individualized therapy with saxagliptin and acarbose, the patient achieved stable blood glucose control without insulin after 6 months, with partial recovery of islet function. This case supports that NEUROD1 mutations may retain incretin responsiveness, expanding therapeutic options for MODY6.",
+      "chunk_index": 0,
+      "char_count": 1124,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

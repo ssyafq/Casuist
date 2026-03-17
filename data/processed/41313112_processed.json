@@ -1,0 +1,41 @@
+{
+  "pmid": "41313112",
+  "pmc_id": null,
+  "title": "Not always meningitis: an infrequent case of meningococcal pneumonia.",
+  "authors": [
+    "Michelangelo JM",
+    "Pieklo GS",
+    "Guerra Gutierrez MC",
+    "Huaier Arriazu EF",
+    "Sinner JF",
+    "Efron AM",
+    "Moreno Rodriguez RC",
+    "Stanek VC"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41313112",
+      "pmc_id": null,
+      "title": "Not always meningitis: an infrequent case of meningococcal pneumonia.",
+      "authors": [
+        "Michelangelo JM",
+        "Pieklo GS",
+        "Guerra Gutierrez MC",
+        "Huaier Arriazu EF",
+        "Sinner JF",
+        "Efron AM",
+        "Moreno Rodriguez RC",
+        "Stanek VC"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Invasive meningococcal disease (IMD) is a severe infectious pathology with high mortality and morbidity. Meningitis is the most typical presentation. Meningococcal pneumonia is an infrequent but relevant clinical presentation, mainly associated with advanced age. Given its clinical and epidemiological implications, a microbiological diagnosis is essential. The need for lumbar puncture in this group of patients is a matter of debate between some groups of experts. Here, we present a case of meningococcal pneumonia in Argentina and provide a bibliographical review on this topic.",
+      "chunk_index": 0,
+      "char_count": 583,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "39998351",
+  "pmc_id": null,
+  "title": "[An atypical ECG for a typical Takotsubo syndrome].",
+  "authors": [
+    "Lupi A",
+    "Freschini M",
+    "Aimi A",
+    "Castellani C",
+    "Sclafani R"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39998351",
+      "pmc_id": null,
+      "title": "[An atypical ECG for a typical Takotsubo syndrome].",
+      "authors": [
+        "Lupi A",
+        "Freschini M",
+        "Aimi A",
+        "Castellani C",
+        "Sclafani R"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Takotsubo syndrome is an acquired pathological condition that occurs mainly in postmenopausal women in response to stressful events of a variety of psychophysical nature and, especially in the acute phase, may be indistinguishable from acute coronary syndrome. The clinical presentation of Takotsubo syndrome is characterized by chest pain, an increase in biomarkers of myocardial necrosis, wall motion abnormalities and ECG changes that may completely overlap with cardiac ischemia. It is therefore of paramount importance to make a correct differential diagnosis between these two conditions, which have different therapeutic and prognostic implications. As evidence of this, we report the case of a Takotsubo syndrome with an atypical ECG presentation, known as the de Winter pattern, suggestive of acute coronary syndrome. This case report further highlights the need for urgent coronary angiography combined with ventriculography to allow for a proper differential diagnosis.",
+      "chunk_index": 0,
+      "char_count": 980,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

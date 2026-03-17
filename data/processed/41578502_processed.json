@@ -1,0 +1,74 @@
+{
+  "pmid": "41578502",
+  "pmc_id": "PMC12851697",
+  "title": "Diabetic ketoacidosis induced by liraglutide overdose for weight loss in a type 2 diabetes patient: A case report.",
+  "authors": [
+    "Xu H",
+    "Zhang Y"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41578502",
+      "pmc_id": "PMC12851697",
+      "title": "Diabetic ketoacidosis induced by liraglutide overdose for weight loss in a type 2 diabetes patient: A case report.",
+      "authors": [
+        "Xu H",
+        "Zhang Y"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Type 2 diabetes mellitus is a major global health concern. Liraglutide, a glucagon-like peptide-1 receptor agonist, is widely used for glycemic control and weight loss. While generally safe, its misuse, particularly overdose, poses severe risks that are poorly documented. This case report aims to describe the clinical course and management of a life-threatening diabetic ketoacidosis (DKA) induced by a massive liraglutide overdose, highlighting the critical importance of patient education and adherence to prescribing guidelines.",
+      "chunk_index": 0,
+      "char_count": 533,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41578502",
+      "pmc_id": "PMC12851697",
+      "title": "Diabetic ketoacidosis induced by liraglutide overdose for weight loss in a type 2 diabetes patient: A case report.",
+      "authors": [
+        "Xu H",
+        "Zhang Y"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "loss. While generally safe, its misuse, particularly overdose, poses severe risks that are poorly documented. This case report aims to describe the clinical course and management of a life-threatening diabetic ketoacidosis (DKA) induced by a massive liraglutide overdose, highlighting the critical importance of patient education and adherence to prescribing guidelines.\n\nWe present a case report of a 43-year-old female with type 2 diabetes mellitus who self-administered liraglutide at 10 times the recommended dose (cumulative 18 mg over 3 days).",
+      "chunk_index": 1,
+      "char_count": 549,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41578502",
+      "pmc_id": "PMC12851697",
+      "title": "Diabetic ketoacidosis induced by liraglutide overdose for weight loss in a type 2 diabetes patient: A case report.",
+      "authors": [
+        "Xu H",
+        "Zhang Y"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "labs",
+      "text": "We present a case report of a 43-year-old female with type 2 diabetes mellitus who self-administered liraglutide at 10 times the recommended dose (cumulative 18 mg over 3 days).\n\nFollowing the overdose, the patient was diagnosed with severe DKA (pH 6.9), with markedly elevated beta-hydroxybutyrate and hyperkalemia. Conventional management failed to correct the life-threatening acidosis, necessitating salvage hemodialysis, which rapidly stabilized her metabolic parameters.",
+      "chunk_index": 2,
+      "char_count": 476,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41578502",
+      "pmc_id": "PMC12851697",
+      "title": "Diabetic ketoacidosis induced by liraglutide overdose for weight loss in a type 2 diabetes patient: A case report.",
+      "authors": [
+        "Xu H",
+        "Zhang Y"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "Following the overdose, the patient was diagnosed with severe DKA (pH 6.9), with markedly elevated beta-hydroxybutyrate and hyperkalemia. Conventional management failed to correct the life-threatening acidosis, necessitating salvage hemodialysis, which rapidly stabilized her metabolic parameters.\n\nThis case underscores the dangers of liraglutide overdose, particularly for weight loss purposes, and highlights the critical need for strict adherence to prescribed dosages and comprehensive patient education. Clinicians should vigilantly monitor liraglutide therapy to prevent severe complications like DKA. In refractory DKA with profound acidosis (pH </= 7.0) or end-organ compromise, hemodialysis may be considered for rapid detoxification and stabilization. This report serves as a critical reminder of the potential dangers associated with glucagon-like peptide-1 receptor agonist misuse.",
+      "chunk_index": 3,
+      "char_count": 894,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

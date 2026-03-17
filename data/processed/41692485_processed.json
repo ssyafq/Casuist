@@ -1,0 +1,33 @@
+{
+  "pmid": "41692485",
+  "pmc_id": null,
+  "title": "Delayed neurological events after mumps vaccination: implications for surveillance and clinical recognition.",
+  "authors": [
+    "Miyahara M",
+    "Osaki K",
+    "Negoro M",
+    "Suga S"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41692485",
+      "pmc_id": null,
+      "title": "Delayed neurological events after mumps vaccination: implications for surveillance and clinical recognition.",
+      "authors": [
+        "Miyahara M",
+        "Osaki K",
+        "Negoro M",
+        "Suga S"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "We report a case of febrile status epilepticus with aseptic meningitis occurring 23 days after mumps vaccination (Hoshino strain) in a previously healthy male infant. The vaccine strain was identified in cerebrospinal fluid by reverse transcription-PCR and sequencing. This case may illustrate potential blind spots in current vaccine safety surveillance, which often rely on short monitoring windows and passive reporting. It suggests that consideration of longer surveillance periods, improved clinician awareness of delayed neurological complications and greater diagnostic vigilance may be warranted. The patient recovered fully without sequelae.",
+      "chunk_index": 0,
+      "char_count": 650,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

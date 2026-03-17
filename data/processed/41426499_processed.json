@@ -1,0 +1,67 @@
+{
+  "pmid": "41426499",
+  "pmc_id": "PMC12716242",
+  "title": "A Case Report of Abdominal Myoclonus Following Anterior Cerebral Artery Stroke.",
+  "authors": [
+    "Nokhrina K",
+    "Wold J",
+    "Raghavan M",
+    "Lamotte G"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41426499",
+      "pmc_id": "PMC12716242",
+      "title": "A Case Report of Abdominal Myoclonus Following Anterior Cerebral Artery Stroke.",
+      "authors": [
+        "Nokhrina K",
+        "Wold J",
+        "Raghavan M",
+        "Lamotte G"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Post-stroke movement disorders are rare. Abdominal myoclonus following anterior cerebral artery (ACA) infarction has not been previously reported.",
+      "chunk_index": 0,
+      "char_count": 146,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41426499",
+      "pmc_id": "PMC12716242",
+      "title": "A Case Report of Abdominal Myoclonus Following Anterior Cerebral Artery Stroke.",
+      "authors": [
+        "Nokhrina K",
+        "Wold J",
+        "Raghavan M",
+        "Lamotte G"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Post-stroke movement disorders are rare. Abdominal myoclonus following anterior cerebral artery (ACA) infarction has not been previously reported.\n\nA 75-year-old man presented with acute right-sided weakness and involuntary, rhythmic contractions of the abdominal muscles. Imaging revealed an acute left ACA infarction involving the precentral gyrus. Scalp electroencephalography (EEG) showed no epileptiform discharges. Other secondary causes of myoclonus were ruled out. Abdominal myoclonus resolved after intravenous levetiracetam.",
+      "chunk_index": 1,
+      "char_count": 534,
+      "subspecialty": "stroke"
+    },
+    {
+      "pmid": "41426499",
+      "pmc_id": "PMC12716242",
+      "title": "A Case Report of Abdominal Myoclonus Following Anterior Cerebral Artery Stroke.",
+      "authors": [
+        "Nokhrina K",
+        "Wold J",
+        "Raghavan M",
+        "Lamotte G"
+      ],
+      "specialty": "stroke",
+      "section_type": "discussion",
+      "text": "A 75-year-old man presented with acute right-sided weakness and involuntary, rhythmic contractions of the abdominal muscles. Imaging revealed an acute left ACA infarction involving the precentral gyrus. Scalp electroencephalography (EEG) showed no epileptiform discharges. Other secondary causes of myoclonus were ruled out. Abdominal myoclonus resolved after intravenous levetiracetam.\n\nThis case highlights cortical abdominal myoclonus as a rare manifestation of ACA ischemic stroke. Epileptiform abnormalities on EEG are often not found. Treatment with an antiepileptic medication may resolve the myoclonus.",
+      "chunk_index": 2,
+      "char_count": 610,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

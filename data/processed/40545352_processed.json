@@ -1,0 +1,37 @@
+{
+  "pmid": "40545352",
+  "pmc_id": null,
+  "title": "[A case of severe COVID-19 infection with multiple brain microbleeds spreading to the \u200dsubcortical white matter, internal capsule and splenium of the corpus callosum].",
+  "authors": [
+    "Aburatani S",
+    "Miura E",
+    "Umeda Y",
+    "Aoki S",
+    "Fujita N",
+    "Oyake M"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40545352",
+      "pmc_id": null,
+      "title": "[A case of severe COVID-19 infection with multiple brain microbleeds spreading to the \u200dsubcortical white matter, internal capsule and splenium of the corpus callosum].",
+      "authors": [
+        "Aburatani S",
+        "Miura E",
+        "Umeda Y",
+        "Aoki S",
+        "Fujita N",
+        "Oyake M"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "A 23-year-old female student was admitted to a local hospital because of consciousness disturbance caused by diabetic ketoacidosis on the 4th day after COVID-19 infection. She was subsequently transferred to our hospital, having developed respiratory failure, acute renal failure and DIC. Although intensive treatment improved her condition, she remained hypoactive. Brain MRI revealed multiple microbleeds (MBs) spreading to the subcortical white matter, internal capsule, splenium of the corpus callosum and brainstem. The WAIS-IV score suggested general attention deficit disorder and mild impairment of working memory and processing speed. These symptoms disappeared with time, and she was able to return to her studies without any after-effects. COVID-19 tends to cause thrombosis and MBs in the brain due to vascular endothelial damage. Although the reason for the specific localization of these MBs remains unclear, differences in regional vulnerability to cytokines may have been partly responsible.",
+      "chunk_index": 0,
+      "char_count": 1007,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

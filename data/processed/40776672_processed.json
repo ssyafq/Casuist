@@ -1,0 +1,67 @@
+{
+  "pmid": "40776672",
+  "pmc_id": null,
+  "title": "Exogenous insulin antibody syndrome in type 2 diabetes with diabetic ketoacidosis: A case report and literature review.",
+  "authors": [
+    "Xu M",
+    "Xia L",
+    "Xiao R",
+    "Deng D"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40776672",
+      "pmc_id": null,
+      "title": "Exogenous insulin antibody syndrome in type 2 diabetes with diabetic ketoacidosis: A case report and literature review.",
+      "authors": [
+        "Xu M",
+        "Xia L",
+        "Xiao R",
+        "Deng D"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Exogenous insulin antibody syndrome (EIAS) is a rare allergic reaction triggered by exogenous insulin. It typically manifests as recurrent hypoglycemia during insulin use. In some cases, patients may also experience significant elevation in their blood glucose levels.",
+      "chunk_index": 0,
+      "char_count": 268,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40776672",
+      "pmc_id": null,
+      "title": "Exogenous insulin antibody syndrome in type 2 diabetes with diabetic ketoacidosis: A case report and literature review.",
+      "authors": [
+        "Xu M",
+        "Xia L",
+        "Xiao R",
+        "Deng D"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Exogenous insulin antibody syndrome (EIAS) is a rare allergic reaction triggered by exogenous insulin. It typically manifests as recurrent hypoglycemia during insulin use. In some cases, patients may also experience significant elevation in their blood glucose levels.\n\nWe review a case of type 2 diabetes mellitus complicated by diabetic ketoacidosis. The patient exhibited a significant increase in his blood glucose level and demonstrated a substantial insulin resistance. Only through the administration of a large amount of insulin, it was possible to gradually reduce his blood glucose level. Notably, laboratory examination revealed a significant elevation in the patient's blood insulin autoantibody. Based on these findings, the patient was diagnosed with EIAS and used glucocorticoids during treatment. Subsequently, the patient's required insulin dose decreased significantly, and the blood glucose level was effectively controlled.",
+      "chunk_index": 1,
+      "char_count": 943,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "40776672",
+      "pmc_id": null,
+      "title": "Exogenous insulin antibody syndrome in type 2 diabetes with diabetic ketoacidosis: A case report and literature review.",
+      "authors": [
+        "Xu M",
+        "Xia L",
+        "Xiao R",
+        "Deng D"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "gradually reduce his blood glucose level. Notably, laboratory examination revealed a significant elevation in the patient's blood insulin autoantibody. Based on these findings, the patient was diagnosed with EIAS and used glucocorticoids during treatment. Subsequently, the patient's required insulin dose decreased significantly, and the blood glucose level was effectively controlled.\n\nEIAS can significantly increase blood glucose levels and impair the hypoglycemic effect of insulin. In patients with acute metabolic disorders, such as ketoacidosis, glucocorticoid therapy can be considered.",
+      "chunk_index": 2,
+      "char_count": 595,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

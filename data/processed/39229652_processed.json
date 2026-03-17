@@ -1,0 +1,39 @@
+{
+  "pmid": "39229652",
+  "pmc_id": "PMC11520529",
+  "title": "Acute coronary syndrome due to coronary vasospasm: a case report.",
+  "authors": [
+    "Wang A",
+    "Meir J",
+    "Malik A",
+    "Fishkin T",
+    "Dey S",
+    "Panza JA",
+    "Haidry S"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "39229652",
+      "pmc_id": "PMC11520529",
+      "title": "Acute coronary syndrome due to coronary vasospasm: a case report.",
+      "authors": [
+        "Wang A",
+        "Meir J",
+        "Malik A",
+        "Fishkin T",
+        "Dey S",
+        "Panza JA",
+        "Haidry S"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Coronary vasospasm can lead to decreased cardiac perfusion and result in acute coronary syndrome. Here is a case of a 49-year-old man presented to the emergency department with epigastric pain and nausea with normal initial electrocardiogram. However, 6 h later, the patient experienced severe chest pain prompting a repeat electrocardiogram demonstrating inferior ST-segment elevation with troponin I levels peaked at 1.2 ng/ml (normal range: 0.00-0.02 ng/ml). Coronary angiography revealed angiographic stenosis in the left circumflex territory of a left dominant system which resolved with intracoronary nitroglycerin administration indicating ischemia with nonobstructive coronary arteries secondary to coronary vasospasm. He was discharged on isosorbide mononitrate and amlodipine therapy and had no recurrence of symptoms during follow-up.",
+      "chunk_index": 0,
+      "char_count": 845,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "41257278",
+  "pmc_id": "PMC12620867",
+  "title": "Uncommon causes of acute small intestinal bleeding-invasive mole: A case report and review of literature.",
+  "authors": [
+    "Yu WH",
+    "Zong Y",
+    "Zhou JW",
+    "Xu GQ"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41257278",
+      "pmc_id": "PMC12620867",
+      "title": "Uncommon causes of acute small intestinal bleeding-invasive mole: A case report and review of literature.",
+      "authors": [
+        "Yu WH",
+        "Zong Y",
+        "Zhou JW",
+        "Xu GQ"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Gastrointestinal bleeding due to metastasis of an invasive mole to the small intestine is very rare. Most reported cases of metastatic invasive mole are diagnosed after surgery, and lack rich illustrations, which leads to insufficient understanding by clinicians, misdiagnosis, and unnecessary surgeries. CASE SUMMARY: A 22-year-old female patient presented with bloody stool and elevated human chorionic gonadotropin. The transvaginal gynecological ultrasound ruled out pregnancy. Upper gastrointestinal endoscopy and colonoscopy were performed, but no bleeding focus was detected. The contrast-enhanced computed tomography was unremarkable. The capsule endoscopy suggested jejunal protuberant lesions with dark red blood clots. Therefore, oral single-balloon enteroscopy was performed, and two connected protuberant lesions were detected, with blood clot traces and local ulceration. The enteroscopic biopsy revealed trophoblastic cells with a probable diagnosis of trophoblastic tumor. The patient underwent surgical resection of the diseased jejunum. Intraoperative endoscopy was performed, and the findings were the same as those of the small intestine endoscopy. The postoperative pathology confirmed the preoperative diagnosis of invasive mole.",
+      "chunk_index": 0,
+      "char_count": 1251,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41257278",
+      "pmc_id": "PMC12620867",
+      "title": "Uncommon causes of acute small intestinal bleeding-invasive mole: A case report and review of literature.",
+      "authors": [
+        "Yu WH",
+        "Zong Y",
+        "Zhou JW",
+        "Xu GQ"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "ulceration. The enteroscopic biopsy revealed trophoblastic cells with a probable diagnosis of trophoblastic tumor. The patient underwent surgical resection of the diseased jejunum. Intraoperative endoscopy was performed, and the findings were the same as those of the small intestine endoscopy. The postoperative pathology confirmed the preoperative diagnosis of invasive mole.\n\nIn non-pregnant women with elevated human chorionic gonadotropin and gastrointestinal bleeding, metastatic trophoblastic neoplasia should be considered.",
+      "chunk_index": 1,
+      "char_count": 531,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

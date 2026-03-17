@@ -1,0 +1,31 @@
+{
+  "pmid": "37900066",
+  "pmc_id": "PMC10600673",
+  "title": "Reliability of cardiac computed tomography examination in cardiac pathology - a case series and literature review.",
+  "authors": [
+    "Capisizu AS",
+    "Stanciu S",
+    "Cuzino D"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "37900066",
+      "pmc_id": "PMC10600673",
+      "title": "Reliability of cardiac computed tomography examination in cardiac pathology - a case series and literature review.",
+      "authors": [
+        "Capisizu AS",
+        "Stanciu S",
+        "Cuzino D"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "Due to the technological progress in the last decade, the medical practice of cardiology relies more and more on the information provided by cardiac computed tomography. Current guidelines propose coronary computed angiography as a first-line anatomic investigation in patients with low and intermediate probability of coronary atherosclerosis. At the same time, anatomical information is obtained about the rest of the cardiac structures and about cardiac function. The present work aimed to present the contribution of cardiac computed tomography in the morphological and functional characterization of patients with complex cardiac pathology. Three cases are presented in which the information provided by cardiac computed tomography contributed significantly to the diagnosis. The cases were cardiac pathologies such as ventricular apical aneurysm, aortic prosthetic thrombosis, and a cardiac malformation with transposition of great arteries. In addition to highlighting the role of cardiac computed tomography in diagnosing cardiac pathology, a brief review of cardiac computed tomography indications, inclusion criteria, patient safety, basic techniques, and the main protocols and types of post-processing used in practice is provided. This article provides an overview of the applications of cardiac computed tomography, highlighting its role within clinical practice, particularly in the characterization of complex cardiac pathologies.",
+      "chunk_index": 0,
+      "char_count": 1446,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

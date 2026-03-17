@@ -1,0 +1,35 @@
+{
+  "pmid": "41560092",
+  "pmc_id": "PMC12826268",
+  "title": "A case report and literature review of neuropsychiatric lupus presenting with coma as the initial symptom.",
+  "authors": [
+    "Pang L",
+    "Xu X",
+    "Liu Y",
+    "Wang X",
+    "Wang Y"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41560092",
+      "pmc_id": "PMC12826268",
+      "title": "A case report and literature review of neuropsychiatric lupus presenting with coma as the initial symptom.",
+      "authors": [
+        "Pang L",
+        "Xu X",
+        "Liu Y",
+        "Wang X",
+        "Wang Y"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "RATIONALE: Neuropsychiatric lupus (NPSLE) represents a severe disease manifestation where early recognition significantly impacts prognosis. This report highlights the diagnostic challenges and management strategies in NPSLE presenting with coma, aiming to enhance clinical awareness of this life-threatening condition. PATIENT CONCERNS: A 20-year-old female presented with acute coma of unknown origin. Initial evaluation revealed nonspecific cerebral edema on neuroimaging, while symptomatic treatment yielded minimal improvement. Physical examination showed gangrene of the right toes, indicating significant vascular compromise. DIAGNOSES: According to the 2019 EULAR management recommendations for systemic lupus erythematosus (SLE), this patient first meets the diagnostic criteria for SLE: positive antiphospholipid antibodies (antinuclear antibody), positive anti-double-stranded DNA antibodies, positive anti-Smith antibodies, decreased complement component 3 and complement component 4 levels, with a total classification criteria score >/= 10 points, confirming the diagnosis of SLE. Subsequently, the patient developed neuropsychiatric symptoms as defined by the guidelines. After comprehensive exclusion of non-SLE related causes including infections, encephalitis, and metabolic abnormalities, combined with specific laboratory findings (the aforementioned autoantibodies and complement abnormalities) and imaging results, a final diagnosis of NPSLE was established. INTERVENTIONS: Treatment comprised methylprednisolone pulse therapy (500 mg daily for 3 days) followed by maintenance corticosteroids, combined with intravenous immunoglobulin (25 mg daily for 5 days) and cyclophosphamide (400 mg weekly). Adjunctive measures included mannitol for cerebral edema management and appropriate analgesic therapy. OUTCOMES: The patient regained consciousness by day 5, followed commands despite residual right-sided weakness (grade 2). Significant motor improvement (grade 4 strength) occurred by day 12, supported by neuroimaging showing reduced cerebral lesions. Discharge occurred on day 18 with substantial neurological recovery, though digital necrosis persisted. LESSONS: Unexplained coma in young females warrants consideration of autoimmune etiologies. Comprehensive immunological testing is crucial for accurate diagnosis. The combination of methylprednisolone, immunoglobulin, and cyclophosphamide demonstrated significant efficacy in severe NPSLE. Early recognition and aggressive immunosuppressive therapy are vital for optimizing outcomes.",
+      "chunk_index": 0,
+      "char_count": 2561,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

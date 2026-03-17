@@ -1,0 +1,35 @@
+{
+  "pmid": "41251417",
+  "pmc_id": "PMC12873497",
+  "title": "Myocardial Infarction in Conduction System Pacing: Trust the ECG or Rely on Algorithms?",
+  "authors": [
+    "Crisman E",
+    "Neagoe AM",
+    "Haeberlin A",
+    "Haner J",
+    "Schnegg B"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41251417",
+      "pmc_id": "PMC12873497",
+      "title": "Myocardial Infarction in Conduction System Pacing: Trust the ECG or Rely on Algorithms?",
+      "authors": [
+        "Crisman E",
+        "Neagoe AM",
+        "Haeberlin A",
+        "Haner J",
+        "Schnegg B"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "A 66-year-old male patient with a conduction system pacing (CSP) pacemaker, implanted after a pace-and-ablate strategy for persistent, poorly rate-controlled atrial fibrillation, presented to the outpatient clinic with worsening dyspnea. Laboratory findings and ECG were indicative of an anterolateral ST-segment elevation myocardial infarction (STEMI), confirmed by coronary angiography showing occlusion of a large diagonal branch. STEMI diagnosis in paced patients is often challenging due to altered ventricular activation. However, this case demonstrates that surface ECG remains interpretable with CSP, which preserves physiological activation, allowing accurate localization of ischemia even in the presence of a pacemaker.",
+      "chunk_index": 0,
+      "char_count": 730,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "41308343",
+  "pmc_id": null,
+  "title": "A case of persistent pneumothorax after bronchoscopic lung volume reduction successfully treated with video-assisted thoracic surgery without removal of endobronchial valves.",
+  "authors": [
+    "Sakaguchi T",
+    "Tarukawa T",
+    "Nishii Y",
+    "Takao M",
+    "Hataji O"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41308343",
+      "pmc_id": null,
+      "title": "A case of persistent pneumothorax after bronchoscopic lung volume reduction successfully treated with video-assisted thoracic surgery without removal of endobronchial valves.",
+      "authors": [
+        "Sakaguchi T",
+        "Tarukawa T",
+        "Nishii Y",
+        "Takao M",
+        "Hataji O"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "With proper patient selection excluding collateral ventilation, bronchoscopic lung volume reduction (BLVR) with endobronchial valves (EBVs) offers significant benefits but increases pneumothorax risk. Prioritized management of persistent pneumothorax post-BLVR remains unclear, with both EBV removal and video-assisted thoracic surgery (VATS) considered options. We report a 76-year-old man with severe emphysema who developed persistent pneumothorax and subcutaneous emphysema after left upper lobe BLVR. Following the patient's wishes, VATS was performed instead of EBV removal, resulting in a favorable outcome without delaying BLVR benefits. Depending upon the situation and patient wishes, prioritizing VATS over valve removal may be a reasonable strategy.",
+      "chunk_index": 0,
+      "char_count": 761,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

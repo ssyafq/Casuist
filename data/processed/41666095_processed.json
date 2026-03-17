@@ -1,0 +1,37 @@
+{
+  "pmid": "41666095",
+  "pmc_id": "PMC12906109",
+  "title": "Actinomycotic Cholecystitis and Pancreatitis: Report of an Unusual Case.",
+  "authors": [
+    "Brantis-de-Carvalho CE",
+    "Mohrbacher S",
+    "Souza Framil JV",
+    "Sato VAH",
+    "de Oliveira ES",
+    "Chocair PR"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41666095",
+      "pmc_id": "PMC12906109",
+      "title": "Actinomycotic Cholecystitis and Pancreatitis: Report of an Unusual Case.",
+      "authors": [
+        "Brantis-de-Carvalho CE",
+        "Mohrbacher S",
+        "Souza Framil JV",
+        "Sato VAH",
+        "de Oliveira ES",
+        "Chocair PR"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "BACKGROUND Actinomycosis is an uncommon bacterial infection caused by the commensal organism Actinomyces spp., which can become pathogenic upon tissue injury or disruption of the mucosal barrier. While primarily recognized for its cervicofacial and abdominopelvic presentations, actinomycosis can also involve the gallbladder and potentially the pancreas, posing diagnostic and therapeutic challenges due to its ability to mimic other conditions. CASE REPORT We present the case of a 26-year-old woman with a history of recurrent acute pancreatitis and cholecystitis, followed by the development of thrombotic microangiopathy. An atypical hemolytic-uremic syndrome panel revealed gene mutations previously associated with the onset of this condition. Computed tomography, endoscopic ultrasound, and abdominal ultrasound revealed focal enlargement of secondary ducts in the head of the pancreas. While no gallbladder wall thickening was observed, imaging demonstrated a substantial amount of heterogeneous, predominantly hypoechoic and amorphous content within the gallbladder, suggestive of biliary sludge. The patient subsequently underwent cholecystectomy, and histopathological examination of the gallbladder specimen confirmed the presence of Actinomyces spp., observed as sulfur granules and Gram-stained bacilli, as well as varying degrees of mucosal hyperplasia, transmural fibrosis, xanthomatous histiocytes, and Rokitansky-Aschoff sinuses. CONCLUSIONS Following the procedure and appropriate antimicrobial therapy, the patient experienced resolution of the infection, improvement in overall health status, and no new episodes of pancreatitis during the following year. We propose that underlying CFHR3 and CFI gene mutations and initial systemic inflammation precipitated the thrombotic microangiopathy-atypical hemolytic uremic syndrome, and facilitated Actinomyces colonization of the compromised gallbladder, ultimately leading to chronic gallbladder disease and recurrence.",
+      "chunk_index": 0,
+      "char_count": 1986,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

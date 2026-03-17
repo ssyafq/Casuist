@@ -1,0 +1,35 @@
+{
+  "pmid": "41358795",
+  "pmc_id": null,
+  "title": "Colonic Obstruction in a Dog With Acute Necrotizing Pancreatitis Evaluated With Ultrasonography and Computed Tomography.",
+  "authors": [
+    "Lim S",
+    "Sohn SJ",
+    "Ah J",
+    "Kim E",
+    "Kim S"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41358795",
+      "pmc_id": null,
+      "title": "Colonic Obstruction in a Dog With Acute Necrotizing Pancreatitis Evaluated With Ultrasonography and Computed Tomography.",
+      "authors": [
+        "Lim S",
+        "Sohn SJ",
+        "Ah J",
+        "Kim E",
+        "Kim S"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "A 9-year-old neutered male Miniature Pinscher dog was presented with anorexia and lethargy. Acute pancreatitis was diagnosed based on laboratory and imaging studies. Follow-up ultrasonography revealed peripancreatic and pericolonic lesions, colonic luminal narrowing, and ileus. Computed tomography revealed pancreatic necrosis with an inflammatory mass, colonic wall thickening, luminal narrowing, and proximal intestinal obstruction. Surgery and histopathology confirmed peripancreatic abscesses, inflammation, and fibrosis that led to mechanical obstruction. This is the first report demonstrating colonic obstruction caused by acute necrotizing pancreatitis in veterinary medicine, emphasizing that imaging diagnosis is crucial during or after pancreatitis treatment, even though laboratory tests have normalized.",
+      "chunk_index": 0,
+      "char_count": 817,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

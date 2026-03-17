@@ -1,0 +1,47 @@
+{
+  "pmid": "41472519",
+  "pmc_id": "PMC12911542",
+  "title": "When Delirium Unmasks a Silent Myocardial Infarction.",
+  "authors": [
+    "Casali E",
+    "Guo W",
+    "Cucini E",
+    "Pisani F",
+    "Finazzi A",
+    "Ferrara MC",
+    "Corsi M",
+    "Pinardi E",
+    "Okoye C",
+    "Mazzola P",
+    "Bellelli G"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41472519",
+      "pmc_id": "PMC12911542",
+      "title": "When Delirium Unmasks a Silent Myocardial Infarction.",
+      "authors": [
+        "Casali E",
+        "Guo W",
+        "Cucini E",
+        "Pisani F",
+        "Finazzi A",
+        "Ferrara MC",
+        "Corsi M",
+        "Pinardi E",
+        "Okoye C",
+        "Mazzola P",
+        "Bellelli G"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "hs-TnT: high sensitivity Troponin T; STEMI: ST-elevation myocardial infarction.",
+      "chunk_index": 0,
+      "char_count": 79,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "41624003",
+  "pmc_id": "PMC12852325",
+  "title": "Case Report: Post-transplant lymphoproliferative disorder after kidney transplantation in a child with schimke immuno-osseous dysplasia.",
+  "authors": [
+    "Liu P",
+    "Tian X",
+    "Ding D",
+    "Wang L",
+    "Wang P"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41624003",
+      "pmc_id": "PMC12852325",
+      "title": "Case Report: Post-transplant lymphoproliferative disorder after kidney transplantation in a child with schimke immuno-osseous dysplasia.",
+      "authors": [
+        "Liu P",
+        "Tian X",
+        "Ding D",
+        "Wang L",
+        "Wang P"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "With the inherent T-cell immunodeficiency of Schimke immune-osseous dysplasia (SIOD), the management of immunosuppressive therapy after transplantation and life-threatening infections remains a challenge. Here, we present a case of a child with SIOD who developed early-onset Epstein-Barr virus (EBV)-associated post-transplant lymphoproliferative disorder (PTLD) after kidney transplantation. PTLD frequently involves the gastrointestinal tract and solid allografts, while this case also involved the lungs, which is extremely rare. This case underscores the importance of considering PTLD in recipients with immunodeficiency, long-term immunosuppressive therapy, and EBV seronegativity. It also suggests low-dose immunotherapy and hematopoietic stem-cell transplantation for patients with SIOD.",
+      "chunk_index": 0,
+      "char_count": 796,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

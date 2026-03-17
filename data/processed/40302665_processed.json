@@ -1,0 +1,43 @@
+{
+  "pmid": "40302665",
+  "pmc_id": "PMC12046190",
+  "title": "A case of unexpected thyroid storm in postpartum.",
+  "authors": [
+    "Qin Y",
+    "Wu Y",
+    "Yu L",
+    "Hu D",
+    "Zang H",
+    "Cong X",
+    "Shen Q",
+    "Chen L",
+    "Chen X"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40302665",
+      "pmc_id": "PMC12046190",
+      "title": "A case of unexpected thyroid storm in postpartum.",
+      "authors": [
+        "Qin Y",
+        "Wu Y",
+        "Yu L",
+        "Hu D",
+        "Zang H",
+        "Cong X",
+        "Shen Q",
+        "Chen L",
+        "Chen X"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm is a rare and serious endocrine crisis during the perinatal period and typically occurs in patients with Graves' disease. We present the case of a postpartum woman without prior history of thyroid disease who presented with vomiting, fever, irregular abdominal pain, and a diagnosis of intrauterine death. Despite comprehensive treatment, she showed persistent tachycardia, fever, and multi-organ failure. Diagnostic assessment revealed elevated thyroid hormone levels, and she was diagnosed with thyroid storm based on the scoring system of Burch-Wartofsky and the Japanese Thyroid Association diagnostic criteria. Treatment included plasmapheresis, beta-blockers, iodine solutions, antithyroid drugs, and corticosteroids. Following successful mitigation of thyroid storm, she developed hypothyroidism and was treated with levothyroxine. For patients with no history of thyroid disease or negative thyroid autoantibodies, especially postpartum women, presenting unexplained symptoms such as tachycardia, fever, diarrhea, sweating, and altered consciousness, the possibility of thyroid storm should be considered.",
+      "chunk_index": 0,
+      "char_count": 1127,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41206511",
+  "pmc_id": "PMC12684003",
+  "title": "Atypical Presentation of Seronegative Autoimmune Encephalitis as Refractory Status Epilepticus: A Case Report.",
+  "authors": [
+    "Alalawi B",
+    "Beitar F",
+    "Alalawi S",
+    "Alhariri H"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41206511",
+      "pmc_id": "PMC12684003",
+      "title": "Atypical Presentation of Seronegative Autoimmune Encephalitis as Refractory Status Epilepticus: A Case Report.",
+      "authors": [
+        "Alalawi B",
+        "Beitar F",
+        "Alalawi S",
+        "Alhariri H"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "BACKGROUND Autoimmune encephalitis (AIE) is considered one of the challenging neurological diseases marked by various neuropsychiatric symptoms. These symptoms can manifest as cognitive deficits, seizures, and status epilepticus. Diagnosis can often be complex due to the diverse clinical presentation and the absence of detectable neuronal autoantibodies. CASE REPORT We report the case a 27-year-old man who presented with generalized tonic-clonic seizures, headache, and fever, initially treated as infectious meningoencephalitis. He was given extensive antiviral and antibiotic treatment, but his condition did not improve and he developed refractory status epilepticus. Further investigations using cerebrospinal fluid analysis revealed no infectious cause. This raised a clinical suspicion of AIE, which yielded the use of the \"possible AIE criteria.\" An initial brain magnetic resonance imaging (MRI) scan revealed asymmetrical bilateral cortical areas of abnormal hyperintensities on T2-weighted images with diffusion restriction involving the temporal, frontal, and parietal lobe. Due to the high suspicion of AIE, corticosteroids and plasmapheresis were initiated, leading to marked clinical improvement and significant seizure control with the resolution of fever. A follow-up MRI 4 weeks later showed a significant decrease in the hyperintensities previously depicted on FLAIR, T2-weighted images, and DWI. CONCLUSIONS The diagnosis of seronegative AIE can be challenging because detectable neuronal autoantibodies can be absent. This emphasizes that early suspicion of AIE and the initiation of empirical immunotherapy are crucial for improving patient outcomes, reducing mortality and long-term complications, even with negative or pending autoantibody testing. Further research is needed to improve diagnostic and therapeutic approaches, particularly in regions where antibody testing is limited.",
+      "chunk_index": 0,
+      "char_count": 1911,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

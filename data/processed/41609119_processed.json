@@ -1,0 +1,39 @@
+{
+  "pmid": "41609119",
+  "pmc_id": null,
+  "title": "Takotsubo Cardiomyopathy due to Guillain-Barre Syndrome and Thyroid Storm: A Case Report.",
+  "authors": [
+    "Carlos LJ",
+    "Gabriela MM",
+    "Raul MR",
+    "Aminta PL",
+    "Antonio VCC",
+    "Victoria MA",
+    "Steven VE"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "41609119",
+      "pmc_id": null,
+      "title": "Takotsubo Cardiomyopathy due to Guillain-Barre Syndrome and Thyroid Storm: A Case Report.",
+      "authors": [
+        "Carlos LJ",
+        "Gabriela MM",
+        "Raul MR",
+        "Aminta PL",
+        "Antonio VCC",
+        "Victoria MA",
+        "Steven VE"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Takotsubo cardiomyopathy (TCM), also known as stress cardiomyopathy, affects 0.02% of hospitalized patients and is primarily triggered by emotional stressors, although unusual medical situations have also been documented. We report the case of a 36-year-old female patient who presented with symptoms of infection (oropharyngeal pain and diarrhea) 10 days before admission. Upon arrival at the emergency department, she exhibited progressive weakness, lower cranial nerve involvement, and areflexia, necessitating invasive mechanical ventilation support. Diagnostic evaluation revealed sinus tachycardia and atrial fibrillation, leading to a diagnosis of Guillain-Barre syndrome (GBS) with associated cardiovascular dysautonomia. Echocardiography demonstrated apical hypokinesia of the left ventricle, consistent with TCM. Furthermore, her thyroid profile indicated hyperthyroidism, fulfilling the criteria for a thyroid storm. Treatment comprised intravenous human immunoglobulin, methimazole, and propranolol. We present the first documented case of TCM attributed to dysautonomia resulting from GBS and thyroid storm.",
+      "chunk_index": 0,
+      "char_count": 1120,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

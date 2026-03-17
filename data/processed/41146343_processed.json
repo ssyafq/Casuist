@@ -1,0 +1,87 @@
+{
+  "pmid": "41146343",
+  "pmc_id": "PMC12557843",
+  "title": "Fosphenytoin may be effective in shortening the half-life of lamotrigine in case of overdose: a case report.",
+  "authors": [
+    "Sato J",
+    "Ihara S",
+    "Kuwana T",
+    "Sekimoto M",
+    "Suzuki Y",
+    "Nakagawa K",
+    "Chiba N",
+    "Saito T",
+    "Kinoshita K"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41146343",
+      "pmc_id": "PMC12557843",
+      "title": "Fosphenytoin may be effective in shortening the half-life of lamotrigine in case of overdose: a case report.",
+      "authors": [
+        "Sato J",
+        "Ihara S",
+        "Kuwana T",
+        "Sekimoto M",
+        "Suzuki Y",
+        "Nakagawa K",
+        "Chiba N",
+        "Saito T",
+        "Kinoshita K"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "This case study highlights the efficacy of fosphenytoin in managing cardiac arrest and seizures caused by lamotrigine overdose. While activated charcoal and sodium bicarbonate are typically recommended for lamotrigine overdose, alternative treatment options are scarce if these measures prove ineffective. The half-life of lamotrigine at normal therapeutic doses has been reported to be shortened by the concomitant use of drugs that promote glucuronidation. However, there are currently no reports on the use of these drugs in cases of lamotrigine overdose. It was hypothesized that fosphenytoin, in addition to its anticonvulsant effects, promotes the glucuronidation of lamotrigine and may be effective in patients experiencing lamotrigine overdose.",
+      "chunk_index": 0,
+      "char_count": 752,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41146343",
+      "pmc_id": "PMC12557843",
+      "title": "Fosphenytoin may be effective in shortening the half-life of lamotrigine in case of overdose: a case report.",
+      "authors": [
+        "Sato J",
+        "Ihara S",
+        "Kuwana T",
+        "Sekimoto M",
+        "Suzuki Y",
+        "Nakagawa K",
+        "Chiba N",
+        "Saito T",
+        "Kinoshita K"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "the concomitant use of drugs that promote glucuronidation. However, there are currently no reports on the use of these drugs in cases of lamotrigine overdose. It was hypothesized that fosphenytoin, in addition to its anticonvulsant effects, promotes the glucuronidation of lamotrigine and may be effective in patients experiencing lamotrigine overdose.\n\nA 26 year-old Japanese woman was admitted to the hospital with seizures after taking 2000 mg of lamotrigine. After arrival, she experienced cardiac arrest. The patient was diagnosed with fatal arrhythmia and seizures due to lamotrigine overdose. Chest compressions were initiated, and return of spontaneous circulation was achieved. Subsequently, the patient underwent tracheal intubation. Sodium bicarbonate and activated carbon were administered. Following admission, the patient experienced repeated seizures. Despite the administration of midazolam, the seizures persisted. Temporary cessation of seizures was achieved with the therapeutic dose of fosphenytoin. Subsequent seizures were effectively controlled with levetiracetam, fat emulsion, and thiopental. Ultimately, the patient regained consciousness and was discharged from the hospital. Her lamotrigine blood concentration upon admission was 48.68 mug/mL. The rate of decrease in blood concentration accelerated 15 hours after admission, reaching 6.79 mu/mL on the third day. The half-life of lamotrigine in the blood was 17.51 hours, indicating a shorter duration than what is considered normal. In addition to its anticonvulsant effect as an antiepileptic drug, fosphenytoin may have promoted the glucuronidation of lamotrigine and was effective in decreasing the blood concentrations of lamotrigine.",
+      "chunk_index": 1,
+      "char_count": 1718,
+      "subspecialty": "seizure"
+    },
+    {
+      "pmid": "41146343",
+      "pmc_id": "PMC12557843",
+      "title": "Fosphenytoin may be effective in shortening the half-life of lamotrigine in case of overdose: a case report.",
+      "authors": [
+        "Sato J",
+        "Ihara S",
+        "Kuwana T",
+        "Sekimoto M",
+        "Suzuki Y",
+        "Nakagawa K",
+        "Chiba N",
+        "Saito T",
+        "Kinoshita K"
+      ],
+      "specialty": "seizure",
+      "section_type": "diagnosis",
+      "text": "the third day. The half-life of lamotrigine in the blood was 17.51 hours, indicating a shorter duration than what is considered normal. In addition to its anticonvulsant effect as an antiepileptic drug, fosphenytoin may have promoted the glucuronidation of lamotrigine and was effective in decreasing the blood concentrations of lamotrigine.\n\nFosphenytoin administration may be effective for treating lamotrigine overdose.",
+      "chunk_index": 2,
+      "char_count": 422,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

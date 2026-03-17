@@ -1,0 +1,33 @@
+{
+  "pmid": "41502194",
+  "pmc_id": null,
+  "title": "The Role of Mesenchymal Stem Cells for Hemorrhagic Stroke Management.",
+  "authors": [
+    "Kurniawan M",
+    "Kamelia T",
+    "Ramli Y",
+    "Yunus RE"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41502194",
+      "pmc_id": null,
+      "title": "The Role of Mesenchymal Stem Cells for Hemorrhagic Stroke Management.",
+      "authors": [
+        "Kurniawan M",
+        "Kamelia T",
+        "Ramli Y",
+        "Yunus RE"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Stroke is ranked as the second-leading cause of death worldwide. As a result, the long-term sequelae of motor and cognitive abnormalities, such as hemiparesis, paralysis, psychomotor, chronic pain, and behavioral symptoms, can delay the patient's full recovery and function in society. In this context, stem cell-based treatment for stroke has been proven effective due to the potential to provide neurorestorative benefits. This study presented a case of a 50-year-old patient admitted to Cipto Mangunkusumo National General Hospital, Jakarta, in 2022 with intracerebral hemorrhage in the left thalamus, surrounding perifocal edema, and left lateral intraventricular hemorrhage. The patient was given mesenchymal stem cells (MSCs) treatment three times through Digital Subtraction Angiography (DSA). The patient achieved good outcomes in terms of body mobility, balance, and voluntary movement of the upper and lower right limbs.",
+      "chunk_index": 0,
+      "char_count": 930,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

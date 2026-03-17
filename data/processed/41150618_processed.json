@@ -1,0 +1,67 @@
+{
+  "pmid": "41150618",
+  "pmc_id": null,
+  "title": "Emerging Pathogenicity of Purpureocillium lilacinum: A Rare Case of Cavitary Lung Disease.",
+  "authors": [
+    "Surana A",
+    "Bhattacharya R",
+    "Banga A",
+    "Tasch J"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41150618",
+      "pmc_id": null,
+      "title": "Emerging Pathogenicity of Purpureocillium lilacinum: A Rare Case of Cavitary Lung Disease.",
+      "authors": [
+        "Surana A",
+        "Bhattacharya R",
+        "Banga A",
+        "Tasch J"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Purpureocillium lilacinum is an emerging opportunistic pathogen that can cause a variety of infections, including pulmonary disease, particularly in immunocompromised individuals. Its rare pulmonary involvement presents significant diagnostic challenges due to nonspecific symptoms and imaging findings.",
+      "chunk_index": 0,
+      "char_count": 303,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41150618",
+      "pmc_id": null,
+      "title": "Emerging Pathogenicity of Purpureocillium lilacinum: A Rare Case of Cavitary Lung Disease.",
+      "authors": [
+        "Surana A",
+        "Bhattacharya R",
+        "Banga A",
+        "Tasch J"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Purpureocillium lilacinum is an emerging opportunistic pathogen that can cause a variety of infections, including pulmonary disease, particularly in immunocompromised individuals. Its rare pulmonary involvement presents significant diagnostic challenges due to nonspecific symptoms and imaging findings.\n\nWe present the case of a 60-year-old male with a history of severe chronic obstructive pulmonary disease (COPD), diabetes mellitus, and smoking, who presented with chronic cough and weight loss. Imaging revealed a cavitary lesion in the left lung apex. Despite initial antibiotic treatment, his symptoms persisted, prompting further investigation. Bronchoscopy and bronchoalveolar lavage (BAL) led to the identification of Purpureocillium lilacinum infection. The patient was treated with oral voriconazole 200 mg twice daily for four weeks, with notable clinical and radiographic improvement.",
+      "chunk_index": 1,
+      "char_count": 898,
+      "subspecialty": "COPD"
+    },
+    {
+      "pmid": "41150618",
+      "pmc_id": null,
+      "title": "Emerging Pathogenicity of Purpureocillium lilacinum: A Rare Case of Cavitary Lung Disease.",
+      "authors": [
+        "Surana A",
+        "Bhattacharya R",
+        "Banga A",
+        "Tasch J"
+      ],
+      "specialty": "COPD",
+      "section_type": "diagnosis",
+      "text": "cavitary lesion in the left lung apex. Despite initial antibiotic treatment, his symptoms persisted, prompting further investigation. Bronchoscopy and bronchoalveolar lavage (BAL) led to the identification of Purpureocillium lilacinum infection. The patient was treated with oral voriconazole 200 mg twice daily for four weeks, with notable clinical and radiographic improvement.\n\nPurpureocillium lilacinum should be considered as a potential cause of cavitary lung disease in patients with persistent respiratory symptoms, particularly those with predisposing factors. Early diagnosis and antifungal therapy, such as voriconazole, are crucial for effective treatment and improved outcomes.",
+      "chunk_index": 2,
+      "char_count": 690,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

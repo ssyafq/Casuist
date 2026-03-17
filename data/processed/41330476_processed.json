@@ -1,0 +1,89 @@
+{
+  "pmid": "41330476",
+  "pmc_id": null,
+  "title": "Meningitis caused by Fusobacterium nucleatum complicated with cavernous sinus thrombosis: A case report.",
+  "authors": [
+    "Ariza-Varon M",
+    "Jaramillo-Arrazola MJ",
+    "Riveros L",
+    "Palacio JM",
+    "Oviedo L"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41330476",
+      "pmc_id": null,
+      "title": "Meningitis caused by Fusobacterium nucleatum complicated with cavernous sinus thrombosis: A case report.",
+      "authors": [
+        "Ariza-Varon M",
+        "Jaramillo-Arrazola MJ",
+        "Riveros L",
+        "Palacio JM",
+        "Oviedo L"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Bacterial meningitis caused by anaerobes, particularly Fusobacterium, is highly unusual. Fusobacterium necrophorum is the most significant pathogen; however, information regarding F. nucleatum meningitis is extremely scarce. We present a case confirmed by culture, complicated by cavernous sinus thrombosis.",
+      "chunk_index": 0,
+      "char_count": 307,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41330476",
+      "pmc_id": null,
+      "title": "Meningitis caused by Fusobacterium nucleatum complicated with cavernous sinus thrombosis: A case report.",
+      "authors": [
+        "Ariza-Varon M",
+        "Jaramillo-Arrazola MJ",
+        "Riveros L",
+        "Palacio JM",
+        "Oviedo L"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Bacterial meningitis caused by anaerobes, particularly Fusobacterium, is highly unusual. Fusobacterium necrophorum is the most significant pathogen; however, information regarding F. nucleatum meningitis is extremely scarce. We present a case confirmed by culture, complicated by cavernous sinus thrombosis.\n\nA 32-year-old man with a history of recent molar extraction, frequent alcohol intake, and cigarette smoking was enrolled in this study. The patient presented with pain in the left maxillary region, fever spikes, photophobia, and horizontal diplopia. Examination revealed left sixth cranial nerve palsy and positive jolt accentuation. Laboratory tests revealed a systemic inflammatory response, and lumbar puncture confirmed neutrophilic meningitis with Fusobacterium nucleatum isolation. Magnetic resonance imaging revealed left cavernous sinus thrombosis requiring anticoagulation. The patient was treated with ceftriaxone + metronidazole, and a follow-up lumbar puncture on day 14 showed biochemical improvement. A 28-day treatment was completed with full recovery.",
+      "chunk_index": 1,
+      "char_count": 1076,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41330476",
+      "pmc_id": null,
+      "title": "Meningitis caused by Fusobacterium nucleatum complicated with cavernous sinus thrombosis: A case report.",
+      "authors": [
+        "Ariza-Varon M",
+        "Jaramillo-Arrazola MJ",
+        "Riveros L",
+        "Palacio JM",
+        "Oviedo L"
+      ],
+      "specialty": "meningitis",
+      "section_type": "discussion",
+      "text": "systemic inflammatory response, and lumbar puncture confirmed neutrophilic meningitis with Fusobacterium nucleatum isolation. Magnetic resonance imaging revealed left cavernous sinus thrombosis requiring anticoagulation. The patient was treated with ceftriaxone + metronidazole, and a follow-up lumbar puncture on day 14 showed biochemical improvement. A 28-day treatment was completed with full recovery.\n\nMeningitis is associated with high morbidity and mortality. Anaerobic bacteria account for only 2.4% of cases, usually in immunocompromised or chronically ill patients. Central nervous system infections due to F. nucleatum are rare, usually causing oral dissemination of abscesses. Cerebral venous thrombosis has been described as a complication but remains anecdotal. Metronidazole is the most widely accepted treatment, but evidence on its use as an anticoagulant is still debated.",
+      "chunk_index": 2,
+      "char_count": 890,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41330476",
+      "pmc_id": null,
+      "title": "Meningitis caused by Fusobacterium nucleatum complicated with cavernous sinus thrombosis: A case report.",
+      "authors": [
+        "Ariza-Varon M",
+        "Jaramillo-Arrazola MJ",
+        "Riveros L",
+        "Palacio JM",
+        "Oviedo L"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "or chronically ill patients. Central nervous system infections due to F. nucleatum are rare, usually causing oral dissemination of abscesses. Cerebral venous thrombosis has been described as a complication but remains anecdotal. Metronidazole is the most widely accepted treatment, but evidence on its use as an anticoagulant is still debated.\n\nF. nucleatum meningitis may cause cavernous sinus thrombosis in immunocompetent patients. Treatment with metronidazole and anticoagulation can be effective. Few similar cases have been reported.",
+      "chunk_index": 3,
+      "char_count": 539,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "41081410",
+  "pmc_id": null,
+  "title": "Hematemesis Leading to Diagnosis of Pulmonary Aspergillosis.",
+  "authors": [
+    "Al-Mubasher MM",
+    "Merghani TH",
+    "El Beshbeishy R",
+    "Alawad AO"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41081410",
+      "pmc_id": null,
+      "title": "Hematemesis Leading to Diagnosis of Pulmonary Aspergillosis.",
+      "authors": [
+        "Al-Mubasher MM",
+        "Merghani TH",
+        "El Beshbeishy R",
+        "Alawad AO"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "A 29-year-old previously healthy man with a month-long dry cough presented with hematemesis after mild chest trauma. Endoscopy showed a blood-filled stomach, but bleeding originated from the trachea. Bronchoscopy revealed an aspergilloma in the left upper lung lobe, confirmed histologically and by fungal culture. Imaging showed an apical cavity with pleural thickening. The patient had no history of tuberculosis, diabetes, or immunosuppression, and tested negative for human immunodeficiency virus. Hemorrhage resolved with conservative measures, and a 3-month course of voriconazole led to successful recovery without recurrence at 6 months. This case highlights hematemesis as a rare presentation of pulmonary aspergillosis, emphasizing the need to consider it in differential diagnoses of unexplained hematemesis, especially after trauma. Early bronchoscopy, histology, and imaging are key to diagnosis, enabling timely antifungal treatment and favorable outcomes.",
+      "chunk_index": 0,
+      "char_count": 970,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

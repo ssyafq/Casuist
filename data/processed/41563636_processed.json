@@ -1,0 +1,49 @@
+{
+  "pmid": "41563636",
+  "pmc_id": "PMC12824047",
+  "title": "Tubulointerstitial nephritis with uveitis (TINU) syndrome following COVID-19 vaccination in an elderly patient: a case report.",
+  "authors": [
+    "Takahashi S",
+    "Nagao N",
+    "Yoshida K",
+    "Hayashi R",
+    "Hayashi S",
+    "Takei Y",
+    "Furukata S",
+    "Arai M",
+    "Takara K",
+    "Takahashi K",
+    "Henmi N",
+    "Maeshima A"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41563636",
+      "pmc_id": "PMC12824047",
+      "title": "Tubulointerstitial nephritis with uveitis (TINU) syndrome following COVID-19 vaccination in an elderly patient: a case report.",
+      "authors": [
+        "Takahashi S",
+        "Nagao N",
+        "Yoshida K",
+        "Hayashi R",
+        "Hayashi S",
+        "Takei Y",
+        "Furukata S",
+        "Arai M",
+        "Takara K",
+        "Takahashi K",
+        "Henmi N",
+        "Maeshima A"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "A case of tubulointerstitial nephritis and uveitis (TINU) syndrome in a 70-year-old man following administration of the third dose of the mRNA-1273 coronavirus disease 2019 (COVID-19) vaccine is reported. The patient, who had a history of dyslipidemia, developed anorexia two weeks after vaccination. Laboratory evaluation showed marked elevation of serum creatinine from 0.9 to 2.76 mg/dL, accompanied by proteinuria and elevated tubular injury markers. Renal biopsy confirmed tubulointerstitial nephritis. Shortly thereafter, he developed bilateral ocular pain, and bilateral uveitis was diagnosed on ophthalmological examination. The combination of renal and ocular findings led to the diagnosis of TINU syndrome. Due to progressive renal impairment, the patient received intravenous methylprednisolone pulse therapy (500 mg daily for three days), followed by oral prednisolone (40 mg daily), which was gradually tapered. Both renal function and ocular symptoms improved steadily. This case underscores a rare but important potential adverse event following COVID-19 vaccination, highlighting the need for awareness of immune-mediated complications such as TINU syndrome in the post-vaccination setting.",
+      "chunk_index": 0,
+      "char_count": 1206,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

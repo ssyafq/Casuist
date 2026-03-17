@@ -1,0 +1,75 @@
+{
+  "pmid": "41044786",
+  "pmc_id": "PMC12495659",
+  "title": "An ADR pharmaceutical care for severe gastrointestinal bleeding of rivaroxaban in a patient with nonvalvular atrial fibrillation based on TDM and genetic testing: a case report.",
+  "authors": [
+    "Huang Y",
+    "Gao H",
+    "Chen M",
+    "Lin Y",
+    "Liu H",
+    "Chen M"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41044786",
+      "pmc_id": "PMC12495659",
+      "title": "An ADR pharmaceutical care for severe gastrointestinal bleeding of rivaroxaban in a patient with nonvalvular atrial fibrillation based on TDM and genetic testing: a case report.",
+      "authors": [
+        "Huang Y",
+        "Gao H",
+        "Chen M",
+        "Lin Y",
+        "Liu H",
+        "Chen M"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Due to its predictable pharmacodynamics and pharmacokinetics, stable blood concentration, and relatively short half-life, rivaroxaban is widely used in the prevention and treatment of thrombosis. It nevertheless exhibits a certain level of inter-individual variability, and its safety concerns, including bleeding, are also becoming more noteworthy.",
+      "chunk_index": 0,
+      "char_count": 349,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41044786",
+      "pmc_id": "PMC12495659",
+      "title": "An ADR pharmaceutical care for severe gastrointestinal bleeding of rivaroxaban in a patient with nonvalvular atrial fibrillation based on TDM and genetic testing: a case report.",
+      "authors": [
+        "Huang Y",
+        "Gao H",
+        "Chen M",
+        "Lin Y",
+        "Liu H",
+        "Chen M"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Due to its predictable pharmacodynamics and pharmacokinetics, stable blood concentration, and relatively short half-life, rivaroxaban is widely used in the prevention and treatment of thrombosis. It nevertheless exhibits a certain level of inter-individual variability, and its safety concerns, including bleeding, are also becoming more noteworthy.\n\nThis paper describes an elderly patient with nonvalvular atrial fibrillation that was complicated with coronary heart disease, who is a homozygous mutation carrier of the ABCB1 allele (rs1045642 C > T, rs1128503 C > T, rs2032582 G > T). He was developed severe gastrointestinal bleeding during administration of oral rivaroxaban combined with aspirin. We investigated the possible causes of the bleeding, and any potential correlation with the ABCB1 gene polymorphism, combined with antiplatelet drugs and anemia.",
+      "chunk_index": 1,
+      "char_count": 864,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41044786",
+      "pmc_id": "PMC12495659",
+      "title": "An ADR pharmaceutical care for severe gastrointestinal bleeding of rivaroxaban in a patient with nonvalvular atrial fibrillation based on TDM and genetic testing: a case report.",
+      "authors": [
+        "Huang Y",
+        "Gao H",
+        "Chen M",
+        "Lin Y",
+        "Liu H",
+        "Chen M"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "allele (rs1045642 C > T, rs1128503 C > T, rs2032582 G > T). He was developed severe gastrointestinal bleeding during administration of oral rivaroxaban combined with aspirin. We investigated the possible causes of the bleeding, and any potential correlation with the ABCB1 gene polymorphism, combined with antiplatelet drugs and anemia.\n\nIn the treatment of patients with atrial fibrillation, doctors should pay close attention to drug interactions with antiplatelet agents in high-risk groups and closely monitor various examination indexes, including hemoglobin. In this case, bleeding might be potentially influenced by homozygous mutations in ABCB1, but more clinical data are needed to clarify the association between ABCB1 polymorphism and rivaroxaban pharmacokinetics and bleeding.",
+      "chunk_index": 2,
+      "char_count": 788,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

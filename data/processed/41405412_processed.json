@@ -1,0 +1,31 @@
+{
+  "pmid": "41405412",
+  "pmc_id": "PMC12710420",
+  "title": "Analysis of Diagnostic Clues in a Rare Case of Ventricular Preexcitation Masking Occlusive Myocardial Infarction of the Left Anterior Descending Artery.",
+  "authors": [
+    "Ni H",
+    "Zhang X",
+    "Gao Z"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41405412",
+      "pmc_id": "PMC12710420",
+      "title": "Analysis of Diagnostic Clues in a Rare Case of Ventricular Preexcitation Masking Occlusive Myocardial Infarction of the Left Anterior Descending Artery.",
+      "authors": [
+        "Ni H",
+        "Zhang X",
+        "Gao Z"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Acute occlusive myocardial infarction (OMI) complicated by ventricular pre-excitation can present diagnostic challenges. This case describes a 78-year-old male with an 11-h history of chest tightness. A reduction was observed in the extent of localized ventricular pre-excitation, accompanied by secondary ST-T segment abnormalities in leads V1-V3. Emergency coronary angiography revealed occlusion of the left anterior descending artery. This case highlights that a decrease in the extent of local ventricular pre-excitation in R-wave-dominant leads, combined with inference of the accessory pathway location and its potential correlation with the occluded vessel, may facilitate early identification of OMI.",
+      "chunk_index": 0,
+      "char_count": 709,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

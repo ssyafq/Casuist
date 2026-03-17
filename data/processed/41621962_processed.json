@@ -1,0 +1,41 @@
+{
+  "pmid": "41621962",
+  "pmc_id": null,
+  "title": "[Plasma-derived human protein C replacement concentrate therapy in a patient with severe congenital protein C deficiency presenting with purpura fulminans and disseminated intravascular coagulation].",
+  "authors": [
+    "Nakamura A",
+    "Matsumoto T",
+    "Yamada E",
+    "Shiotani T",
+    "Nato Y",
+    "Ino K",
+    "Sugimoto Y",
+    "Tawara I"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41621962",
+      "pmc_id": null,
+      "title": "[Plasma-derived human protein C replacement concentrate therapy in a patient with severe congenital protein C deficiency presenting with purpura fulminans and disseminated intravascular coagulation].",
+      "authors": [
+        "Nakamura A",
+        "Matsumoto T",
+        "Yamada E",
+        "Shiotani T",
+        "Nato Y",
+        "Ino K",
+        "Sugimoto Y",
+        "Tawara I"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Congenital protein C (PC) deficiency is a major thrombotic risk factor in the Japanese population that often leads to severe thrombosis and bleeding in the neonatal period. Treatment typically involves anticoagulation such as warfarin and heparin, with PC concentrates used in acute cases. Here we report the case of a 25-year-old woman diagnosed with severe congenital PC deficiency. She had recurrent episodes of purpura fulminans despite warfarin therapy. After a COVID-19 infection, she developed coagulopathy with poorly controlled thrombotic and bleeding complications, followed by DIC. Replacement therapy with protein C concentrate led to rapid improvement in DIC, thrombosis, and bleeding. The patient will continue warfarin, and regular replacement therapy with protein C concentrate is also planned. This case highlights the potential benefits of new treatment options for severe PC deficiency and underscores the importance of early and appropriate intervention in managing this rare but potentially life-threatening condition.",
+      "chunk_index": 0,
+      "char_count": 1039,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

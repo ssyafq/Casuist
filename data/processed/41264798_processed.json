@@ -1,0 +1,33 @@
+{
+  "pmid": "41264798",
+  "pmc_id": null,
+  "title": "Aortic Root Dissection Masquerading as Acute Coronary Syndrome: The Critical Role of Intravascular Ultrasound.",
+  "authors": [
+    "Ji B",
+    "Lai Y",
+    "Liu XB",
+    "Xie Y"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "41264798",
+      "pmc_id": null,
+      "title": "Aortic Root Dissection Masquerading as Acute Coronary Syndrome: The Critical Role of Intravascular Ultrasound.",
+      "authors": [
+        "Ji B",
+        "Lai Y",
+        "Liu XB",
+        "Xie Y"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "The diagnosis of acute aortic dissection (AAD) is challenging, particularly when it presents with features of acute myocardial infarction (AMI). We report the case of an 81-year-old male with multiple risk factors (refractory hypertension, low BMI, smoking history) who presented with persistent substernal crushing pain and elevated cardiac biomarkers, leading to an initial diagnosis of acute coronary syndrome (ACS). Coronary angiography revealed no obstructive disease but a hazy appearance in the left anterior descending artery. Subsequent intravascular ultrasound (IVUS) interrogation of the left main ostium identified a fibrous plaque with a widened hypoechoic space extending toward the aorta, highly suspicious for aortic dissection involvement. This was definitively confirmed by aortic computed tomography angiography (CTA), which visualized the dissection flap. Notably, the patient's d-dimer level was within normal limits, contravening typical expectations. This case underscores the critical role of IVUS in the diagnostic armamentarium for AAD mimicking AMI, especially when classic features are absent or other imaging modalities are equivocal or unavailable. It highlights the necessity of maintaining a high index of suspicion for this life-threatening condition to avoid inappropriate antithrombotic therapy and guide appropriate management.",
+      "chunk_index": 0,
+      "char_count": 1363,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

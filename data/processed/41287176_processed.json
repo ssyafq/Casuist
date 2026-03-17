@@ -1,0 +1,41 @@
+{
+  "pmid": "41287176",
+  "pmc_id": null,
+  "title": "[Diaphragmatic relaxation masquerading as COPD].",
+  "authors": [
+    "Bazarov DV",
+    "Kazaryan GA",
+    "Grigorchuk AY",
+    "Nikoda VV",
+    "Zaitsev AY",
+    "Kavochkin AA",
+    "Boranov EV",
+    "Povolotskaya OB"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41287176",
+      "pmc_id": null,
+      "title": "[Diaphragmatic relaxation masquerading as COPD].",
+      "authors": [
+        "Bazarov DV",
+        "Kazaryan GA",
+        "Grigorchuk AY",
+        "Nikoda VV",
+        "Zaitsev AY",
+        "Kavochkin AA",
+        "Boranov EV",
+        "Povolotskaya OB"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "Diaphragmatic palsy is a rare condition that often mimics the clinical presentation of chronic obstructive pulmonary disease (COPD). Misdiagnosis leads to prolonged and ineffective use of bronchodilator therapy and oxygen support, which do not influence disease outcomes. This paper presents a clinical case of a patient with post-traumatic relaxation of the left hemidiaphragm who had been treated according to COPD management standards without clinical improvement. Key diagnostic methods, including ultrasound assessment of diaphragmatic thickness and mobility, computed tomography, and spirometry, are discussed, emphasizing the necessity of incorporating these techniques into the routine diagnostic algorithm for patients with chronic dyspnea. Literature data on the prevalence of diaphragmatic dysfunction and the effectiveness of surgical correction compared to conservative therapy are presented.",
+      "chunk_index": 0,
+      "char_count": 905,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

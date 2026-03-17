@@ -1,0 +1,79 @@
+{
+  "pmid": "41438754",
+  "pmc_id": "PMC12719444",
+  "title": "Successful ECMO support for cardiogenic shock induced by immune checkpoint inhibitor-associated myocarditis: a case report and literature review.",
+  "authors": [
+    "Zhang Y",
+    "Li R",
+    "Jiang Y",
+    "Sun S",
+    "Yuan Y",
+    "Shang Y",
+    "Shu H"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41438754",
+      "pmc_id": "PMC12719444",
+      "title": "Successful ECMO support for cardiogenic shock induced by immune checkpoint inhibitor-associated myocarditis: a case report and literature review.",
+      "authors": [
+        "Zhang Y",
+        "Li R",
+        "Jiang Y",
+        "Sun S",
+        "Yuan Y",
+        "Shang Y",
+        "Shu H"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "We present a case of fulminant ICI-associated myocarditis with cardiogenic shock successfully managed with ECMO. Additionally, we review and summarize data from 13 ECMO-assisted patients with ICI-associated myocarditis to provide insights into the clinical characteristics, management strategies, and outcomes. MAIN",
+      "chunk_index": 0,
+      "char_count": 315,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41438754",
+      "pmc_id": "PMC12719444",
+      "title": "Successful ECMO support for cardiogenic shock induced by immune checkpoint inhibitor-associated myocarditis: a case report and literature review.",
+      "authors": [
+        "Zhang Y",
+        "Li R",
+        "Jiang Y",
+        "Sun S",
+        "Yuan Y",
+        "Shang Y",
+        "Shu H"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "labs",
+      "text": "We present a case of fulminant ICI-associated myocarditis with cardiogenic shock successfully managed with ECMO. Additionally, we review and summarize data from 13 ECMO-assisted patients with ICI-associated myocarditis to provide insights into the clinical characteristics, management strategies, and outcomes. MAIN\n\nAmong the 13 patients (with a mean age 59.08 years), monotherapy using nivolumab or pembrolizumab represented the predominant ICI treatment regimen. The median treatment cycle was 3.0 (IQR: 2.0 ~ 7.0), and the median duration from first administration to myocarditis onset was 77.0 (IQR: 20.5 ~ 250.0) days. The median duration of myocarditis symptoms was 19.0 (IQR: 15.5 ~ 42.5) days. Common presenting symptoms included fever and dyspnea, while most patients exhibited elevated myocardial enzymes and BNP levels, arrhythmias, and an average left ventricular ejection fraction (LVEF) of 38.31% at admission. Myocardial biopsy was the primary diagnostic method. In addition to immunosuppressive therapy, most patients also required intra-aortic balloon pump (IABP) support. The median duration of ECMO and IABP support was 9.0 (IQR: 6.5 ~ 15.5) days and 11.5 (IQR: 7.5 ~ 13.0) days, respectively. Ultimately, nine of the thirteen patients (69.23%) survived.",
+      "chunk_index": 1,
+      "char_count": 1274,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41438754",
+      "pmc_id": "PMC12719444",
+      "title": "Successful ECMO support for cardiogenic shock induced by immune checkpoint inhibitor-associated myocarditis: a case report and literature review.",
+      "authors": [
+        "Zhang Y",
+        "Li R",
+        "Jiang Y",
+        "Sun S",
+        "Yuan Y",
+        "Shang Y",
+        "Shu H"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "was the primary diagnostic method. In addition to immunosuppressive therapy, most patients also required intra-aortic balloon pump (IABP) support. The median duration of ECMO and IABP support was 9.0 (IQR: 6.5 ~ 15.5) days and 11.5 (IQR: 7.5 ~ 13.0) days, respectively. Ultimately, nine of the thirteen patients (69.23%) survived.\n\nOur analysis demonstrates ECMO's potential as a bridge-to-recovery strategy for severe ICI-associated myocarditis with cardiogenic shock. The observed survival rate of 69.23% supports its judicious use in conjunction with prompt immunosuppression. Prospective studies are warranted to optimize ECMO initiation criteria, duration, and combination strategies with other circulatory support modalities.",
+      "chunk_index": 2,
+      "char_count": 731,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

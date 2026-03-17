@@ -1,0 +1,33 @@
+{
+  "pmid": "41529898",
+  "pmc_id": null,
+  "title": "Methaemoglobinaemia as a rare complication of Mycoplasma pneumoniae pneumonia.",
+  "authors": [
+    "Nanayakkara KA",
+    "Subasinghe SASP",
+    "Weerasinghe WMIN",
+    "Amanda H"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41529898",
+      "pmc_id": null,
+      "title": "Methaemoglobinaemia as a rare complication of Mycoplasma pneumoniae pneumonia.",
+      "authors": [
+        "Nanayakkara KA",
+        "Subasinghe SASP",
+        "Weerasinghe WMIN",
+        "Amanda H"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "A previously healthy female was admitted following inpatient antibiotic treatment for a lower respiratory tract infection. Since admission, her pulse oximetry revealed low oxygen saturation despite oxygen supplementation. The oxygen pressure in arterial blood remained normal with a wide gap between peripheral oxygen saturation and arterial oxygen saturation values. Suspicion of methaemoglobinaemia was raised. Methaemoglobinaemia reduction test (Brewer's test) became positive and was confirmed with a blood methaemoglobin assay value of 18.19%. High-performance liquid chromatography excluded the presence of haemoglobin-M. She was treated with intravenous antibiotics with careful monitoring of methaemoglobin levels but without the need for methylene blue administration. Serology to detect antibodies against Mycoplasma pneumoniae was initially negative, but suspicion for M. pneumoniae infection was high and treatment was continued. Convalescent serum total anti-M. pneumoniae antibody levels rose from 1:40 at 11 days to 1:1280 at 16 days confirming the diagnosis of M. pneumoniae pneumonia.",
+      "chunk_index": 0,
+      "char_count": 1101,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

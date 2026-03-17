@@ -1,0 +1,41 @@
+{
+  "pmid": "41398892",
+  "pmc_id": "PMC12708173",
+  "title": "Optimized integration of mechanical circulatory support and endovascular therapy in pulmonary embolism-induced cardiac arrest: A case series.",
+  "authors": [
+    "Zhang Y",
+    "Lei Z",
+    "Luo J",
+    "Chen D",
+    "Xiong H",
+    "Zhang L",
+    "Wang B",
+    "Yang H"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41398892",
+      "pmc_id": "PMC12708173",
+      "title": "Optimized integration of mechanical circulatory support and endovascular therapy in pulmonary embolism-induced cardiac arrest: A case series.",
+      "authors": [
+        "Zhang Y",
+        "Lei Z",
+        "Luo J",
+        "Chen D",
+        "Xiong H",
+        "Zhang L",
+        "Wang B",
+        "Yang H"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "RATIONALE: Pulmonary embolism-induced cardiac arrest (PE-CA) remains a life-threatening condition with high mortality despite conventional management strategies. This case series explores the potential benefits of combining mechanical circulatory support (MCS) and endovascular therapy (ET) for optimizing outcomes in PE-CA. PATIENT CONCERNS: Seven patients with PE-CA, presenting with sudden respiratory distress, hypotension, and loss of consciousness, were treated at our institution between January 2021 and May 2025. These patients exhibited significant hemodynamic instability, requiring immediate intervention to restore circulatory support and address the underlying thrombotic burden. DIAGNOSES: Diagnosis was confirmed via computed tomography pulmonary angiography and echocardiography, revealing extensive pulmonary emboli and evidence of right ventricular strain. INTERVENTIONS: Patients were categorized into 3 treatment groups: conventional therapy (n = 2), single intervention (either MCS or ET, n = 2), and combined therapy (MCS + ET, n = 3). The combined therapy group received early MCS to restore circulatory support, followed by ET to remove the thrombotic burden. OUTCOMES: Descriptive analysis suggested that combined therapy was associated with shorter return of spontaneous circulation times (12-16 minutes vs 20-32 minutes in other groups) and favorable neurological recovery in all 3 cases. However, no statistical comparisons were performed due to the small sample size and heterogeneity of the cohort. LESSONS: This case series highlights the feasibility of integrating MCS and ET in PE-CA management. While the findings suggest potential synergistic interactions between these therapies, larger comparative studies are required to confirm these preliminary observations and establish evidence-based protocols.",
+      "chunk_index": 0,
+      "char_count": 1838,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

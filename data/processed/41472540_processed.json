@@ -1,0 +1,39 @@
+{
+  "pmid": "41472540",
+  "pmc_id": null,
+  "title": "Chemical Pneumonitis Following Inhalation of Fluoride-Based Waterproofing Agent: A Case Series.",
+  "authors": [
+    "Jiang Y",
+    "Zhu X",
+    "Zhu L",
+    "Zhang J",
+    "Xun K",
+    "Zhou X",
+    "Du L"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41472540",
+      "pmc_id": null,
+      "title": "Chemical Pneumonitis Following Inhalation of Fluoride-Based Waterproofing Agent: A Case Series.",
+      "authors": [
+        "Jiang Y",
+        "Zhu X",
+        "Zhu L",
+        "Zhang J",
+        "Xun K",
+        "Zhou X",
+        "Du L"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "This study retrospectively analyzed seven cases of acute chemical pneumonitis caused by inhalation of fluoride-based waterproofing agents, that were admitted to Ningbo Second Hospital in September 2025. We summarize their clinical features, treatment strategies and outcomes. All patients had a clear history of occupational exposure to fluoride-containing gases. Early manifestations primarily consisted of respiratory irritation symptoms, with one critically-ill patient progressing to acute respiratory distress syndrome (ARDS) complicated by multiple organ failure within 24 h of exposure. Chest CT scans revealed characteristic acute lung injury changes. Case 7 exhibited elevated white blood cell counts, inflammatory markers, and significantly increased blood and urinary fluoride levels. All received comprehensive treatment, with respiratory support and corticosteroids as the core therapy. This case series indicates that this type of poisoning progresses rapidly. Early recognition, stepwise respiratory support based on oxygenation index, and early administration of high-dose corticosteroids are crucial for improving prognosis. These findings provide a reference for the clinical management of this rare but critical form of toxic lung injury.",
+      "chunk_index": 0,
+      "char_count": 1257,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

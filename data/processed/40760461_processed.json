@@ -1,0 +1,63 @@
+{
+  "pmid": "40760461",
+  "pmc_id": "PMC12323104",
+  "title": "A mutation in transthyretin gene in a Mexican patient leading to hereditary amyloidosis: a case report.",
+  "authors": [
+    "Malik MR",
+    "Dalia T",
+    "Shah Z"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40760461",
+      "pmc_id": "PMC12323104",
+      "title": "A mutation in transthyretin gene in a Mexican patient leading to hereditary amyloidosis: a case report.",
+      "authors": [
+        "Malik MR",
+        "Dalia T",
+        "Shah Z"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Transthyretin is a protein produced by the liver, and when normal, it carries out the role of transporting thyroid hormone and vitamin A in the body. Mutations in the gene that codes for this protein can cause it to misfold. A misfolded protein can not carry out its functions and can also build up in different organs leading to a group of diseases known as amyloidosis. Depending upon the site in which this protein accumulates, a large variety of symptoms can be seen. If the protein deposits in the heart, it can lead to heart failure and associated symptoms and is known as cardiac amyloidosis. If in the nerves, it can lead to neuropathy and tingling and numbness and so on. Due to the various symptom's transthyretin amyloidosis can present with, it is difficult to keep it on the differential and diagnose the disease, as suspicions for it should be high. We would like to use this case report to help raise awareness about hereditary transthyretin amyloidosis.",
+      "chunk_index": 0,
+      "char_count": 969,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "40760461",
+      "pmc_id": "PMC12323104",
+      "title": "A mutation in transthyretin gene in a Mexican patient leading to hereditary amyloidosis: a case report.",
+      "authors": [
+        "Malik MR",
+        "Dalia T",
+        "Shah Z"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "numbness and so on. Due to the various symptom's transthyretin amyloidosis can present with, it is difficult to keep it on the differential and diagnose the disease, as suspicions for it should be high. We would like to use this case report to help raise awareness about hereditary transthyretin amyloidosis.\n\nA 66-year-old Mexican male patient with a family history significant for hereditary amyloidosis presented with intermittent chest pain, shortness of breath, and neurological symptoms. An echocardiogram done at an outside hospital showed an ejection fraction of 55-60% with grade 2 diastolic dysfunction. A technetium pyrophosphate scan was used to make the diagnosis of transthyretin amyloidosis, and genetic testing showed that the patient was heterozygous for p.G67A (also known as c.2000G > C) pathogenic mutation in the transthyretin (TTR) gene. Due to these findings the patient was started on tafamidis free acid 61 mg daily and vutrisiran (Amvuttra) injections. He was also given vitamin A supplementation to prevent vutrisiran-associated vitamin A deficiency, which is a known side effect.",
+      "chunk_index": 1,
+      "char_count": 1107,
+      "subspecialty": "chest pain"
+    },
+    {
+      "pmid": "40760461",
+      "pmc_id": "PMC12323104",
+      "title": "A mutation in transthyretin gene in a Mexican patient leading to hereditary amyloidosis: a case report.",
+      "authors": [
+        "Malik MR",
+        "Dalia T",
+        "Shah Z"
+      ],
+      "specialty": "chest pain",
+      "section_type": "diagnosis",
+      "text": "known as c.2000G > C) pathogenic mutation in the transthyretin (TTR) gene. Due to these findings the patient was started on tafamidis free acid 61 mg daily and vutrisiran (Amvuttra) injections. He was also given vitamin A supplementation to prevent vutrisiran-associated vitamin A deficiency, which is a known side effect.\n\nA high index of suspicion is required for diagnosing transthyretin amyloidosis. This case will help raise awareness among physicians regarding the presence of the G67A mutation in Mexican patients and its management.",
+      "chunk_index": 2,
+      "char_count": 540,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

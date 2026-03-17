@@ -1,0 +1,75 @@
+{
+  "pmid": "41547912",
+  "pmc_id": "PMC12896052",
+  "title": "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection: a case report.",
+  "authors": [
+    "Muqtadir J",
+    "Khan MA",
+    "Zaina F",
+    "Parvez SS",
+    "Das S",
+    "Boussios S"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41547912",
+      "pmc_id": "PMC12896052",
+      "title": "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection: a case report.",
+      "authors": [
+        "Muqtadir J",
+        "Khan MA",
+        "Zaina F",
+        "Parvez SS",
+        "Das S",
+        "Boussios S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Mucormycosis is a severe opportunistic fungal infection that has become a notable complication in patients recovering from coronavirus disease 2019, particularly in individuals with preexisting diabetes mellitus or a history of corticosteroid administration. Coinfection with cytomegalovirus in immunocompromised patients with coronavirus disease 2019 is increasingly documented yet remains insufficiently acknowledged. This case is significant owing to the uncommon simultaneous occurrence of cutaneous mucormycosis and cytomegalovirus infection in a post-coronavirus disease patient, underscoring the diagnostic and therapeutic challenges associated with these dual infections.",
+      "chunk_index": 0,
+      "char_count": 679,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41547912",
+      "pmc_id": "PMC12896052",
+      "title": "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection: a case report.",
+      "authors": [
+        "Muqtadir J",
+        "Khan MA",
+        "Zaina F",
+        "Parvez SS",
+        "Das S",
+        "Boussios S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "administration. Coinfection with cytomegalovirus in immunocompromised patients with coronavirus disease 2019 is increasingly documented yet remains insufficiently acknowledged. This case is significant owing to the uncommon simultaneous occurrence of cutaneous mucormycosis and cytomegalovirus infection in a post-coronavirus disease patient, underscoring the diagnostic and therapeutic challenges associated with these dual infections.\n\nThe purpose of this report is to discuss a 56-year-old man of South Asian/Pakistani descent with a history of diabetes mellitus and hypertension. He was diagnosed with post-coronavirus disease pneumonia with an anterior abdominal wall lesion that did not resolve after treatment for cutaneous mucormycosis, which was diagnosed on histopathology. Liposomal amphotericin B was administered intravenously, and the patient underwent surgical wound debridement. However, the patient was readmitted owing to sepsis and had a cytomegalovirus reactivation confirmed by polymerase chain reaction testing. Ganciclovir was given intravenously. The patient's health continued to deteriorate until he died from complications of his disease in spite of receiving aggressive medical and surgical treatment.",
+      "chunk_index": 1,
+      "char_count": 1229,
+      "subspecialty": "pneumonia"
+    },
+    {
+      "pmid": "41547912",
+      "pmc_id": "PMC12896052",
+      "title": "Coronavirus disease 2019-associated mucormycosis and cytomegalovirus infection: a case report.",
+      "authors": [
+        "Muqtadir J",
+        "Khan MA",
+        "Zaina F",
+        "Parvez SS",
+        "Das S",
+        "Boussios S"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "diagnosis",
+      "text": "underwent surgical wound debridement. However, the patient was readmitted owing to sepsis and had a cytomegalovirus reactivation confirmed by polymerase chain reaction testing. Ganciclovir was given intravenously. The patient's health continued to deteriorate until he died from complications of his disease in spite of receiving aggressive medical and surgical treatment.\n\nThis case illustrates the need for prompt recognition and treatment of concurrent opportunistic infections in patients who are immunocompromised owing to coronavirus disease 2019. A multidisciplinary proactive approach will be necessary to improve survival and patient outcomes in similarly complex patient cases.",
+      "chunk_index": 2,
+      "char_count": 687,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

@@ -1,0 +1,56 @@
+{
+  "pmid": "41349276",
+  "pmc_id": null,
+  "title": "Calcium channel antagonists and point-of-care ultrasound: A case series.",
+  "authors": [
+    "Anderson J",
+    "Rushton WF",
+    "Burleson SL",
+    "Thompson M",
+    "Atti S",
+    "Griesmer KB"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41349276",
+      "pmc_id": null,
+      "title": "Calcium channel antagonists and point-of-care ultrasound: A case series.",
+      "authors": [
+        "Anderson J",
+        "Rushton WF",
+        "Burleson SL",
+        "Thompson M",
+        "Atti S",
+        "Griesmer KB"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Treatment of severe calcium channel antagonist (CCA) toxicity remains challenging due to progression to profound shock through vasoplegia, cardiogenic collapse, or a combination of both. Various treatment options are available that aim to increase systemic vascular resistance or enhance cardiac contractility. Accurately identifying the type of shock is essential for guiding appropriate therapy. However, given the range of potential interventions, careful assessment of the predominant shock state and appropriate tailoring of therapy are critical, as each treatment carries distinct risks and potential adverse effects. Point-of-Care Ultrasound (POCUS) has been previously used in other critical illnesses to assess myocardial function, but there is a paucity of literature with regards to cardiovascular drug toxicity. CASES: We present a case series of three CCA toxicities-including two cases of mixed cardiovascular drug toxicities-with POCUS use throughout to guide therapies and assess clinical response. Each case presented with rapid deterioration requiring multiple pressors as well as specialized interventions including methylene blue, hyperinsulinemia euglycemia (HIE), or extracorporeal membrane oxygenation (ECMO). Real-time echocardiographic assessments allowed for early identification of cardiovascular compromise, differentiation between vasodilatory and cardiogenic shock, and ongoing evaluation of treatment response in mixed shock states.",
+      "chunk_index": 0,
+      "char_count": 1463,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41349276",
+      "pmc_id": null,
+      "title": "Calcium channel antagonists and point-of-care ultrasound: A case series.",
+      "authors": [
+        "Anderson J",
+        "Rushton WF",
+        "Burleson SL",
+        "Thompson M",
+        "Atti S",
+        "Griesmer KB"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "discussion",
+      "text": "case presented with rapid deterioration requiring multiple pressors as well as specialized interventions including methylene blue, hyperinsulinemia euglycemia (HIE), or extracorporeal membrane oxygenation (ECMO). Real-time echocardiographic assessments allowed for early identification of cardiovascular compromise, differentiation between vasodilatory and cardiogenic shock, and ongoing evaluation of treatment response in mixed shock states.\n\nThis case series highlights the role of POCUS in managing severe CCA toxicity. Techniques such as velocity time integral (VTI) measurement and inferior vena cava (IVC) collapsibility provided dynamic, noninvasive data that guided resuscitative efforts and helped optimize perfusion in the acute care setting.",
+      "chunk_index": 1,
+      "char_count": 753,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

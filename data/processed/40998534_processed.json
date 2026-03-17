@@ -1,0 +1,33 @@
+{
+  "pmid": "40998534",
+  "pmc_id": null,
+  "title": "Pleural effusion as a rare manifestation of Sjogren's disease.",
+  "authors": [
+    "Mutlu M",
+    "Albayrak F",
+    "Sayiner ZA",
+    "Kisacik B"
+  ],
+  "specialty": "chest pain",
+  "sections": [
+    {
+      "pmid": "40998534",
+      "pmc_id": null,
+      "title": "Pleural effusion as a rare manifestation of Sjogren's disease.",
+      "authors": [
+        "Mutlu M",
+        "Albayrak F",
+        "Sayiner ZA",
+        "Kisacik B"
+      ],
+      "specialty": "chest pain",
+      "section_type": "history",
+      "text": "Sjogren's disease (SD) is a systemic autoimmune disease characterised by lymphocytic infiltration of exocrine glands, leading to xerophthalmia and xerostomia, but it may also cause extraglandular involvement, including musculoskeletal, neurological, renal and pulmonary manifestations. Although interstitial lung disease and small airway obstruction are well-documented pulmonary manifestations, pleural effusion is rare. In this report, we present a male patient in his 40s who presented with left-sided pleuritic chest pain and pleural effusion with no previous history of systemic disease, infection or malignancy. Initial laboratory and imaging findings suggested exudative pleural effusion, but further investigations excluded infectious causes, tuberculosis and malignancy. Following a detailed history and physical examination, autoimmune tests (ANA, ENA) were requested based on clinical suspicion. Anti-SSA (Ro) was positive, and the Schirmer test was positive, leading to a diagnosis of pSS. While pulmonary involvement is common in primary SD, pleural effusion is a rare manifestation.",
+      "chunk_index": 0,
+      "char_count": 1096,
+      "subspecialty": "chest pain"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "chest pain"
+}

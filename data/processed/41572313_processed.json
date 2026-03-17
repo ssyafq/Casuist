@@ -1,0 +1,79 @@
+{
+  "pmid": "41572313",
+  "pmc_id": "PMC12910862",
+  "title": "Acute hepatitis with synchronous acalculous cholecystitis and pancreatitis in a patient with Epstein-Barr viral infection: a case report.",
+  "authors": [
+    "Wang H",
+    "Hu L",
+    "Zheng Y",
+    "Zhao X",
+    "Yang J",
+    "Wang C",
+    "Qi W"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41572313",
+      "pmc_id": "PMC12910862",
+      "title": "Acute hepatitis with synchronous acalculous cholecystitis and pancreatitis in a patient with Epstein-Barr viral infection: a case report.",
+      "authors": [
+        "Wang H",
+        "Hu L",
+        "Zheng Y",
+        "Zhao X",
+        "Yang J",
+        "Wang C",
+        "Qi W"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Epstein-Barr virus infection is common. However, to our knowledge, it has never been reported to cause synchronous acute acalculous cholecystitis and acute pancreatitis alongside hepatitis. This case highly suggests the potential for novel multiorgan involvement.",
+      "chunk_index": 0,
+      "char_count": 263,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41572313",
+      "pmc_id": "PMC12910862",
+      "title": "Acute hepatitis with synchronous acalculous cholecystitis and pancreatitis in a patient with Epstein-Barr viral infection: a case report.",
+      "authors": [
+        "Wang H",
+        "Hu L",
+        "Zheng Y",
+        "Zhao X",
+        "Yang J",
+        "Wang C",
+        "Qi W"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Epstein-Barr virus infection is common. However, to our knowledge, it has never been reported to cause synchronous acute acalculous cholecystitis and acute pancreatitis alongside hepatitis. This case highly suggests the potential for novel multiorgan involvement.\n\nA 32-year-old Asian male patient presented with high-grade fever, abdominal pain, and jaundice. Comprehensive diagnostic evaluation confirmed acute hepatitis, acute acalculous cholecystitis, and acute pancreatitis. Histopathological examination of lymph node and liver biopsy specimens identified Epstein-Barr virus infection as the underlying cause of all three conditions. The patient was treated with dexamethasone at a dose of 5 mg per day combined with acyclovir. Significant clinical improvement was observed, and the patient was subsequently discharged.",
+      "chunk_index": 1,
+      "char_count": 825,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41572313",
+      "pmc_id": "PMC12910862",
+      "title": "Acute hepatitis with synchronous acalculous cholecystitis and pancreatitis in a patient with Epstein-Barr viral infection: a case report.",
+      "authors": [
+        "Wang H",
+        "Hu L",
+        "Zheng Y",
+        "Zhao X",
+        "Yang J",
+        "Wang C",
+        "Qi W"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "pancreatitis. Histopathological examination of lymph node and liver biopsy specimens identified Epstein-Barr virus infection as the underlying cause of all three conditions. The patient was treated with dexamethasone at a dose of 5 mg per day combined with acyclovir. Significant clinical improvement was observed, and the patient was subsequently discharged.\n\nThis is the first reported case of concurrent Epstein-Barr-virus-induced hepatitis, acute acalculous cholecystitis, and acute pancreatitis. The patient's full recovery through nonsurgical management, including antiviral and antiinflammatory therapies, may provide valuable insights for future clinical practice.",
+      "chunk_index": 2,
+      "char_count": 672,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "41263944",
+  "pmc_id": null,
+  "title": "Laparoscopic cholecystectomy for double gallbladder with the accessory cystic duct draining into the main pancreatic duct.",
+  "authors": [
+    "Okazoe Y",
+    "Yanagimoto H",
+    "Tsugawa D",
+    "Akita M",
+    "Yokotani Y",
+    "Sakai A",
+    "Masuda A",
+    "Ajiki T",
+    "Kodama Y",
+    "Fukumoto T"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41263944",
+      "pmc_id": null,
+      "title": "Laparoscopic cholecystectomy for double gallbladder with the accessory cystic duct draining into the main pancreatic duct.",
+      "authors": [
+        "Okazoe Y",
+        "Yanagimoto H",
+        "Tsugawa D",
+        "Akita M",
+        "Yokotani Y",
+        "Sakai A",
+        "Masuda A",
+        "Ajiki T",
+        "Kodama Y",
+        "Fukumoto T"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Double gallbladder is a rare congenital anomaly of the biliary system. In this study, we present an extremely rare case of a double gallbladder with an accessory cystic duct draining into the main pancreatic duct. The patient was a 14-year-old boy with recurrent acute pancreatitis. Endoscopic retrograde cholangiopancreatography revealed an accessory gallbladder draining into the main pancreatic duct, along with a filling defect suggestive of a stone within the accessory cystic duct. These findings did not suggest pancreaticobiliary maljunction. We safely performed laparoscopic resection of the gallbladder and accessory gallbladder, as well as accessory cystic duct stone removal, using intraoperative cholangiography. Biochemical analysis revealed elevated amylase levels in the gallbladder bile and elevated bilirubin levels in the accessory gallbladder fluid, suggesting bidirectional reflux of pancreatic juice and bile. Given the potential risk of malignancy, careful long-term follow-up is required. In this case report, we reviewed existing classifications of multiple gallbladders and reorganized them based on previously reported cases.",
+      "chunk_index": 0,
+      "char_count": 1152,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

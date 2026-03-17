@@ -1,0 +1,45 @@
+{
+  "pmid": "41563943",
+  "pmc_id": "PMC12833987",
+  "title": "Successful Use of Sulbactam-Durlobactam in Treating Carbapenem-Resistant Acinetobacter baumannii Pneumonia and Sepsis After Liver Transplantation: A Case Report.",
+  "authors": [
+    "Xiong HF",
+    "Zhang WT",
+    "Liu Y",
+    "Hou F",
+    "Liu B",
+    "Cui TT",
+    "He ZY",
+    "Zhang X",
+    "Zhao R",
+    "Sun LY"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41563943",
+      "pmc_id": "PMC12833987",
+      "title": "Successful Use of Sulbactam-Durlobactam in Treating Carbapenem-Resistant Acinetobacter baumannii Pneumonia and Sepsis After Liver Transplantation: A Case Report.",
+      "authors": [
+        "Xiong HF",
+        "Zhang WT",
+        "Liu Y",
+        "Hou F",
+        "Liu B",
+        "Cui TT",
+        "He ZY",
+        "Zhang X",
+        "Zhao R",
+        "Sun LY"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "BACKGROUND Orthotopic liver transplantation is the primary treatment for end-stage liver disease; however, postoperative infections, especially those caused by carbapenem-resistant Acinetobacter baumannii (CRAB), remain a major cause of mortality due to limited therapeutic options. Sulbactam-durlobactam (SUL-DUR), a novel b-lactam/b-lactamase inhibitor combination, has shown potent activity against CRAB. This report describes the first reported use of SUL-DUR in a liver transplant recipient with CRAB pneumonia and sepsis. CASE REPORT A 22-year-old woman with acute liver failure underwent auxiliary liver transplantation. Postoperatively, she developed CRAB pneumonia and septicemia confirmed by imaging, bronchoscopy, and metagenomic next-generation sequencing. She received combination therapy with SUL-DUR (1 g/1 g every 8 h), meropenem, eravacycline, and neutralized polymyxin B. Blood and sputum cultures confirmed CRAB susceptibility to SUL-DUR. Following treatment, inflammatory markers (CRP, IL-6, PCT) and pathogen loads markedly decreased, leading to complete clinical resolution without significant adverse effects. The patient was successfully discharged after rehabilitation. CONCLUSIONS SUL-DUR demonstrated excellent efficacy and safety in treating CRAB pneumonia and sepsis after liver transplantation. This case supports Phase III trial data and suggests the potential for use in high-risk, immunocompromised populations. Further studies are warranted to validate its clinical role and inform future guidelines for multidrug-resistant infections.",
+      "chunk_index": 0,
+      "char_count": 1569,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

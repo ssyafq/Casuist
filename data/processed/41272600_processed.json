@@ -1,0 +1,71 @@
+{
+  "pmid": "41272600",
+  "pmc_id": "PMC12752097",
+  "title": "Chronic drug-induced liver injury in a child with acute lymphoblastic leukemia: a case report.",
+  "authors": [
+    "Xiong SQ",
+    "Ge KK",
+    "Liu YF",
+    "Ren XX",
+    "Fang Y"
+  ],
+  "specialty": "gastrointestinal bleed",
+  "sections": [
+    {
+      "pmid": "41272600",
+      "pmc_id": "PMC12752097",
+      "title": "Chronic drug-induced liver injury in a child with acute lymphoblastic leukemia: a case report.",
+      "authors": [
+        "Xiong SQ",
+        "Ge KK",
+        "Liu YF",
+        "Ren XX",
+        "Fang Y"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "Acute lymphoblastic leukemia (ALL) is a common hematological malignancy in children, often requiring intensive chemotherapy that can lead to drug-induced liver injury (DILI). This case report highlights a rare progression of chronic DILI to liver cirrhosis and portal hypertension in a pediatric ALL patient who developed life threatening esophageal variceal bleeding.",
+      "chunk_index": 0,
+      "char_count": 368,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41272600",
+      "pmc_id": "PMC12752097",
+      "title": "Chronic drug-induced liver injury in a child with acute lymphoblastic leukemia: a case report.",
+      "authors": [
+        "Xiong SQ",
+        "Ge KK",
+        "Liu YF",
+        "Ren XX",
+        "Fang Y"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "history",
+      "text": "lymphoblastic leukemia (ALL) is a common hematological malignancy in children, often requiring intensive chemotherapy that can lead to drug-induced liver injury (DILI). This case report highlights a rare progression of chronic DILI to liver cirrhosis and portal hypertension in a pediatric ALL patient who developed life threatening esophageal variceal bleeding.\n\nA 14-year-old boy presented with a two-day history of melena and one day of hematemesis. He had been diagnosed with acute ALL five years prior and underwent three years of chemotherapy, during which he experienced recurrent DILI. After a two-year period without long-term medication, he developed severe gastrointestinal bleeding accompanied by severe normocytic normochromic anemia. Elevated liver enzymes and bilirubin levels were noted over the past two years, while laboratory tests ruled out viral hepatitis and autoimmune hepatitis. Imaging studies, including abdominal ultrasound and CT scans, revealed decreased liver volume, splenomegaly, and dilated portal vein and its tributaries, suggesting hepatic cirrhosis and portal hypertension. A liver biopsy confirmed cirrhosis. Ultimately, the diagnosis of hepatic cirrhosis, primarily due to chronic DILI, was established. Esophagogastroduodenoscopy revealed the presence of esophageal and gastric varices. The patient successfully underwent esophageal variceal ligation without complications.",
+      "chunk_index": 1,
+      "char_count": 1413,
+      "subspecialty": "gastrointestinal bleed"
+    },
+    {
+      "pmid": "41272600",
+      "pmc_id": "PMC12752097",
+      "title": "Chronic drug-induced liver injury in a child with acute lymphoblastic leukemia: a case report.",
+      "authors": [
+        "Xiong SQ",
+        "Ge KK",
+        "Liu YF",
+        "Ren XX",
+        "Fang Y"
+      ],
+      "specialty": "gastrointestinal bleed",
+      "section_type": "diagnosis",
+      "text": "splenomegaly, and dilated portal vein and its tributaries, suggesting hepatic cirrhosis and portal hypertension. A liver biopsy confirmed cirrhosis. Ultimately, the diagnosis of hepatic cirrhosis, primarily due to chronic DILI, was established. Esophagogastroduodenoscopy revealed the presence of esophageal and gastric varices. The patient successfully underwent esophageal variceal ligation without complications.\n\nThis case highlights the need for long-term clinical, biochemical, and radiological follow-up of ALL patients with recurrent DILI, to monitor for progression to chronic DlLI both during and post-chemotherapy.",
+      "chunk_index": 2,
+      "char_count": 625,
+      "subspecialty": "gastrointestinal bleed"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "gastrointestinal bleed"
+}

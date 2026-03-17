@@ -1,0 +1,29 @@
+{
+  "pmid": "41222629",
+  "pmc_id": null,
+  "title": "Resolution of Pulmonary FDG-embolus on Same-day Delayed Imaging.",
+  "authors": [
+    "Liu RF",
+    "Rush C"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41222629",
+      "pmc_id": null,
+      "title": "Resolution of Pulmonary FDG-embolus on Same-day Delayed Imaging.",
+      "authors": [
+        "Liu RF",
+        "Rush C"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "A 32-year-old woman presented for an 18 F-FDG PET/CT scan for a lung nodule, which demonstrated background uptake. Incidentally, there was a focus of moderate-to-intense uptake in the right lung with no CT correlate. Repeat imaging 55 minutes later demonstrated resolution of this uptake, confirming a diagnosis of iatrogenic FDG-embolus, or \"hot-clot\" artifact. Most reported cases perform repeat radiotracer injection and imaging in the following days to confirm this artifact. This case illustrates that FDG-emboli can resolve on delayed imaging within an hour, and if so, repeat acquisition with a separate injection may be avoided, lowering radiation exposure for the patient.",
+      "chunk_index": 0,
+      "char_count": 681,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

@@ -1,0 +1,75 @@
+{
+  "pmid": "41635837",
+  "pmc_id": "PMC12862071",
+  "title": "Case report: Immune checkpoint inhibitor-induced fulminant diabetic ketoacidosis: a case-based review and considerations for immunotherapy discontinuation.",
+  "authors": [
+    "Zhao S",
+    "Liu X",
+    "Tan P",
+    "Mu Y",
+    "Tan S",
+    "Hou A"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41635837",
+      "pmc_id": "PMC12862071",
+      "title": "Case report: Immune checkpoint inhibitor-induced fulminant diabetic ketoacidosis: a case-based review and considerations for immunotherapy discontinuation.",
+      "authors": [
+        "Zhao S",
+        "Liu X",
+        "Tan P",
+        "Mu Y",
+        "Tan S",
+        "Hou A"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "To report a case of advanced lung adenocarcinoma (LUAD) harboring KRAS p.G12C and TP53 p.R273C mutations. While immune checkpoint inhibitor (ICI) therapy offered remarkable clinical benefits, it concurrently induced a fatal endocrine complication, highlighting the dual-natured impact of immunotherapy.",
+      "chunk_index": 0,
+      "char_count": 302,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41635837",
+      "pmc_id": "PMC12862071",
+      "title": "Case report: Immune checkpoint inhibitor-induced fulminant diabetic ketoacidosis: a case-based review and considerations for immunotherapy discontinuation.",
+      "authors": [
+        "Zhao S",
+        "Liu X",
+        "Tan P",
+        "Mu Y",
+        "Tan S",
+        "Hou A"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "To report a case of advanced lung adenocarcinoma (LUAD) harboring KRAS p.G12C and TP53 p.R273C mutations. While immune checkpoint inhibitor (ICI) therapy offered remarkable clinical benefits, it concurrently induced a fatal endocrine complication, highlighting the dual-natured impact of immunotherapy.\n\nAn elderly male diagnosed with Stage IV LUAD achieved sustained stable disease (SD) and symptomatic improvement through a sequential therapeutic strategy, including platinum-based chemotherapy followed by the PD-1 inhibitor sintilimab combined with anti-angiogenic agents (apatinib or anlotinib). However, the patient developed severe coma, hyperglycemia and metabolic disorder. Laboratory investigations confirmed fulminant ICI-related diabetic ketoacidosis (DKA). Despite intensive resuscitative efforts, the patient succumbed to multi-organ failure. DISCUSSION AND",
+      "chunk_index": 1,
+      "char_count": 871,
+      "subspecialty": "diabetic ketoacidosis"
+    },
+    {
+      "pmid": "41635837",
+      "pmc_id": "PMC12862071",
+      "title": "Case report: Immune checkpoint inhibitor-induced fulminant diabetic ketoacidosis: a case-based review and considerations for immunotherapy discontinuation.",
+      "authors": [
+        "Zhao S",
+        "Liu X",
+        "Tan P",
+        "Mu Y",
+        "Tan S",
+        "Hou A"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "diagnosis",
+      "text": "a sequential therapeutic strategy, including platinum-based chemotherapy followed by the PD-1 inhibitor sintilimab combined with anti-angiogenic agents (apatinib or anlotinib). However, the patient developed severe coma, hyperglycemia and metabolic disorder. Laboratory investigations confirmed fulminant ICI-related diabetic ketoacidosis (DKA). Despite intensive resuscitative efforts, the patient succumbed to multi-organ failure. DISCUSSION AND\n\nThis case demonstrates that while ICIs can provide exceptional long-term benefits in advanced NSCLC, particularly in patients with highly immunogenic mutation profiles, they may also trigger late-onset fatal irAEs. Our findings underscore the imperative for close, long-term metabolic surveillance throughout the course of immunotherapy, regardless of treatment duration or radiological stability.",
+      "chunk_index": 2,
+      "char_count": 846,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

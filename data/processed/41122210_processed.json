@@ -1,0 +1,27 @@
+{
+  "pmid": "41122210",
+  "pmc_id": "PMC12537058",
+  "title": "[On the Basis of a Case: Follow-Up of a Patient with Chronic Obstructive Pulmonary Disease (COPD) through the EPOCA Service].",
+  "authors": [
+    "Deleito Molina O"
+  ],
+  "specialty": "COPD",
+  "sections": [
+    {
+      "pmid": "41122210",
+      "pmc_id": "PMC12537058",
+      "title": "[On the Basis of a Case: Follow-Up of a Patient with Chronic Obstructive Pulmonary Disease (COPD) through the EPOCA Service].",
+      "authors": [
+        "Deleito Molina O"
+      ],
+      "specialty": "COPD",
+      "section_type": "history",
+      "text": "71-year-old man with multiple pathologies. He goes to the pharmacy and a frequent throat clearing and cough is detected. He says it has been going on for a couple of months. He has tried mucolytics, cough suppressants and flu medications, and nothing calms him down. As a patient with COPD, you are invited to go to the PCA.During the initial consultation, we provided health education and a spirometry test with the Vitalograph(R) COPD-6 (unable). We performed validated tests, reviewed the inhalation technique, device care, and cleaning, as well as the patient's medications.The patient was instructed on proper inhalation technique, as two critical errors were detected.After 6 days, he was given an appointment and the same tests were performed, obtaining acceptable FEV1/FEV6 values, COPD grade = 2, BODEX = 3 (moderate), and corrected inhalation technique, but he did not improve his sintoms.After 7 days, we performed spirometry again, COPD grade = 1, BODEX = 3. The technique still showed no critical errors, so we used the InCheckDial(R) to detect whether the inspiratory flow was correct, and we detected that the inspiration was too forceful (>/=90 L/min).The patient was referred to the PCP for treatment assessment with a detailed report suggesting a change of inhalation device. The PCP changed the device to an Ellipta(R) and requested a follow-up with your pulmonologist.",
+      "chunk_index": 0,
+      "char_count": 1388,
+      "subspecialty": "COPD"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "COPD"
+}

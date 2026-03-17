@@ -1,0 +1,33 @@
+{
+  "pmid": "41692453",
+  "pmc_id": null,
+  "title": "Acquired Pure Red Cell Aplasia Following BNT162b2 mRNA COVID-19 Vaccination.",
+  "authors": [
+    "Hayase N",
+    "Kaneda Y",
+    "Fukuno K",
+    "Kanemura N"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41692453",
+      "pmc_id": null,
+      "title": "Acquired Pure Red Cell Aplasia Following BNT162b2 mRNA COVID-19 Vaccination.",
+      "authors": [
+        "Hayase N",
+        "Kaneda Y",
+        "Fukuno K",
+        "Kanemura N"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Pure red cell aplasia (PRCA) is a rare disorder characterized by a significant reduction in red blood cell production. A 65-year-old man with myelodysplastic syndrome and monoclonal gammopathy of undetermined significance developed acquired PRCA (aPRCA) 2 weeks after receiving the BNT162b2 mRNA coronavirus disease 2019 vaccine, with Epstein-Barr virus DNA detected at the onset. The patient did not respond to immunosuppressive therapy and required red blood cell transfusion every one to two weeks. Although the causal relationship between vaccination and aPRCA remains unclear, adequate attention should be paid to post-vaccination aPRCA in patients with hematological disorders.",
+      "chunk_index": 0,
+      "char_count": 683,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

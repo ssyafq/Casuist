@@ -1,0 +1,67 @@
+{
+  "pmid": "41272807",
+  "pmc_id": "PMC12639796",
+  "title": "Recurrent acute necrotizing pancreatitis secondary to hypercalcemic crisis in hyperparathyroidism: a case report.",
+  "authors": [
+    "Zou K",
+    "Cai T",
+    "Liu R",
+    "Zhang J"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41272807",
+      "pmc_id": "PMC12639796",
+      "title": "Recurrent acute necrotizing pancreatitis secondary to hypercalcemic crisis in hyperparathyroidism: a case report.",
+      "authors": [
+        "Zou K",
+        "Cai T",
+        "Liu R",
+        "Zhang J"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Although less common, metabolic disorders such as hypercalcemia are implicated in the pathogenesis of acute pancreatitis. Persistent hypercalcemia may lead to recurrent acute pancreatitis if the underlying etiology remains untreated.",
+      "chunk_index": 0,
+      "char_count": 233,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41272807",
+      "pmc_id": "PMC12639796",
+      "title": "Recurrent acute necrotizing pancreatitis secondary to hypercalcemic crisis in hyperparathyroidism: a case report.",
+      "authors": [
+        "Zou K",
+        "Cai T",
+        "Liu R",
+        "Zhang J"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Although less common, metabolic disorders such as hypercalcemia are implicated in the pathogenesis of acute pancreatitis. Persistent hypercalcemia may lead to recurrent acute pancreatitis if the underlying etiology remains untreated.\n\nA 56-year-old Chinese female patient with a history of hypercalcemia-associated acute pancreatitis 3 years earlier presented with recurrent acute necrotizing pancreatitis lasting for 4 weeks. On admission, she was afebrile with normal inflammatory markers, and computed tomography revealed walled-off pancreatic necrosis without signs of infection, obviating the need for immediate invasive intervention. Laboratory tests showed a hypercalcemic crisis (serum calcium 4.49 mmol/L) and markedly elevated parathyroid hormone (2491 pg/mL). Neck computed tomography and ultrasound identified a left parathyroid adenoma (33 x 21 x 23 mm), implying primary hyperparathyroidism. The patient underwent parathyroidectomy, with histopathology confirming the diagnosis. Postoperatively, serum parathyroid hormone and calcium levels normalized. However, on postoperative day 3, inflammatory markers sharply increased, and repeat abdominal computed tomography detected gas within the necrotic collection, indicating infected necrosis. Necrosectomy and drainage were performed, with cultures identifying Enterobacter cloacae. At 3-year follow-up, no recurrence of acute pancreatitis was observed.",
+      "chunk_index": 1,
+      "char_count": 1416,
+      "subspecialty": "pancreatitis"
+    },
+    {
+      "pmid": "41272807",
+      "pmc_id": "PMC12639796",
+      "title": "Recurrent acute necrotizing pancreatitis secondary to hypercalcemic crisis in hyperparathyroidism: a case report.",
+      "authors": [
+        "Zou K",
+        "Cai T",
+        "Liu R",
+        "Zhang J"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "diagnosis",
+      "text": "serum parathyroid hormone and calcium levels normalized. However, on postoperative day 3, inflammatory markers sharply increased, and repeat abdominal computed tomography detected gas within the necrotic collection, indicating infected necrosis. Necrosectomy and drainage were performed, with cultures identifying Enterobacter cloacae. At 3-year follow-up, no recurrence of acute pancreatitis was observed.\n\nPrimary hyperparathyroidism should be considered in patients with hypercalcemia, especially those with acute necrotizing pancreatitis. Early diagnosis and parathyroidectomy for primary hyperparathyroidism are critical to preventing hypercalcemia-related complications, including recurrent acute pancreatitis.",
+      "chunk_index": 2,
+      "char_count": 716,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "41137338",
+  "pmc_id": "PMC12558264",
+  "title": "Two cases of immune checkpoint inhibitor-associated diabetes mellitus induced by serplulimab: Case reports.",
+  "authors": [
+    "Gao Y",
+    "Lin M",
+    "Deng J"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "41137338",
+      "pmc_id": "PMC12558264",
+      "title": "Two cases of immune checkpoint inhibitor-associated diabetes mellitus induced by serplulimab: Case reports.",
+      "authors": [
+        "Gao Y",
+        "Lin M",
+        "Deng J"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "RATIONALE: Immune checkpoint inhibitors have shown promising efficacy in treating various malignancies; however, their use is associated with immune-related adverse events, including rare but severe immune checkpoint inhibitor-induced diabetes mellitus (ICI-DM). Serplulimab-induced ICI-DM has been rarely reported, and its clinical presentation can be heterogeneous. PATIENT CONCERNS: We report 2 patients with small cell lung cancer who developed serplulimab-induced ICI-DM, both complicated by diabetic ketoacidosis (DKA). Case 1 developed delayed-onset ICI-DM after 2 years of treatment, with elevated glycated hemoglobin and moderate C-peptide deficiency. Case 2 developed ICI-DM earlier, with severe insulin deficiency and classic type 1 diabetes features. Neither patient tested positive for diabetes-related autoantibodies. DIAGNOSES: Both patients were diagnosed with serplulimab-induced ICI-DM, confirmed by hyperglycemia, C-peptide deficiency, and DKA during ongoing programmed cell death protein 1 inhibitor therapy. INTERVENTIONS: Standard DKA management was administered for both patients. They were transitioned to subcutaneous insulin therapy and continued serplulimab treatment under close glucose monitoring. OUTCOMES: Both patients' DKA was successfully controlled. They continued serplulimab and insulin therapy after discharge, with no recurrence of acute DKA. LESSONS: These cases highlight the clinical heterogeneity and diagnostic challenges of ICI-DM. Routine blood glucose and glycated hemoglobin monitoring before and during immunotherapy may aid early detection. Clinicians should maintain a high index of suspicion for ICI-DM, even in patients without typical risk factors. Early recognition and insulin initiation are essential to prevent life-threatening complications of DKA. This report contributes to the limited literature on serplulimab-induced ICI-DM and provides practical insights into its diagnosis and management.",
+      "chunk_index": 0,
+      "char_count": 1954,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

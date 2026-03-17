@@ -1,0 +1,31 @@
+{
+  "pmid": "30976930",
+  "pmc_id": "PMC12192402",
+  "title": "A misdiagnosed case of antisynthetase syndrome complicated by myocarditis: when the cardiologist deals with rheumatology.",
+  "authors": [
+    "L'Angiocola PD",
+    "Mattei L",
+    "Lardieri G"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "30976930",
+      "pmc_id": "PMC12192402",
+      "title": "A misdiagnosed case of antisynthetase syndrome complicated by myocarditis: when the cardiologist deals with rheumatology.",
+      "authors": [
+        "L'Angiocola PD",
+        "Mattei L",
+        "Lardieri G"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "We report a case of a 56-year-old woman with an alleged diagnosis of an acute coronary syndrome that was later correctly identified in our Cardiology Unit as antisynthetase syndrome (AS) with inflammatory cardiac involvement. In this case report, we focus on clinical features of this rare autoimmune disease aiming to provide useful tips to achieve correct differential diagnosis according to updated international guidelines and recommendations, especially in cases of concurrent disease-related myocarditis.",
+      "chunk_index": 0,
+      "char_count": 510,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}

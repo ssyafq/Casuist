@@ -1,0 +1,35 @@
+{
+  "pmid": "41342387",
+  "pmc_id": null,
+  "title": "Triple 'P' syndrome: Clinical recognition of a rare triad.",
+  "authors": [
+    "Bagrodia A",
+    "Kummetha LC",
+    "Vaithiyam V",
+    "Sonika U",
+    "Srivastava S"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41342387",
+      "pmc_id": null,
+      "title": "Triple 'P' syndrome: Clinical recognition of a rare triad.",
+      "authors": [
+        "Bagrodia A",
+        "Kummetha LC",
+        "Vaithiyam V",
+        "Sonika U",
+        "Srivastava S"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Pancreatitis-panniculitis-polyarthritis (PPP) syndrome is a rare extra-pancreatic manifestation of pancreatic disease. Its pathogenesis is probably related to the direct release of pancreatic lipase into the bloodstream, causing systemic fat necrosis. Initial treatment involves symptomatic relief, while addressing the underlying pancreatic enzyme leakage through endoscopic or surgical interventions. We report the case of a 10-year old girl who presented with abdominal symptoms, ascites, pleural effusion, panniculitis, and arthritis, and was ultimately diagnosed with chronic pancreatitis with associated PPP syndrome. She was successfully treated with percutaneous drainage, antibiotics, and endoscopic pancreatic duct stenting. This case highlights the importance of recognising systemic signs of pancreatic disease in children, which, if left untreated, can lead to significant morbidity and mortality.",
+      "chunk_index": 0,
+      "char_count": 910,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "41456187",
+  "pmc_id": null,
+  "title": "[A clinical case of ischemic stroke in a patient with cardiac myxoma].",
+  "authors": [
+    "Khasanova LT",
+    "Arkhagova KN",
+    "Kazakova ZD",
+    "Okhtova DK",
+    "Ismailova KA",
+    "Iarovoi MD",
+    "Reznik EV"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41456187",
+      "pmc_id": null,
+      "title": "[A clinical case of ischemic stroke in a patient with cardiac myxoma].",
+      "authors": [
+        "Khasanova LT",
+        "Arkhagova KN",
+        "Kazakova ZD",
+        "Okhtova DK",
+        "Ismailova KA",
+        "Iarovoi MD",
+        "Reznik EV"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Myxomas are tumors that occur due to the uncontrolled proliferation of mesenchymal cells. Cardiac myxomas, although very rare, are the most common primary tumors of this location, with a prevalence of 0.03% in the general population. This paper describes a clinical case of ischemic stroke (IS) in a patient with cardiac myxoma. It has been shown that non-invasive diagnostic methods, such as echocardiography and computer and magnetic resonance imaging, should be used to detect and assess cardiac tumors. Echocardiography in IS patients prevents recurrences associated with myxoma. Therefore, it is crucial to detect and remove the tumor at an early stage.",
+      "chunk_index": 0,
+      "char_count": 658,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

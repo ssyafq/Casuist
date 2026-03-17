@@ -1,0 +1,27 @@
+{
+  "pmid": "40779341",
+  "pmc_id": null,
+  "title": "A Life-Threatening Finding From Hypercoagulable States in DKA With Controversial Treatment.",
+  "authors": [
+    "Reid EY"
+  ],
+  "specialty": "diabetic ketoacidosis",
+  "sections": [
+    {
+      "pmid": "40779341",
+      "pmc_id": null,
+      "title": "A Life-Threatening Finding From Hypercoagulable States in DKA With Controversial Treatment.",
+      "authors": [
+        "Reid EY"
+      ],
+      "specialty": "diabetic ketoacidosis",
+      "section_type": "history",
+      "text": "Diabetic Ketoacidosis (DKA) is a severe complication typically observed in individuals with type 1 diabetes, but it can also occur with type 2 diabetes under certain circumstances. It is characterized by insulin deficiency leading to hyperglycemia, ketosis, and metabolic acidosis, necessitating immediate medical intervention to prevent severe complications and possible death. This article presents a case report of a 76-year-old man with no prior history of diabetes who presented in DKA with a thrombotic complication at the emergency department. The vascular endothelium serves as a barrier against thrombosis but is also a primary target of hyperglycemia. The presence of high glucose levels triggers adverse intracellular processes, leading to endothelial dysfunction. Hyperglycemia and insulin resistance contribute to increased platelet sensitivity, coagulation factor abnormalities, and impaired fibrinolysis (Li et al., 2021). This article delves into the identification and treatment of DKA complicated by the pro-thrombotic state, presenting a contentious treatment approach.",
+      "chunk_index": 0,
+      "char_count": 1088,
+      "subspecialty": "diabetic ketoacidosis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "diabetic ketoacidosis"
+}

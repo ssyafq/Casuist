@@ -1,0 +1,35 @@
+{
+  "pmid": "41688641",
+  "pmc_id": null,
+  "title": "Growing skull fracture presenting with late-onset seizures: a case report.",
+  "authors": [
+    "Vivek S",
+    "Kallely MF",
+    "Kutty RK",
+    "Prabhakar RB",
+    "Peethambaran AK"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41688641",
+      "pmc_id": null,
+      "title": "Growing skull fracture presenting with late-onset seizures: a case report.",
+      "authors": [
+        "Vivek S",
+        "Kallely MF",
+        "Kutty RK",
+        "Prabhakar RB",
+        "Peethambaran AK"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Growing skull fractures (GSF) are a rare but serious complication of pediatric head trauma. The condition primarily affects children due to the weak, thin skull, and tightly adherent dura, which is more prone to tearing. GSF can present in various ways, including seizures. We report a case of a 1-year-old girl who presented with seizures and a right-sided scalp swelling. The swelling was found to be due to a GSF, resulting from a previous head injury when the child was 2 months old. The child was managed with surgery, during which the dura was repaired along with osseous reconstruction. Neglected cases of GSF can lead to long-term neurological impairments, underscoring the importance of early recognition and intervention. This case highlights seizures as an important presentation of GSF and emphasizes the need for timely treatment.",
+      "chunk_index": 0,
+      "char_count": 843,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

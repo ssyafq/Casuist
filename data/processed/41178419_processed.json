@@ -1,0 +1,43 @@
+{
+  "pmid": "41178419",
+  "pmc_id": null,
+  "title": "A Rare Association of Purtscher's-Like Retinopathy With Acute Pancreatitis and Membranoproliferative Glomerulonephritis.",
+  "authors": [
+    "Rajendran M",
+    "Swaminathan B",
+    "Munuswamy V",
+    "Kurien AA",
+    "Chitraputrapillai P",
+    "Arunachalam J",
+    "Durai R",
+    "Velu S",
+    "Kan IS"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41178419",
+      "pmc_id": null,
+      "title": "A Rare Association of Purtscher's-Like Retinopathy With Acute Pancreatitis and Membranoproliferative Glomerulonephritis.",
+      "authors": [
+        "Rajendran M",
+        "Swaminathan B",
+        "Munuswamy V",
+        "Kurien AA",
+        "Chitraputrapillai P",
+        "Arunachalam J",
+        "Durai R",
+        "Velu S",
+        "Kan IS"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Purtscher's retinopathy is a chorioretinopathy with a visual disturbance that is identified in individuals with head trauma. A similar retinopathy occurring in non-traumatic conditions such as renal failure, acute pancreatitis, chest compression, connective tissue disorders and haematological disorders is termed Purtscher-like retinopathy (PLR). Fifty percent of cases of PLR could have a spontaneous improvement in vision. A combination of acute pancreatitis, acute kidney injury (AKI) with PLR and proteinuria with renal biopsy revealing membranoproliferative glomerulonephritis (MPGN) has not been reported earlier in the literature. The pathophysiology for the two presentations is different: leukoembolisation for PLR and complement dysregulation for MPGN.",
+      "chunk_index": 0,
+      "char_count": 763,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

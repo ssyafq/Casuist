@@ -1,0 +1,50 @@
+{
+  "pmid": "37060353",
+  "pmc_id": "PMC10572182",
+  "title": "Coexistence of Graves' disease with acute rheumatic fever treated as thyroid storm in young Thai patient.",
+  "authors": [
+    "Onsoi W",
+    "Srilanchakon K",
+    "Aroonparkmongkol S",
+    "Supornsilchai V"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "37060353",
+      "pmc_id": "PMC10572182",
+      "title": "Coexistence of Graves' disease with acute rheumatic fever treated as thyroid storm in young Thai patient.",
+      "authors": [
+        "Onsoi W",
+        "Srilanchakon K",
+        "Aroonparkmongkol S",
+        "Supornsilchai V"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "The child had intermittent involuntary movement of all extremities and both eyes for 4 days, with a previous history of increased appetite, weight lost, and heat intolerance over a period of two months. Physical examination revealed fever, tachycardia, exophthalmos, eyelid retraction, as well as diffused thyroid enlargement. Initial clinical features and thyroid function testing suggested a thyroid storm due to Graves' disease. Methimazole, propranolol, potassium iodide (SSKI), and dexamethasone were prescribed. Congestive heart failure developed after propranolol and cardiovascular re-evaluation and Revised Jones criteria suggested acute rheumatic fever. Chorea was successfully treated with pulse methylprednisolone.",
+      "chunk_index": 0,
+      "char_count": 726,
+      "subspecialty": "thyroid storm"
+    },
+    {
+      "pmid": "37060353",
+      "pmc_id": "PMC10572182",
+      "title": "Coexistence of Graves' disease with acute rheumatic fever treated as thyroid storm in young Thai patient.",
+      "authors": [
+        "Onsoi W",
+        "Srilanchakon K",
+        "Aroonparkmongkol S",
+        "Supornsilchai V"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "diagnosis",
+      "text": "thyroid enlargement. Initial clinical features and thyroid function testing suggested a thyroid storm due to Graves' disease. Methimazole, propranolol, potassium iodide (SSKI), and dexamethasone were prescribed. Congestive heart failure developed after propranolol and cardiovascular re-evaluation and Revised Jones criteria suggested acute rheumatic fever. Chorea was successfully treated with pulse methylprednisolone.\n\nWe reported Graves' disease patients with acute rheumatic fever simulating a thyroid storm. The underlying cardiac disease must be considered, especially where chorea and congestive heart failure are present.",
+      "chunk_index": 1,
+      "char_count": 630,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

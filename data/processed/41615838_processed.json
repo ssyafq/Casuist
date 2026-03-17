@@ -1,0 +1,79 @@
+{
+  "pmid": "41615838",
+  "pmc_id": "PMC12657270",
+  "title": "Imported aseptic meningitis due to Toscana virus infection in Austria since 2006, including a case series from 2023.",
+  "authors": [
+    "Szojka ZI",
+    "Florian DM",
+    "Cabal A",
+    "Ruppitsch W",
+    "Aberle SW",
+    "Otto F",
+    "Camp JV"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41615838",
+      "pmc_id": "PMC12657270",
+      "title": "Imported aseptic meningitis due to Toscana virus infection in Austria since 2006, including a case series from 2023.",
+      "authors": [
+        "Szojka ZI",
+        "Florian DM",
+        "Cabal A",
+        "Ruppitsch W",
+        "Aberle SW",
+        "Otto F",
+        "Camp JV"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "We report a series of four imported cases of TOSV-AM diagnosed in Salzburg between July and September 2023, after travel to Italy. In addition, we analyzed all TOSV cases identified by the Austrian National Reference Center (2006-2018). Diagnosis was confirmed by immunoglobulin (Ig)M/G serology. Partial N-gene Sanger sequencing was performed for three cases in total.",
+      "chunk_index": 0,
+      "char_count": 369,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41615838",
+      "pmc_id": "PMC12657270",
+      "title": "Imported aseptic meningitis due to Toscana virus infection in Austria since 2006, including a case series from 2023.",
+      "authors": [
+        "Szojka ZI",
+        "Florian DM",
+        "Cabal A",
+        "Ruppitsch W",
+        "Aberle SW",
+        "Otto F",
+        "Camp JV"
+      ],
+      "specialty": "meningitis",
+      "section_type": "labs",
+      "text": "four imported cases of TOSV-AM diagnosed in Salzburg between July and September 2023, after travel to Italy. In addition, we analyzed all TOSV cases identified by the Austrian National Reference Center (2006-2018). Diagnosis was confirmed by immunoglobulin (Ig)M/G serology. Partial N-gene Sanger sequencing was performed for three cases in total.\n\nBefore the 2023 case series, we retrospectively identified a total of six TOSV-AM cases (three male and three female; median age was 43 years [22-53]). All four 2023 patients (three male and one female; median age was 45.5 years [37-50]) presented with clinical signs of meningitis, including headache, with three reporting insect bites. Lumbar puncture confirmed the diagnosis in three cases and IgM/IgG serology confirmed infection in all cases. TOSV detection by polymerase chain reaction in serum was possible in one patient, with nucleic acid sequencing identifying a lineage B strain. Previously diagnosed case patients were identified as lineage A.",
+      "chunk_index": 1,
+      "char_count": 1004,
+      "subspecialty": "meningitis"
+    },
+    {
+      "pmid": "41615838",
+      "pmc_id": "PMC12657270",
+      "title": "Imported aseptic meningitis due to Toscana virus infection in Austria since 2006, including a case series from 2023.",
+      "authors": [
+        "Szojka ZI",
+        "Florian DM",
+        "Cabal A",
+        "Ruppitsch W",
+        "Aberle SW",
+        "Otto F",
+        "Camp JV"
+      ],
+      "specialty": "meningitis",
+      "section_type": "diagnosis",
+      "text": "reporting insect bites. Lumbar puncture confirmed the diagnosis in three cases and IgM/IgG serology confirmed infection in all cases. TOSV detection by polymerase chain reaction in serum was possible in one patient, with nucleic acid sequencing identifying a lineage B strain. Previously diagnosed case patients were identified as lineage A.\n\nWe report a total of 10 serologically confirmed cases of TOSV-AM in Austria since 2006. Despite evidence of growing incidence of TOSV circulation in neighboring countries, this is the first well-characterized case series in Austria. Considering the recent rise in TOSV cases in endemic regions, likely driven by climate change and urbanization, imported TOSV-AM cases in Austria may increase in the future.",
+      "chunk_index": 2,
+      "char_count": 749,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

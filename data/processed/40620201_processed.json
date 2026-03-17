@@ -1,0 +1,37 @@
+{
+  "pmid": "40620201",
+  "pmc_id": null,
+  "title": "Occult organophosphate poisoning mimicking acute coronary syndrome.",
+  "authors": [
+    "Sood H",
+    "Sibi K",
+    "Bijay KC",
+    "Sahoo NK",
+    "Saroch A",
+    "Pannu AK"
+  ],
+  "specialty": "acute coronary syndrome",
+  "sections": [
+    {
+      "pmid": "40620201",
+      "pmc_id": null,
+      "title": "Occult organophosphate poisoning mimicking acute coronary syndrome.",
+      "authors": [
+        "Sood H",
+        "Sibi K",
+        "Bijay KC",
+        "Sahoo NK",
+        "Saroch A",
+        "Pannu AK"
+      ],
+      "specialty": "acute coronary syndrome",
+      "section_type": "history",
+      "text": "Organophosphate (OP) poisoning is a frequent toxicological emergency worldwide, particularly in low- and middle-income countries. Because the characteristic cholinergic toxidrome involves multiple systems, the absence of a clear history of exposure and clinical suspicion may lead to a disastrous misdiagnosis. We report a previously healthy male who presented with acute dyspnoea, chest pain, and diaphoresis, whose signs were suggestive of non-ST elevation acute coronary syndrome and pneumonia. Despite standard treatment, he deteriorated, necessitating intubation. However, the characteristic odour of OP prompted atropine treatment, leading to significant clinical improvement. Serum acetylcholinesterase activity was markedly reduced, confirming OP poisoning as the underlying cause.",
+      "chunk_index": 0,
+      "char_count": 789,
+      "subspecialty": "acute coronary syndrome"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "acute coronary syndrome"
+}

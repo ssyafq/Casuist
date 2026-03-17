@@ -1,0 +1,39 @@
+{
+  "pmid": "41496075",
+  "pmc_id": "PMC12778198",
+  "title": "Lessons from a misdiagnosed maternal pulmonary embolism: A case report and literature review.",
+  "authors": [
+    "Chi P",
+    "Shi R",
+    "Wu T",
+    "Li MJ",
+    "Guo H",
+    "Huang QC",
+    "Liao WJ"
+  ],
+  "specialty": "pulmonary embolism",
+  "sections": [
+    {
+      "pmid": "41496075",
+      "pmc_id": "PMC12778198",
+      "title": "Lessons from a misdiagnosed maternal pulmonary embolism: A case report and literature review.",
+      "authors": [
+        "Chi P",
+        "Shi R",
+        "Wu T",
+        "Li MJ",
+        "Guo H",
+        "Huang QC",
+        "Liao WJ"
+      ],
+      "specialty": "pulmonary embolism",
+      "section_type": "history",
+      "text": "RATIONALE: Pulmonary embolism (PE) is a leading cause of maternal mortality in developed countries. However, because its clinical symptoms overlap significantly with normal physiological changes during pregnancy, it is extremely prone to misdiagnosis. PATIENT CONCERNS: A pregnant woman in the early stage of pregnancy was diagnosed with pneumonia due to fever and cough. After ineffective treatment with penicillin, her symptoms were relieved after she was switched to cephalosporin antibiotics combined with methylprednisolone. However, the symptoms recurred after discontinuation of the medication. DIAGNOSES: Further chest contrast-enhanced computed tomography confirmed PE. INTERVENTIONS: Through active anticoagulation treatment, the patient's symptoms completely recovered, and her abnormal imaging manifestations also significantly decreased. OUTCOMES: Eventually, the woman gave birth to a healthy male baby. LESSONS: The process of misdiagnosis in this case was complicated and worthy of further investigation. These findings suggest that antibiotics combined with methylprednisolone can alleviate the symptoms of early pregnancy PE, but it should not be used as the main treatment method.",
+      "chunk_index": 0,
+      "char_count": 1199,
+      "subspecialty": "pulmonary embolism"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pulmonary embolism"
+}

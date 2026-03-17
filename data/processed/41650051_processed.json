@@ -1,0 +1,31 @@
+{
+  "pmid": "41650051",
+  "pmc_id": "PMC12885713",
+  "title": "Case report and comprehensive literature review: A rare instance of lipoid pneumonia.",
+  "authors": [
+    "Liu Y",
+    "Wang M",
+    "Yu SH"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41650051",
+      "pmc_id": "PMC12885713",
+      "title": "Case report and comprehensive literature review: A rare instance of lipoid pneumonia.",
+      "authors": [
+        "Liu Y",
+        "Wang M",
+        "Yu SH"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "RATIONALE: This case report elucidates the diagnostic challenges and natural progression of lipoid pneumonia (LP), a rare pulmonary condition, highlighting the critical importance of long-term monitoring. PATIENT CONCERNS: An 82-year-old female presented with a 2-year history of chronic cough and an acute exacerbation. DIAGNOSES: Initial diagnosis was severe pneumonia. Definitive diagnosis of LP was confirmed by computed tomography -guided lung biopsy, which revealed lipid-laden macrophages. INTERVENTIONS: Suspected lipid exposure was discontinued, and supportive conservative care was provided. OUTCOMES: Despite intervention, serial follow-up computed tomography scans showed slow radiographic progression of the pneumonia. LESSONS: LP has nonspecific presentations, leading to underdiagnosis. Diagnosis requires suspicion, exposure history, and pathological confirmation. Management focuses on eliminating the cause and supportive care, yet progression may still occur, necessitating long-term monitoring.",
+      "chunk_index": 0,
+      "char_count": 1014,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

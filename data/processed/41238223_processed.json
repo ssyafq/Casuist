@@ -1,0 +1,37 @@
+{
+  "pmid": "41238223",
+  "pmc_id": "PMC12712789",
+  "title": "Acute necrotising pancreatitis in a patient with Behcet's disease.",
+  "authors": [
+    "Albadi AA",
+    "Alharthi A",
+    "Alrayes H",
+    "Albadi M",
+    "Alrehaily A",
+    "Alqwizani A"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41238223",
+      "pmc_id": "PMC12712789",
+      "title": "Acute necrotising pancreatitis in a patient with Behcet's disease.",
+      "authors": [
+        "Albadi AA",
+        "Alharthi A",
+        "Alrayes H",
+        "Albadi M",
+        "Alrehaily A",
+        "Alqwizani A"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "A man in his 40s of Middle Eastern descent, with no prior medical history, presented with severe abdominal pain that had progressed over 2 days. He was diagnosed with acute necrotising pancreatitis, multifocal venous thromboembolism and acute kidney injury, requiring admission to the intensive care unit. After exclusion of common causes of pancreatitis, a systemic inflammatory or vasculitic process was suspected. Treatment with intravenous methylprednisolone, followed by a tapering course of oral prednisone, led to clinical stabilisation. Given the clinical evolution and the patient's ethnic background, Behcet's disease was strongly suspected, and therapy with colchicine, adalimumab and mycophenolate mofetil was initiated. The patient improved significantly and was discharged with plans for outpatient rheumatology follow-up. This case highlights a rare but serious gastrointestinal manifestation of Behcet's disease and underscores the importance of early recognition and immunosuppressive management in systemic vasculitides.",
+      "chunk_index": 0,
+      "char_count": 1038,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

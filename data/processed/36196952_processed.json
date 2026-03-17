@@ -1,0 +1,29 @@
+{
+  "pmid": "36196952",
+  "pmc_id": "PMC9537478",
+  "title": "A Case of Thyroid Storm Caused by Thyroiditis.",
+  "authors": [
+    "Newman K",
+    "Walthall L"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "36196952",
+      "pmc_id": "PMC9537478",
+      "title": "A Case of Thyroid Storm Caused by Thyroiditis.",
+      "authors": [
+        "Newman K",
+        "Walthall L"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyroid storm occurs when thyroid hormones are released causing a hyperadrenergic state resulting in potentially life-threatening cardio-respiratory effects. The most common cause of thyroid storm is thyrotoxicosis secondary to Graves disease. Alternatively, subacute thyroiditis (SAT) is usually a self-limited condition consisting of painful inflammation of thyroid gland, often associated with viral illness. Transient hyperthyroidism is a common finding in SAT; however, thyroid storm is an extremely rare complication of SAT. We report the sixth recorded case of SAT associated with thyroid storm.",
+      "chunk_index": 0,
+      "char_count": 602,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "41510869",
+  "pmc_id": null,
+  "title": "Understanding and Managing Infantile PHGDH Deficiency: A Case Report.",
+  "authors": [
+    "Nilay M",
+    "Manisha R",
+    "Singh DK"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41510869",
+      "pmc_id": null,
+      "title": "Understanding and Managing Infantile PHGDH Deficiency: A Case Report.",
+      "authors": [
+        "Nilay M",
+        "Manisha R",
+        "Singh DK"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "Phosphoglycerate dehydrogenase deficiency is a rare neurometabolic disorder with clinical features of congenital microcephaly, psychomotor retardation, intractable seizures, and spasticity. We report a 2.5-year-old boy presenting with speech delay, seizures, microcephaly, and hyperactive behavior. Genetic testing detected a likely pathogenic homozygous variant c.1129G>A in the PHGDH gene. Parents were carrier for the detected variant. Biochemical analysis showed low serine and treatment with oral serine and glycine resulted in seizure control, followed by catchup of developmental milestones. This case illustrates the need for evaluating underlying neurometabolic causes, particularly treatable entities, in clinical presentations similar to cerebral palsy.",
+      "chunk_index": 0,
+      "char_count": 764,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "41407495",
+  "pmc_id": null,
+  "title": "Hypertriglyceridaemic pancreatitis associated with atypical haemolytic uraemic syndrome and secondary haemophagocytic lymphohistiocytosis: an immune system gone rogue.",
+  "authors": [
+    "Tse J",
+    "Phan T",
+    "Zotov N",
+    "Bennett A",
+    "Sandhu M"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41407495",
+      "pmc_id": null,
+      "title": "Hypertriglyceridaemic pancreatitis associated with atypical haemolytic uraemic syndrome and secondary haemophagocytic lymphohistiocytosis: an immune system gone rogue.",
+      "authors": [
+        "Tse J",
+        "Phan T",
+        "Zotov N",
+        "Bennett A",
+        "Sandhu M"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Hypertriglyceridaemia is a well-documented cause of pancreatitis. Although rare, pancreatitis can result in life-threatening complications such as atypical haemolytic uremic syndrome (aHUS) and secondary haemophagocytic lymphohistiocytosis (sHLH). Our case presents a female in her late 30s with right upper abdominal pain, elevated triglycerides and lipase levels in the background of an undiagnosed genetic hypertriglyceridaemia (HTG). These findings are consistent with the diagnosis of HTG pancreatitis. Her condition deteriorated a week following admission with the development of rhabdomyolysis and aHUS characterised by haemolysis, progressive renal failure and thrombocytopenia. Unremitting fevers ensued during the course of her illness and prompted the diagnosis of sHLH. She was treated with eculizumab and glucocorticoids with eventual resolution of the disease process and restoration of her renal function. Notably, a subsequent aHUS genetic panel returned negative indicating a low risk of further relapse.",
+      "chunk_index": 0,
+      "char_count": 1021,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

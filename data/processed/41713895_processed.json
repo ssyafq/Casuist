@@ -1,0 +1,33 @@
+{
+  "pmid": "41713895",
+  "pmc_id": null,
+  "title": "Tuberculosis or vasculitis? Granulomatous inflammation of the pancreatic tail as an atypical presentation of granulomatosis with polyangiitis.",
+  "authors": [
+    "Whallett M",
+    "Ayaz A",
+    "Hagan G",
+    "Sagar V"
+  ],
+  "specialty": "pancreatitis",
+  "sections": [
+    {
+      "pmid": "41713895",
+      "pmc_id": null,
+      "title": "Tuberculosis or vasculitis? Granulomatous inflammation of the pancreatic tail as an atypical presentation of granulomatosis with polyangiitis.",
+      "authors": [
+        "Whallett M",
+        "Ayaz A",
+        "Hagan G",
+        "Sagar V"
+      ],
+      "specialty": "pancreatitis",
+      "section_type": "history",
+      "text": "Granulomatosis with polyangiitis (GPA), a subtype of antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV), is a systemic inflammatory disease that typically affects the respiratory tract and kidneys. However, atypical pancreatic manifestations have been reported, which may present clinically as acute pancreatitis or exocrine insufficiency, and radiologically as pancreatic enlargement or pseudotumour.A female in her 40s presented with nasal crusting and epistaxis. She subsequently developed fever, weight loss, haemoptysis, bilateral pulmonary nodules and a pancreatic tail mass. Pancreatic biopsy revealed caseating granulomatous inflammation, and antitubercular therapy was commenced.On developing haematuria and proteinuria, proteinase 3-ANCA testing and renal biopsy confirmed AAV. Treatment with rituximab and high-dose corticosteroids led to clinical improvement and radiological regression of both pulmonary and pancreatic lesions, consistent with systemic GPA involvement.This case highlights the importance of considering systemic inflammatory disease, alongside infective and malignant aetiologies, when evaluating pancreatic masses or focal pancreatitis with constitutional symptoms and multiorgan involvement.",
+      "chunk_index": 0,
+      "char_count": 1243,
+      "subspecialty": "pancreatitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pancreatitis"
+}

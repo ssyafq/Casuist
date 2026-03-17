@@ -1,0 +1,33 @@
+{
+  "pmid": "40641202",
+  "pmc_id": null,
+  "title": "A 28-Year-Old Woman with Impending Thyroid Storm, Hyperbilirubinemia, and Total Atrioventricular Block.",
+  "authors": [
+    "Seno KHNH",
+    "Hutami HT",
+    "Silitonga FAH",
+    "Ardiani R"
+  ],
+  "specialty": "thyroid storm",
+  "sections": [
+    {
+      "pmid": "40641202",
+      "pmc_id": null,
+      "title": "A 28-Year-Old Woman with Impending Thyroid Storm, Hyperbilirubinemia, and Total Atrioventricular Block.",
+      "authors": [
+        "Seno KHNH",
+        "Hutami HT",
+        "Silitonga FAH",
+        "Ardiani R"
+      ],
+      "specialty": "thyroid storm",
+      "section_type": "history",
+      "text": "Thyrotoxicosis, a state of excess thyroid hormone, often presents with diverse clinical manifestations, including thyroid storm, a rare but critical condition. Here, we present a case of a 28-year-old woman with thyrotoxicosis, hyperbilirubinemia, and total atrioventricular (AV) block. The patient exhibited jaundice, chest discomfort, and a history of chronic diarrhea, weight loss, tremors, and exertional dyspnea. She was on propylthiouracil and propranolol for two weeks. Physical examination revealed jaundice, proptosis, a large goiter, and tremors. Laboratory tests on admission indicated elevated liver enzymes, hypokalemia, and markedly elevated thyroid hormones. ECG revealed total AV block. Treatment involved hydrocortisone, thiamazole, discontinuation of propranolol, and gradual correction of electrolyte imbalances. The patient improved clinically, and propranolol's discontinuation improved the rhythm disturbance. The Patient was discharged for outpatient Graves' disease management. Future assessments may include an electrophysiology study if needed. Total AV block in thyrotoxicosis is rare. This case highlights the complexity of managing thyrotoxicosis with concurrent hepatic and cardiac complications, emphasizing the importance of tailored treatment strategies and close monitoring.",
+      "chunk_index": 0,
+      "char_count": 1308,
+      "subspecialty": "thyroid storm"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "thyroid storm"
+}

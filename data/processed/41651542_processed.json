@@ -1,0 +1,35 @@
+{
+  "pmid": "41651542",
+  "pmc_id": null,
+  "title": "Endomyocardial calcification with pulmonary and systemic hypertension in a term neonate with multisystem inflammatory syndrome of newborn (MIS-N).",
+  "authors": [
+    "Satpathy SK",
+    "Paswal CM",
+    "Gupta N",
+    "Soni JP",
+    "Choudhary SK"
+  ],
+  "specialty": "pneumonia",
+  "sections": [
+    {
+      "pmid": "41651542",
+      "pmc_id": null,
+      "title": "Endomyocardial calcification with pulmonary and systemic hypertension in a term neonate with multisystem inflammatory syndrome of newborn (MIS-N).",
+      "authors": [
+        "Satpathy SK",
+        "Paswal CM",
+        "Gupta N",
+        "Soni JP",
+        "Choudhary SK"
+      ],
+      "specialty": "pneumonia",
+      "section_type": "history",
+      "text": "Multisystem inflammatory syndrome in neonates (MIS-N) is a rare condition linked to perinatal exposure to SARS-CoV-2. We report a case of a term male neonate presenting at birth with severe respiratory failure and persistent pulmonary hypertension of the newborn. Initial evaluations, including chest X-ray and ECG, were unremarkable, but echocardiography showed elevated pulmonary pressures without structural abnormalities. Over the next few days, the infant developed diffuse skin peeling, acute kidney injury and hypertension, creating a perplexing clinical picture. Only after retrospective maternal history revealed a late-pregnancy febrile illness was SARS-CoV-2 testing performed: the mother was RT-PCR positive, and the neonate had markedly elevated SARS-CoV-2 IgG with negative RT-PCR, consistent with proposed diagnostic criteria for MIS-N. The infant responded well to methylprednisolone (2 mg/kg/day) and intravenous immunoglobulin (2 g/kg). Serial echocardiography revealed diffuse endomyocardial and coronary intimal echogenicity suggestive of calcification, reproducible across time and imaging platforms, a feature not previously described in MIS-N. Persistent systemic hypertension was attributed to MIS-N after exclusion of other causes. The infant was discharged on aspirin (3 mg/kg/day) and antihypertensives and remains well on follow-up. This case underscores the diagnostic challenges of MIS-N and highlights unusual sequelae such as myocardial calcification and neonatal hypertension.",
+      "chunk_index": 0,
+      "char_count": 1509,
+      "subspecialty": "pneumonia"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "pneumonia"
+}

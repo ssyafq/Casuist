@@ -1,0 +1,33 @@
+{
+  "pmid": "41630202",
+  "pmc_id": "PMC12863785",
+  "title": "A case report of atypical human infection with Streptococcus suis purulent meningitis.",
+  "authors": [
+    "Han A",
+    "Guo J",
+    "Wang Y",
+    "Han H"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41630202",
+      "pmc_id": "PMC12863785",
+      "title": "A case report of atypical human infection with Streptococcus suis purulent meningitis.",
+      "authors": [
+        "Han A",
+        "Guo J",
+        "Wang Y",
+        "Han H"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "RATIONALE: We report a case of purulent meningitis caused by Streptococcus suis infection in a 65-year-old male patient. The patient had no typical epidemiological history and was admitted with fever, headache, and psycho-behavioral abnormalities. Compared with previous reports, this case has particularities in terms of diagnostic methods, epidemiology and clinical manifestations. Combined with the literature analysis, it aims to provide reference for clinical development of targeted diagnosis and treatment plan, clear research direction and guide public health institutions to carry out traceability prevention and control. PATIENT CONCERNS: Fever, headache, psychiatric behavioral abnormalities (delirium, confusion), neck stiffness, and a positive Kernig's sign, indicating meningeal irritation; there were no symptoms such as nausea, vomiting, or convulsions. DIAGNOSES: Purulent meningitis caused by S suis infection. INTERVENTIONS: During the initial stage, broad-spectrum antibiotics such as meropenem and vancomycin were administered empirically. After confirmation of S suis infection, the treatment was adjusted to a high-dose penicillin combined with vancomycin. Supportive therapies, including neurotrophic agents, hepatoprotective drugs, and electrolyte imbalance correction, have also been provided. OUTCOMES: Following treatment, the frequency of fever decreased, consciousness was restored, and inflammatory marker levels improved. Hearing loss remained a sequela. The patient was discharged approximately 2 months after hospitalization and continued penicillin therapy, with instructions to return for follow-up if any discomfort occurred. LESSONS: This case suggests that vigilance is required even in the absence of a typical epidemiological history; attention should be paid to including next generation sequencing technology in the diagnostic process of unexplained meningitis in order to shorten the time of diagnosis, guide precise anti-infective treatment, avoid antibiotic abuse and reduce drug resistance. When the clinical manifestations are atypical, the influence of pathogenic variants or early treatment needs to be considered and should not be restricted to classical manifestations. In addition, reporting such cases is of great public health importance to regional healthcare facilities and helps raise awareness of zoonoses diagnosis, even in non-endemic areas.",
+      "chunk_index": 0,
+      "char_count": 2402,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

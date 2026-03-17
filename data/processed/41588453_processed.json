@@ -1,0 +1,79 @@
+{
+  "pmid": "41588453",
+  "pmc_id": "PMC12918064",
+  "title": "Successful management of the recurrent acute in-stent thrombosis despite optimal medical therapy: a case report and review of the literature.",
+  "authors": [
+    "Ebrahimi P",
+    "Akbari T",
+    "Namin SM",
+    "Eslami V",
+    "Ramezani P",
+    "Hussain A",
+    "Shahid F"
+  ],
+  "specialty": "myocardial infarction",
+  "sections": [
+    {
+      "pmid": "41588453",
+      "pmc_id": "PMC12918064",
+      "title": "Successful management of the recurrent acute in-stent thrombosis despite optimal medical therapy: a case report and review of the literature.",
+      "authors": [
+        "Ebrahimi P",
+        "Akbari T",
+        "Namin SM",
+        "Eslami V",
+        "Ramezani P",
+        "Hussain A",
+        "Shahid F"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "Recurrent in-stent thrombosis is a rare but life-threatening complication following percutaneous coronary intervention, even when newer-generation stents and standard dual antiplatelet therapy are used. Mechanical issues such as stent malapposition and underexpansion, often undetectable by angiography, play a critical role in early stent failure. Additionally, systemic risk factors such as diabetes and dyslipidemia contribute significantly to thrombotic events. This case highlights the importance of high-resolution intravascular imaging in identifying hidden mechanical causes of stent failure and underscores the need for a comprehensive, individualized treatment approach.",
+      "chunk_index": 0,
+      "char_count": 680,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41588453",
+      "pmc_id": "PMC12918064",
+      "title": "Successful management of the recurrent acute in-stent thrombosis despite optimal medical therapy: a case report and review of the literature.",
+      "authors": [
+        "Ebrahimi P",
+        "Akbari T",
+        "Namin SM",
+        "Eslami V",
+        "Ramezani P",
+        "Hussain A",
+        "Shahid F"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "history",
+      "text": "angiography, play a critical role in early stent failure. Additionally, systemic risk factors such as diabetes and dyslipidemia contribute significantly to thrombotic events. This case highlights the importance of high-resolution intravascular imaging in identifying hidden mechanical causes of stent failure and underscores the need for a comprehensive, individualized treatment approach.\n\nA 43-year-old South Asian man with newly diagnosed type 2 diabetes and elevated cholesterol presented with acute chest pain and was diagnosed with an anterior ST-elevation myocardial infarction. He underwent primary percutaneous coronary intervention with drug-eluting stent placement in the proximal segment of the left anterior descending artery. Despite a successful procedure and appropriate medical therapy, the patient experienced two additional episodes of acute in-stent thrombosis within 17 days. These were managed with repeat balloon angioplasty, a second stent, and administration of intravenous antiplatelet agents. On his third presentation, intravascular imaging using optical coherence tomography revealed significant stent underexpansion and malapposition that were not appreciated during prior angiographic assessments. High-pressure balloon dilatation was performed to achieve full expansion and proper apposition of the stents. Following this, intensive secondary prevention strategies were implemented, including strict glucose control, high-dose cholesterol-lowering therapy, and continued antiplatelet treatment. The patient's left ventricular ejection fraction improved from ~30% at day 16 to 40-45% by month 6, with stability thereafter.",
+      "chunk_index": 1,
+      "char_count": 1653,
+      "subspecialty": "myocardial infarction"
+    },
+    {
+      "pmid": "41588453",
+      "pmc_id": "PMC12918064",
+      "title": "Successful management of the recurrent acute in-stent thrombosis despite optimal medical therapy: a case report and review of the literature.",
+      "authors": [
+        "Ebrahimi P",
+        "Akbari T",
+        "Namin SM",
+        "Eslami V",
+        "Ramezani P",
+        "Hussain A",
+        "Shahid F"
+      ],
+      "specialty": "myocardial infarction",
+      "section_type": "diagnosis",
+      "text": "performed to achieve full expansion and proper apposition of the stents. Following this, intensive secondary prevention strategies were implemented, including strict glucose control, high-dose cholesterol-lowering therapy, and continued antiplatelet treatment. The patient's left ventricular ejection fraction improved from ~30% at day 16 to 40-45% by month 6, with stability thereafter.\n\nThis case illustrates how recurrent in-stent thrombosis may occur despite adherence to current procedural and pharmacological standards. Mechanical causes, particularly those not visible on angiography, should be actively investigated using intravascular imaging in patients with unexplained or repeated stent thrombosis. Early identification and correction of these issues, combined with aggressive control of metabolic risk factors, are essential for preventing further events and improving clinical outcomes.",
+      "chunk_index": 2,
+      "char_count": 900,
+      "subspecialty": "myocardial infarction"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "myocardial infarction"
+}

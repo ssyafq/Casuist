@@ -1,0 +1,37 @@
+{
+  "pmid": "41609122",
+  "pmc_id": null,
+  "title": "Unprovoked Cerebral Venous Infarction Presenting as Audio-Visual Hallucinations: A Case Presentation.",
+  "authors": [
+    "Huang B",
+    "Ahmad H",
+    "Proteasa S",
+    "Lado F",
+    "Franceschi AM",
+    "Youn JM"
+  ],
+  "specialty": "stroke",
+  "sections": [
+    {
+      "pmid": "41609122",
+      "pmc_id": null,
+      "title": "Unprovoked Cerebral Venous Infarction Presenting as Audio-Visual Hallucinations: A Case Presentation.",
+      "authors": [
+        "Huang B",
+        "Ahmad H",
+        "Proteasa S",
+        "Lado F",
+        "Franceschi AM",
+        "Youn JM"
+      ],
+      "specialty": "stroke",
+      "section_type": "history",
+      "text": "Cerebral venous sinus thrombosis (CVST) is a rare type of stroke with a variable presentation. Without a prompt diagnosis, subacute presentation can delay treatment with devastating results. Our case presents an unusual clinical pattern of a young patient presenting with audio-visual hallucinations who was diagnosed with CVST. A 26-year-old man with no neurological or psychological history presented with audio-visual hallucinations, transient uncontrolled movements of his left upper extremities, and right-sided headache. Physical examination was nonfocal, and he demonstrated normal awareness, orientation, and motor function. CT angiography, CT venography (CTV) of the head, and magnetic resonance imaging of the brain were suggestive of multiple intracranial malformations versus neoplasm. The patient underwent digital subtraction angiography, which demonstrated nonocclusive thrombi in several right posterior temporal cortical veins. There was also a nonocclusive thrombus in the right sigmoid sinus. No intracranial aneurysm, arteriovenous malformation, or arteriovenous shunting was found. The patient was started on antiseizure medication as treatment for ongoing hallucinations and convulsions. After several days of intravenous heparin, the patient was transitioned to oral anticoagulant. CVST is a rare cerebrovascular disease, accounting for 0.5% of all strokes. Diagnosis is usually made in young adults with pre-existing hypercoagulable risk factors or positive family history. With symptoms such as those mentioned above, a high degree of suspicion is required to mitigate delay in diagnosis and therapy. Our case is the first documented case of a young patient with no relevant past medical history and risk factors developing hallucinations related CVST.",
+      "chunk_index": 0,
+      "char_count": 1777,
+      "subspecialty": "stroke"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "stroke"
+}

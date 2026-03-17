@@ -1,0 +1,33 @@
+{
+  "pmid": "41614251",
+  "pmc_id": null,
+  "title": "[Super-refractory status epilepticus caused by hereditary mitochondrial disease].",
+  "authors": [
+    "Sorensen NB",
+    "Stamenkovic K",
+    "Steffensen EH",
+    "Kofoed IR"
+  ],
+  "specialty": "seizure",
+  "sections": [
+    {
+      "pmid": "41614251",
+      "pmc_id": null,
+      "title": "[Super-refractory status epilepticus caused by hereditary mitochondrial disease].",
+      "authors": [
+        "Sorensen NB",
+        "Stamenkovic K",
+        "Steffensen EH",
+        "Kofoed IR"
+      ],
+      "specialty": "seizure",
+      "section_type": "history",
+      "text": "In this case report, we present an 11-year-old girl who developed super-refractory status epilepticus (SRSE) after focal seizures. Initial investigations, including MRI, CSF analysis, and autoimmune panels, were normal. Despite extensive treatment with several anti-seizure medications, immunotherapy, attempt of treatment with ketogenic diet and anesthetic infusions targeting burst-suppression, no improvement occurred. Trio whole genome sequencing revealed compound heterozygous pathogenic variants in POLG, confirming mitochondrial disease. Due to poor prognosis and deterioration, treatment was withdrawn, and she died in ICU.",
+      "chunk_index": 0,
+      "char_count": 631,
+      "subspecialty": "seizure"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "seizure"
+}

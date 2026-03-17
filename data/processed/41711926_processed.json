@@ -1,0 +1,41 @@
+{
+  "pmid": "41711926",
+  "pmc_id": "PMC12919915",
+  "title": "Eosinophilic meningitis caused by Angiostrongylus cantonensis: case report in a patient with false-positive immunological test result for Neisseria meningitides.",
+  "authors": [
+    "Alvarez MNP",
+    "Leon JSS",
+    "da Silva TM",
+    "de Castro RDM",
+    "Hilbig A",
+    "de Melo LCV",
+    "Graeff-Teixeira C",
+    "Pasqualotto AC"
+  ],
+  "specialty": "meningitis",
+  "sections": [
+    {
+      "pmid": "41711926",
+      "pmc_id": "PMC12919915",
+      "title": "Eosinophilic meningitis caused by Angiostrongylus cantonensis: case report in a patient with false-positive immunological test result for Neisseria meningitides.",
+      "authors": [
+        "Alvarez MNP",
+        "Leon JSS",
+        "da Silva TM",
+        "de Castro RDM",
+        "Hilbig A",
+        "de Melo LCV",
+        "Graeff-Teixeira C",
+        "Pasqualotto AC"
+      ],
+      "specialty": "meningitis",
+      "section_type": "history",
+      "text": "Eosinophilic meningitis caused by Angiostrongylus cantonensis is an uncommon disease in Brazil that occurs by ingesting slugs, water or food contaminated with the parasite. Here we report a case of a 64-year-old patient with neck stiffness, headache, fever, and peripheral and cerebrospinal fluid (CSF) eosinophilia, compatible with eosinophilic meningitis. He had a false-positive result for Neisseria meningitides and received unsuccessful treatment with antibiotics. After extensive investigation, DNA and anti-A.cantonensis antibodies were detected and the patient was successfully treated with prednisone and albendazole. Diagnosis of neuroangiostrongyliasis relies on epidemiological data, as well as clinical and laboratory examinations such as detection of antibodies and DNA of the parasite in CSF. Its timely treatment with corticosteroid therapy reduces damage to neural tissues and manages headache.",
+      "chunk_index": 0,
+      "char_count": 911,
+      "subspecialty": "meningitis"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "meningitis"
+}

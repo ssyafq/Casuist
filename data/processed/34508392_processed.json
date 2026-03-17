@@ -1,0 +1,39 @@
+{
+  "pmid": "34508392",
+  "pmc_id": "PMC12471194",
+  "title": "A challenging road to diagnosing transthyretin cardiac amyloidosis and using technetium-99m pyrophosphate bone scintigraphy in nuclear cardiology - A case report.",
+  "authors": [
+    "Kavita A",
+    "Abdul Onny MA",
+    "Suppiah S",
+    "Abdul Aziz AF",
+    "Hashim H",
+    "Raja Shariff RE",
+    "Ng CS"
+  ],
+  "specialty": "cardiology",
+  "sections": [
+    {
+      "pmid": "34508392",
+      "pmc_id": "PMC12471194",
+      "title": "A challenging road to diagnosing transthyretin cardiac amyloidosis and using technetium-99m pyrophosphate bone scintigraphy in nuclear cardiology - A case report.",
+      "authors": [
+        "Kavita A",
+        "Abdul Onny MA",
+        "Suppiah S",
+        "Abdul Aziz AF",
+        "Hashim H",
+        "Raja Shariff RE",
+        "Ng CS"
+      ],
+      "specialty": "cardiology",
+      "section_type": "history",
+      "text": "Cardiac amyloidosis (CA) is a rare form of protein deposition disease, leading to restrictive cardiomyopathy that often presents with signs and symptoms of unexplained heart failure with preserved ejection fraction (HFpEF). There are two main subtypes of CA, namely light chain amyloidosis (AL) and transthyretin amyloidosis (ATTR), which are conventionally confirmed by endomyocardial biopsy (EMB). The prognosis and treatment of the subtypes differ extensively, making it crucial to distinguish between the two. Although echocardiography (ECHO) and cardiac magnetic resonance imaging (CMR) are useful to aid in the diagnosis, they are unable to differentiate between the subtypes. Advantageously, the transthyretin cardiac amyloidosis (ATTR-CA) subtype can be diagnosed based on nuclear medicine bone scintigraphy imaging using Technetiumlabelled bone-seeking radiotracers. We report a case of a previously well, elderly gentleman who presented with acute heart failure symptoms, whereby ECHO findings were suspicious for CA. Technetium-99m pyrophosphate (99mTc- PYP) bone scintigraphy performed with complementary single photon emission computed tomography/computed tomography (SPECT/CT) at three hours post-injection revealed radiotracer uptake in the myocardium that was higher than the skeletal bone uptake. This corresponded to Perugini score of 3 along with an increased heart to contralateral lung ratio (H:CL) of 1.69. The bone scintigraphy findings together with his symptoms, ECHO, CMR, and laboratory results enabled the diagnosis of ATTR-CA to be made. In summary, bone scintigraphy offers a reliable and non-invasive method for the diagnosis of ATTR-CA. We also highlight the diagnostic pitfalls and recommendations in reporting bone scintigraphy for the indication of typing cardiac amyloidosis.",
+      "chunk_index": 0,
+      "char_count": 1811,
+      "subspecialty": "cardiology"
+    }
+  ],
+  "skipped_reason": null,
+  "subspecialty": "cardiology"
+}
