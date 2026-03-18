@@ -1,7 +1,6 @@
 .env
 chroma_db/
 data/raw/
-data/processed/
 data/results/
 .venv/
 __pycache__/
@@ -28,15 +27,29 @@ __pycache__/
 # Data & DB (large files)
 chroma_db/
 data/raw/
-data/processed/
 
-# Keep data/cases/ — your 607 generated cases are important
-# Keep data/results/ — student results
+# Keep data/processed/ — needed by chunker to rebuild ChromaDB on deploy (~600KB)
+# Keep data/cases/ — 607 AI-generated structured cases (2.7MB)
 
 # Next.js
 casuist-web/.next/
 casuist-web/node_modules/
 casuist-web/.env.local
+
+# Root-level Next.js leftovers (frontend lives in casuist-web/)
+.next/
+next.config.*
+next-env.d.ts
+tsconfig.tsbuildinfo
+postcss.config.*
+tailwind.config.*
+
+# Spec/debug files
+Gemini.md
+*.spec.md
+fix_comments.py
+INNER_NAVBAR_SPEC.md
+NAVBAR_SPEC.md
 
 # Stitch exports (temp folder)
 casuist-web/stitch-exports/
