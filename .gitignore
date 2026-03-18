@@ -37,12 +37,12 @@ casuist-web/node_modules/
 casuist-web/.env.local
 
 # Root-level Next.js leftovers (frontend lives in casuist-web/)
-.next/
-next.config.*
-next-env.d.ts
-tsconfig.tsbuildinfo
-postcss.config.*
-tailwind.config.*
+/.next/
+/next.config.*
+/next-env.d.ts
+/tsconfig.tsbuildinfo
+/postcss.config.*
+/tailwind.config.*
 
 # Spec/debug files
 Gemini.md
