@@ -1,0 +1,21 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install dependencies
+COPY requirements-api.txt .
+RUN pip install --no-cache-dir -r requirements-full.txt
+
+# Copy source code + data
+COPY src/ src/
+COPY api/ api/
+COPY prompts/ prompts/
+COPY data/processed/ data/processed/
+COPY data/cases/ data/cases/
+
+# Startup script rebuilds ChromaDB then starts uvicorn
+COPY start-api.sh .
+RUN chmod +x start-api.sh
+
+EXPOSE 8000
+CMD ["./start-api.sh"]
