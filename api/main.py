@@ -1,6 +1,7 @@
-"""Casuist API — serves real clinical cases and RAG feedback to the web frontend."""
+"""Casuist API — serves real clinical cases and AI feedback to the web frontend."""
 
 import json
+import os
 import random
 from pathlib import Path
 
@@ -10,17 +11,19 @@ from pydantic import BaseModel
 
 app = FastAPI(title="Casuist API")
 
+CORS_ORIGINS = os.getenv("CORS_ORIGINS", "http://localhost:3000").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=CORS_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 CASES_DIR = Path(__file__).resolve().parent.parent / "data" / "cases"
+PROMPTS_DIR = Path(__file__).resolve().parent.parent / "prompts"
 
 # Maps UI specialty slug → list of condition keywords found in case JSON "specialty" field.
-# Mirrors src/bot.py SPECIALTY_MAP (lines 44-50).
 SPECIALTY_MAP: dict[str, list[str]] = {
     "cardiology": ["chest pain", "myocardial infarction", "acute coronary syndrome", "cardiology"],
     "respiratory": ["pulmonary embolism", "pneumonia", "copd"],
@@ -53,15 +56,24 @@ SPECIALTY_EMOJIS: dict[str, str] = {
 all_cases: list[dict] = []
 
 # ---------------------------------------------------------------------------
-# RAG state — initialized at startup, used by /api/feedback
+# Groq client — initialized at startup
 # ---------------------------------------------------------------------------
-_rag_index = None
-_rag_llm = None
-_rag_ready: bool = False
+_groq_client = None
+_groq_ready: bool = False
+_groq_init_error: str = ""
+
+GROQ_MODEL = "llama-3.3-70b-versatile"
+
+
+def _load_system_prompt() -> str:
+    path = PROMPTS_DIR / "clinical_feedback.txt"
+    try:
+        return path.read_text(encoding="utf-8").strip()
+    except FileNotFoundError:
+        return "You are a clinical education assistant. Educational purposes only — not a substitute for clinical training."
 
 
 def _load_cases() -> None:
-    """Load all case JSONs into memory."""
     for path in CASES_DIR.glob("*.json"):
         try:
             with open(path, encoding="utf-8") as f:
@@ -73,47 +85,32 @@ def _load_cases() -> None:
     print(f"[Casuist API] Loaded {len(all_cases)} cases from {CASES_DIR}")
 
 
-_rag_init_error: str = ""
-
-
-def _init_rag() -> None:
-    """Initialize RAG pipeline (ChromaDB + embeddings + Groq LLM). Fails gracefully."""
-    global _rag_index, _rag_llm, _rag_ready, _rag_init_error
+def _init_groq() -> None:
+    global _groq_client, _groq_ready, _groq_init_error
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        _groq_init_error = "GROQ_API_KEY not set"
+        print(f"[Casuist API] WARNING: {_groq_init_error}. Feedback will be unavailable.")
+        return
     try:
-        from llama_index.core import Settings
-
-        from src.chunker import get_chroma_collection
-        from src.rag import build_embed_model, build_index, build_llm
-
-        collection = get_chroma_collection()
-        if collection.count() == 0:
-            print("[Casuist API] WARNING: ChromaDB empty — feedback endpoint unavailable")
-            return
-
-        embed_model = build_embed_model()
-        llm = build_llm()
-        Settings.embed_model = embed_model
-        Settings.llm = llm
-
-        _rag_index = build_index(collection, embed_model)
-        _rag_llm = llm
-        _rag_ready = True
-        print(f"[Casuist API] RAG ready. {collection.count()} chunks indexed.")
+        from groq import Groq
+        _groq_client = Groq(api_key=api_key)
+        _groq_ready = True
+        print("[Casuist API] Groq client ready.")
     except Exception as e:
-        _rag_init_error = str(e)
-        print(f"[Casuist API] WARNING: RAG init failed: {e}. Feedback will be unavailable.")
-
-
-@app.get("/api/status")
-def get_status() -> dict:
-    """Diagnostic endpoint — shows RAG initialization state."""
-    return {"rag_ready": _rag_ready, "rag_error": _rag_init_error, "cases_loaded": len(all_cases)}
+        _groq_init_error = str(e)
+        print(f"[Casuist API] WARNING: Groq init failed: {e}. Feedback will be unavailable.")
 
 
 @app.on_event("startup")
 def startup() -> None:
     _load_cases()
-    _init_rag()
+    _init_groq()
+
+
+@app.get("/api/status")
+def get_status() -> dict:
+    return {"rag_ready": _groq_ready, "rag_error": _groq_init_error, "cases_loaded": len(all_cases)}
 
 
 # ---------------------------------------------------------------------------
@@ -121,7 +118,6 @@ def startup() -> None:
 # ---------------------------------------------------------------------------
 
 def _cases_for_specialty(specialty: str) -> list[dict]:
-    """Filter cases matching a UI specialty slug."""
     allowed = [v.lower() for v in SPECIALTY_MAP.get(specialty.lower(), [])]
     if not allowed:
         return []
@@ -130,7 +126,6 @@ def _cases_for_specialty(specialty: str) -> list[dict]:
 
 @app.get("/api/specialties")
 def get_specialties() -> list[dict]:
-    """Return available specialties with case counts."""
     return [
         {
             "slug": slug,
@@ -144,7 +139,6 @@ def get_specialties() -> list[dict]:
 
 @app.get("/api/case/random")
 def get_random_case(specialty: str = Query(..., description="Specialty slug")) -> dict:
-    """Return a random case for the given specialty."""
     cases = _cases_for_specialty(specialty)
     if not cases:
         raise HTTPException(status_code=404, detail=f"No cases found for specialty: {specialty}")
@@ -171,8 +165,7 @@ class FeedbackResponse(BaseModel):
     disclaimer: str = "Educational purposes only \u2014 not a substitute for clinical training."
 
 
-def _build_feedback_query(req: FeedbackRequest) -> str:
-    """Build the RAG prompt from student attempt data. Mirrors case_engine.build_rag_query."""
+def _build_feedback_prompt(req: FeedbackRequest) -> str:
     parts = ""
     if req.history:
         parts += f"History: {req.history}\n"
@@ -191,25 +184,53 @@ def _build_feedback_query(req: FeedbackRequest) -> str:
         f"Please explain why '{req.correct_diagnosis}' is the correct diagnosis for this case, "
         f"what key clinical and investigation findings support it, "
         f"and what distinguishes it from the other differentials. "
-        f"Cite relevant published case reports where possible."
+        f"Cite relevant published case reports where possible using [PMID: XXXXXXXX] format."
     )
+
+
+def _parse_citations(text: str) -> list[dict]:
+    """Extract [PMID: XXXXXXXX] citations from response text."""
+    import re
+    pmids = re.findall(r"\[PMID:\s*(\d+)\]", text)
+    seen: set[str] = set()
+    citations = []
+    for pmid in pmids:
+        if pmid not in seen:
+            seen.add(pmid)
+            citations.append({"pmid": pmid, "title": "", "authors": ""})
+    return citations
 
 
 @app.post("/api/feedback", response_model=FeedbackResponse)
 def get_feedback(req: FeedbackRequest):
-    """Generate RAG-grounded AI feedback for a completed case attempt."""
-    if not _rag_ready:
-        raise HTTPException(status_code=503, detail="Feedback service unavailable — RAG pipeline not initialized.")
+    if not _groq_ready:
+        raise HTTPException(status_code=503, detail="Feedback service unavailable — Groq not initialized.")
 
-    from tenacity import RetryError
+    from tenacity import RetryError, retry, retry_if_exception_type, stop_after_attempt, wait_exponential
 
-    from src.rag import build_query_engine, query_structured
+    system_prompt = _load_system_prompt()
+    user_prompt = _build_feedback_prompt(req)
 
-    prompt = _build_feedback_query(req)
+    @retry(
+        retry=retry_if_exception_type(Exception),
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(multiplier=1, min=4, max=30),
+        reraise=True,
+    )
+    def _call_groq() -> str:
+        response = _groq_client.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+            temperature=0.1,
+            max_tokens=1024,
+        )
+        return response.choices[0].message.content
 
     try:
-        engine = build_query_engine(_rag_index, _rag_llm, specialty=req.specialty)
-        answer_text, citations = query_structured(prompt, engine)
+        answer_text = _call_groq()
     except RetryError:
         raise HTTPException(status_code=429, detail="AI feedback unavailable due to rate limiting. Please wait 60 seconds and try again.")
     except Exception as e:
@@ -217,8 +238,5 @@ def get_feedback(req: FeedbackRequest):
 
     return FeedbackResponse(
         feedback_text=answer_text,
-        citations=[
-            {"pmid": c["pmid"], "title": c.get("title", ""), "authors": c.get("authors", "")}
-            for c in citations
-        ],
+        citations=_parse_citations(answer_text),
     )
