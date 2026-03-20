@@ -9,6 +9,29 @@ import { getStudentRanking, getSectionsViewed, getTimeTaken, getCorrectRanking, 
 import { API_BASE } from '@/lib/mock-case'
 import { ArrowRight, ChevronDown, Sparkles, Loader2, AlertCircle, ClipboardList } from 'lucide-react'
 
+// Returns unique PMIDs in order of first appearance in text
+function extractOrderedPmids(text: string): string[] {
+  const seen = new Set<string>()
+  const order: string[] = []
+  for (const m of text.matchAll(/\[PMID:\s*(\d+)\]/g)) {
+    if (!seen.has(m[1])) { seen.add(m[1]); order.push(m[1]) }
+  }
+  return order
+}
+
+// Splits text into segments: plain strings and numbered citation markers
+type Segment = { type: 'text'; value: string } | { type: 'cite'; num: number; pmid: string }
+
+function parseBodySegments(text: string, pmidOrder: string[]): Segment[] {
+  const index = Object.fromEntries(pmidOrder.map((id, i) => [id, i + 1]))
+  const parts = text.split(/(\[PMID:\s*\d+\])/g)
+  return parts.map((part) => {
+    const m = part.match(/\[PMID:\s*(\d+)\]/)
+    if (m) return { type: 'cite' as const, num: index[m[1]] ?? 0, pmid: m[1] }
+    return { type: 'text' as const, value: part }
+  })
+}
+
 function usePubMedTitles(pmids: string[]): Record<string, string | null> {
   const [titles, setTitles] = useState<Record<string, string | null>>({})
 
@@ -66,9 +89,6 @@ function ScorecardPageContent() {
   const [feedbackLoading, setFeedbackLoading] = useState(false)
   const [feedbackError, setFeedbackError] = useState<string | null>(null)
   const [feedbackText, setFeedbackText] = useState<string | null>(null)
-  const [feedbackCitations, setFeedbackCitations] = useState<
-    Array<{ pmid: string; title: string; authors: string }>
-  >([])
 
   const [timeTaken] = useState(() => {
     if (typeof window === 'undefined') return 0
@@ -80,7 +100,8 @@ function ScorecardPageContent() {
     return getStudentRanking().length > 0
   })
 
-  const pubmedTitles = usePubMedTitles(feedbackCitations.map((c) => c.pmid))
+  const pmidOrder = feedbackText ? extractOrderedPmids(feedbackText) : []
+  const pubmedTitles = usePubMedTitles(pmidOrder)
 
   const [scores] = useState<ScoreResult>(() => {
     if (typeof window === 'undefined' || !hasData) {
@@ -157,7 +178,6 @@ function ScorecardPageContent() {
 
       const data = await res.json()
       setFeedbackText(data.feedback_text)
-      setFeedbackCitations(data.citations ?? [])
     } catch {
       setFeedbackError('Network error. Make sure the API server is running.')
     } finally {
@@ -286,29 +306,35 @@ function ScorecardPageContent() {
               {feedbackText && !feedbackLoading && (
                 <div className="text-base text-muted-foreground">
                   <p className="font-medium text-foreground text-lg mb-3">Clinical Reasoning Analysis</p>
-                  <p className="mb-5 whitespace-pre-line leading-relaxed">{feedbackText}</p>
+                  <p className="mb-5 leading-relaxed">
+                    {parseBodySegments(feedbackText!, pmidOrder).map((seg, i) =>
+                      seg.type === 'text'
+                        ? <span key={i}>{seg.value}</span>
+                        : <sup key={i} className="font-mono text-[#2E86C1] font-medium">[{seg.num}]</sup>
+                    )}
+                  </p>
 
-                  {feedbackCitations.length > 0 && (
+                  {pmidOrder.length > 0 && (
                     <div className="border-t border-border/50 pt-4 mt-4">
                       <p className="text-sm font-mono font-medium text-muted-foreground mb-2.5">Citations</p>
-                      <ul className="space-y-1.5 list-none pl-0">
-                        {feedbackCitations.map((c) => {
-                          const fetched = pubmedTitles[c.pmid]
-                          const label = fetched ?? `[PMID: ${c.pmid}]`
+                      <ol className="space-y-1.5 list-none pl-0">
+                        {pmidOrder.map((pmid, i) => {
+                          const fetched = pubmedTitles[pmid]
                           return (
-                            <li key={c.pmid} className="text-sm text-muted-foreground">
+                            <li key={pmid} className="text-sm text-muted-foreground flex gap-2">
+                              <span className="font-mono font-medium text-muted-foreground shrink-0">[{i + 1}]</span>
                               <a
-                                href={`https://pubmed.ncbi.nlm.nih.gov/${c.pmid}/`}
+                                href={`https://pubmed.ncbi.nlm.nih.gov/${pmid}/`}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="text-[#2E86C1] hover:underline font-medium"
+                                className="text-[#2E86C1] hover:underline"
                               >
-                                {label}
+                                {fetched ?? `PMID: ${pmid}`}
                               </a>
                             </li>
                           )
                         })}
-                      </ul>
+                      </ol>
                     </div>
                   )}
 
