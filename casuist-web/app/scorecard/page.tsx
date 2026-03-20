@@ -3,11 +3,50 @@
 import Navbar from '@/components/Navbar'
 import InnerNavbar from '@/components/InnerNavbar'
 import { useSearchParams, useRouter } from 'next/navigation'
-import { useState, Suspense } from 'react'
+import { useState, useEffect, Suspense } from 'react'
 import { calculateScore, type ScoreResult } from '@/lib/scoring'
 import { getStudentRanking, getSectionsViewed, getTimeTaken, getCorrectRanking, getCaseContext, clearSession } from '@/lib/session'
 import { API_BASE } from '@/lib/mock-case'
 import { ArrowRight, ChevronDown, Sparkles, Loader2, AlertCircle, ClipboardList } from 'lucide-react'
+
+function usePubMedTitles(pmids: string[]): Record<string, string | null> {
+  const [titles, setTitles] = useState<Record<string, string | null>>({})
+
+  useEffect(() => {
+    if (pmids.length === 0) return
+    const missing = pmids.filter((id) => !(id in titles))
+    if (missing.length === 0) return
+
+    // Mark as loading (null = loading, string = resolved)
+    setTitles((prev) => {
+      const next = { ...prev }
+      missing.forEach((id) => { next[id] = null })
+      return next
+    })
+
+    fetch(
+      `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=${missing.join(',')}&retmode=json`
+    )
+      .then((r) => r.json())
+      .then((data) => {
+        const resolved: Record<string, string> = {}
+        for (const id of missing) {
+          const doc = data?.result?.[id]
+          resolved[id] = doc?.title ?? `[PMID: ${id}]`
+        }
+        setTitles((prev) => ({ ...prev, ...resolved }))
+      })
+      .catch(() => {
+        // On error, fall back to PMID label for each
+        const fallback: Record<string, string> = {}
+        missing.forEach((id) => { fallback[id] = `[PMID: ${id}]` })
+        setTitles((prev) => ({ ...prev, ...fallback }))
+      })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pmids.join(',')])
+
+  return titles
+}
 
 function barColor(score: number, max: number): string {
   if (score === 0) return 'bg-border'
@@ -40,6 +79,8 @@ function ScorecardPageContent() {
     if (typeof window === 'undefined') return false
     return getStudentRanking().length > 0
   })
+
+  const pubmedTitles = usePubMedTitles(feedbackCitations.map((c) => c.pmid))
 
   const [scores] = useState<ScoreResult>(() => {
     if (typeof window === 'undefined' || !hasData) {
@@ -129,17 +170,17 @@ function ScorecardPageContent() {
       <div className="min-h-screen bg-[#f8f8f6]">
         <Navbar />
         <InnerNavbar />
-        <main className="flex-1 flex flex-col items-center justify-center px-6 min-h-[calc(100vh-64px)]">
-          <div className="text-center max-w-md">
-            <ClipboardList className="h-14 w-14 text-border mx-auto mb-4" />
-            <h1 className="text-2xl font-medium tracking-tight text-foreground mb-2">No case data found</h1>
-            <p className="text-muted-foreground mb-8">It looks like you haven&apos;t completed a case yet. Start one to see your scorecard.</p>
+        <main className="flex-1 flex flex-col items-center justify-center px-8 min-h-[calc(100vh-64px)]">
+          <div className="text-center max-w-lg">
+            <ClipboardList className="h-16 w-16 text-border mx-auto mb-5" />
+            <h1 className="text-3xl font-medium tracking-tight text-foreground mb-3">No case data found</h1>
+            <p className="text-lg text-muted-foreground mb-10">It looks like you haven&apos;t completed a case yet. Start one to see your scorecard.</p>
             <button
               onClick={() => { clearSession(); router.push('/specialties') }}
-              className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2E86C1] px-6 py-3 text-sm font-medium text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg"
+              className="inline-flex items-center justify-center gap-2.5 rounded-lg bg-[#2E86C1] px-8 py-4 text-base font-medium text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg"
             >
               Start a Case
-              <ArrowRight className="h-4 w-4" />
+              <ArrowRight className="h-5 w-5" />
             </button>
           </div>
         </main>
@@ -152,51 +193,51 @@ function ScorecardPageContent() {
       <Navbar />
       <InnerNavbar />
 
-      <main className="flex-1 mx-auto w-full max-w-3xl px-6 pt-28 pb-8 flex flex-col gap-6">
+      <main className="flex-1 mx-auto w-full max-w-4xl px-8 pt-32 pb-10 flex flex-col gap-8">
         {/* Score + Grade */}
         <div className="text-center">
-          <h1 className="text-4xl font-medium tracking-tight text-foreground">
+          <h1 className="text-5xl font-medium tracking-tight text-foreground">
             <span className="font-mono">{scores.total}</span>
             <span className="text-muted-foreground/40 mx-1">/</span>
             <span className="font-mono text-muted-foreground">100</span>
           </h1>
-          <span className="inline-block mt-2 px-4 py-1 bg-[#2E86C1]/10 border border-[#2E86C1]/20 text-[#2E86C1] rounded-full text-sm font-medium">
+          <span className="inline-block mt-3 px-5 py-1.5 bg-[#2E86C1]/10 border border-[#2E86C1]/20 text-[#2E86C1] rounded-full text-base font-medium">
             Grade: {scores.grade}
           </span>
         </div>
 
         {/* Breakdown Cards — 2x2 grid */}
-        <div className="grid grid-cols-2 gap-3">
-          <div className="rounded-xl border border-border/60 bg-white p-4">
-            <p className="text-xs text-muted-foreground mb-1">Diagnosis Accuracy</p>
-            <p className="text-lg font-medium text-foreground font-mono">{scores.accuracy_score}/40</p>
-            <div className="mt-2 h-1 w-full bg-muted rounded-full overflow-hidden">
+        <div className="grid grid-cols-2 gap-4">
+          <div className="rounded-xl border border-border/60 bg-white p-6">
+            <p className="text-sm text-muted-foreground mb-1.5">Diagnosis Accuracy</p>
+            <p className="text-xl font-medium text-foreground font-mono">{scores.accuracy_score}/40</p>
+            <div className="mt-2.5 h-1.5 w-full bg-muted rounded-full overflow-hidden">
               <div className={`h-full ${barColor(scores.accuracy_score, 40)} transition-all duration-500`} style={{ width: `${(scores.accuracy_score / 40) * 100}%` }}></div>
             </div>
           </div>
-          <div className="rounded-xl border border-border/60 bg-white p-4">
-            <p className="text-xs text-muted-foreground mb-1">Ranking Quality</p>
-            <p className="text-lg font-medium text-foreground font-mono">{scores.ranking_score}/30</p>
-            <div className="mt-2 h-1 w-full bg-muted rounded-full overflow-hidden">
+          <div className="rounded-xl border border-border/60 bg-white p-6">
+            <p className="text-sm text-muted-foreground mb-1.5">Ranking Quality</p>
+            <p className="text-xl font-medium text-foreground font-mono">{scores.ranking_score}/30</p>
+            <div className="mt-2.5 h-1.5 w-full bg-muted rounded-full overflow-hidden">
               <div className={`h-full ${barColor(scores.ranking_score, 30)} transition-all duration-500`} style={{ width: `${(scores.ranking_score / 30) * 100}%` }}></div>
             </div>
           </div>
-          <div className="rounded-xl border border-border/60 bg-white p-4">
-            <p className="text-xs text-muted-foreground mb-1">Info Efficiency</p>
-            <p className="text-lg font-medium text-foreground font-mono">{scores.efficiency_score}/20</p>
-            <div className="mt-2 h-1 w-full bg-muted rounded-full overflow-hidden">
+          <div className="rounded-xl border border-border/60 bg-white p-6">
+            <p className="text-sm text-muted-foreground mb-1.5">Info Efficiency</p>
+            <p className="text-xl font-medium text-foreground font-mono">{scores.efficiency_score}/20</p>
+            <div className="mt-2.5 h-1.5 w-full bg-muted rounded-full overflow-hidden">
               <div className={`h-full ${barColor(scores.efficiency_score, 20)} transition-all duration-500`} style={{ width: `${(scores.efficiency_score / 20) * 100}%` }}></div>
             </div>
           </div>
-          <div className="rounded-xl border border-border/60 bg-white p-4">
-            <div className="flex items-center justify-between mb-1">
-              <p className="text-xs text-muted-foreground">Speed Bonus</p>
-              <p className="text-[10px] font-mono text-muted-foreground">
+          <div className="rounded-xl border border-border/60 bg-white p-6">
+            <div className="flex items-center justify-between mb-1.5">
+              <p className="text-sm text-muted-foreground">Speed Bonus</p>
+              <p className="text-xs font-mono text-muted-foreground">
                 {String(Math.floor(timeTaken / 60)).padStart(2, '0')}:{String(timeTaken % 60).padStart(2, '0')}
               </p>
             </div>
-            <p className="text-lg font-medium text-foreground font-mono">{scores.speed_score}/10</p>
-            <div className="mt-2 h-1 w-full bg-muted rounded-full overflow-hidden">
+            <p className="text-xl font-medium text-foreground font-mono">{scores.speed_score}/10</p>
+            <div className="mt-2.5 h-1.5 w-full bg-muted rounded-full overflow-hidden">
               <div className={`h-full ${barColor(scores.speed_score, 10)} transition-all duration-500`} style={{ width: `${(scores.speed_score / 10) * 100}%` }}></div>
             </div>
           </div>
@@ -207,62 +248,71 @@ function ScorecardPageContent() {
           <button
             onClick={handleShowFeedback}
             disabled={feedbackLoading}
-            className="w-full flex items-center justify-between rounded-xl border border-border/60 bg-white px-5 py-4 transition-all duration-200 hover:shadow-md group disabled:cursor-wait"
+            className="w-full flex items-center justify-between rounded-xl border border-border/60 bg-white px-6 py-5 transition-all duration-200 hover:shadow-md group disabled:cursor-wait"
           >
-            <div className="flex items-center gap-2.5">
+            <div className="flex items-center gap-3">
               {feedbackLoading ? (
-                <Loader2 className="h-4 w-4 text-[#2E86C1] animate-spin" />
+                <Loader2 className="h-5 w-5 text-[#2E86C1] animate-spin" />
               ) : (
-                <Sparkles className="h-4 w-4 text-[#2E86C1] group-hover:scale-110 transition-transform duration-200" />
+                <Sparkles className="h-5 w-5 text-[#2E86C1] group-hover:scale-110 transition-transform duration-200" />
               )}
-              <span className="text-sm font-medium text-foreground">
+              <span className="text-base font-medium text-foreground">
                 {feedbackLoading ? 'Generating feedback...' : 'AI Feedback + Citations'}
               </span>
             </div>
             {!feedbackLoading && (
-              <ChevronDown className={`h-4 w-4 text-muted-foreground transition-transform duration-200 ${showFeedback ? 'rotate-180' : ''}`} />
+              <ChevronDown className={`h-5 w-5 text-muted-foreground transition-transform duration-200 ${showFeedback ? 'rotate-180' : ''}`} />
             )}
           </button>
           {showFeedback && (
-            <div className="mt-2 rounded-xl border border-border/60 bg-white p-5">
+            <div className="mt-2.5 rounded-xl border border-border/60 bg-white p-6">
               {feedbackLoading && (
-                <div className="flex items-center justify-center py-6 gap-2.5 text-muted-foreground">
-                  <Loader2 className="h-4 w-4 text-[#2E86C1] animate-spin" />
-                  <span className="text-sm">Searching medical literature...</span>
+                <div className="flex items-center justify-center py-8 gap-3 text-muted-foreground">
+                  <Loader2 className="h-5 w-5 text-[#2E86C1] animate-spin" />
+                  <span className="text-base">Searching medical literature...</span>
                 </div>
               )}
 
               {feedbackError && (
-                <div className="flex items-start gap-3 text-red-600 bg-red-50 border border-red-200 rounded-lg p-3">
-                  <AlertCircle className="h-4 w-4 shrink-0 mt-0.5" />
+                <div className="flex items-start gap-3 text-red-600 bg-red-50 border border-red-200 rounded-lg p-4">
+                  <AlertCircle className="h-5 w-5 shrink-0 mt-0.5" />
                   <div>
-                    <p className="font-medium text-sm">Feedback unavailable</p>
-                    <p className="text-xs mt-1">{feedbackError}</p>
+                    <p className="font-medium text-base">Feedback unavailable</p>
+                    <p className="text-sm mt-1">{feedbackError}</p>
                   </div>
                 </div>
               )}
 
               {feedbackText && !feedbackLoading && (
-                <div className="text-sm text-muted-foreground">
-                  <p className="font-medium text-foreground mb-2">Clinical Reasoning Analysis</p>
-                  <p className="mb-4 whitespace-pre-line leading-relaxed">{feedbackText}</p>
+                <div className="text-base text-muted-foreground">
+                  <p className="font-medium text-foreground text-lg mb-3">Clinical Reasoning Analysis</p>
+                  <p className="mb-5 whitespace-pre-line leading-relaxed">{feedbackText}</p>
 
                   {feedbackCitations.length > 0 && (
-                    <div className="border-t border-border/50 pt-3 mt-3">
-                      <p className="text-xs font-mono font-medium text-muted-foreground mb-2">Citations</p>
-                      <ul className="space-y-1 list-none pl-0">
-                        {feedbackCitations.map((c) => (
-                          <li key={c.pmid} className="text-xs text-muted-foreground">
-                            <span className="font-mono font-medium">[PMID: {c.pmid}]</span>
-                            {c.authors && <span> &middot; {c.authors}</span>}
-                            {c.title && <span> &mdash; {c.title}</span>}
-                          </li>
-                        ))}
+                    <div className="border-t border-border/50 pt-4 mt-4">
+                      <p className="text-sm font-mono font-medium text-muted-foreground mb-2.5">Citations</p>
+                      <ul className="space-y-1.5 list-none pl-0">
+                        {feedbackCitations.map((c) => {
+                          const fetched = pubmedTitles[c.pmid]
+                          const label = fetched ?? `[PMID: ${c.pmid}]`
+                          return (
+                            <li key={c.pmid} className="text-sm text-muted-foreground">
+                              <a
+                                href={`https://pubmed.ncbi.nlm.nih.gov/${c.pmid}/`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-[#2E86C1] hover:underline font-medium"
+                              >
+                                {label}
+                              </a>
+                            </li>
+                          )
+                        })}
                       </ul>
                     </div>
                   )}
 
-                  <p className="text-xs text-muted-foreground/60 mt-3 italic">
+                  <p className="text-sm text-muted-foreground/60 mt-4 italic">
                     Educational purposes only &mdash; not a substitute for clinical training.
                   </p>
                 </div>
@@ -272,17 +322,17 @@ function ScorecardPageContent() {
         </div>
 
         {/* Actions */}
-        <div className="flex flex-col items-center gap-3 pt-2">
+        <div className="flex flex-col items-center gap-4 pt-3">
           <button
             onClick={handleNextCase}
-            className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#2E86C1] px-6 py-3 text-sm font-medium text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg"
+            className="inline-flex items-center justify-center gap-2.5 rounded-lg bg-[#2E86C1] px-8 py-4 text-base font-medium text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#2576AB] hover:shadow-lg"
           >
             Next Case
-            <ArrowRight className="h-4 w-4" />
+            <ArrowRight className="h-5 w-5" />
           </button>
           <button
             onClick={handleBackToSpecialties}
-            className="text-sm font-medium text-muted-foreground hover:text-[#2E86C1] transition-colors duration-200"
+            className="text-base font-medium text-muted-foreground hover:text-[#2E86C1] transition-colors duration-200"
           >
             Back to Specialties
           </button>
@@ -291,8 +341,8 @@ function ScorecardPageContent() {
 
       {/* Footer */}
       <footer className="border-t border-border/50 bg-white">
-        <div className="mx-auto max-w-7xl px-6 py-6 text-center">
-          <span className="font-mono text-xs text-muted-foreground uppercase tracking-wider">CASUIST v2.4.0 · FOR EDUCATIONAL PURPOSES ONLY</span>
+        <div className="mx-auto max-w-[1480px] px-8 py-8 text-center">
+          <span className="font-mono text-sm text-muted-foreground uppercase tracking-wider">CASUIST v2.4.0 · FOR EDUCATIONAL PURPOSES ONLY</span>
         </div>
       </footer>
     </div>
