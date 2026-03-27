@@ -188,17 +188,47 @@ def _build_feedback_prompt(req: FeedbackRequest) -> str:
     )
 
 
+def _fetch_pubmed_titles(pmids: list[str]) -> dict[str, str]:
+    if not pmids:
+        return {}
+    try:
+        import httpx
+        url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+        params = {
+            "db": "pubmed",
+            "id": ",".join(pmids),
+            "retmode": "json",
+            "api_key": os.getenv("NCBI_API_KEY", ""),
+        }
+        resp = httpx.get(url, params=params, timeout=10)
+        data = resp.json()
+        result = {}
+        for pmid in pmids:
+            try:
+                result[pmid] = data["result"][pmid]["title"]
+            except (KeyError, TypeError):
+                result[pmid] = f"PMID {pmid}"
+        return result
+    except Exception as e:
+        print(f"[Casuist API] esummary fetch failed: {e}")
+        return {pmid: f"PMID {pmid}" for pmid in pmids}
+
+
 def _parse_citations(text: str) -> list[dict]:
     """Extract [PMID: XXXXXXXX] citations from response text."""
     import re
     pmids = re.findall(r"\[PMID:\s*(\d+)\]", text)
     seen: set[str] = set()
-    citations = []
+    unique_pmids = []
     for pmid in pmids:
         if pmid not in seen:
             seen.add(pmid)
-            citations.append({"pmid": pmid, "title": "", "authors": ""})
-    return citations
+            unique_pmids.append(pmid)
+    titles = _fetch_pubmed_titles(unique_pmids)
+    return [
+        {"pmid": pmid, "title": titles.get(pmid, f"PMID {pmid}"), "authors": ""}
+        for pmid in unique_pmids
+    ]
 
 
 @app.post("/api/feedback", response_model=FeedbackResponse)
