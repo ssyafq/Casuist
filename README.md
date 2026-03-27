@@ -46,22 +46,22 @@ Score is calculated across four components. Expand the AI feedback panel for a c
 ## Screenshots
 
 ### Landing page
-![Landing page](screenshots/landing.png)
+![Landing page](screenshots/landing_page.png)
 
 ### Specialty selection — 607 cases across 5 specialties
-![Specialties](screenshots/specialties.png)
+![Specialties](screenshots/specialty.png)
 
 ### Case view — progressive reveal with locked sections
 ![Case early](screenshots/case-early.png)
 
 ### Case view — all sections revealed, ready to diagnose
-![Case revealed](screenshots/case-revealed.png)
+![Case revealed](screenshots/case_revealed.png)
 
 ### Ranking differentials
-![Ranking](screenshots/ranking.png)
+![Ranking](screenshots/case_ranking_diagnosis.png)
 
 ### Scorecard with AI feedback
-![Scorecard](screenshots/scorecard.png)
+![Scorecard](screenshots/scorecard_citation.png)
 
 ---
 
