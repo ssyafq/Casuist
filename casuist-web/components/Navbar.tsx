@@ -55,14 +55,14 @@ const Navbar = () => {
         transform: hidden ? 'translateX(-50%) translateY(-120%)' : 'translateX(-50%) translateY(0)',
         transition: 'transform 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
         width: '65vw',
-        maxWidth: '780px',
-        minWidth: '480px',
+        maxWidth: '860px',
+        minWidth: '520px',
         background: 'rgba(46, 134, 193, 0.92)',
         backdropFilter: 'blur(20px)',
         WebkitBackdropFilter: 'blur(20px)',
         border: '1px solid rgba(255, 255, 255, 0.3)',
         borderRadius: '100px',
-        padding: '5px 6px 5px 20px',
+        padding: '6px 8px 6px 24px',
         boxShadow:
           'inset 0 1px 0 rgba(255, 255, 255, 0.3), 0 8px 32px rgba(46, 134, 193, 0.35), 0 2px 8px rgba(46, 134, 193, 0.2)',
       }}
@@ -71,19 +71,19 @@ const Navbar = () => {
         {/* Wordmark — far left */}
         <Link
           href="/"
-          className="text-sm font-medium tracking-tight text-white shrink-0"
+          className="text-base font-medium tracking-tight text-white shrink-0"
         >
           Casuist
         </Link>
 
         {/* Links + CTA — right side */}
-        <div className="flex items-center gap-1">
+        <div className="flex items-center gap-1.5">
           {navLinks.map((link) => {
             if (link.locked) {
               return (
                 <div key={link.name} className="relative">
                   <span
-                    className="rounded-full px-4 py-1.5 text-sm font-medium cursor-default select-none inline-block"
+                    className="rounded-full px-5 py-2 text-sm font-medium cursor-default select-none inline-block"
                     style={{ color: 'rgba(255, 255, 255, 0.35)' }}
                     onMouseEnter={() => setLeaderboardHover(true)}
                     onMouseLeave={() => setLeaderboardHover(false)}
@@ -107,7 +107,7 @@ const Navbar = () => {
               <Link
                 key={link.name}
                 href={link.href}
-                className="rounded-full px-4 py-1.5 text-sm font-medium transition-colors duration-200"
+                className="rounded-full px-5 py-2 text-sm font-medium transition-colors duration-200"
                 style={
                   isActive
                     ? { color: '#fff', background: 'rgba(255, 255, 255, 0.18)' }
@@ -128,7 +128,7 @@ const Navbar = () => {
           {/* CTA button */}
           <Link
             href="/specialties"
-            className="ml-1 rounded-full bg-white px-5 py-1.5 text-sm font-medium text-[#1A5276] transition-opacity duration-200 hover:opacity-90 shrink-0"
+            className="ml-1.5 rounded-full bg-white px-6 py-2 text-sm font-medium text-[#1A5276] transition-opacity duration-200 hover:opacity-90 shrink-0"
           >
             Get started
           </Link>

@@ -126,6 +126,7 @@ SPECIALTY_MAP: dict[str, tuple[str, str]] = {
     "pancreatitis": ("gastroenterology", "pancreatitis"),
     "gastrointestinal hemorrhage": ("gastroenterology", "gastrointestinal hemorrhage"),
     "liver failure": ("gastroenterology", "liver failure"),
+    "gastrointestinal oncology": ("gastroenterology", "gastrointestinal oncology"),
 }
 
 
@@ -138,6 +139,35 @@ def resolve_specialty(fetch_term: str) -> tuple[str, str]:
     if key in SPECIALTY_MAP:
         return SPECIALTY_MAP[key]
     return ("general", fetch_term)
+
+
+def expand_specialty(specialty: str) -> list[str]:
+    """Given a parent specialty or subspecialty, return all matching
+    subspecialty strings for ChromaDB filtering."""
+    key = specialty.strip().lower()
+
+    # Build parent → subspecialties lookup from SPECIALTY_MAP
+    parent_to_subs: dict[str, list[str]] = {}
+    sub_to_original: dict[str, str] = {}
+
+    for _fetch_term, (parent, sub) in SPECIALTY_MAP.items():
+        parent_lower = parent.lower()
+        if parent_lower not in parent_to_subs:
+            parent_to_subs[parent_lower] = []
+        if sub not in parent_to_subs[parent_lower]:
+            parent_to_subs[parent_lower].append(sub)
+        sub_to_original[sub.lower()] = sub
+
+    # Parent specialty → all subspecialties
+    if key in parent_to_subs:
+        return parent_to_subs[key]
+
+    # Known subspecialty → return with original casing
+    if key in sub_to_original:
+        return [sub_to_original[key]]
+
+    # Unknown → pass through as-is
+    return [specialty]
 
 
 # Rate limiting (seconds between NCBI requests)

@@ -26,6 +26,7 @@ from src.config import (
     GROQ_MAX_RETRIES,
     GROQ_RETRY_WAIT_MIN,
     GROQ_RETRY_WAIT_MAX,
+    expand_specialty,
 )
 from src.chunker import get_chroma_collection
 
@@ -80,7 +81,11 @@ def build_query_engine(index: VectorStoreIndex, llm: Groq, specialty: str | None
         "response_mode": RESPONSE_MODE,
     }
     if specialty:
-        kwargs["vector_store_kwargs"] = {"where": {"specialty": specialty}}
+        subs = expand_specialty(specialty)
+        if len(subs) == 1:
+            kwargs["vector_store_kwargs"] = {"where": {"specialty": subs[0]}}
+        else:
+            kwargs["vector_store_kwargs"] = {"where": {"specialty": {"$in": subs}}}
     return index.as_query_engine(**kwargs)
 
 
